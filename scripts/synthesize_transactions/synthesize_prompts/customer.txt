@@ -15,10 +15,10 @@ Employment (Retired,Self-Employed,Working Professional),
 Mortgage (in K$),
 Personal Loan (Yes/No),
 Securities Account (Yes/No),
-      "AnnualizedPortfolioTurnover": 7, // INCLUDE
-      "CostToEquityRatio": "34%",  // INCLUDE
-      "AmountLost": "$25,291",   // INCLUDE
-      "FeesCommissionsPaid": "$19,792",  // INCLUDE
+Annualized Portfolio Turnover (number),
+Cost To Equity Ratio (Percent),
+Amount Lost (in $), 
+Fees Commissions Paid (in $),
 TD Account (Yes/No),
 Online Account (Yes/No),
 CreditCard (Yes, No)

@@ -7,7 +7,7 @@ import anthropic
 
 # Set up argument parser
 parser = argparse.ArgumentParser()
-parser.add_argument("--cases-dir", default="../cases_summaries", help="Path to directory with case JSON files")
+parser.add_argument("--cases-dir", default="../../cases_summaries", help="Path to directory with case JSON files")
 parser.add_argument("--cached-customer", action="store_true", help="Use cached customer data")
 parser.add_argument("--cached-allocation", action="store_true", help="Use cached allocation data")
 parser.add_argument("--cached-transactions", action="store_true", help="Use cached transactions data")
