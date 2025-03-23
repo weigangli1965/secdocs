@@ -1,8 +1,6 @@
 import os
 import json
-import sys
 import argparse
-from dotenv import load_dotenv
 import anthropic
 
 # Set up argument parser
@@ -35,7 +33,7 @@ def get_case_text_data(casefile):
     # If a single casefile is specified, load only that
     if casefile:
         with open(casefile, "r") as file:
-            data = json.load(file)
+            data = file.read()
         print("READING FILE:", casefile)
         cases_map[os.path.basename(casefile)] = data
         return cases_map
@@ -45,9 +43,10 @@ def get_case_text_data(casefile):
         if filename.endswith(".txt"):
             filepath = os.path.join(CASES_DIR, filename)
             with open(filepath, "r") as file:
-                data = json.load(file)
+                data = file.read()
             print("READING FILENAME:", filename)
-            case_name = filename[:3]    # Drop .txt
+            case_name = filename[:-4]    # Drop .txt
+            print("CASE NAME:", case_name)
             cases_map[case_name] = data
 
     return cases_map
@@ -85,6 +84,7 @@ def send_anthropic_message(messages, user_message, system_message="", max_tokens
 
 
 def summarize_case(case_raw_text, case_filename):
+    print (f"SUMARRIZING {case_filename}: ", case_raw_text)
 
     nice_mkdir("./summarize_case_output")
     
@@ -94,7 +94,6 @@ def summarize_case(case_raw_text, case_filename):
 #   == Case Summary prompt ==
     summarize_case_prompt = prompts['summarize_case_teddy.txt']
     summarize_case_prompt = summarize_case_prompt.replace("{CASE}", case_raw_text)
-
     summarize_case_response = send_anthropic_message(messages, summarize_case_prompt)
     print("** Process Case Response: ", summarize_case_response)
 
@@ -107,7 +106,7 @@ def main():
     case_data = get_case_text_data(args.casefile)
 
     for case_name in case_data.keys():
-        summarize_case(case_data[case_name], case_name))
+        summarize_case(case_data[case_name], case_name)
 
 if __name__ == "__main__":
     main()
