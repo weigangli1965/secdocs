@@ -1,94 +1,67 @@
 ```json
 [
   {
-    "Date": "2023-03-15",
+    "Date": "2020-01-15",
     "PrimaryInvestmentRecommended": "GWG L Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth and income",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 250000
-  },
-  {
-    "Date": "2023-04-22",
-    "PrimaryInvestmentRecommended": "Corporate Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "income",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 180000
+    "TotalAmount": 100000
   },
   {
-    "Date": "2023-06-10",
-    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Joint",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 240000
-  },
-  {
-    "Date": "2023-08-05",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 180000
-  },
-  {
-    "Date": "2023-09-18",
-    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "growth and income",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 120000
-  },
-  {
-    "Date": "2023-11-03",
-    "PrimaryInvestmentRecommended": "Hedge Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 120000
-  },
-  {
-    "Date": "2024-01-12",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "IRA",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 60000
-  },
-  {
-    "Date": "2024-02-28",
-    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 24000
-  },
-  {
-    "Date": "2024-04-15",
+    "Date": "2020-03-22",
     "PrimaryInvestmentRecommended": "GWG L Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth and income",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Sold",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000
+  },
+  {
+    "Date": "2020-07-10",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
     "TotalAmount": 75000
   },
   {
-    "Date": "2024-05-20",
-    "PrimaryInvestmentRecommended": "Private Equity Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "very high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual",
+    "Date": "2021-02-05",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 36000
+    "TotalAmount": 25000
+  },
+  {
+    "Date": "2021-06-18",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 35000
+  },
+  {
+    "Date": "2021-11-30",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 45000
+  },
+  {
+    "Date": "2022-04-12",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000
   }
 ]
 ```

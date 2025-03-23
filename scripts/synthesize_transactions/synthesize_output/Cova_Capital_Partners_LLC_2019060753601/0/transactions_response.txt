@@ -7,11 +7,29 @@
     "InvestmentPurpose": "growth",
     "InvestmentAccountType": "Individual Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 200000
+    "TotalAmount": 210000
   },
   {
     "Date": "2023-02-10",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000
+  },
+  {
+    "Date": "2023-04-22",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 45000
+  },
+  {
+    "Date": "2023-06-30",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth",
     "InvestmentAccountType": "Individual Brokerage",
@@ -19,31 +37,13 @@
     "TotalAmount": 150000
   },
   {
-    "Date": "2023-03-22",
+    "Date": "2023-09-15",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth",
     "InvestmentAccountType": "Individual Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 100000
-  },
-  {
-    "Date": "2023-05-05",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 175000
-  },
-  {
-    "Date": "2023-07-17",
-    "PrimaryInvestmentRecommended": "Private Equity Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "very high",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 225000
+    "TotalAmount": 120000
   }
 ]
 ```

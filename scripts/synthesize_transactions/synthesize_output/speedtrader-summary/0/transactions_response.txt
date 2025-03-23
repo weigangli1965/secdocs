@@ -2,93 +2,75 @@
 [
   {
     "Date": "2023-01-15",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "PrimaryInvestmentRecommended": "Low-priced securities",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 125000
+    "TotalAmount": 45000
   },
   {
-    "Date": "2023-02-07",
+    "Date": "2023-02-10",
     "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 100000
+    "TotalAmount": 70000
   },
   {
     "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 87500
+  },
+  {
+    "Date": "2023-05-05",
     "PrimaryInvestmentRecommended": "Private Equity Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 75000
+    "TotalAmount": 35000
   },
   {
-    "Date": "2023-04-18",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "Date": "2023-06-18",
+    "PrimaryInvestmentRecommended": "Low-priced securities",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 100000
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 39500
   },
   {
-    "Date": "2023-05-30",
+    "Date": "2023-08-02",
     "PrimaryInvestmentRecommended": "Hedge Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 50000
+    "TotalAmount": 52500
   },
   {
-    "Date": "2023-07-12",
-    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "speculation",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 25000
-  },
-  {
-    "Date": "2023-08-05",
-    "PrimaryInvestmentRecommended": "Corporate Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "speculation",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 15000
-  },
-  {
-    "Date": "2023-09-19",
-    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "low",
-    "InvestmentPurpose": "speculation",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 10000
-  },
-  {
-    "Date": "2023-11-02",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "speculation",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Sold",
-    "TotalAmount": 20000
-  },
-  {
-    "Date": "2023-12-14",
-    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "Date": "2023-10-12",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 35000
+    "TotalAmount": 17500
+  },
+  {
+    "Date": "2023-11-28",
+    "PrimaryInvestmentRecommended": "speculative trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000
   }
 ]
 ```

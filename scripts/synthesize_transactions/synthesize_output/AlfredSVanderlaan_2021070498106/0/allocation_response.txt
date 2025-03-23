@@ -13,17 +13,17 @@
   {
     "ID": 1234,
     "Investment Products": "U.S. Treasury Bonds",
-    "Allocation": 15
-  },
-  {
-    "ID": 1234,
-    "Investment Products": "Municipal Bonds",
     "Allocation": 10
   },
   {
     "ID": 1234,
+    "Investment Products": "Municipal Bonds",
+    "Allocation": 5
+  },
+  {
+    "ID": 1234,
     "Investment Products": "Corporate Bonds",
-    "Allocation": 20
+    "Allocation": 25
   },
   {
     "ID": 1234,
@@ -37,12 +37,17 @@
   },
   {
     "ID": 1234,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 5
+  },
+  {
+    "ID": 1234,
     "Investment Products": "Real Estate Investment Trust (REIT)",
     "Allocation": 10
   },
   {
     "ID": 1234,
-    "Investment Products": "Hedge Fund",
+    "Investment Products": "GWG L Bonds",
     "Allocation": 5
   }
 ]

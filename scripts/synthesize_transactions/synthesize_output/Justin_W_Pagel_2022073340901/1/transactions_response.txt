@@ -2,15 +2,24 @@
 [
   {
     "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Low-priced stocks and speculative securities",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000
+  },
+  {
+    "Date": "2023-02-20",
     "PrimaryInvestmentRecommended": "Technology Sector ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 3600
+    "TotalAmount": 3500
   },
   {
-    "Date": "2023-02-10",
+    "Date": "2023-03-10",
     "PrimaryInvestmentRecommended": "Growth Stock Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
@@ -19,40 +28,49 @@
     "TotalAmount": 3000
   },
   {
-    "Date": "2023-03-05",
+    "Date": "2023-05-15",
     "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
+    "TotalAmount": 1500
+  },
+  {
+    "Date": "2023-07-22",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
     "TotalAmount": 1200
   },
   {
-    "Date": "2023-04-20",
+    "Date": "2023-09-18",
     "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "moderate",
     "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 1800
+    "TotalAmount": 1000
   },
   {
-    "Date": "2023-05-12",
+    "Date": "2023-11-05",
     "PrimaryInvestmentRecommended": "Corporate Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "moderate",
     "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 1200
+    "TotalAmount": 500
   },
   {
-    "Date": "2023-06-30",
+    "Date": "2023-12-20",
     "PrimaryInvestmentRecommended": "Savings Account",
     "RiskProfileofPrimaryRecommendedInvestment": "low",
     "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 1200
+    "TotalAmount": 500
   }
 ]
 ```

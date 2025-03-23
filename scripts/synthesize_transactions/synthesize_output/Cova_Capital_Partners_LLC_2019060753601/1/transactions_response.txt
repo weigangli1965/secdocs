@@ -1,49 +1,49 @@
 ```json
 [
   {
-    "Date": "2023-01-15",
+    "Date": "2023-03-15",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Premium Investment Account",
+    "InvestmentAccountType": "Individual Brokerage Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 250000
+    "TotalAmount": 225000
   },
   {
-    "Date": "2023-02-10",
+    "Date": "2023-04-02",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Premium Investment Account",
+    "InvestmentAccountType": "Individual Brokerage Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000
+  },
+  {
+    "Date": "2023-06-18",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 50000
+  },
+  {
+    "Date": "2023-09-30",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage Account",
     "BoughtOrSold": "Bought",
     "TotalAmount": 100000
   },
   {
-    "Date": "2023-03-22",
+    "Date": "2024-01-15",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Premium Investment Account",
+    "InvestmentAccountType": "Individual Brokerage Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 175000
-  },
-  {
-    "Date": "2023-06-05",
-    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Premium Investment Account",
-    "BoughtOrSold": "Sold",
-    "TotalAmount": 75000
-  },
-  {
-    "Date": "2023-09-18",
-    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Premium Investment Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 300000
+    "TotalAmount": 187500
   }
 ]
 ```

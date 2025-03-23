@@ -2,13 +2,18 @@
 [
   {
     "ID": 12345,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 25
+  },
+  {
+    "ID": 12345,
     "Investment Products": "Technology Sector ETF",
     "Allocation": 30
   },
   {
     "ID": 12345,
-    "Investment Products": "Growth Stock Fund",
-    "Allocation": 25
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation": 15
   },
   {
     "ID": 12345,
@@ -22,13 +27,8 @@
   },
   {
     "ID": 12345,
-    "Investment Products": "Corporate Bonds",
-    "Allocation": 10
-  },
-  {
-    "ID": 12345,
     "Investment Products": "Savings Account",
-    "Allocation": 10
+    "Allocation": 5
   }
 ]
 ```

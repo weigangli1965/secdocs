@@ -2,93 +2,75 @@
 [
   {
     "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Low-priced stocks and speculative securities",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000
+  },
+  {
+    "Date": "2023-02-20",
     "PrimaryInvestmentRecommended": "Technology Sector ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6000
+  },
+  {
+    "Date": "2023-03-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
     "InvestmentPurpose": "Balanced growth",
     "InvestmentAccoutType": "IRA",
     "BoughtOrSold": "Bought",
     "TotalAmount": 7500
   },
   {
-    "Date": "2023-02-20",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Balanced growth",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 5000
-  },
-  {
-    "Date": "2023-03-10",
+    "Date": "2023-04-18",
     "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Balanced growth",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 3000
+    "TotalAmount": 1500
   },
   {
-    "Date": "2023-04-05",
-    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Balanced growth",
-    "InvestmentAccoutType": "IRA",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 5000
-  },
-  {
-    "Date": "2023-06-18",
-    "PrimaryInvestmentRecommended": "Corporate Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "Balanced growth",
-    "InvestmentAccoutType": "IRA",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 7500
-  },
-  {
-    "Date": "2023-08-22",
+    "Date": "2023-05-22",
     "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "moderate",
     "InvestmentPurpose": "Balanced growth",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 10000
-  },
-  {
-    "Date": "2023-10-15",
-    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
-    "RiskProfileofPrimaryRecommendedInvestment": "low",
-    "InvestmentPurpose": "Balanced growth",
     "InvestmentAccoutType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 2500
+    "TotalAmount": 6000
   },
   {
-    "Date": "2023-12-01",
-    "PrimaryInvestmentRecommended": "Savings Account",
-    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "Date": "2023-07-08",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
     "InvestmentPurpose": "Balanced growth",
     "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 5000
+    "TotalAmount": 4500
   },
   {
-    "Date": "2024-01-10",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "Date": "2023-08-30",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
     "InvestmentPurpose": "Balanced growth",
-    "InvestmentAccoutType": "Brokerage",
+    "InvestmentAccoutType": "IRA",
     "BoughtOrSold": "Sold",
     "TotalAmount": 2000
   },
   {
-    "Date": "2024-02-05",
+    "Date": "2023-10-15",
     "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "Balanced growth",
-    "InvestmentAccoutType": "IRA",
+    "InvestmentAccoutType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 4500
+    "TotalAmount": 3000
   }
 ]
 ```

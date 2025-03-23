@@ -1,14 +1,13 @@
-# Violations under Section (2)(ii) Care Obligation
+Based on the information provided, there appears to be a potential violation of the Regulation Best Interest (Reg BI) Care Obligation under section (2)(ii)(A) regarding the private placement offering by Issuer 3.
 
-The following violations occurred under Section (2)(ii) of Regulation Best Interest:
+The transactions show that the broker recommended a significant investment in "Private placement offering by Issuer 3 (pre-IPO shares of Company B)" with three separate purchases totaling $325,000 between September and November 2023. This represents approximately 50% of the customer's total investment portfolio (which is valued at $650,000).
 
-1. **Violation of (2)(ii)(B) - Reasonable basis for recommendation:**
-   The broker has recommended multiple large investments in "Private placement offering by Issuer 3 (pre-IPO shares of Company B)" totaling $575,000 over less than a year. This represents almost 48% of the customer's total investment portfolio ($1,200,000), creating a highly concentrated position in a single high-risk private placement. This concentration does not align with proper diversification principles, even for an "Aggressive" risk tolerance investor.
+The potential violations under section (2)(ii)(A) relate to insufficient due diligence:
 
-2. **Violation of (2)(ii)(C) - Excessive transactions:**
-   While the customer has an "Aggressive" risk tolerance and a "Wealth Growth" financial goal, the repeated transactions in the same high-risk private placement offering (four separate purchases over an 11-month period) appear excessive given:
-   - The large amounts involved ($150,000, $100,000, $200,000, and $125,000)
-   - The highly concentrated position in a single high-risk investment
-   - The lack of diversification across different types of private placements or pre-IPO opportunities
+1. There is no evidence that the broker conducted reasonable diligence to verify that Issuer 3 actually possessed or had rights to the pre-IPO shares of Company B they were purportedly selling. This directly parallels the example in the SEC guidance where FINRA found violations when firms "failed to take reasonable steps to confirm that the Issuer of a recommended investment actually possessed rights to the shares."
 
-The broker failed to demonstrate reasonable diligence, care, and skill to ensure these recommendations, particularly when viewed as a series of transactions, were in the customer's best interest rather than potentially serving the broker's financial interests (such as earning commissions on these private placement transactions).
+2. The broker appears to have concentrated a very significant portion of the customer's portfolio (approximately 50%) in a single high-risk private placement offering without demonstrating adequate due diligence on the issuer, the legitimacy of the offering, or potential markups being applied.
+
+3. The pattern of three separate purchases of the same private placement offering within a short timeframe (September to November 2023) suggests the broker may have continued recommending the same high-risk investment without conducting ongoing due diligence about the status of the offering.
+
+While the customer does have an "Aggressive" risk tolerance and "Wealth Growth" as a financial goal, which could potentially justify some high-risk investments, the concentration level and apparent lack of due diligence regarding the private placement still represent potential violations of the Care Obligation under Reg BI section (2)(ii)(A).

@@ -1,40 +1,49 @@
 ```json
 [
   {
-    "Date": "2023-02-15",
+    "Date": "2023-09-15",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 150000
+    "TotalAmount": 175000
   },
   {
-    "Date": "2023-05-20",
+    "Date": "2023-10-02",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000
+  },
+  {
+    "Date": "2023-11-18",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual", 
     "BoughtOrSold": "Bought",
     "TotalAmount": 100000
   },
   {
-    "Date": "2023-09-08",
-    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "Date": "2024-01-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
     "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 200000
+    "TotalAmount": 162500
   },
   {
-    "Date": "2024-01-12",
-    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "Date": "2024-02-20",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF", 
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 125000
+    "TotalAmount": 130000
   }
 ]
 ```

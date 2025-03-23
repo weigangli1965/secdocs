@@ -2,8 +2,13 @@
 [
   {
     "ID": 12345,
-    "Investment Products": "Growth Stock Fund",
-    "Allocation": 20
+    "Investment Products": "Private Equity Fund",
+    "Allocation": 30
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Hedge Fund",
+    "Allocation": 25
   },
   {
     "ID": 12345,
@@ -12,18 +17,13 @@
   },
   {
     "ID": 12345,
-    "Investment Products": "Private Equity Fund",
-    "Allocation": 25
-  },
-  {
-    "ID": 12345,
-    "Investment Products": "Hedge Fund",
-    "Allocation": 15
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 10
   },
   {
     "ID": 12345,
     "Investment Products": "Cryptocurrency ETF",
-    "Allocation": 10
+    "Allocation": 8
   },
   {
     "ID": 12345,
@@ -33,12 +33,12 @@
   {
     "ID": 12345,
     "Investment Products": "Corporate Bonds",
-    "Allocation": 5
+    "Allocation": 4
   },
   {
     "ID": 12345,
     "Investment Products": "U.S. Treasury Bonds",
-    "Allocation": 5
+    "Allocation": 3
   }
 ]
 ```

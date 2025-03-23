@@ -1,33 +1,33 @@
 ```json
 [
   {
-    "ID": 12345,
-    "Investment Products": "Technology Sector ETF",
+    "ID": 123456,
+    "Investment Products": "Growth Stock Fund",
     "Allocation": 25
   },
   {
-    "ID": 12345,
-    "Investment Products": "Growth Stock Fund",
+    "ID": 123456,
+    "Investment Products": "Technology Sector ETF",
     "Allocation": 30
   },
   {
-    "ID": 12345,
+    "ID": 123456,
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation": 15
+  },
+  {
+    "ID": 123456,
     "Investment Products": "Cryptocurrency ETF",
     "Allocation": 15
   },
   {
-    "ID": 12345,
+    "ID": 123456,
     "Investment Products": "S&P 500 Index Fund",
-    "Allocation": 15
-  },
-  {
-    "ID": 12345,
-    "Investment Products": "Savings Account",
     "Allocation": 10
   },
   {
-    "ID": 12345,
-    "Investment Products": "Corporate Bonds",
+    "ID": 123456,
+    "Investment Products": "Savings Account",
     "Allocation": 5
   }
 ]

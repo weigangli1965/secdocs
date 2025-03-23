@@ -2,38 +2,38 @@
 [
   {
     "ID": 12345,
-    "Investment Product": "S&P 500 Index Fund",
-    "Allocation": 15
+    "Investment Products": "Private Equity Fund",
+    "Allocation": 35
   },
   {
     "ID": 12345,
-    "Investment Product": "Growth Stock Fund",
-    "Allocation": 20
-  },
-  {
-    "ID": 12345,
-    "Investment Product": "Technology Sector ETF",
-    "Allocation": 18
-  },
-  {
-    "ID": 12345,
-    "Investment Product": "Cryptocurrency ETF",
-    "Allocation": 10
-  },
-  {
-    "ID": 12345,
-    "Investment Product": "Private Equity Fund",
+    "Investment Products": "Growth Stock Fund",
     "Allocation": 25
   },
   {
     "ID": 12345,
-    "Investment Product": "Corporate Bonds",
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 20
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Corporate Bonds",
     "Allocation": 5
   },
   {
     "ID": 12345,
-    "Investment Product": "Real Estate Investment Trust (REIT)",
-    "Allocation": 7
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 3
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Savings Account",
+    "Allocation": 2
   }
 ]
 ```

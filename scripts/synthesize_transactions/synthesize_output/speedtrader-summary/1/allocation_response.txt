@@ -2,13 +2,13 @@
 [
   {
     "ID": 12345,
-    "Investment Products": "Growth Stock Fund",
-    "Allocation": 20
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 25
   },
   {
     "ID": 12345,
-    "Investment Products": "Technology Sector ETF",
-    "Allocation": 25
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 20
   },
   {
     "ID": 12345,
@@ -17,12 +17,12 @@
   },
   {
     "ID": 12345,
-    "Investment Products": "Private Equity Fund",
+    "Investment Products": "Hedge Fund",
     "Allocation": 15
   },
   {
     "ID": 12345,
-    "Investment Products": "Hedge Fund",
+    "Investment Products": "Private Equity Fund",
     "Allocation": 10
   },
   {

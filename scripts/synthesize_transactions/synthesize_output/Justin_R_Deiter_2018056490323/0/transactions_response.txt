@@ -5,72 +5,72 @@
     "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Low",
     "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "IRA",
+    "InvestmentAccountType": "401k",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 45000
+    "TotalAmount": 10000
   },
   {
-    "Date": "2023-02-10",
+    "Date": "2023-02-22",
     "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
     "RiskProfileofPrimaryRecommendedInvestment": "Low",
     "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 36000
+    "TotalAmount": 6000
   },
   {
-    "Date": "2023-04-05",
+    "Date": "2023-03-10",
     "PrimaryInvestmentRecommended": "Municipal Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
     "InvestmentPurpose": "Tax Optimization",
-    "InvestmentAccountType": "Brokerage",
+    "InvestmentAccountType": "Taxable Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 27000
+    "TotalAmount": 8000
   },
   {
-    "Date": "2023-06-22",
-    "PrimaryInvestmentRecommended": "Savings Account",
-    "RiskProfileofPrimaryRecommendedInvestment": "Low",
-    "InvestmentPurpose": "Emergency Fund",
-    "InvestmentAccountType": "Cash",
-    "BoughtOrSold": "Deposited",
-    "TotalAmount": 27000
-  },
-  {
-    "Date": "2023-08-15",
+    "Date": "2023-04-05",
     "PrimaryInvestmentRecommended": "Corporate Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
     "InvestmentPurpose": "Income Generation",
-    "InvestmentAccountType": "Brokerage",
+    "InvestmentAccountType": "Taxable Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 18000
+    "TotalAmount": 7500
   },
   {
-    "Date": "2023-10-10",
+    "Date": "2023-05-20",
     "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
     "InvestmentPurpose": "Long-term Growth",
-    "InvestmentAccountType": "401(k)",
+    "InvestmentAccountType": "401k",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 14400
+    "TotalAmount": 5000
   },
   {
-    "Date": "2023-11-28",
+    "Date": "2023-06-15",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 2500
+  },
+  {
+    "Date": "2023-07-28",
     "PrimaryInvestmentRecommended": "Dividend Stock Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
     "InvestmentPurpose": "Income Generation",
-    "InvestmentAccountType": "Brokerage",
+    "InvestmentAccountType": "Taxable Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 9000
+    "TotalAmount": 4000
   },
   {
-    "Date": "2023-12-15",
-    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
-    "RiskProfileofPrimaryRecommendedInvestment": "High",
-    "InvestmentPurpose": "Diversification",
-    "InvestmentAccountType": "Brokerage",
+    "Date": "2023-08-10",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Emergency Fund",
+    "InvestmentAccountType": "Cash Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 3600
+    "TotalAmount": 5000
   }
 ]
 ```
