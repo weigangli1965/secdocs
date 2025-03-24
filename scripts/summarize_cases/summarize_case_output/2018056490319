@@ -1,0 +1,43 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "senior",
+      "Employment": "business owner",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "stocks (including biotechnology company stock and semiconductor company stock)",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "23",
+      "CostToEquityRatio": "104 percent",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$41,017 in realized losses",
+      "FeesCommissionsPaid": "$96,496 in total trading costs, including $92,847 in commissions",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Jesse D. Krapf",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2018056490319",
+        "Date": "10/30/2024",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading, where Krapf recommended a series of transactions that were excessive and not in the customer's best interest, violating Regulation BI Care Obligation (Exchange Act Rule 15l-1(a)(2)(ii))"
+      }
+    },
+    "CustomerSummary": "This senior customer who was a business owner was subjected to excessive trading by Jesse Krapf between October 2019 and April 2022. Krapf had de facto control over the account as the customer relied on his advice and followed his recommendations. The Care Obligation violation consisted of excessive trading evidenced by three key analytical factors: (1) an annualized turnover rate of 23 (where rates of 6 or more indicate excessiveness); (2) an annualized cost-to-equity ratio of 104% (where ratios above 20% indicate excessiveness); and (3) in-and-out trading patterns, such as recommending the purchase of $180,000 in biotech stock and selling it two days later, charging $7,800 in commissions. This trading pattern generated $96,496 in total trading costs, including $92,847 in commissions, and caused $41,017 in realized losses for the customer.",
+    "OverallSummary": "This case involves Jesse D. Krapf willfully violating the Care Obligation under Regulation BI (specifically Exchange Act Rule 15l-1(a)(2)(ii)) by excessively trading in a senior customer's account from October 2019 to April 2022. The violation was established using three key analytical metrics: (1) annualized turnover rate of 23, which significantly exceeds the threshold of 6 that generally indicates excessive trading; (2) cost-to-equity ratio of 104%, which dramatically exceeds the 20% threshold that indicates excessiveness; and (3) documented in-and-out trading patterns, including recommending purchases and sales within extremely short timeframes even when securities prices hadn't materially changed. Specific examples include recommending the purchase of $180,000 in biotech stock followed by selling it two days later with $7,800 in commissions, and recommending $82,000 in semiconductor stock that was sold the same day at a loss with $2,000 in commissions. Krapf recommended 58 transactions during this period, generating $96,496 in total trading costs (including $92,847 in commissions) while causing $41,017 in realized losses. For this misconduct, Krapf received a five-month suspension from FINRA, with no monetary sanctions due to his demonstrated financial inability to pay."
+  }
+]
+```

@@ -1,0 +1,41 @@
+[    
+   {
+      "Demographics": {
+         "Age": "NOTSPECIFIED",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "self-directed accounts for retail investors",
+         "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+         "InvestmentPurpose": "NOTSPECIFIED",
+         "RiskTolerance": "NOTSPECIFIED",
+         "InvestmentAccountType": "self-directed accounts"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "NOTSPECIFIED",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Axos Invest LLC",
+            "Type of Document": "AWC letter",
+            "Case No.": "2022076103701",
+            "Date": "May 19, 2023",
+            "CareObligationViolation": "No",
+            "TypeofCareObligationViolation": "NOTSPECIFIED"
+         }
+      },
+      "CustomerSummary": "This case involves retail investors who were customers of Axos Invest LLC. The violation was related to inaccurate Form CRS disclosures rather than Care Obligation violations. Specifically, from June 30, 2020, to February 6, 2023, Axos Invest LLC falsely responded 'No' to the question on Form CRS concerning legal or disciplinary history when it should have responded 'Yes' because a control affiliate of the firm and two registered representatives had prior legal or disciplinary history. This misinformation potentially affected customers' ability to make informed decisions about engaging with Axos Invest LLC.",
+      "OverallSummary": "This case does not involve Care Obligation violations under Regulation Best Interest. Instead, it involves Axos Invest LLC's willful violation of Section 17(a)(1) of the Securities Exchange Act of 1934, Exchange Act Rule 17a-14, and FINRA Rule 2010 by filing and delivering to customers two versions of its Form CRS containing inaccurate information about legal or disciplinary history. The firm incorrectly answered 'No' to the disciplinary history question when it should have answered 'Yes' due to 13 disciplinary actions against a control affiliate and disclosable events for two registered representatives. This misrepresentation occurred from June 30, 2020 to February 6, 2023 and potentially affected all retail customers of the firm who received the inaccurate Form CRS. The firm was censured and fined $75,000 for this violation. While this violation deprived customers of important information they needed to evaluate the firm, it does not constitute a Care Obligation violation under Regulation Best Interest."
+   }
+]

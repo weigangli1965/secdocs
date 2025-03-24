@@ -1,0 +1,41 @@
+[    
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Private placements",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Dalmore Group LLC",
+        "Type of Document": "AWC letter",
+        "Case No.": "2021069395701",
+        "Date": "September 17, 2024",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis, Failure to supervise under Reg BI leading to secondary care obligation violations"
+      }
+    },
+    "CustomerSummary": "This case affects retail customers who were recommended private placements by Dalmore Group LLC. The firm failed to establish and maintain a reasonable supervisory system to ensure compliance with Regulation Best Interest, including the Care Obligation. Specifically, Dalmore failed to conduct proper due diligence on private offerings, relying almost exclusively on issuer-provided information rather than conducting independent verification. The firm failed to document its investigation process, had missing checklists or incomplete information, and in some cases had no supervisory review of issuer-provided information. The Care Obligation violation occurred because without proper due diligence, representatives could not have understood the potential risks, rewards, and costs associated with the private placements they recommended to retail customers.",
+    "OverallSummary": "Dalmore Group LLC violated Regulation Best Interest's Care Obligation by failing to establish and maintain a supervisory system reasonably designed to achieve compliance with its suitability and best interest obligations when recommending private placements to retail customers. From January 2019 to December 2022, Dalmore failed to properly supervise due diligence processes for private offerings, which prevented representatives from exercising reasonable diligence, care, and skill to understand the potential risks, rewards, and costs associated with these high-risk investments before making recommendations.\n\nThe violations included: (1) Failing to set forth specific steps for investigating each offering; (2) Not identifying responsible individuals for conducting, documenting, reviewing, and approving investigations; (3) Not maintaining proper records of investigations; (4) In some cases, having no checklist or record of any investigation; (5) Having incomplete checklists; and (6) Accepting issuer-completed checklists without supervisory review. The firm also failed to update its WSPs to reference Reg BI until February 2021, eight months after it took effect, and even then only included general information without tailoring to Dalmore's specific business.\n\nAdditionally, the firm committed other violations, including failing to prevent misuse of material non-public information, not fingerprinting 45 non-registered associated persons, failing to report outside business activities, violating communication standards, failing to specify contingency dates for private offerings, and providing late and incomplete responses to FINRA requests. The case does not specify the number of affected customers or specific dollar amounts lost, but does note that Dalmore was compensated by commissions on sales of these private placements."
+  }
+]

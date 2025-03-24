@@ -1,0 +1,117 @@
+[
+   {
+      "Demographics": {
+         "Age": "NOTSPECIFIED",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
+         "RiskProfileofPrimaryRecommendedInvestment": "high",
+         "InvestmentPurpose": "growth",
+         "RiskTolerance": "NOTSPECIFIED",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "NOTSPECIFIED",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Cova Capital Partners LLC",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2019060753601",
+            "Date": "February 14, 2025",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+         }
+      },
+      "CustomerSummary": "Nine investors collectively invested more than $2 million in Offering 1, a private placement by Issuer 1 purporting to offer pre-IPO shares of Company A between June 2018 and February 2020. Cova failed to conduct sufficient due diligence on this investment before recommending it to customers, violating the Care Obligation. Specifically, Cova failed to: (1) verify that Issuer 1 actually possessed rights to the pre-IPO shares of Company A, which was the sole purpose of the investment, and (2) determine the amount of markups applied by Issuer 1 to the shares. Subsequently, Issuer 1 and its principals were charged with fraud by the SEC for charging undisclosed, excessive markups and not having enough pre-IPO shares to satisfy investor sales.",
+      "OverallSummary": "This case involves Care Obligation violations by Cova Capital Partners LLC affecting three groups of retail customers who invested in private placements between June 2018 and December 2021. The firm willfully violated Regulation Best Interest (Rule 15l-1(a)(1)) and FINRA Rules 2111 and 2010 by failing to conduct sufficient due diligence to form a reasonable basis for its recommendations. In total, 82 investors were affected across three offerings with a combined investment of approximately $12.7 million.\n\nThe violations involved three distinct offerings: (1) Nine investors purchased $2+ million in pre-IPO shares of Company A through Issuer 1, without Cova verifying ownership rights or markup amounts; (2) 24 investors purchased $1.7+ million through Issuer 2, where Cova failed to discover the CEO was previously subject to regulatory actions related to illegal robocalls to seniors; and (3) 49 investors purchased $9+ million in pre-IPO shares of Company B through Issuer 3, without Cova verifying ownership rights or investigating SEC charges against associated individuals.\n\nThe analytical steps demonstrating the Care Obligation violations were: (1) The firm failed to verify basic facts about the offerings that would affect their suitability and risks; (2) The firm had no reasonable basis to believe the issuers actually possessed what they were selling; (3) The firm failed to identify critical red flags about management; (4) The firm failed to investigate markups that affected investment returns; and (5) At least one issuer was later charged with fraud by the SEC. The case also identified supervisory failures, including inadequate due diligence procedures and lack of assigned responsibilities for the due diligence process."
+   },
+   {
+      "Demographics": {
+         "Age": "NOTSPECIFIED",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+         "RiskProfileofPrimaryRecommendedInvestment": "high",
+         "InvestmentPurpose": "NOTSPECIFIED",
+         "RiskTolerance": "NOTSPECIFIED",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "NOTSPECIFIED",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Cova Capital Partners LLC",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2019060753601",
+            "Date": "February 14, 2025",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+         }
+      },
+      "CustomerSummary": "Twenty-four investors collectively invested more than $1.7 million in Offering 2, a private placement by Issuer 2 between October 2019 and 2021. Cova failed to conduct sufficient due diligence on this investment before recommending it to customers, violating the Care Obligation. Specifically, Cova failed to reasonably investigate Issuer 2's management and did not identify that Issuer 2's Chief Executive Officer was previously the subject of federal and state regulatory actions related to illegal robocalls to senior consumers. This represents a serious due diligence failure that prevented Cova from fully understanding and evaluating the risks associated with the investment."
+   },
+   {
+      "Demographics": {
+         "Age": "NOTSPECIFIED",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+         "RiskProfileofPrimaryRecommendedInvestment": "high",
+         "InvestmentPurpose": "growth",
+         "RiskTolerance": "NOTSPECIFIED",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "NOTSPECIFIED",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Cova Capital Partners LLC",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2019060753601",
+            "Date": "February 14, 2025",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+         }
+      },
+      "CustomerSummary": "Forty-nine investors collectively invested more than $9 million in Offering 3, a private placement by Issuer 3 purporting to offer pre-IPO shares of Company B between September 2021 and December 2021. Cova failed to conduct sufficient due diligence on this investment before recommending it to customers, violating the Care Obligation. Specifically, Cova failed to: (1) verify that Issuer 3 actually possessed rights to the shares of Company B, which was the purpose of the investment, and (2) investigate information concerning SEC charges filed against two individuals associated with another pre-IPO fund from which Issuer 3 purported to source Company B shares. These failures represent significant lapses in the due diligence process that prevented Cova from properly assessing the risks associated with this investment."
+   }
+]

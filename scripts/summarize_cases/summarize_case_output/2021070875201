@@ -1,0 +1,41 @@
+[    
+{
+    "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Mutual Funds (Class A and C shares)",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "retirement planning",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Retirement"
+    },
+    "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+        "AmountLost": "$91,344.52",
+        "FeesCommissionsPaid": "front-end sales charges and higher operating fees",
+        "ImpactOnPortfolio": "moderate"
+    },
+    "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "Case Information": {
+            "Name of Party": "Park Avenue Securities LLC",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2021070875201",
+            "Date": "9/24/2024",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Failure to supervise mutual fund share class recommendations, resulting in retirement plan customers paying higher costs when purchasing Class A or C shares instead of available Class R shares"
+        }
+    },
+    "CustomerSummary": "This case represents 355 retirement plan customers who were eligible to purchase Class R shares of mutual funds but were instead recommended to purchase Class A or C shares. This resulted in these customers incurring $91,344.52 in unnecessary fees, either through front-end sales charges (Class A shares) or higher ongoing operating fees (Class C shares). The Care Obligation violation occurred because Park Avenue Securities failed to reasonably evaluate whether recommendations to purchase Class A or C shares were in the best interest of retirement plan customers when Class R shares were available. The analytical steps to identify this violation were: 1) Determining that retirement plan customers were eligible for Class R shares, 2) Comparing the cost structure of different share classes, 3) Identifying that Class R shares would have been more beneficial due to lack of front-end sales charges and lower ongoing fees than Class C shares, and 4) Recognizing that the firm failed to assess whether recommending Class R shares would have been in customers' best interest. The firm has already paid restitution to affected customers.",
+    "OverallSummary": "This case involves Park Avenue Securities LLC's failure to establish and enforce a supervisory system reasonably designed to achieve compliance with suitability requirements and Reg BI's Care Obligation regarding mutual fund share class recommendations to retirement plan customers. From January 2019 through July 2021, the firm failed to implement procedures to evaluate whether recommendations to purchase Class A or C shares were in the best interest of retirement plan customers who were eligible to purchase Class R shares. This resulted in 355 retirement plan customers purchasing Class A or C shares when they would have benefited from purchasing Class R shares, causing them to incur $91,344.52 in unnecessary front-end sales charges or higher operating fees. The Care Obligation violation occurred because the firm: 1) Failed to provide supervisors with guidance necessary to assess share class suitability for retirement plans, 2) Did not evaluate whether Class R shares would be more beneficial than Class A or C shares for retirement plan customers when they didn't qualify for Class A sales charge waivers, and 3) Failed to identify instances where retirement customers were disadvantaged by these recommendations. PAS was censured, fined $125,000, and has already paid restitution to affected customers. This case is particularly notable as it represents PAS's third regulatory action related to mutual fund share class selection issues, following previous actions by FINRA in July 2019 and the SEC in March 2019."
+}
+]

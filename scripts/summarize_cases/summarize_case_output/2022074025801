@@ -1,0 +1,121 @@
+```json
+[
+   {
+      "Demographics": {
+         "Age": "58 at account opening",
+         "Employment": "paralegal",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "limited",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+         "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+         "InvestmentPurpose": "conservative, not interested in high risk or speculative investments",
+         "RiskTolerance": "low",
+         "InvestmentAccountType": "individual accounts"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "33 for one account, 12 for other account",
+         "CostToEquityRatio": "145% for one account, 59% for other account",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "$51,800 in realized losses (first account), $8,193 in realized losses (second account)",
+         "FeesCommissionsPaid": "$72,685 in commissions (first account), $8,280 in commissions (second account)",
+         "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Joseph C. Desapio",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2022074025801",
+            "Date": "March 8, 2024",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Excessive Trading"
+         }
+      },
+      "CustomerSummary": "Customer A, a 58-year-old paralegal with limited investment experience, opened individual accounts with Desapio in October 2018 and September 2019. She was a conservative investor not interested in high-risk investments. Desapio exercised de facto control over her accounts and engaged in quantitatively unsuitable trading. In one account, he recommended 134 trades resulting in an annualized turnover rate of 33 and cost-to-equity ratio of 145%, generating $82,626 in total trading costs and causing $51,800 in realized losses. In her other account, he recommended 48 trades with an annualized turnover rate of 12 and cost-to-equity ratio of 59%, generating $11,435 in total trading costs and causing $8,193 in realized losses. Additionally, Desapio borrowed $20,000 from Customer A without obtaining prior approval from his firm, violating FINRA Rules 3240 and 2010."
+   },
+   {
+      "Demographics": {
+         "Age": "57 at account opening",
+         "Employment": "widowed yoga instructor",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+         "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+         "InvestmentPurpose": "capital preservation and some growth",
+         "RiskTolerance": "conservative",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "8",
+         "CostToEquityRatio": "44%",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "$8,099 in realized losses",
+         "FeesCommissionsPaid": "$11,055 in commissions",
+         "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Joseph C. Desapio",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2022074025801",
+            "Date": "March 8, 2024",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Excessive Trading"
+         }
+      },
+      "CustomerSummary": "Customer B was a 57-year-old widowed yoga instructor who began investing with Desapio in February 2019. She was a conservative investor with an investment objective of capital preservation and some growth. Desapio exercised de facto control over her account and engaged in quantitatively unsuitable trading. From February 2019 to June 2021, he recommended 45 trades resulting in an annualized turnover rate of 8 and a cost-to-equity ratio of 44%. This excessive trading generated $14,435 in total trading costs (including $11,055 in commissions) and caused $8,099 in realized losses. Customer B, along with Customer A, filed an arbitration against Spartan and Desapio alleging sales practice violations, which Spartan eventually settled."
+   },
+   {
+      "Demographics": {
+         "Age": "71 at account opening",
+         "Employment": "insurance agent",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+         "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+         "InvestmentPurpose": "speculation (according to documentation)",
+         "RiskTolerance": "NOTSPECIFIED",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "12",
+         "CostToEquityRatio": "72%",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "$24,454 in realized losses",
+         "FeesCommissionsPaid": "$19,778 in commissions",
+         "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Joseph C. Desapio",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2022074025801",
+            "Date": "March 8, 2024",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Excessive Trading"
+         }
+      },
+      "CustomerSummary": "Customer C was a 71-year-old insurance agent who opened an account with Desapio at Spartan in May 2017. According to his new account documentation, his investment objective was speculation. Despite this documented objective, Desapio exercised de facto control over his account and engaged in quantitatively unsuitable trading. From June 2017 through January 2021, Desapio recommended 131 transactions resulting in an annualized turnover rate of 12 and a cost-to-equity ratio of 72%. This excessive trading generated $27,527 in total trading costs (including $19,778 in commissions) and caused $24,454 in realized losses."
+   },
+   {
+      "OverallSummary": "This case involves Care Obligation violations by Joseph Desapio who excessively traded in the accounts of three customers (four accounts total) from June 2017 through June 2021. Desapio willfully violated Rule 15l-1 of the Securities Exchange Act of 1934 (Regulation BI) for the period of June 30, 2020, through June 2021, and FINRA Rule 2111 for the period of June 2017 through June 29, 2020. The customers included a 58-year-old paralegal with limited investment experience (Customer A), a 57-year-old widowed yoga instructor (Customer B), and a 71-year-old senior insurance agent (Customer C). Desapio exercised de facto control over their accounts as the customers relied on and routinely followed his recommendations.\n\nDesapio's excessive trading resulted in extremely high turnover rates (ranging from 8 to 33) and cost-to-equity ratios (ranging from 44% to 145%), well above the traditional guideposts of 6 and 20% respectively that indicate excessive trading. The trading generated approximately $136,023 in total trading costs (including $111,798 in commissions) and caused approximately $92,546 in realized losses across all accounts. Two of the customers (A and B) filed an arbitration claim against Spartan and Desapio, which Spartan eventually settled.\n\nAdditionally, Desapio borrowed $20,000 from Customer A in September 2019 without obtaining prior approval from his firm Spartan Capital Securities, LLC, violating FINRA Rules 3240 and 2010. As a result of these violations, Desapio was suspended from associating with any FINRA member in all capacities for 15 months. Due to his financial status, no monetary sanctions were imposed."
+   }
+]
+```

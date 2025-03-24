@@ -1,0 +1,82 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low to moderate",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Fractional shares, options, and equities trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "varies",
+      "InvestmentPurpose": "growth and speculation",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$3,751,578.12 (collective restitution to RHF customers for collaring issues)",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "moderate"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Robinhood Financial, LLC and Robinhood Securities, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2019060756501",
+        "Date": "March 6, 2025",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "This summary applies to the approximately 10,297 customers listed in Attachment A who were affected by Robinhood Financial's (RHF) inaccurate and incomplete disclosures about its 'collaring' practice. RHF converted market orders to limit orders but did not accurately disclose this practice. When customers' market orders were collared and subsequently canceled (either by RHF at the end of trading day or by customers), and customers then re-entered their orders, they sometimes received executions at prices less favorable than would have been available at the time they initially entered their orders. The financial impact to these customers totaled $3,751,578.12 for which RHF has been ordered to pay restitution plus interest.",
+    "OverallSummary": "This case involves numerous violations by Robinhood Financial, LLC (RHF) and Robinhood Securities, LLC (RHS) regarding their supervisory systems and disclosures. The most significant customer impact described in the case relates to RHF's practice of 'collaring' market orders by converting them to limit orders without accurate and complete disclosures to customers. From July 2016 to October 2021, RHF failed to accurately disclose this practice, which led to approximately 8.7 million collared orders failing to execute and being canceled. Some customers who re-entered their orders received less favorable executions, costing them at least $3.75 million collectively. The AWC orders RHF to pay restitution of $3,751,578.12 plus interest to 10,297 affected customers (listed in Attachment A).\n\nThe AWC also describes RHS's execution of trades during trading halts, which affected 1,879 customers who received inferior prices, with restitution ordered of $5,807 plus interest. Additionally, the case details numerous other violations including AML program failures, registration requirement supervision failures, inadequate supervision of influencer communications, improper ACATS rejections, and inaccurate trade reporting. The violations collectively resulted in a $26 million fine, in addition to the customer restitution.\n\nNote that while there were significant supervisory failures and regulatory violations, this case does not involve Care Obligation violations under Regulation Best Interest, as that specific regulation and obligation is not cited in the AWC."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low to moderate",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Equities trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "varies",
+      "InvestmentPurpose": "growth",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$5,807 (collective restitution to RHS customers for trading during halts)",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "minor"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Robinhood Financial, LLC and Robinhood Securities, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2019060756501",
+        "Date": "March 6, 2025",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "This summary applies to the 1,879 customers associated with trades listed in Attachment B who were affected by Robinhood Securities' (RHS) execution of trades during trading halts. From December 2019 through January 2023, RHS executed over 33,000 transactions in a principal capacity during approximately 1,200 trading halts and two market-wide trading halts. In approximately 2,200 of these transactions, customers received inferior prices than they would have if RHS had waited until after the halt to execute the trades. The financial impact to these customers totaled $5,807 for which RHS has been ordered to pay restitution plus interest.",
+    "OverallSummary": "This case involves numerous violations by Robinhood Financial, LLC (RHF) and Robinhood Securities, LLC (RHS) regarding their supervisory systems and disclosures. The most significant customer impact described in the case relates to RHF's practice of 'collaring' market orders by converting them to limit orders without accurate and complete disclosures to customers. From July 2016 to October 2021, RHF failed to accurately disclose this practice, which led to approximately 8.7 million collared orders failing to execute and being canceled. Some customers who re-entered their orders received less favorable executions, costing them at least $3.75 million collectively. The AWC orders RHF to pay restitution of $3,751,578.12 plus interest to 10,297 affected customers (listed in Attachment A).\n\nThe AWC also describes RHS's execution of trades during trading halts, which affected 1,879 customers who received inferior prices, with restitution ordered of $5,807 plus interest. Additionally, the case details numerous other violations including AML program failures, registration requirement supervision failures, inadequate supervision of influencer communications, improper ACATS rejections, and inaccurate trade reporting. The violations collectively resulted in a $26 million fine, in addition to the customer restitution.\n\nNote that while there were significant supervisory failures and regulatory violations, this case does not involve Care Obligation violations under Regulation Best Interest, as that specific regulation and obligation is not cited in the AWC."
+  }
+]
+```

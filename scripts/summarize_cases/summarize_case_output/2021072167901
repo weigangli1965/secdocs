@@ -1,0 +1,195 @@
+[
+  {
+    "Demographics": {
+      "Age": "79",
+      "Employment": "retired",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities",
+      "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+      "InvestmentPurpose": "capital preservation",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "IRA"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20.3%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$556,000",
+      "FeesCommissionsPaid": "$494,000",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Stewart Ginn",
+        "Type of Document": "Complaint",
+        "Case No.": "2021072167901",
+        "Date": "October 17, 2023",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer 1 is a 79-year-old retiree who had an IRA account with IFG. Her investment objective was capital preservation with moderate risk tolerance. Ginn churned her account with 259 trades over the period, resulting in $556,000 in realized losses and nearly $494,000 in commissions. The account had an annualized cost-to-equity ratio of 20.3%, making it virtually impossible for her to realize a profit. Ginn exercised de facto control over her account and frequently made in-and-out trades that generated substantial commissions even when there was minimal price movement in the securities. The Care Obligation violation occurred as Ginn failed to consider the cumulative impact of trading costs and commissions on her account, placing his interests ahead of the customer's best interests."
+  },
+  {
+    "Demographics": {
+      "Age": "88",
+      "Employment": "retired",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities",
+      "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+      "InvestmentPurpose": "growth & income",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "trust account"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "23.4%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$570,000",
+      "FeesCommissionsPaid": "$652,000",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Stewart Ginn",
+        "Type of Document": "Complaint",
+        "Case No.": "2021072167901",
+        "Date": "October 17, 2023",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer 2 was an 88-year-old retiree with Alzheimer's disease who died in February 2022. Her trust account was managed by her sister as the authorized contact person. The account had an investment objective of growth & income with moderate risk tolerance. Ginn excessively traded the account with 275 transactions that resulted in approximately $570,000 in realized losses and $652,000 in trading costs. The account had an annualized cost-to-equity ratio of 23.4%. Ginn frequently engaged in in-and-out trading that generated substantial commissions even when there was minimal price movement in the securities. The Care Obligation violation occurred as Ginn failed to consider the cumulative impact of trading costs on her account, particularly given her age and health condition, placing his interests ahead of the customer's."
+  },
+  {
+    "Demographics": {
+      "Age": "61",
+      "Employment": "civil engineer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities",
+      "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+      "InvestmentPurpose": "income",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "IRA"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20.3%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$147,000",
+      "FeesCommissionsPaid": "$189,000",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Stewart Ginn",
+        "Type of Document": "Complaint",
+        "Case No.": "2021072167901",
+        "Date": "October 17, 2023",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer 3 is a 61-year-old civil engineer with an IRA account at IFG. His investment objective was income with moderate risk tolerance. Ginn excessively traded his account with 170 trades over the period, resulting in approximately $147,000 in realized losses and $189,000 in trading costs. The account had an annualized cost-to-equity ratio of 20.3%. Ginn frequently engaged in in-and-out trading that generated substantial commissions even when there was minimal price movement in the securities. The Care Obligation violation occurred as Ginn failed to consider the cumulative impact of trading costs on his account, placing his interests ahead of the customer's best interests."
+  },
+  {
+    "Demographics": {
+      "Age": "72",
+      "Employment": "retired police officer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities",
+      "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+      "InvestmentPurpose": "capital appreciation",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "IRA"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "13.7%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$117,000",
+      "FeesCommissionsPaid": "$115,000",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Stewart Ginn",
+        "Type of Document": "Complaint",
+        "Case No.": "2021072167901",
+        "Date": "October 17, 2023",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer 4 is a 72-year-old retired police officer with an IRA account at IFG. His investment objective was capital appreciation with moderate risk tolerance. Ginn excessively traded his account with 113 trades over the period, resulting in approximately $117,000 in realized losses and $115,000 in trading costs. The account had an annualized cost-to-equity ratio of 13.7%. Ginn frequently engaged in in-and-out trading that generated substantial commissions even when there was minimal price movement in the securities. The Care Obligation violation occurred as Ginn failed to consider the cumulative impact of trading costs on his account, placing his interests ahead of the customer's best interests."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "dental practice (profit sharing plan)",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "low",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities",
+      "RiskProfileofPrimaryRecommendedInvestment": "moderate to moderately high",
+      "InvestmentPurpose": "capital appreciation/growth",
+      "RiskTolerance": "moderate to moderately high",
+      "InvestmentAccountType": "profit sharing plan"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "27.1%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$830,000",
+      "FeesCommissionsPaid": "$788,000",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Stewart Ginn",
+        "Type of Document": "Complaint",
+        "Case No.": "2021072167901",
+        "Date": "October 17, 2023",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "Customer 5 is a profit sharing plan for a small dental practice. The account initially had an investment objective of capital appreciation with moderate risk tolerance, later changed to growth with moderately high risk tolerance. Ginn excessively traded the account with 351 trades over the period, resulting in approximately $830,000 in realized losses and $788,000 in trading costs. The account had an annualized cost-to-equity ratio of 27.1%. Ginn frequently engaged in in-and-out trading that generated substantial commissions even when there was minimal price movement in the securities. While the excessive trading constituted a violation of FINRA Rules 2111 and 2010 for quantitative unsuitability, the case does not specifically cite a Care Obligation violation for this customer as it was not a retail customer under Regulation BI."
+  },
+  {
+    "OverallSummary": "This case involves Stewart Ginn, a registered representative with Independent Financial Group, LLC, who churned and excessively traded five customer accounts between July 2020 and December 2022. Four of the customers were retail customers covered by Regulation BI's Care Obligation, while the fifth was a profit sharing plan not classified as a retail customer. Ginn's excessive trading resulted in combined realized losses of approximately $2.22 million while generating more than $2.24 million in commissions. \n\nThe Care Obligation violations specifically cited in this case involved excessive trading in the accounts of Customers 1-4. The analytical steps used to determine these violations included: (1) examining the cost-to-equity ratios (ranging from 13.7% to 23.4% annualized) which showed customers needed to earn unrealistic returns just to break even; (2) analyzing the pattern of in-and-out trading where Ginn would frequently buy securities and sell them shortly thereafter with minimal price changes but substantial commissions; (3) considering the customers' investment profiles (three were retired seniors with moderate risk tolerances); and (4) identifying that Ginn exercised de facto control over the accounts. \n\nGinn also executed discretionary trades without written authorization in four accounts, further demonstrating his control. He typically charged 3% commissions on purchases and 2% on sales, which made it virtually impossible for customers to profit. The complaint specifically charges Ginn with willful violations of Exchange Act Rule 15l-1(a)(1) (Regulation BI) for Customers 1-4, and violations of FINRA Rules 2111 and 2010 for Customer 5's excessive trading."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities, mutual funds, and variable annuities",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "retail customer accounts"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Long Island Financial Group, Inc.",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2021069365001",
+        "Date": "February 10, 2023",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "The case does not identify specific individual customers affected by the violations. Long Island Financial Group's violations were procedural in nature, involving failures to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest (Reg BI) and failure to establish a supervisory system for Form CRS obligations. The firm had five registered representatives who provided services to retail customers, primarily focusing on sales of equities, mutual funds, and variable annuities. While these customers would be potentially affected by the firm's lack of compliant policies and procedures, no specific customer harm or individual impact is detailed in the case.",
+    "OverallSummary": "This case involves Long Island Financial Group, Inc. (LIFG) failing to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest (Reg BI) since its implementation on June 30, 2020. The firm also failed to establish and maintain a supervisory system to ensure compliance with Form CRS obligations under Exchange Act Rule 17a-14. There is no Care Obligation violation specifically identified in this case. The primary violations relate to the Compliance Obligation and Conflict of Interest Obligation under Reg BI, as well as supervisory requirements under FINRA Rule 3110. From June 30, 2020, to November 1, 2021, the firm made no reference to Reg BI in its written policies and procedures. Even after November 1, 2021, when LIFG began using policies that contained general background information about Reg BI, they still lacked procedures to prevent, detect, or promptly correct violations or otherwise achieve compliance. Similarly, the firm failed to establish proper procedures regarding Form CRS. No specific customer harm or financial impact is detailed. As a result of these violations, LIFG was censured, fined $35,000, and required to undertake remediation of the issues identified. The violations primarily concern procedural and compliance failures rather than individual recommendations or transactions that violated the Care Obligation."
+  }
+]

@@ -1,0 +1,41 @@
+[
+{
+  "Demographics": {
+    "Age": "NOTSPECIFIED",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "moderate"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income and preservation of capital",
+    "RiskTolerance": "moderately aggressive",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+    "CostToEquityRatio": "NOTSPECIFIED",
+    "HighRiskInvestmentRatio": "at least 14%"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "NOTSPECIFIED",
+    "FeesCommissionsPaid": "$1,471",
+    "ImpactOnPortfolio": "NOTSPECIFIED"
+  },
+  "Breach": {
+    "ExistenceofLegalBreach": "Yes",
+    "Case Information": {
+      "Name of Party": "Kyle William Chapman",
+      "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+      "Case No.": "2020068655901",
+      "Date": "September 5, 2024",
+      "CareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis, Inappropriate Investment Recommendations Relative to Client Profile"
+    }
+  },
+  "CustomerSummary": "A customer with a moderately aggressive risk tolerance and a liquid net worth of $350,000 was recommended by Chapman to invest a total of $50,000 in GWG L Bonds (a high-risk, speculative, unrated debt security) in January 2020 ($28,000) and December 2020 ($22,000). This investment constituted at least 14% of the customer's disclosed liquid net worth. The customer's investment objectives were income and preservation of capital, not speculation. Chapman violated the Care Obligation by: (1) failing to perform reasonable diligence on GWG L Bonds before recommending them, (2) not understanding the high risks associated with L Bonds, (3) failing to recognize that GWG's change in business model increased rather than decreased risks, (4) recommending an investment that was not in the customer's best interest given their investment profile, and (5) failing to consider reasonably available alternatives for the second investment. Additionally, Chapman made negligent misrepresentations and omissions when he sent risk reports assigning a risk score of '1' (lowest risk) to GWG L Bonds and failed to correct the customer's belief that the bonds were 'very conservative.' The customer later initiated an arbitration against American Trust regarding these GWG L Bond investments, which was settled.",
+  "OverallSummary": "This case involves Kyle William Chapman's violation of Regulation Best Interest's Care Obligation and FINRA Rule 2111 concerning his recommendation of GWG L Bonds to a retail customer. The violations occurred in January and December 2020, when Chapman recommended that his customer invest a total of $50,000 in GWG L Bonds, which were speculative, unrated debt securities issued by GWG Holdings, Inc. The customer had a moderately aggressive risk tolerance, liquid net worth of $350,000, and investment objectives of income and preservation of capital, not speculation. Chapman's Care Obligation violations involved: (1) failing to conduct reasonable diligence on GWG L Bonds before recommending them, (2) not understanding that the bonds were high-risk and speculative, (3) erroneously concluding that GWG's change in business model reduced rather than increased risks, (4) recommending investments not in the customer's best interest given their investment profile, (5) not considering reasonably available alternatives for the second purchase, and (6) making negligent misrepresentations by sending risk reports assigning the lowest risk score to GWG L Bonds and failing to correct the customer's misunderstanding about the conservative nature of the bonds. The customer invested $50,000 (at least 14% of their liquid net worth) in these high-risk bonds, and Chapman earned $1,471 in commissions. In January 2022, GWG defaulted on its obligations and filed for bankruptcy in April 2022. The customer later brought and settled an arbitration against American Trust relating to these investments. For these violations, Chapman was sanctioned with a three-month suspension, a $5,000 fine, and disgorgement of $1,471 plus interest."
+}
+]

@@ -1,0 +1,41 @@
+[
+{
+  "Demographics": {
+    "Age": "NOTSPECIFIED",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "529 plan rollovers",
+    "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+    "InvestmentPurpose": "Education savings",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "529 education savings plans"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+    "CostToEquityRatio": "NOTSPECIFIED",
+    "HighRiskInvestmentRatio": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "At least $17,000 in unnecessary sales charges and fees across at least 18 customers",
+    "FeesCommissionsPaid": "Unnecessary front-end sales charges on 529 plan rollovers that should have qualified for waivers",
+    "ImpactOnPortfolio": "Minor to moderate (reduced investment returns due to unnecessary fees)"
+  },
+  "Breach": {
+    "ExistenceofLegalBreach": "Yes",
+    "Case Information": {
+      "Name of Party": "Independent Financial Group, LLC",
+      "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+      "Case No.": "2021069460001",
+      "Date": "NOTSPECIFIED",
+      "CareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Failure to implement reasonable policies and procedures to ensure compliance with the Care Obligation regarding the best interest of retail customers in 529 plan rollovers"
+    }
+  },
+  "CustomerSummary": "This case represents a group of at least 18 customers who invested approximately $837,000 in total in 529 plan rollovers. These customers qualified for but did not receive available sales charge waivers or special Class AR shares when rolling over their 529 plans from one state to another. As a result, these customers unnecessarily paid at least $17,000 in sales charges and fees that could have been avoided. The firm failed to have adequate policies, procedures, controls, and training to ensure that representatives recommended the appropriate share class with available waivers for these customers.",
+  "OverallSummary": "Independent Financial Group, LLC violated Reg BI's Compliance Obligation by failing to establish and maintain a supervisory system reasonably designed to supervise registered representatives' recommendations to customers regarding 529 plan rollovers. From September 2015 through the present, the firm lacked adequate policies, procedures, and training regarding available sales charge waivers or special share classes for 529 plan rollovers. Even after revising their procedures in May 2022, the firm failed to articulate clear policies for providing customers with available waivers and did not establish adequate systems for monitoring and reviewing the application of these waivers. As a result, at least 18 customers with total rollover amounts of approximately $837,000 did not receive available sales charge waivers, resulting in at least $17,000 in unnecessary charges and fees. The firm has been ordered to pay restitution to affected customers plus interest, engage a Third-Party Consultant to review its policies and procedures, identify all Eligible Customers, and calculate the exact restitution amounts owed. The violation of Reg BI's Compliance Obligation directly affected the firm's ability to meet its Care Obligation to these retail customers, as it led to recommendations that did not consider the available cost-saving measures for 529 plan rollovers, resulting in higher costs that were not in the customers' best interests."
+}
+]

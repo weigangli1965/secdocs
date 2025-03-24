@@ -1,0 +1,47 @@
+[    
+{
+"Demographics": {
+  "Age": "NOTSPECIFIED",
+  "Employment": "NOTSPECIFIED",
+  "IncomeLevel": "low",
+  "InvestmentExperience": "NOTSPECIFIED",
+  "NetWorth": "moderate"
+},
+
+"InvestmentType": {
+  "PrimaryInvestmentRecommended": "Alternative investments including GWG L Bonds",
+  "RiskProfileofPrimaryRecommendedInvestment": "high",
+  "InvestmentPurpose": "preservation of capital, current income, and funding retirement",
+  "RiskTolerance": "moderate",
+  "InvestmentAccountType": "NOTSPECIFIED"
+},
+
+"AccountInformation": {
+  "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+  "CostToEquityRatio": "NOTSPECIFIED",
+  "HighRiskInvestmentRatio": "77%"
+},
+
+"FinancialLossSuffered": {
+  "AmountLost": "NOTSPECIFIED",
+  "FeesCommissionsPaid": "$23,905.81",
+  "ImpactOnPortfolio": "severe"
+},
+
+"Breach": {
+  "ExistenceofLegalBreach": "Yes",
+  "Case Information": {
+    "Name of Party": "Angelo J. Piccone",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2022076855802",
+    "Date": "January 29, 2025",
+    "CareObligationViolation": "Yes",
+    "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+  }
+},
+
+"CustomerSummary": "A retail customer with an annual income of no more than $25,000 and a net worth (excluding primary residence) of $587,438 was recommended by Piccone to invest $457,000 in speculative alternative investments, including $90,000 in GWG L Bonds. This resulted in a 77% concentration in alternative investments, with 15% specifically in L Bonds. The customer had a moderate risk tolerance and investment objectives of preservation of capital, current income, and funding retirement, which did not include speculation. Piccone's recommendations were not in the customer's best interest based on her investment profile, creating an over-concentration in high-risk speculative investments that was unsuitable for someone with her financial situation and stated objectives. Additionally, Piccone communicated with the customer via unauthorized text messages and made misleading statements about recovery prospects for her GWG investment after the company filed for bankruptcy.",
+
+"OverallSummary": "This case involves a Regulation Best Interest Care Obligation violation by Angelo J. Piccone, who recommended that a retail customer with moderate risk tolerance invest 77% of her net worth in speculative alternative investments, including GWG L Bonds. The customer had an annual income of no more than $25,000 and a net worth (excluding primary residence) of $587,438. Her investment objectives were preservation of capital, current income, and funding retirement, not speculation. The Care Obligation violation involved: (1) recommending investments that were inconsistent with the customer's investment profile and objectives, (2) creating an unsuitable concentration (77%) in high-risk alternative investments, and (3) recommending products that put the customer's capital at significant risk despite her stated objectives of capital preservation. FINRA found these recommendations were not in the customer's best interest based on her investment profile. Piccone earned $23,905.81 in commissions from these recommendations, which he was ordered to disgorge. In addition, he violated recordkeeping requirements by using unauthorized text messages for securities business and made misleading statements to the customer about her investment recovery prospects. The case resulted in a five-month suspension, $10,000 fine, and disgorgement of commissions plus interest."
+}
+]

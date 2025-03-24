@@ -1,0 +1,195 @@
+[
+  {
+    "Demographics": {
+      "Age": "77-78",
+      "Employment": "Retiree",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "capital preservation",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20.3%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$550,000+",
+      "FeesCommissionsPaid": "$490,000+",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Independent Financial Group, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2023080627901",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and failure to supervise"
+      }
+    },
+    "CustomerSummary": "Customer 1 was a 77-78 year old retiree with a capital preservation investment objective and moderate risk tolerance. The representative engaged in excessive trading in this customer's account, resulting in an annualized cost-to-equity ratio of 20.3%, which is above the 20% threshold generally indicating excessive trading. This customer paid more than $490,000 in total trading costs and suffered realized losses exceeding $550,000. The representative's trading strategy of frequent in-and-out trading was not in the customer's best interest given their investment profile, particularly their age, retirement status, and capital preservation objective. Despite red flags, including the account appearing on excessive trading reports and triggering alerts, IFG failed to take appropriate supervisory action, violating the Care Obligation of Regulation BI."
+  },
+  {
+    "Demographics": {
+      "Age": "88",
+      "Employment": "Retiree",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "growth and income",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "Trust"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "23.4%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$560,000+",
+      "FeesCommissionsPaid": "$650,000+",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Independent Financial Group, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2023080627901",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and failure to supervise"
+      }
+    },
+    "CustomerSummary": "Customer 2 was a trust owned by an 88-year-old retiree who had been diagnosed with Alzheimer's disease before becoming a customer of the representative. The customer passed away in 2022. The trust had an investment objective of growth and income with a moderate risk tolerance. The representative engaged in excessive trading in this customer's account, resulting in an annualized cost-to-equity ratio of 23.4%, well above the 20% threshold indicating excessive trading. This customer paid more than $650,000 in total trading costs and suffered realized losses exceeding $560,000. The representative's trading strategy of frequent in-and-out trading was particularly egregious given the customer's advanced age, cognitive impairment, and moderate risk tolerance. IFG failed to properly supervise this activity despite numerous red flags, including the account repeatedly appearing on excessive trading reports."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Engineer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "income",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20.3%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$145,000+",
+      "FeesCommissionsPaid": "$185,000+",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Independent Financial Group, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2023080627901",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and failure to supervise"
+      }
+    },
+    "CustomerSummary": "Customer 3 was an engineer with an income investment objective and moderate risk tolerance. The representative engaged in excessive trading in this customer's account, resulting in an annualized cost-to-equity ratio of 20.3%, which meets the 20% threshold generally indicating excessive trading. This customer paid more than $185,000 in total trading costs and incurred realized losses exceeding $145,000. The representative's trading strategy of frequent in-and-out trading was inconsistent with the customer's income investment objective and moderate risk tolerance. Despite red flags, including the account appearing on excessive trading reports and triggering alerts, IFG failed to properly investigate or take appropriate supervisory action to address the excessive trading."
+  },
+  {
+    "Demographics": {
+      "Age": "69",
+      "Employment": "Retired police officer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "capital appreciation",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "13.7%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$115,000+",
+      "FeesCommissionsPaid": "$110,000+",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Independent Financial Group, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2023080627901",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and failure to supervise"
+      }
+    },
+    "CustomerSummary": "Customer 4 was a 69-year-old retired police officer with a capital appreciation investment objective and moderate risk tolerance. Although the customer's cost-to-equity ratio of 13.7% was below the 20% threshold typically indicating excessive trading, the representative still engaged in frequent in-and-out trading that was inconsistent with the customer's investment profile. This customer paid more than $110,000 in total trading costs and incurred realized losses exceeding $115,000. Despite the account repeatedly appearing on excessive trading reports and triggering alerts, IFG failed to properly investigate or take appropriate supervisory action to address the trading activity in this account."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Dental practice (business)",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "capital appreciation and growth",
+      "RiskTolerance": "moderate to moderately-high",
+      "InvestmentAccountType": "Two separate accounts"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "27.1%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$825,000+",
+      "FeesCommissionsPaid": "$788,000",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Independent Financial Group, LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2023080627901",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Excessive Trading under FINRA Rule 2111 (not Reg BI as this was not a retail customer)"
+      }
+    },
+    "CustomerSummary": "Customer 5 was a dental practice with two accounts - one with a capital appreciation investment objective and moderate risk tolerance, and the other with a growth investment objective and moderately-high risk tolerance. Since this was not a retail customer, Reg BI did not apply; instead, FINRA Rule 2111 governed the representative's obligations. The representative engaged in excessive trading in these accounts, resulting in an annualized cost-to-equity ratio of 27.1%, well above the 20% threshold indicating excessive trading. This customer paid approximately $788,000 in total trading costs and incurred realized losses exceeding $825,000. Despite the accounts repeatedly appearing on excessive trading reports and triggering alerts, IFG failed to properly investigate or take appropriate supervisory action to address the excessive trading."
+  },
+  {
+    "OverallSummary": "This case involves Independent Financial Group, LLC (IFG) failing to establish, maintain, and enforce a supervisory system reasonably designed to supervise excessive trading and achieve compliance with Regulation Best Interest (Reg BI) and FINRA Rule 2111. Between July 2020 and December 2022, IFG failed to properly supervise a registered representative who excessively traded five customers' accounts, resulting in approximately $2.2 million in trading costs and $2.2 million in realized losses for these customers collectively.\n\nThe Care Obligation violations centered on excessive trading, which was identified through two primary metrics: (1) cost-to-equity ratios, with four of the five affected accounts having ratios between 20.3% and 27.1%, exceeding the 20% threshold generally indicating excessive trading; and (2) frequent in-and-out trading patterns that were inconsistent with the customers' investment profiles. This excessive trading was particularly egregious given the customers' demographics and investment objectives - three of the affected customers were retirees (ages 69, 77-78, and 88), with the oldest suffering from Alzheimer's disease. Most customers had moderate risk tolerances and investment objectives focused on capital preservation, income, or growth and income.\n\nIFG's supervisory failures included: (1) a flawed alert system that stopped generating alerts for six months after initial review; (2) failure to provide guidance to compliance staff on how to evaluate excessive trading; (3) failure to train supervisors on identifying patterns of excessive trading; and (4) failure to respond appropriately to red flags, such as accounts repeatedly appearing on excessive trading reports. The firm also violated FINRA Rules 8210 and 2010 by providing late and incomplete responses to FINRA's requests for information related to its investigation.\n\nFor these violations, IFG was censured, fined $500,000, and required to undertake remediation of its supervisory systems. All affected customers have either received restitution or are expected to receive full restitution through a separate agreement."
+  }
+]

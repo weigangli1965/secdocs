@@ -1,13 +1,14 @@
 import os
-import json
 import argparse
 import anthropic
+import time
 
 # Set up argument parser
 parser = argparse.ArgumentParser()
 parser.add_argument("--cases-dir", default="../../casestxts/", help="Path to directory with case txt files")
 parser.add_argument("--casefile", help="Single case file to summarize (overrides directory read)")
 parser.add_argument("--save-output", action="store_true", help="Save summarizeed response to file")
+parser.add_argument("--sleep", default="0", help="Sleep time between requests (in seconds) to avoid rate limiting")
 
 args = parser.parse_args()
 
@@ -35,11 +36,15 @@ def get_case_text_data(casefile):
         with open(casefile, "r") as file:
             data = file.read()
         print("READING FILE:", casefile)
-        cases_map[os.path.basename(casefile)] = data
+        case_name = os.path.basename(casefile)[:-4]    # Drop .txt
+        cases_map[case_name] = data
         return cases_map
 
+    files = os.listdir(CASES_DIR)
+    files.sort()
+
     # Otherwise, read from the specified directory
-    for filename in os.listdir(CASES_DIR):
+    for filename in files:
         if filename.endswith(".txt"):
             filepath = os.path.join(CASES_DIR, filename)
             with open(filepath, "r") as file:
@@ -105,8 +110,13 @@ def summarize_case(case_raw_text, case_filename):
 def main():
     case_data = get_case_text_data(args.casefile)
 
-    for case_name in case_data.keys():
+    case_names = list(case_data.keys())
+    case_names.sort()
+    for case_name in case_names:
         summarize_case(case_data[case_name], case_name)
+        if args.sleep != "0":
+            print(f"Sleeping for {args.sleep} seconds to avoid rate limiting...")
+            time.sleep(int(args.sleep))
 
 if __name__ == "__main__":
     main()

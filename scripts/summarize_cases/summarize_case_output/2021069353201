@@ -1,0 +1,47 @@
+[    
+{
+"Demographics": {
+  "Age": "Senior investors (over 65)",
+  "Employment": "Retired",
+  "IncomeLevel": "NOTSPECIFIED",
+  "InvestmentExperience": "NOTSPECIFIED",
+  "NetWorth": "NOTSPECIFIED"
+},
+
+"InvestmentType": {
+  "PrimaryInvestmentRecommended": "Class A mutual funds",
+  "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+  "InvestmentPurpose": "NOTSPECIFIED",
+  "RiskTolerance": "Moderate",
+  "InvestmentAccountType": "NOTSPECIFIED"
+},
+
+"AccountInformation": {
+  "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+  "CostToEquityRatio": "NOTSPECIFIED",
+  "HighRiskInvestmentRatio": "NOTSPECIFIED"
+},
+
+"FinancialLossSuffered": {
+  "AmountLost": "Combined $40,972.50 in excessive sales fees (Customer A: $16,817.64, Customer B: $14,857.50 in restitution ordered)",
+  "FeesCommissionsPaid": "Excessive sales charges from frequent switching between mutual fund families",
+  "ImpactOnPortfolio": "Moderate"
+},
+
+"Breach": {
+  "ExistenceofLegalBreach": "Yes",
+  "Case Information": {
+    "Name of Party": "John Wigmore Reilly III",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069353201",
+    "Date": "July 9, 2024",
+    "CareObligationViolation": "Yes",
+    "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile, Excessive Trading (short-term mutual fund switching), Failure to consider costs and reasonably available alternatives"
+  }
+},
+
+"CustomerSummary": "Two senior customers (over 65, retired, with moderate risk tolerance) were affected by the broker's recommendations of 25 short-term switches of Class A mutual funds between July 2018 and September 2021. These Class A funds typically carry substantial front-end loads and are intended for long-term holding. The broker recommended these switches without a reasonable basis to believe they were in the customers' best interest, with average holding periods of only 229-273 days. The Care Obligation violation occurred because the broker: (1) failed to consider the customers' investment objectives and time horizons; (2) failed to consider the costs associated with the recommendations; (3) failed to consider reasonably available alternatives that would have achieved the customers' objectives at lower cost; and (4) placed his own interests ahead of the customers by generating commission revenue through the excessive switching. Customer A suffered $16,817.64 in excessive fees and Customer B suffered $14,857.50 in excessive fees, for which restitution was ordered.",
+
+"OverallSummary": "This case involves a broker who violated the Care Obligation of Regulation Best Interest by recommending and executing 25 short-term switches of Class A mutual funds to two senior customers between July 2018 and September 2021. The broker's recommendations were unsuitable and not in the customers' best interest because: (1) Class A mutual funds are designed as long-term investments due to their substantial front-end loads; (2) the average holding period was only 229-273 days, far too short to justify the sales charges; (3) the broker created a pattern of switching between different mutual fund families rather than within the same fund family, which would have reduced costs; (4) the broker failed to consider the customers' investment objectives, time horizons, and moderate risk tolerance; (5) the broker failed to consider reasonably available alternatives at lower cost; and (6) the broker generated commissions at the expense of his customers. The two affected customers paid a total of $40,972.50 in excessive sales fees, with restitution of $31,675.14 ordered (the remainder having been paid by the broker's firm). This case highlights how brokers must consider costs, holding periods, and reasonably available alternatives when recommending products with significant front-end loads to ensure recommendations are truly in customers' best interests."
+}
+]

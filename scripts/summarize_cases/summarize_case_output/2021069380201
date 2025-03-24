@@ -1,0 +1,41 @@
+[
+{
+  "Demographics": {
+    "Age": "NOTSPECIFIED",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+    "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+    "InvestmentPurpose": "NOTSPECIFIED",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+    "CostToEquityRatio": "NOTSPECIFIED",
+    "HighRiskInvestmentRatio": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "NOTSPECIFIED",
+    "FeesCommissionsPaid": "NOTSPECIFIED",
+    "ImpactOnPortfolio": "NOTSPECIFIED"
+  },
+  "Breach": {
+    "ExistenceofLegalBreach": "Yes",
+    "Case Information": {
+      "Name of Party": "DMK Advisor Group, Inc.",
+      "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+      "Case No.": "2021069380201",
+      "Date": "May 18, 2023",
+      "CareObligationViolation": "No",
+      "TypeofCareObligationViolation": "NOTSPECIFIED"
+    }
+  },
+  "CustomerSummary": "The case identifies a group of 241 retail customers of DMK Advisor Group who did not receive Form CRS by the required deadline of July 30, 2020. These customers had direct business with the firm and did not have accounts with DMK's clearing firm. This represented approximately 25% of the firm's retail customers. The Form CRS was eventually delivered to these customers in October 2022, over two years after the required deadline. The violations in this case relate to supervision failures regarding Form CRS delivery and Regulation Best Interest compliance, not specific Care Obligation violations.",
+  "OverallSummary": "This case involves DMK Advisor Group's failure to establish, maintain, and enforce a supervisory system and written supervisory procedures (WSPs) reasonably designed to achieve compliance with Form CRS requirements and Regulation Best Interest (Reg BI). The firm failed to timely deliver Form CRS to 241 retail customers (approximately 25% of their customer base) who did direct business with the firm and did not have accounts with the clearing firm. While the firm did arrange for its clearing firm to deliver Form CRS to customers who had accounts there, it failed to deliver the form to these 241 customers until October 2022, well past the July 30, 2020 deadline. Additionally, from June 30, 2020, to June 15, 2022, DMK's WSPs regarding Reg BI provided only general information and did not address the Care or Conflict of Interest Obligations of Reg BI, nor did they describe how to prevent, detect, or promptly correct violations. The firm was censured and fined $35,000 for these violations. No specific Care Obligation violations were identified in this case; rather, the violations pertained to supervisory failures and procedural deficiencies regarding Form CRS delivery requirements and Reg BI compliance generally."
+}
+]

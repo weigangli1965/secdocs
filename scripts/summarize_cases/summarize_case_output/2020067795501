@@ -1,0 +1,43 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "certain new-issue products eligible for advisory fee waivers",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage account (initially) followed by transfer to advisory account"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$1,486,380 in aggregate for all 1,361 affected customers",
+      "FeesCommissionsPaid": "Unnecessary advisory fees that would have been waived if purchased directly in advisory accounts",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Merrill Lynch, Pierce, Fenner & Smith Incorporated",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2020067795501",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Failure to comply with Compliance Obligation of Regulation Best Interest, which resulted in recommendations that were not in customers' best interest due to avoidable fees"
+      }
+    },
+    "CustomerSummary": "This represents a group of 1,361 customers who were affected by Merrill Lynch's supervisory failures. These customers purchased certain new-issue products in brokerage accounts based on representatives' recommendations, and then promptly transferred those products to advisory accounts. These transactions caused customers to pay unnecessary advisory fees totaling almost $1.5 million that could have been avoided if the products had been purchased directly in advisory accounts (as Merrill Lynch offered a 12-month advisory fee waiver for these products if purchased directly in advisory accounts). The firm failed to have systems, policies, or procedures to detect or prevent these recommendations that were not in customers' best interest.",
+    "OverallSummary": "From January 2018 through June 2022, Merrill Lynch failed to establish and maintain a supervisory system and written procedures reasonably designed to ensure their representatives made suitable recommendations in customers' best interest regarding certain products eligible for advisory fee waivers. The violation affected 1,361 customers across more than 2,000 accounts, resulting in approximately $1.5 million in avoidable fees. The specific issue was that representatives recommended customers purchase certain new-issue products in brokerage accounts and then promptly transfer them to advisory accounts, causing customers to incur advisory fees that would have been waived for 12 months if the products had been purchased directly in advisory accounts. The firm's supervisory systems failed to address the unique characteristics of these products and did not have surveillance tools to detect or prevent these potentially unsuitable recommendations. The Care Obligation violation occurred because, for the period from June 30, 2020 to June 30, 2022, the firm violated the Compliance Obligation of Regulation Best Interest by failing to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Reg BI, resulting in recommendations that were not in customers' best interest due to avoidable fees. Merrill Lynch was censured and ordered to pay restitution of $1,486,380 plus interest to the affected customers."
+  }
+]
+```

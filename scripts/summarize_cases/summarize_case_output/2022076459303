@@ -1,0 +1,159 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "13-14 years old (siblings)",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "limited",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Equities, including speculative stocks",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "7.65 (13-year old), 7.42 (14-year old)",
+      "CostToEquityRatio": "32% (13-year old), 27.48% (14-year old)",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$8,936 (13-year old), $122,816 (14-year old)",
+      "FeesCommissionsPaid": "$79,696 including $74,978 in commissions (13-year old), $50,859 including $47,908 in commissions (14-year old)",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Monmouth Capital Management LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022076459303",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Two minor siblings (13 and 14 years old) funded accounts with Servicemembers' Group Life Insurance (SGLI) payments after their father's death (military service member). Three Monmouth representatives engaged in short-term, in-and-out trading in both accounts. For the 13-year-old, 61 trades were executed over 20 months, resulting in an annualized cost-to-equity ratio of 32% and turnover rate of 7.65. The account had average monthly funded equity of $149,409, but Monmouth purchased over $1.9 million in securities, generating $79,696 in trading costs and causing $8,936 in losses. For the 14-year-old, trading resulted in a 27.48% cost-to-equity ratio and 7.42 turnover rate. With average monthly funded equity of $111,741, Monmouth purchased over $1.3 million in securities, resulting in $50,859 in trading costs and $122,816 in losses. The Care Obligation violation is evident through: (1) excessively high turnover rates above 6, (2) cost-to-equity ratios above 20%, and (3) inappropriate short-term trading that was inconsistent with the customers' investment profiles."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "limited",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Equities, including speculative stocks",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "17.27",
+      "CostToEquityRatio": "103.29%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$9,897",
+      "FeesCommissionsPaid": "$17,260 including $13,744 in commissions",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Monmouth Capital Management LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022076459303",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and Churning"
+      }
+    },
+    "CustomerSummary": "This customer with limited investment experience and moderate risk tolerance was subjected to churning. Over a 16-month period, the customer's account experienced an extremely high annualized cost-to-equity ratio of 103.29% and turnover rate of 17.27. Despite having average monthly funded equity of only $12,532, Monmouth purchased over $288,500 in securities for the account. The trading generated total costs of $17,260 (including $13,744 in commissions) and caused $9,897 in losses. The Care Obligation violation was established through: (1) an extremely high turnover rate significantly above 6, (2) a cost-to-equity ratio far exceeding 20%, (3) de facto control of the account as the customer routinely followed recommendations, and (4) reckless disregard for the customer's interests shown by the short-term trading strategy inconsistent with the customer's moderate risk tolerance and limited investment experience."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Equities, including speculative stocks",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "19.02",
+      "CostToEquityRatio": "72.01%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$158,078",
+      "FeesCommissionsPaid": "$174,736 including $162,239 in commissions",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Monmouth Capital Management LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022076459303",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and Churning"
+      }
+    },
+    "CustomerSummary": "This customer's account was churned over a 29-month period, resulting in an annualized cost-to-equity ratio of 72.01% and turnover rate of 19.02. Although the account had average monthly funded equity of $100,961, Monmouth purchased over $4,641,700 in securities. The excessive trading generated $174,736 in total costs (including $162,239 in commissions) and caused $158,078 in losses. The Care Obligation violation was established through: (1) an extremely high turnover rate more than three times the 6.0 threshold for excessive trading, (2) a cost-to-equity ratio more than three times the 20% threshold, (3) de facto control of the account as the customer routinely followed recommendations, and (4) reckless disregard for the customer's interests demonstrated by the short-term, in-and-out trading pattern."
+  },
+  {
+    "Demographics": {
+      "Age": "Seniors (57 of the 110 affected accounts belonged to senior customers)",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "many were inexperienced investors",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Equities, including speculative stocks",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "6.05 to 35.24, with an average of 11.78",
+      "CostToEquityRatio": "21.75% to 128.5%, with an average of 52.18%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "Substantial losses across accounts",
+      "FeesCommissionsPaid": "$3,953,492 in total trading costs, including $3,553,102 in commissions",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Monmouth Capital Management LLC",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022076459303",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and Churning"
+      }
+    },
+    "CustomerSummary": "This represents the remaining 107 affected customer accounts (of 110 total) that were excessively traded, with 42 of these accounts also churned. The accounts experienced annualized cost-to-equity ratios ranging from 21.75% to 128.5% (average 52.18%) and turnover rates from 6.05 to 35.24 (average 11.78). Of the 110 total affected accounts, 57 belonged to senior customers, and 29 of the churned accounts belonged to seniors. The 42 churned accounts had even higher metrics: turnover rates of 11.01 to 35.24 and cost-to-equity ratios of 46.5% to 126.7%, resulting in $1,837,068 in total trading costs (including $1,634,810 in commissions). Care Obligation violations were established through: (1) turnover rates consistently above 6, (2) cost-to-equity ratios consistently above 20%, (3) de facto control over accounts as customers routinely followed recommendations, (4) reckless disregard for customers' interests shown by the short-term trading strategy inconsistent with customer profiles, and (5) particularly egregious treatment of vulnerable investors including seniors and inexperienced investors."
+  },
+  {
+    "OverallSummary": "Monmouth Capital Management engaged in systematic excessive trading and churning across 110 customer accounts from August 2020 through February 2023, resulting in $3,953,492 in total trading costs, including $3,553,102 in commissions. The firm, through six registered representatives, implemented a pattern where customers would concentrate their entire account value in a handful of securities (including speculative stocks), hold positions for short periods (typically a few weeks to months), then replace them with new concentrated positions. This activity resulted in annualized cost-to-equity ratios ranging from 21.75% to 128.5% (average 52.18%) and turnover rates from 6.05 to 35.24 (average 11.78). Of the 110 excessively traded accounts, 42 were also churned, with these accounts experiencing even higher metrics: turnover rates of 11.01 to 35.24 and cost-to-equity ratios of 46.5% to 126.7%. The Care Obligation violations were established through multiple factors: (1) Turnover rates consistently exceeded the excessive trading threshold of 6; (2) Cost-to-equity ratios consistently exceeded the 20% threshold for excessive trading; (3) The trading was inconsistent with customers' investment profiles; (4) For churned accounts, representatives had de facto control as customers routinely followed recommendations; (5) Representatives acted with reckless disregard for customers' interests; and (6) The violations particularly impacted vulnerable investors, with 57 of the 110 accounts belonging to seniors, and many others belonging to inexperienced investors, including military families who had funded accounts with death benefits. Particularly egregious examples included accounts of two minor siblings (13 and 14 years old) funded with military death benefits, where over $130,000 in combined losses occurred alongside $130,555 in trading costs. The firm failed to supervise this activity despite having promised FINRA in July 2020 that it had improved its supervisory procedures following a previous examination. The firm willfully violated Regulation Best Interest's Care Obligation (Exchange Act Rule 15l-1(a)(2)(ii)), Section 10(b) of the Exchange Act and Rule 10b-5, along with FINRA Rules 2020 and 2010."
+  }
+]
+```

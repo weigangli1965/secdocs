@@ -1,0 +1,41 @@
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "American Wealth Management, Inc.",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2021069376801",
+        "Date": "May 19, 2023",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "This case does not identify specific individual customers who were affected. The violation involved American Wealth Management, Inc. filing and delivering to retail customers a Form CRS (Customer Relationship Summary) that omitted required information, most notably failing to disclose that the firm and six of its financial professionals had legal or disciplinary history. The firm also omitted other required information from its Form CRS, including required language about conflicts of interest and conversation starters. The case does not mention any Care Obligation violations under Regulation Best Interest.",
+    "OverallSummary": "This case involves American Wealth Management, Inc.'s failure to properly complete and disclose information on its Form CRS from July 23, 2020, to March 31, 2022. The firm willfully violated Section 17(a)(1) of the Securities Exchange Act of 1934, Exchange Act Rule 17a-14, and FINRA Rule 2010 by filing and delivering to retail investors a Form CRS that omitted required information. Most significantly, the firm failed to disclose its own disciplinary history (five disciplinary actions between 1995 and 2017) and the disciplinary history of six of its financial professionals, including the firm's CEO. The firm also omitted required language about conflicts of interest, failed to include required conversation starters in the appropriate sections, and failed to disclose how its representatives are compensated. This case does not involve Care Obligation violations under Regulation Best Interest, but rather disclosure failures related to Form CRS requirements. The sanctions included a censure, a $35,000 fine, and an undertaking to review and remediate the deficiencies in its Form CRS. The number of affected customers is not specified, but would include all retail customers who received the deficient Form CRS during the relevant time period."
+  }
+]

@@ -1,0 +1,157 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "76",
+      "Employment": "Retired",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "Growth",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "20.55",
+      "CostToEquityRatio": "93 percent",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$19,575",
+      "FeesCommissionsPaid": "$32,331 (including $23,395 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Tory A. Duggins",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2018056490309",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer A was a 76-year-old retiree who opened an account with Duggins in January 2019. His investment objective was growth. From January 2019 to March 2022, Duggins recommended 120 transactions in Customer A's account resulting in extremely high turnover (20.55) and cost-to-equity ratio (93%), which far exceeded the guidelines of 6 and 20% respectively that indicate excessive trading. These excessive recommendations generated $32,331 in total trading costs and caused $19,575 in realized losses. This constitutes a Care Obligation violation as Duggins failed to ensure that a series of recommended transactions was not excessive and was in the customer's best interest, especially considering the customer's senior status and retirement."
+  },
+  {
+    "Demographics": {
+      "Age": "68",
+      "Employment": "Retired",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "Aggressive growth",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "IRA"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "14.82",
+      "CostToEquityRatio": "59 percent",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$92,995",
+      "FeesCommissionsPaid": "$123,953 (including $101,024 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Tory A. Duggins",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2018056490309",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer B was a 68-year-old retiree who opened an IRA at Spartan with Duggins in October 2018. His investment objective was aggressive growth. From October 2018 through October 2021, Duggins recommended 305 transactions resulting in excessive trading with an annualized turnover rate of 14.82 and cost-to-equity ratio of 59%, well above the regulatory thresholds of 6 and 20% respectively. This excessive trading generated $123,953 in total trading costs (including $101,024 in commissions) and caused a staggering $92,995 in realized losses. This constitutes a Care Obligation violation as Duggins failed to ensure his series of recommendations was not excessive and was in the customer's best interest, particularly given the customer's retirement status and the fact that this was a retirement account."
+  },
+  {
+    "Demographics": {
+      "Age": "42",
+      "Employment": "Self-employed in real estate",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "Speculation",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "24.88",
+      "CostToEquityRatio": "101 percent",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$17,829",
+      "FeesCommissionsPaid": "$71,213 (including $55,195 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Tory A. Duggins",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2018056490309",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "Customer C was a 42-year-old self-employed real estate professional who opened an account with Duggins in September 2018. His investment objective was speculation. From September 2018 through November 2021, Duggins recommended 151 transactions resulting in extreme turnover (24.88) and cost-to-equity ratio (101%), far exceeding regulatory thresholds indicating excessive trading. The trading generated $71,213 in total costs (including $55,195 in commissions) and caused $17,829 in realized losses. Customer C later filed a complaint against Duggins alleging excessive trading and seeking $17,500 in damages, which Duggins failed to disclose on his Form U4. This constitutes a Care Obligation violation as Duggins failed to ensure that his series of recommendations was not excessive and was in the customer's best interest, despite the customer's higher risk tolerance for speculation."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "Between 14.36 to 63.24 across all accounts",
+      "CostToEquityRatio": "Between 58 percent to 289 percent across all accounts",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$235,494 (total across all 8 customers)",
+      "FeesCommissionsPaid": "$444,176 (including $343,416 in commissions across all 8 customers)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Tory A. Duggins",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2018056490309",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      }
+    },
+    "CustomerSummary": "This represents the remaining five customers (beyond Customers A, B, and C detailed separately) who were victims of Duggins' excessive trading. While specific individual details were not provided for these customers, collectively all eight customers experienced excessive trading with annualized cost-to-equity ratios ranging from 58% to 289% and turnover rates between 14.36 and 63.24, well above the 20% and 6 thresholds respectively that indicate excessive trading. This excessive trading across all eight accounts generated total trading costs of $444,176 (including $343,416 in commissions) and caused $235,494 in total realized losses.",
+    "OverallSummary": "This case involves Tory A. Duggins willfully violating the Best Interest Obligation under Regulation BI (for the period June 30, 2020, through April 2022) and FINRA Rule 2111 (for the period December 2016 through June 29, 2020) by excessively trading in the accounts of eight customers, three of whom were seniors. The Care Obligation violation was determined through analysis of quantitative metrics that showed excessive trading: 1) Cost-to-equity ratios ranging from 58% to 289%, far exceeding the 20% threshold that indicates excessive trading; 2) Turnover rates ranging from 14.36 to 63.24, well above the threshold of 6 that indicates excessive trading; 3) Total trading costs of $444,176, including $343,416 in commissions; and 4) Total realized losses of $235,494 across the eight accounts. The case highlights three specific customers: a 76-year-old retiree (Customer A), a 68-year-old retiree with an IRA (Customer B), and a 42-year-old self-employed real estate professional (Customer C). Duggins exercised de facto control over these accounts as customers relied on and routinely followed his recommendations. The case also notes that Duggins willfully failed to report a written customer complaint alleging a sales practice violation on his Form U4, violating Article V, Section 2 of FINRA's By-Laws and FINRA Rules 1122 and 2010. As a result, Duggins was suspended for 18 months from associating with any FINRA member in all capacities. Due to demonstrated financial inability to pay, no monetary sanctions were imposed."
+  }
+]
+```

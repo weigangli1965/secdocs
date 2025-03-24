@@ -1,0 +1,119 @@
+[
+{
+"Demographics": {
+"Age": "69",
+"Employment": "physician",
+"IncomeLevel": "NOTSPECIFIED",
+"InvestmentExperience": "NOTSPECIFIED",
+"NetWorth": "NOTSPECIFIED"
+},
+"InvestmentType": {
+"PrimaryInvestmentRecommended": "NOTSPECIFIED",
+"RiskProfileofPrimaryRecommendedInvestment": "high",
+"InvestmentPurpose": "speculation",
+"RiskTolerance": "high",
+"InvestmentAccountType": "NOTSPECIFIED"
+},
+"AccountInformation": {
+"AnnualizedPortfolioTurnover": "31",
+"CostToEquityRatio": "114%",
+"HighRiskInvestmentRatio": "NOTSPECIFIED"
+},
+"FinancialLossSuffered": {
+"AmountLost": "$326,684 in realized losses",
+"FeesCommissionsPaid": "$229,352 in total trading costs, including $202,964 in commissions",
+"ImpactOnPortfolio": "severe"
+},
+"Breach": {
+"ExistenceofLegalBreach": "Yes",
+"Case Information": {
+"Name of Party": "George Apolonides also known as George Apollo",
+"Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+"Case No.": "2018056490318",
+"Date": "October 8, 2024",
+"CareObligationViolation": "Yes",
+"TypeofCareObligationViolation": "Excessive Trading"
+}
+},
+"CustomerSummary": "Customer A, a 69-year-old physician, opened an account with Apolonides in January 2017 with a speculation investment objective. Between January 2017 and April 2022, Apolonides recommended 357 transactions in Customer A's account, resulting in an annualized turnover rate of 31 and a cost-to-equity ratio of 114%. The excessive trading generated $229,352 in total trading costs, including $202,964 in commissions, and caused $326,684 in realized losses. This constitutes a Care Obligation violation under Regulation BI because Apolonides engaged in excessive trading that was not in the customer's best interest. The analysis to determine excessive trading included examining: (1) the turnover rate of 31 (well above the generally accepted threshold of 6), (2) the cost-to-equity ratio of 114% (well above the 20% threshold), and (3) the significant realized losses suffered by the customer."
+},
+{
+"Demographics": {
+"Age": "79",
+"Employment": "semi-retired banker",
+"IncomeLevel": "NOTSPECIFIED",
+"InvestmentExperience": "NOTSPECIFIED",
+"NetWorth": "NOTSPECIFIED"
+},
+"InvestmentType": {
+"PrimaryInvestmentRecommended": "NOTSPECIFIED",
+"RiskProfileofPrimaryRecommendedInvestment": "high",
+"InvestmentPurpose": "speculation",
+"RiskTolerance": "high",
+"InvestmentAccountType": "NOTSPECIFIED"
+},
+"AccountInformation": {
+"AnnualizedPortfolioTurnover": "17",
+"CostToEquityRatio": "76%",
+"HighRiskInvestmentRatio": "NOTSPECIFIED"
+},
+"FinancialLossSuffered": {
+"AmountLost": "$115,721 in realized losses",
+"FeesCommissionsPaid": "$158,322 in total trading costs, including $148,864 in commissions",
+"ImpactOnPortfolio": "severe"
+},
+"Breach": {
+"ExistenceofLegalBreach": "Yes",
+"Case Information": {
+"Name of Party": "George Apolonides also known as George Apollo",
+"Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+"Case No.": "2018056490318",
+"Date": "October 8, 2024",
+"CareObligationViolation": "Yes",
+"TypeofCareObligationViolation": "Excessive Trading"
+}
+},
+"CustomerSummary": "Customer B, a 79-year-old semi-retired banker, opened an account with Apolonides in March 2016 with a speculation investment objective. Between March 2016 and March 2019, Apolonides recommended 127 transactions in Customer B's account, resulting in an annualized turnover rate of 17 and a cost-to-equity ratio of 76%. The excessive trading generated $158,322 in total trading costs, including $148,864 in commissions, and caused $115,721 in realized losses. This constitutes a Care Obligation violation under Regulation BI because Apolonides engaged in excessive trading that was not in the customer's best interest. The analysis to determine excessive trading included examining: (1) the turnover rate of 17 (well above the generally accepted threshold of 6), (2) the cost-to-equity ratio of 76% (well above the 20% threshold), and (3) the significant realized losses suffered by the customer."
+},
+{
+"Demographics": {
+"Age": "senior customers",
+"Employment": "NOTSPECIFIED",
+"IncomeLevel": "NOTSPECIFIED",
+"InvestmentExperience": "NOTSPECIFIED",
+"NetWorth": "NOTSPECIFIED"
+},
+"InvestmentType": {
+"PrimaryInvestmentRecommended": "NOTSPECIFIED",
+"RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+"InvestmentPurpose": "NOTSPECIFIED",
+"RiskTolerance": "NOTSPECIFIED",
+"InvestmentAccountType": "NOTSPECIFIED"
+},
+"AccountInformation": {
+"AnnualizedPortfolioTurnover": "Range of 17 to 38",
+"CostToEquityRatio": "Range of 71% to 125%",
+"HighRiskInvestmentRatio": "NOTSPECIFIED"
+},
+"FinancialLossSuffered": {
+"AmountLost": "Part of $735,376 in total realized losses across all four accounts",
+"FeesCommissionsPaid": "Part of $618,911 in total trading costs, including $563,263 in commissions across all four accounts",
+"ImpactOnPortfolio": "severe"
+},
+"Breach": {
+"ExistenceofLegalBreach": "Yes",
+"Case Information": {
+"Name of Party": "George Apolonides also known as George Apollo",
+"Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+"Case No.": "2018056490318",
+"Date": "October 8, 2024",
+"CareObligationViolation": "Yes",
+"TypeofCareObligationViolation": "Excessive Trading"
+}
+},
+"CustomerSummary": "The case mentions two additional customers beyond Customers A and B, but does not provide specific details for them individually. However, the document indicates that they were among the four affected customers (three of whom were senior customers) who suffered from Apolonides' excessive trading recommendations between March 2016 and April 2022. The four customers collectively had annualized turnover rates ranging from 17 to 38 and cost-to-equity ratios ranging from 71% to 125%. The excessive trading generated a total of $618,911 in trading costs, including $563,263 in commissions, and caused $735,376 in total realized losses across all four accounts."
+},
+{
+"OverallSummary": "George Apolonides (also known as George Apollo) violated Regulation Best Interest's Care Obligation by engaging in excessive trading in four customers' accounts between March 2016 and April 2022, three of whom were senior customers. Apolonides exercised de facto control over these accounts as customers relied on his advice and routinely followed his recommendations. The excessive trading is evidenced by: (1) high turnover rates ranging from 17 to 38 (well above the industry threshold of 6), (2) high cost-to-equity ratios ranging from 71% to 125% (well above the 20% threshold), and (3) significant financial harm to customers. The trading in these accounts generated $618,911 in total trading costs, including $563,263 in commissions, while causing $735,376 in total realized losses. For Customer A, a 69-year-old physician, Apolonides recommended 357 transactions resulting in a turnover rate of 31, a cost-to-equity ratio of 114%, $229,352 in trading costs (including $202,964 in commissions), and $326,684 in realized losses. For Customer B, a 79-year-old semi-retired banker, Apolonides recommended 127 transactions resulting in a turnover rate of 17, a cost-to-equity ratio of 76%, $158,322 in trading costs (including $148,864 in commissions), and $115,721 in realized losses. Both Customers A and B had 'speculation' as their investment objective. FINRA found that Apolonides willfully violated Exchange Act Rule 15l-1(a)(1) (Regulation BI) and FINRA Rules 2111 and 2010 by recommending excessive trading that was not in his customers' best interests. As a result, Apolonides received an 11-month suspension from associating with any FINRA member in all capacities."
+}
+]

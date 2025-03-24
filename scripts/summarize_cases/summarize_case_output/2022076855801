@@ -1,0 +1,81 @@
+[    
+  {
+    "Demographics": {
+      "Age": "71",
+      "Employment": "retired",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "$851,889 (not including primary residence)"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "non-traded alternative investments",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "47% concentration in speculative alternative investments"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "IBN Financial Services, Inc. and Timothy E. Evans",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022076855801",
+        "Date": "January 29, 2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile, failure to reasonably supervise recommendations"
+      }
+    },
+    "CustomerSummary": "This 71-year-old retired customer with moderate risk tolerance and a net worth of $851,889 (not including primary residence) was recommended five illiquid, non-traded alternative investments totaling $400,000 by an IBN representative, resulting in a 47% concentration in speculative alternative investments. IBN and Evans failed to reasonably supervise these recommendations despite clear red flags regarding suitability/best interest concerns given the customer's age, retirement status, and moderate risk tolerance. The firm failed to follow its own WSP requirements to show good cause for alternative investment concentration exceeding 30% of net worth."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "no more than $25,000 annual income",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "$587,438 (not including primary residence)"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "illiquid, non-traded alternative investments including GWG L Bonds",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "77% concentration in speculative alternative investments, including 15% in L Bonds"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED, but customer brought and settled an arbitration claim against IBN relating to GWG investment",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "IBN Financial Services, Inc. and Timothy E. Evans",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022076855801",
+        "Date": "January 29, 2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile, failure to reasonably supervise recommendations"
+      }
+    },
+    "CustomerSummary": "This customer with low annual income (no more than $25,000), moderate risk tolerance, and a net worth of $587,438 (not including primary residence) was recommended 11 illiquid, non-traded alternative investments totaling $457,000, including $90,000 in GWG L Bonds between November 2020 and February 2021. This resulted in a 77% concentration in speculative alternative investments, with 15% in L Bonds. IBN and Evans failed to reasonably supervise these recommendations despite clear red flags that they were not in the customer's best interest. The customer later brought and settled an arbitration claim against IBN relating to the GWG investment, which subsequently defaulted and filed for bankruptcy in 2022."
+  },
+  {
+    "OverallSummary": "This case involves a Regulation Best Interest violation where IBN Financial Services, Inc. and Timothy E. Evans failed to reasonably supervise recommendations of speculative alternative investments to two retail customers. The Care Obligation violations stemmed from recommendations that were unsuitable or not in the best interests of these customers given their investment profiles.\n\nThe violations involved:\n\n1. A 71-year-old retired customer with moderate risk tolerance and $851,889 net worth who was recommended five illiquid, non-traded alternative investments totaling $400,000, resulting in a 47% concentration in speculative alternative investments.\n\n2. A customer with annual income no more than $25,000, moderate risk tolerance, and $587,438 net worth who was recommended 11 illiquid, non-traded alternative investments totaling $457,000 (including $90,000 in GWG L Bonds), resulting in a 77% concentration in speculative alternative investments.\n\nThe analytical steps used to determine these Care Obligation violations included:\n\n1. Evaluating each customer's investment profile (age, income, net worth, risk tolerance)\n2. Analyzing the risk profile and concentration of the recommended investments\n3. Comparing the concentration levels against the firm's own WSP guidelines (which specified that alternative investment purchases exceeding 30% of a customer's net worth required good cause)\n4. Identifying that IBN and Evans failed to conduct additional review or evaluation despite clear red flags\n\nThe investments included GWG L Bonds, which were corporate bonds with high risk that ultimately defaulted in January 2022, with GWG filing for bankruptcy in April 2022. At least one customer pursued and settled an arbitration claim against IBN relating to their GWG investment.\n\nImportantly, IBN willfully violated Exchange Act Rule 15l-1(a)(1) (Regulation Best Interest) and failed to maintain written policies and procedures reasonably designed to achieve compliance with Reg BI. The firm's sanctions included a $50,000 fine, while Evans received a one-month suspension in all principal capacities and a $5,000 fine."
+  }
+]

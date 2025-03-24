@@ -1,0 +1,43 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage accounts with Portfolio Review Program"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$557,830.64 total across 432 customers",
+      "FeesCommissionsPaid": "Various amounts per individual customer ranging from $1.80 to $19,389.69",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Robert W. Baird & Co. Incorporated (as successor-in-interest to Hefren-Tillotson, Inc.)",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2022075391301",
+        "Date": "March 6, 2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations - Hefren-Tillotson representatives recommended customers open Portfolio Review accounts despite customers already receiving those services through existing accounts, resulting in unnecessary duplicate fees"
+      }
+    },
+    "CustomerSummary": "The case involves 432 customers who were recommended to open approximately 600 Portfolio Review Program accounts by Hefren-Tillotson representatives. These customers were already receiving identical Portfolio Review Program services through their existing or simultaneously opened accounts. As a result, these customers paid $557,830.64 in unnecessary duplicate fees. Individual restitution amounts varied widely among customers, from as little as $1.80 to as much as $19,389.69, with specific amounts detailed for each customer in Attachment A to the AWC.",
+    "OverallSummary": "From June 30, 2020, through September 29, 2022, Hefren-Tillotson violated the Care Obligation of Regulation Best Interest by recommending that 432 customers open approximately 600 Portfolio Review Program accounts, which charged customers commissions plus an extra fee for services they were already receiving through other accounts. The firm's Reg BI violation occurred because representatives recommended account types that were not in customers' best interests, as these customers gained no additional services while paying duplicate fees totaling $557,830.64. The violation was identified through the following analytical steps: (1) Determination that Hefren-Tillotson recommended Portfolio Review accounts to customers who already had accounts receiving the same services; (2) Assessment that customers received no additional services for the extra fees paid; (3) Calculation of unnecessary fees paid by each customer; and (4) Evaluation of the firm's supervisory system, which lacked procedures to ensure account-type recommendations were in customers' best interests. Robert W. Baird & Co. (successor to Hefren-Tillotson) agreed to pay $557,830.64 in restitution plus interest to affected customers, along with a $100,000 fine. Baird voluntarily discontinued the Portfolio Review Program after acquiring Hefren-Tillotson."
+  }
+]
+```

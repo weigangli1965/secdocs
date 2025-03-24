@@ -1,0 +1,43 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "senior (60+ at time of violation)",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "20.39",
+      "CostToEquityRatio": "37.65%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "approximately $12,000 in trading losses",
+      "FeesCommissionsPaid": "$27,566 in commissions",
+      "ImpactOnPortfolio": "severe (account would need to grow by more than 37% annually just to break even)"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Todd Anthony Cirella",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2020065683301",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading - recommending a series of transactions that was excessive in frequency and cost, making it extremely difficult for the customer to realize a profit"
+      }
+    },
+    "CustomerSummary": "A senior investor (who was 60 when the account was opened in 2010) had 46 transactions recommended by Respondent Cirella between June 2020 and January 2021. The broker exercised de facto control over the account as the customer routinely followed his recommendations. These recommendations resulted in an annualized turnover rate of 20.39 and a cost-to-equity ratio of 37.65%, which are both well above the thresholds that generally indicate excessive trading (turnover rate of 6 or cost-to-equity ratio above 20%). The excessive trading generated $27,566 in commissions while causing approximately $12,000 in trading losses. The excessive nature of the trading made it virtually impossible for the customer to profit, as the account would have needed to grow by more than 37% annually just to break even. This pattern of recommendations violated Regulation BI's Care Obligation because the series of transactions, even if potentially suitable when viewed in isolation, was excessive and not in the customer's best interest when considering the customer's investment profile.",
+    "OverallSummary": "This case involves a Regulation BI Care Obligation violation by Todd Anthony Cirella, who recommended excessive trading in the account of a senior customer. Between June 2020 and January 2021, Cirella recommended 46 transactions that generated $27,566 in commissions while causing approximately $12,000 in trading losses. The trading resulted in an annualized turnover rate of 20.39 and a cost-to-equity ratio of 37.65%, both significantly exceeding the thresholds that generally indicate excessive trading (turnover rate of 6 or cost-to-equity ratio above 20%). The analysis used to determine the Care Obligation violation included: (1) measuring the annualized turnover rate (20.39), (2) calculating the cost-to-equity ratio (37.65%), and (3) establishing that the broker had de facto control over the account as the customer routinely followed his recommendations. The high cost-to-equity ratio meant the customer would need to generate returns of more than 37% annually just to break even, making it virtually impossible to realize a profit. Cirella was found to have willfully violated Exchange Act Rule 15l-1 (Regulation BI) for the period from June 30, 2020 through January 31, 2021, and FINRA Rule 2111 (suitability rule) for the period from June 1, 2020 through June 29, 2020. As sanctions, he received a three-month suspension, a $5,000 fine, and was ordered to pay $27,566 in restitution plus interest to the affected customer."
+  }
+]
+```

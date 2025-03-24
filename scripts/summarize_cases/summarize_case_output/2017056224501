@@ -1,0 +1,43 @@
+```json
+[
+   {
+      "Demographics": {
+         "Age": "NOTSPECIFIED",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "NOTSPECIFIED",
+         "InvestmentExperience": "high",
+         "NetWorth": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "self-directed equity trading",
+         "RiskProfileofPrimaryRecommendedInvestment": "high",
+         "InvestmentPurpose": "speculation",
+         "RiskTolerance": "high",
+         "InvestmentAccountType": "Brokerage"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "NOTSPECIFIED",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "SpeedTrader, Inc., formerly known as Mint Global Markets, Inc.",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2017056224501",
+            "Date": "NOTSPECIFIED",
+            "CareObligationViolation": "No",
+            "TypeofCareObligationViolation": "NOTSPECIFIED"
+         }
+      },
+      "CustomerSummary": "This case involves approximately 850 retail customers and 2 institutional customers of SpeedTrader who were affected by the firm's failure to meet its best execution obligations. The customers were primarily self-directed online brokerage clients who were described as 'speculative and high risk only' traders. SpeedTrader failed to properly route customer orders to obtain the best execution prices, interjected third parties between itself and the best market for securities, and did not consider all relevant execution quality factors when routing orders. The firm also routed customer orders to broker-dealers that engaged in net trading without properly reviewing how this affected execution quality. The firm specifically failed to consider price improvement opportunities, likelihood of limit order execution, transaction costs, customer needs, and the impact of payment for order flow arrangements. Chinese customers were particularly affected by AML deficiencies, as the firm failed to investigate suspicious trading activity from 13 China-based customers whose trades generated 46% of the firm's commissions in 2018.",
+      "OverallSummary": "This case involves violations by SpeedTrader, Inc. related to best execution obligations, AML compliance, and Form CRS disclosures. The firm failed to meet its best execution obligations under FINRA Rule 5310 by not conducting proper reviews of execution quality for customer orders. From November 2017 until April 2019, the firm's execution quality reviews were limited to checking only ten random executions biweekly for price disimprovement. Even after automating these reviews in April 2019, the firm continued to only look at price disimprovement and failed to consider other important factors such as price improvement opportunities, likelihood of limit order execution, transaction costs, and customer needs. From January 2017 to July 2022, SpeedTrader routed approximately 100 million shares annually to three broker-dealers engaged in net trading, effectively interjecting third parties between itself and the best market for securities. The firm also failed to implement adequate AML procedures, notably missing suspicious trading activity from 13 China-based customers who generated 46% of the firm's commissions in 2018 despite many of them experiencing significant losses. Additionally, SpeedTrader falsely responded 'No' on its Form CRS regarding disciplinary history despite having 16 regulatory actions disclosed on its Form BD. The violations affected approximately 850 retail customers and 2 institutional customers. Rather than imposing a monetary fine due to the firm's financial condition, FINRA required SpeedTrader to retain an independent consultant to review and revise its supervisory systems and procedures governing best execution and AML obligations."
+   }
+]
+```

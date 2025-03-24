@@ -1,0 +1,43 @@
+```json
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Municipal securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "The Jeffrey Matthews Financial Group, L.L.C.",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2023077092001",
+        "Date": "July 19, 2024",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "The case does not identify specific individual customers who were affected. Rather, it focuses on the firm's failure to establish, maintain, and enforce written policies and procedures related to Regulation Best Interest (Reg BI) and Form CRS obligations. The violations were primarily procedural and compliance-based, not specific Care Obligation violations.",
+    "OverallSummary": "This case involves The Jeffrey Matthews Financial Group, L.L.C. (JMFG), a FINRA member firm headquartered in Florham Park, New Jersey. From June 30, 2020, until March 2023, JMFG failed to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest (Reg BI) and Form CRS requirements. The firm's written supervisory procedures (WSPs) contained a section titled Reg BI but had no actual policies or procedures regarding compliance with Reg BI requirements. Additionally, JMFG's training on Reg BI was inadequate, focusing on suitability rather than Reg BI requirements. Similarly, the firm's WSPs regarding Form CRS lacked specific procedures for preparing, filing, or updating Form CRS. These failures constituted willful violations of Exchange Act Rule 15l-1(a)(1) and MSRB Rule G-27, as well as violations of FINRA Rules 3110 and 2010. The case does not indicate specific customer harm or financial losses, as it focuses on procedural and compliance failures rather than customer-specific violations. JMFG was censured and fined $35,000 ($17,500 of which pertains to violations of MSRB Rule G-27). This case does not involve Care Obligation violations but rather focuses on the Compliance Obligation component of Reg BI and Form CRS requirements."
+  }
+]
+```

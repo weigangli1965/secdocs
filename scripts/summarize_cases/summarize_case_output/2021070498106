@@ -1,0 +1,79 @@
+[    
+   {
+      "Demographics": {
+         "Age": "senior investor",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "moderate",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "moderate"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "GWG L Bonds",
+         "RiskProfileofPrimaryRecommendedInvestment": "high",
+         "InvestmentPurpose": "growth and income",
+         "RiskTolerance": "moderate",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "over 20%"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "$2,000",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Alfred S. Vanderlaan",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent",
+            "Case No.": "2021070498106",
+            "Date": "NOTSPECIFIED",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+         }
+      },
+      "CustomerSummary": "Customer A was a senior investor with moderate risk tolerance, $80,000 annual income, and $912,000 liquid net worth. His investment objective was growth and income, not speculation. Despite already having $135,000 in alternative investments, Vanderlaan recommended a $50,000 investment in high-risk GWG L Bonds, resulting in alternative investments exceeding 20% of the customer's liquid net worth. The Care Obligation was violated as the recommendation was not in Customer A's best interest based on his investment profile and moderate risk tolerance, given the high degree of risk associated with GWG L Bonds. Vanderlaan received $2,000 in commission for this recommendation."
+   },
+   {
+      "Demographics": {
+         "Age": "NOTSPECIFIED",
+         "Employment": "NOTSPECIFIED",
+         "IncomeLevel": "high",
+         "InvestmentExperience": "NOTSPECIFIED",
+         "NetWorth": "high"
+      },
+      "InvestmentType": {
+         "PrimaryInvestmentRecommended": "GWG L Bonds",
+         "RiskProfileofPrimaryRecommendedInvestment": "high",
+         "InvestmentPurpose": "growth and income",
+         "RiskTolerance": "moderate",
+         "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+         "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+         "CostToEquityRatio": "NOTSPECIFIED",
+         "HighRiskInvestmentRatio": "over 21% in L Bonds, 23% in alternative investments"
+      },
+      "FinancialLossSuffered": {
+         "AmountLost": "NOTSPECIFIED",
+         "FeesCommissionsPaid": "$4,508",
+         "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+         "ExistenceofLegalBreach": "Yes",
+         "Case Information": {
+            "Name of Party": "Alfred S. Vanderlaan",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent",
+            "Case No.": "2021070498106",
+            "Date": "NOTSPECIFIED",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+         }
+      },
+      "CustomerSummary": "Customer B had moderate risk tolerance, $700,000 annual income, and $1 million liquid net worth. His investment objective was growth and income, not speculation. Despite already having $100,000 in GWG L Bonds and $15,000 in other alternative investments, Vanderlaan recommended additional investments of $100,000 (December 2020) and $15,000 (February 2021) in GWG L Bonds. These recommendations resulted in over 21% of Customer B's liquid net worth invested in L Bonds and 23% in alternative investments overall. The Care Obligation was violated as these recommendations were not in Customer B's best interest based on his investment profile and moderate risk tolerance, given the high degree of risk associated with GWG L Bonds. Vanderlaan received a total of $4,508 in commissions for these recommendations."
+   },
+   "OverallSummary": "This case involves Care Obligation violations by Alfred S. Vanderlaan who recommended speculative, unrated GWG L Bonds to two retail customers with moderate risk tolerances. The violations specifically fall under Rule 15l-1(a)(1) of Regulation Best Interest (Reg BI) and FINRA Rule 2010. The analytical steps to determine the Care Obligation violations were: 1) Review of customers' investment profiles including risk tolerance, investment objectives, and financial situations; 2) Assessment of the high-risk nature of the GWG L Bonds which were speculative, unrated, and illiquid; 3) Evaluation of the concentration risk created by the recommendations (over 20% of liquid net worth in alternative investments for both customers); and 4) Determination that recommendations were not in the customers' best interests based on their investment profiles. For Customer A (a senior investor), Vanderlaan recommended a $50,000 investment in GWG L Bonds despite the customer already having $135,000 in alternative investments, which increased alternative investment concentration beyond 20% of liquid net worth. For Customer B, Vanderlaan recommended two additional investments totaling $115,000 in GWG L Bonds, despite the customer already having $100,000 in L Bonds and $15,000 in other alternative investments, which resulted in over 21% of liquid net worth in L Bonds. Both customers had moderate risk tolerances and investment objectives of growth and income, not speculation. Vanderlaan earned $6,508 in commissions from these transactions. GWG L Bonds defaulted in January 2022 and GWG filed for bankruptcy in April 2022. As sanctions, Vanderlaan was suspended for three months, fined $10,000, and ordered to pay $6,508 in restitution plus interest to the affected customers."
+]

@@ -1,0 +1,41 @@
+[    
+{  
+    "Demographics": {  
+        "Age": "NOTSPECIFIED",  
+        "Employment": "NOTSPECIFIED",  
+        "IncomeLevel": "NOTSPECIFIED",  
+        "InvestmentExperience": "NOTSPECIFIED",  
+        "NetWorth": "NOTSPECIFIED"  
+    },  
+    "InvestmentType": {  
+        "PrimaryInvestmentRecommended": "Private placements",  
+        "RiskProfileofPrimaryRecommendedInvestment": "high",  
+        "InvestmentPurpose": "NOTSPECIFIED",  
+        "RiskTolerance": "NOTSPECIFIED",  
+        "InvestmentAccountType": "Brokerage"  
+    },  
+    "AccountInformation": {  
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",  
+        "CostToEquityRatio": "NOTSPECIFIED",  
+        "HighRiskInvestmentRatio": "NOTSPECIFIED"  
+    },  
+    "FinancialLossSuffered": {  
+        "AmountLost": "NOTSPECIFIED",  
+        "FeesCommissionsPaid": "NOTSPECIFIED",  
+        "ImpactOnPortfolio": "NOTSPECIFIED"  
+    },  
+    "Breach": {  
+        "ExistenceofLegalBreach": "Yes",  
+        "Case Information": {  
+            "Name of Party": "SI Securities, LLC",  
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",  
+            "Case No.": "2018060263201",  
+            "Date": "July 2, 2024",  
+            "CareObligationViolation": "No",  
+            "TypeofCareObligationViolation": "NOTSPECIFIED"  
+        }  
+    },  
+    "CustomerSummary": "This case involves a group of retail investors who invested in private placements through SI Securities' online platform. The case does not identify individual customers but mentions specific violations affecting various customer groups: (1) Investors in a December 2022 contingency offering where SI Securities improperly failed to terminate the offering and return investor funds when a material change occurred to the minimum contingency amount; (2) Approximately 1,000 customers who received refunds from terminated offerings through an improper process where funds were not returned directly from the escrow agent; (3) Over 15,000 existing retail customers who did not receive Form CRS within 30 days of June 30, 2020; and (4) At least 20,000 instances where retail investors did not receive Form CRS when required. The firm also failed to report at least 55 customer complaints to FINRA. These violations do not constitute Care Obligation violations under Reg BI, but rather violations of other securities laws and regulations.",  
+    "OverallSummary": "This case involves SI Securities, LLC's multiple violations affecting thousands of retail customers who invested in private placements through the firm's online platform between 2016 and 2023. The primary violations include: (1) Failure to terminate a private placement offering and return investor funds when a material change occurred to the minimum contingency (in violation of Exchange Act Rule 10b-9); (2) Improper handling of escrow arrangements where investor funds from terminated offerings were not returned directly to investors (violating Exchange Act Rule 15c2-4); (3) Failure to timely file required documents with FINRA for 58 private placement offerings; (4) Failure to maintain a separate file of written customer complaints; (5) Failure to report at least 55 customer complaints to FINRA; and (6) Failure to establish supervisory systems for Form CRS and failure to deliver Form CRS to over 15,000 existing customers and in at least 20,000 additional instances when required. While these violations affected numerous customers' rights to accurate information and proper handling of their investments, the case does not specifically cite Care Obligation violations under Reg BI. SI Securities was censured and fined $185,000, and the firm has since limited its operations and ceased selling private placements as of May 2023."  
+}  
+]

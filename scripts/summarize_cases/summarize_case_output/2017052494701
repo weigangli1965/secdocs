@@ -1,0 +1,41 @@
+[    
+{
+    "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Mutual Funds (Class C shares)",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Direct business accounts"
+    },
+    "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+        "AmountLost": "$546,000 collectively for customers with potentially unsuitable Class C and B mutual fund purchases",
+        "FeesCommissionsPaid": "Excessive sales charges due to unsuitable share class recommendations",
+        "ImpactOnPortfolio": "moderate"
+    },
+    "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "Case Information": {
+            "Name of Party": "LPL Financial LLC",
+            "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+            "Case No.": "2017052494701",
+            "Date": "December 27, 2023",
+            "CareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile and Insufficient Supervision"
+        }
+    },
+    "CustomerSummary": "Customers 1-63 were affected by LPL's failure to supervise direct business transactions, which resulted in potentially unsuitable purchases of mutual fund shares. Specifically, LPL's review identified 98 purchases of class C mutual fund shares that were potentially unsuitable for customers with long investment horizons, and 74 purchases of class B mutual fund shares that were potentially inconsistent with customers' investment horizons and liquidity needs. These customers collectively paid approximately $546,000 in excessive sales charges. Individual restitution amounts ranged from $14.61 to $55,130.81, with Customer 1 having the highest restitution amount of $55,130.81. The Care Obligation violation involved LPL's failure to ensure representatives collected complete customer profile information necessary to make suitable recommendations.",
+    "OverallSummary": "LPL Financial violated Regulation Best Interest's Care Obligation from May 2017 to November 2022 by failing to establish, maintain, and enforce a supervisory system reasonably designed to ensure that recommendations of Listed BDCs complied with FINRA Rule 2111 and Reg BI's Care Obligation. The case involved three main categories of violations: (1) Failure to supervise direct business transactions affecting 63 customers who paid approximately $546,000 in excessive sales charges for unsuitable mutual fund share classes; (2) Providing inaccurate information in approximately 11,300 switch letters to customers and failing to supervise switch transactions, affecting 46 customers who paid approximately $31,000 in sales charges; and (3) Failing to reasonably supervise Listed BDC transactions, affecting 16 customers who incurred $73,930 in realized losses due to overconcentration in Listed BDCs. The analytical steps used to determine violations included: (1) identifying LPL's failure to ensure representatives reported direct business transactions on trade blotters used for exception reports; (2) determining LPL failed to collect complete customer investment profile information necessary for suitability determinations; (3) identifying inaccurate information in switch letters sent to customers; and (4) determining LPL's electronic supervisory tools failed to reasonably alert supervisors to potentially unsuitable concentration levels in Listed BDCs. FINRA imposed sanctions including a $5.5 million fine and $651,374.51 in restitution plus interest."
+}
+]

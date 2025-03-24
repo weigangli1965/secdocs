@@ -1,0 +1,119 @@
+[
+  {
+    "Demographics": {
+      "Age": "71 years old as of August 2018",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Joint account with Customer A2"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "13.01",
+      "CostToEquityRatio": "50.49%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$115,183 (realized losses for both Customer A1 and A2)",
+      "FeesCommissionsPaid": "$9,613.76 (commissions for both Customer A1 and A2)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Matthew I. Turner",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2021070498105",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading - Turner recommended excessive trading that was unsuitable and not in the customer's best interest. The turnover rate of 13.01 and cost-to-equity ratio of 50.49% significantly exceeded thresholds that indicate excessive trading."
+      }
+    },
+    "CustomerSummary": "Customer A1, who was 71 years old when opening a joint account with Customer A2 in August 2018, suffered from excessive trading by Matthew Turner. Turner exercised de facto control over their account as they relied on his advice and routinely followed his recommendations. Between September 2018 and March 2020, Turner placed 72 trades in the joint account, generating $9,613.76 in commissions and resulting in realized losses of $115,183. The account had an annualized turnover rate of 13.01 and a cost-to-equity ratio of 50.49%, meaning the account would have needed to grow by more than 50% annually just to break even. This level of trading was deemed excessive and unsuitable, violating FINRA Rule 2111 prior to June 30, 2020, and Reg BI afterward. The Care Obligation violation was determined by analyzing the turnover rate (exceeding the 6.0 threshold for excessiveness) and the cost-to-equity ratio (exceeding the 20% threshold for excessiveness)."
+  },
+  {
+    "Demographics": {
+      "Age": "63 years old as of August 2018",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Joint account with Customer A1"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "13.01",
+      "CostToEquityRatio": "50.49%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$115,183 (realized losses for both Customer A1 and A2)",
+      "FeesCommissionsPaid": "$9,613.76 (commissions for both Customer A1 and A2)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Matthew I. Turner",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2021070498105",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading - Turner recommended excessive trading that was unsuitable and not in the customer's best interest. The turnover rate of 13.01 and cost-to-equity ratio of 50.49% significantly exceeded thresholds that indicate excessive trading."
+      }
+    },
+    "CustomerSummary": "Customer A2, who was 63 years old when opening a joint account with Customer A1 in August 2018, suffered from excessive trading by Matthew Turner. Turner exercised de facto control over their account as they relied on his advice and routinely followed his recommendations. Between September 2018 and March 2020, Turner placed 72 trades in the joint account, generating $9,613.76 in commissions and resulting in realized losses of $115,183. The account had an annualized turnover rate of 13.01 and a cost-to-equity ratio of 50.49%, meaning the account would have needed to grow by more than 50% annually just to break even. This level of trading was deemed excessive and unsuitable, violating FINRA Rule 2111 prior to June 30, 2020, and Reg BI afterward. The Care Obligation violation was determined by analyzing the turnover rate (exceeding the 6.0 threshold for excessiveness) and the cost-to-equity ratio (exceeding the 20% threshold for excessiveness)."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "9.04",
+      "CostToEquityRatio": "27.58%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$45,639 in realized losses",
+      "FeesCommissionsPaid": "$24,655.93 in commissions",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Matthew I. Turner",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2021070498105",
+        "Date": "NOTSPECIFIED",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading - Turner recommended excessive trading that was unsuitable and not in the customer's best interest. The turnover rate of 9.04 and cost-to-equity ratio of 27.58% significantly exceeded thresholds that indicate excessive trading."
+      }
+    },
+    "CustomerSummary": "Customer B opened an account with WestPark in August 2018, with Turner becoming the broker of record in September 2019. The customer relied on Turner's advice and routinely followed his recommendations, giving Turner de facto control over the account. Between October 2019 and December 2020, Turner placed 110 trades in Customer B's account, generating $24,655.93 in commissions and resulting in realized losses of $45,639. The account had an annualized turnover rate of 9.04 and a cost-to-equity ratio of 27.58%, meaning the account would have needed to grow by more than 27% annually just to break even. This level of trading was deemed excessive, unsuitable, and not in the customer's best interest, violating FINRA Rule 2111 prior to June 30, 2020, and Reg BI (Rule 15l-1(a)(1)) after June 30, 2020. The Care Obligation violation was determined by analyzing the turnover rate (exceeding the 6.0 threshold for excessiveness) and the cost-to-equity ratio (exceeding the 20% threshold for excessiveness)."
+  },
+  {
+    "OverallSummary": "This case involves Matthew I. Turner, a General Securities Representative registered with FINRA through WestPark Capital, Inc., who engaged in excessive trading in the accounts of three customers between September 2018 and December 2020. The excessive trading violated Rule 15l-1(a)(1) under the Securities Exchange Act of 1934 (Reg BI) for conduct on and after June 30, 2020, FINRA Rule 2111 for conduct prior to June 30, 2020, and FINRA Rule 2010.\n\nThe Care Obligation violations were identified using two key analytical metrics:\n1. Turnover rates: The affected accounts had turnover rates of 13.01 (Customers A1 and A2's joint account) and 9.04 (Customer B's account), both well above the threshold of 6.0 that generally indicates excessive trading.\n2. Cost-to-equity ratios: The affected accounts had cost-to-equity ratios of 50.49% (Customers A1 and A2's joint account) and 27.58% (Customer B's account), both well above the 20% threshold that generally indicates excessive trading.\n\nIn total, Turner placed 72 trades in the joint account of Customers A1 (71 years old) and A2 (63 years old) between September 2018 and March 2020, generating $9,613.76 in commissions and resulting in realized losses of $115,183. For Customer B, Turner placed 110 trades between October 2019 and December 2020, generating $24,655.93 in commissions and resulting in realized losses of $45,639.\n\nAdditionally, Turner exercised discretionary authority to effect 148 trades in four customers' accounts without obtaining written authorization from the customers and without his firm having accepted the accounts as discretionary, in violation of NASD Rule 2510(b) and FINRA Rules 3260(b) and 2010.\n\nAs a result of these violations, Turner agreed to a five-month suspension from associating with any FINRA member in all capacities and to pay restitution of $27,415.75 plus interest to the affected customers."
+  }
+]
