@@ -1,165 +1,261 @@
-Look at <CUSTOMER></CUSTOMER>, <ALLOCATION></ALLOCATION>, and <TRANSACTIONS></TRANSACTIONS>  
-
-below and consdier the law in <LAW></LAW>.  Tell me whatwhether violations occurred under section (2)(ii) and why of Reg BI, as interpreted by the SEC and FINRA.  If there are violations, please explain and describe them. 
+Look at <CUSTOMER></CUSTOMER>, <ALLOCATION></ALLOCATION>, and <TRANSACTIONS></TRANSACTIONS>   
 
   
 
-<LAW> 
-
-§ 240.15l-1 Regulation best interest. 
-
-(a) Best interest obligation. 
+below and consdier the law in <LAW></LAW>.  Tell me whether violations occurred under section (2)(ii), as interpreted by the SEC and FINRA.  If there are violations, please explain and describe them.  
 
   
 
-(1) A broker, dealer, or a natural person who is an associated person of a broker or dealer, when making a recommendation of any securities transaction or investment strategy involving securities (including account recommendations) to a retail customer, shall act in the best interest of the retail customer at the time the recommendation is made, without placing the financial or other interest of the broker, dealer, or natural person who is an associated person of a broker or dealer making the recommendation ahead of the interest of the retail customer. 
+<LAW>  
 
   
 
-(2) The best interest obligation in paragraph (a)(1) of this section shall be satisfied if: 
+§ 240.15l-1 Regulation best interest.  
 
   
 
-(i) Disclosure obligation. The broker, dealer, or natural person who is an associated person of a broker or dealer, prior to or at the time of the recommendation, provides the retail customer, in writing, full and fair disclosure of: 
+(a) Best interest obligation.  
 
   
 
-(A) All material facts relating to the scope and terms of the relationship with the retail customer, including: 
+(1) A broker, dealer, or a natural person who is an associated person of a broker or dealer, when making a recommendation of any securities transaction or investment strategy involving securities (including account recommendations) to a retail customer, shall act in the best interest of the retail customer at the time the recommendation is made, without placing the financial or other interest of the broker, dealer, or natural person who is an associated person of a broker or dealer making the recommendation ahead of the interest of the retail customer.  
 
   
 
-(1) That the broker, dealer, or such natural person is acting as a broker, dealer, or an associated person of a broker or dealer with respect to the recommendation; 
+(2) The best interest obligation in paragraph (a)(1) of this section shall be satisfied if:  
+
+   
+
+(i) Disclosure obligation. The broker, dealer, or natural person who is an associated person of a broker or dealer, prior to or at the time of the recommendation, provides the retail customer, in writing, full and fair disclosure of:  
 
   
 
-(2) The material fees and costs that apply to the retail customer's transactions, holdings, and accounts; and 
+(A) All material facts relating to the scope and terms of the relationship with the retail customer, including:  
+
+   
+
+(1) That the broker, dealer, or such natural person is acting as a broker, dealer, or an associated person of a broker or dealer with respect to the recommendation;  
 
   
 
-(3) The type and scope of services provided to the retail customer, including any material limitations on the securities or investment strategies involving securities that may be recommended to the retail customer; and 
+(2) The material fees and costs that apply to the retail customer's transactions, holdings, and accounts; and    
 
   
 
-(B) All material facts relating to conflicts of interest that are associated with the recommendation. 
+(3) The type and scope of services provided to the retail customer, including any material limitations on the securities or investment strategies involving securities that may be recommended to the retail customer; and  
+
+   
 
   
 
-(ii) Care obligation. The broker, dealer, or natural person who is an associated person of a broker or dealer, in making the recommendation, exercises reasonable diligence, care, and skill to: 
+(B) All material facts relating to conflicts of interest that are associated with the recommendation.  
 
   
 
-(A) Understand the potential risks, rewards, and costs associated with the recommendation, and have a reasonable basis to believe that the recommendation could be in the best interest of at least some retail customers; 
+(ii) Care obligation. The broker, dealer, or natural person who is an associated person of a broker or dealer, in making the recommendation, exercises reasonable diligence, care, and skill to:  
 
- 	(Note: SEC guidance states that to adhere to this requirement a broker or dealer must exercise reasonable diligence, care, and skill to understand the potential risks, rewards, and costs associated with the recommendation. FINRA generally assess a violation under this prong of the Care Obligation, if it concludes that the broker, dealer, or natural person associated with the broker or dealer, failed to conduct sufficient DUE DILIGENCE before recommending an offering.  Examples include: 
+   
 
-A firm that (1) Failed to take reasonable steps to confirm that the Issuer of a recommended investment actually possessed rights to the shares of Company A, which was the sole purpose of the investment; (2) Failed to determine the amount of markups applied by Issuer to the shares of Company A, despite knowing markups were being applied; (3) Had no reasonable basis to believe the Issuer had access to or possession of the pre-IPO shares identified in the offering documents; and (4) Could not determine if the Issuer's markups were reasonable and properly disclosed. 
-
-A firm that (1) Failed to reasonably investigate that the management of the Issuer of a recommended investment; and (2) Did not identify that the Issuer’s Chief Executive Officer was previously the subject of federal and state regulatory actions related to illegal robocalls to senior consumers. 
-
-A firm that (1) Failed to take reasonable steps to confirm that Issuer the issuer of a recommended investment actually possessed rights to the shares of Company B; and (2) Failed to investigate information concerning SEC charges filed against two individuals associated with another pre-IPO fund from which the Issuer purported to source Company B shares.) 
-
-(B) Have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer's investment profile and the potential risks, rewards, and costs associated with the recommendation and does not place the financial or other interest of the broker, dealer, or such natural person ahead of the interest of the retail customer; 
-
-(Note: SEC guidance states that brokers or dealers must consider the risks, rewards, and costs in light of the retail customer’s investment profile.  A retail customer’s investment profiles is defined by the SEC to include the retail customer’s: age; other investments; financial situation and needs; tax status; investment objectives; investment experience; investment time horizon; liquidity needs; risk tolerance; and any other information the retail customer may disclose to the broker in connection with a recommendation 
-
- FINRA generally assesses a violation under this prong if it concludes that a broker of dealer’s recommendations were in appropriate relative to the customer’s investment objectives and other characteristics relative to the recommended investment and these recommendations led to bad outcomes for the customers including a loss or a complaint.  Examples include: 
-
-The recommendation of high risk or alternative investments to a customer with a conservative risk tolerance, low income, or a need for liquidity; 
-
-The recommendation of sufficient high-risk investments to customers with a moderate risk tolerance that the amount of high risk investments in the customer’s portfolio becomes disproportionate (as low as 20% in some cases). 
+(A) Understand the potential risks, rewards, and costs associated with the recommendation, and have a reasonable basis to believe that the recommendation could be in the best interest of at least some retail customers;  
 
   
 
-(C) Have a reasonable basis to believe that a series of recommended transactions, even if in the retail customer's best interest when viewed in isolation, is not excessive and is in the retail customer's best interest when taken together in light of the retail customer's investment profile and does not place the financial or other interest of the broker, dealer, or such natural person making the series of recommendations ahead of the interest of the retail customer. 
+	(Note: SEC guidance states that to adhere to this requirement a broker or dealer must exercise reasonable diligence, care, and skill to understand the potential risks, rewards, and costs associated with the recommendation. FINRA generally assess a violation under this prong of the Care Obligation, if it concludes that the broker, dealer, or natural person associated with the broker or dealer, failed to conduct sufficient DUE DILIGENCE before recommending an offering.  Examples include a broker or dealer that:  
+
+(1) Failed to take reasonable steps to confirm that the Issuer of a recommended investment actually possessed rights to the shares of a Company, which was the sole purpose of the investment;  
+
+(2) Failed to determine the amount of markups applied by Issuer to the shares of a Company, despite knowing markups were being applied;  
+
+(3) Had no reasonable basis to believe the Issuer had access to or possession of the pre-IPO shares identified in the offering documents;  
+
+(4) Could not determine if the Issuer's markups were reasonable and properly disclosed; 
+
+(5) Failed to reasonably investigate that the management of the Issuer of a recommended investment;  
+
+(6) Did not identify that the Issuer’s Chief Executive Officer was previously the subject of federal and state regulatory actions related to illegal robocalls to senior consumers; 
+
+(7) Failed to take reasonable steps to confirm that Issuer the issuer of a recommended investment actually possessed rights to the shares of the company recommended;  
+
+(8) Failed to investigate information concerning SEC charges filed against two individuals associated with another pre-IPO fund from which the Issuer purported to source Company B shares;  
+
+(9) Failed to understand the nature and features of the product before recommending it; or 
+
+(10) Relied almost exclusively on issuer-provided information rather than conducting independent verification. 
 
   
 
-(Note: FINRA states that “No single test defines when trading is excessive, but factors such as the turnover rate, the 
+  
 
-cost-to-equity ratio, and the use of in-and-out trading in a customer's account are relevant 
+(B) Have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer's investment profile and the potential risks, rewards, and costs associated with the recommendation and does not place the financial or other interest of the broker, dealer, or such natural person ahead of the interest of the retail customer;  
 
-to determining whether an associated person has excessively traded a customer's account 
+  
 
-in violation of Reg BI. The turnover rate represents the number of times that a portfolio 
+(Note: SEC guidance states that brokers or dealers must consider the risks, rewards, and costs in light of the retail customer’s investment profile.  A retail customer’s investment profiles is defined by the SEC to include the retail customer’s: age; other investments; financial situation and needs; tax status; investment objectives; investment experience; investment time horizon; liquidity needs; risk tolerance; and any other information the retail customer may disclose to the broker in connection with a recommendation  
 
-of securities is exchanged for another portfolio of securities. The cost-to-equity ratio 
+  
 
-measures the amount an account must appreciate just to cover commissions and other 
+FINRA will find a violation under this prong if it concludes that a broker of dealer’s recommendations were inappropriate relative to the customer’s investment objectives and other characteristics relative to the recommended investment and these recommendations led to bad outcomes for the customers including a loss or a complaint.  Examples include:  
 
-expenses. In other words, it is the break-even point where a customer may begin to see a 
+  
 
-return. A turnover rate of six or more, or a cost-to-equity ratio above 20 percent, 
+The recommendation of high risk or alternative investments to a customer with a conservative risk tolerance, low income, or a need for liquidity;  
 
-generally indicates that a series of recommended transactions was excessive.”) 
+  
+
+The recommendation of sufficient high-risk investments to customers with a moderate risk tolerance that the amount of high risk investments in the customer’s portfolio becomes disproportionate (as low as 20% in some cases) 
 
  
 
-(iii) Conflict of interest obligation. The broker or dealer establishes, maintains, and enforces written policies and procedures reasonably designed to: 
+FINRA has also found violations in cases where a broker or dealer recommended a transaction that caused the customer to suffer loss and failed to consider reasonably available alternative investments at lower cost.)  
 
   
 
-(A) Identify and at a minimum disclose, in accordance with paragraph (a)(2)(i) of this section, or eliminate, all conflicts of interest associated with such recommendations; 
+   
 
   
 
-(B) Identify and mitigate any conflicts of interest associated with such recommendations that create an incentive for a natural person who is an associated person of a broker or dealer to place the interest of the broker, dealer, or such natural person ahead of the interest of the retail customer; 
+(C) Have a reasonable basis to believe that a series of recommended transactions, even if in the retail customer's best interest when viewed in isolation, is not excessive and is in the retail customer's best interest when taken together in light of the retail customer's investment profile and does not place the financial or other interest of the broker, dealer, or such natural person making the series of recommendations ahead of the interest of the retail customer.  
 
   
 
-(C)(1) Identify and disclose any material limitations placed on the securities or investment strategies involving securities that may be recommended to a retail customer and any conflicts of interest associated with such limitations, in accordance with subparagraph (a)(2)(i), and 
+   
 
   
 
-(2) Prevent such limitations and associated conflicts of interest from causing the broker, dealer, or a natural person who is an associated person of the broker or dealer to make recommendations that place the interest of the broker, dealer, or such natural person ahead of the interest of the retail customer; and 
+(Note: FINRA interprets the word “excessive” in this regulatory provision as referring to excessive trading of a customer’s account.  You should not infer any other meaning to the word “excessive” within the Care Obligation.  FINRA cases provide a consistent standard, which you should apply in determining whether a case involves excessive trading: “No single test defines when trading is excessive, but factors such as the turnover rate, the cost-to-equity ratio, and the use of in-and-out trading in a customer's account are relevant  
+
+to determining whether an associated person has excessively traded a customer's account in violation of Reg BI. The turnover rate represents the number of times that a portfolio of securities is exchanged for another portfolio of securities. The cost-to-equity ratio measures the amount an account must appreciate just to cover commissions and other expenses. In other words, it is the break-even point where a customer may begin to see a return. A turnover rate of six or more, or a cost-to-equity ratio above 20 percent, generally indicates that a series of recommended transactions was excessive.”)  
 
   
 
-(D) Identify and eliminate any sales contests, sales quotas, bonuses, and non-cash compensation that are based on the sales of specific securities or specific types of securities within a limited period of time. 
+  
 
   
 
-(iv) Compliance obligation. In addition to the policies and procedures required by paragraph (a)(2)(iii) of this section, the broker or dealer establishes, maintains, and enforces written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest. 
+(iii) Conflict of interest obligation. The broker or dealer establishes, maintains, and enforces written policies and procedures reasonably designed to:  
 
   
 
-(b) Definitions. Unless otherwise provided, all terms used in this rule shall have the same meaning as in the Securities Exchange Act of 1934. In addition, the following definitions shall apply for purposes of this section: 
+   
 
   
 
-(1) Retail customer means a natural person, or the legal representative of such natural person, who: 
+(A) Identify and at a minimum disclose, in accordance with paragraph (a)(2)(i) of this section, or eliminate, all conflicts of interest associated with such recommendations;  
 
   
 
-(i) Receives a recommendation of any securities transaction or investment strategy involving securities from a broker, dealer, or a natural person who is an associated person of a broker or dealer; and 
+   
 
   
 
-(ii) Uses the recommendation primarily for personal, family, or household purposes. 
+(B) Identify and mitigate any conflicts of interest associated with such recommendations that create an incentive for a natural person who is an associated person of a broker or dealer to place the interest of the broker, dealer, or such natural person ahead of the interest of the retail customer;  
 
   
 
-(2) Retail customer investment profile includes, but is not limited to, the retail customer's age, other investments, financial situation and needs, tax status, investment objectives, investment experience, investment time horizon, liquidity needs, risk tolerance, and any other information the retail customer may disclose to the broker, dealer, or a natural person who is an associated person of a broker or dealer in connection with a recommendation. 
+   
 
   
 
-(3) Conflict of interest means an interest that might incline a broker, dealer, or a natural person who is an associated person of a broker or dealer —consciously or unconsciously—to make a recommendation that is not disinterested. 
-
-</LAW> 
+(C)(1) Identify and disclose any material limitations placed on the securities or investment strategies involving securities that may be recommended to a retail customer and any conflicts of interest associated with such limitations, in accordance with subparagraph (a)(2)(i), and  
 
   
 
-<CUSTOMER>{CUSTOMER}</CUSTOMER> 
+   
 
   
 
-<ALLOCATION>{ALLOCATION}</ALLOCATION> 
+(2) Prevent such limitations and associated conflicts of interest from causing the broker, dealer, or a natural person who is an associated person of the broker or dealer to make recommendations that place the interest of the broker, dealer, or such natural person ahead of the interest of the retail customer; and  
+
+  
+
+   
+
+  
+
+(D) Identify and eliminate any sales contests, sales quotas, bonuses, and non-cash compensation that are based on the sales of specific securities or specific types of securities within a limited period of time.  
+
+  
+
+   
+
+  
+
+(iv) Compliance obligation. In addition to the policies and procedures required by paragraph (a)(2)(iii) of this section, the broker or dealer establishes, maintains, and enforces written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest.  
+
+  
+
+   
+
+  
+
+(b) Definitions. Unless otherwise provided, all terms used in this rule shall have the same meaning as in the Securities Exchange Act of 1934. In addition, the following definitions shall apply for purposes of this section:  
+
+  
+
+   
+
+  
+
+(1) Retail customer means a natural person, or the legal representative of such natural person, who:  
+
+  
+
+   
+
+  
+
+(i) Receives a recommendation of any securities transaction or investment strategy involving securities from a broker, dealer, or a natural person who is an associated person of a broker or dealer; and  
+
+  
+
+   
+
+  
+
+(ii) Uses the recommendation primarily for personal, family, or household purposes.  
+
+  
+
+   
+
+  
+
+(2) Retail customer investment profile includes, but is not limited to, the retail customer's age, other investments, financial situation and needs, tax status, investment objectives, investment experience, investment time horizon, liquidity needs, risk tolerance, and any other information the retail customer may disclose to the broker, dealer, or a natural person who is an associated person of a broker or dealer in connection with a recommendation.  
+
+  
+
+   
+
+  
+
+(3) Conflict of interest means an interest that might incline a broker, dealer, or a natural person who is an associated person of a broker or dealer —consciously or unconsciously—to make a recommendation that is not disinterested.  
+
+  
+
+</LAW>  
+
+  
+
+   
+
+  
+
+<CUSTOMER>{CUSTOMER}</CUSTOMER>  
+
+  
+
+   
+
+  
+
+<ALLOCATION>{ALLOCATION}</ALLOCATION>  
+
+  
+
+   
 
   
 
 <TRANSACTIONS>{TRANSACTIONS}</TRANSACTIONS> 
-
-  
-
- 
 
  

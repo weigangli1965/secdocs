@@ -1,146 +1,307 @@
-Here is a case within the <CASE></CASE> markers. 
+Case Summary Prompt with Updates 3/24/25 
 
-<CASE>{CASE}</CASE>
-Please read and summarize what you know about each known affected customer in this format, where each top numbered row is a json object with the obvious keys and values.   
+Here is a case within the <CASE></CASE> markers.  
 
-    
+  
 
-[    
+<CASE>{CASE}</CASE> 
 
-   
+Please read and summarize what you know about each known affected customer in this format, where each top numbered row is a json object with the obvious keys and values.    
 
-{For each identifiable affected customer, provide the following information individually.  If there are no identifiable individuals, please provide for customer groups:   
+  
 
-"Demographics":   
+     
 
-    
+ { 
 
-{ "Age": (e.g., 50-75, senior investors, retirees),   
+“Customers”:  
 
-    
+(For each identifiable affected customer, provide the following information individually.  If there are no identifiable individuals, please provide for customer groups: 
 
-  "Employment": (e.g., working professional, retired, self-employed),   
+ 
 
-    
+[     
 
-  "IncomeLevel": (low, moderate, high),   
-
-    
-
-  "InvestmentExperience": (low, moderate, high),   
+  
 
     
+
+  
+
+"Demographics":    
+
+  
+
+     
+
+  
+
+{ "Age": (e.g., 50-75, senior investors, retirees),    
+
+  
+
+     
+
+  
+
+  "Employment": (e.g., working professional, retired, self-employed),    
+
+  
+
+     
+
+  
+
+  "IncomeLevel": (low, moderate, high),    
+
+  
+
+     
+
+  
+
+  "InvestmentExperience": (low, moderate, high),    
+
+  
+
+     
+
+  
 
   "NetWorth": (low, moderate, high)   
 
+ 
+
+“InvestmentPortfolioValue: (in $)  
+
+  
+
+     
+
+  
+
+},    
+
+  
+
+     
+
+  
+
+"InvestmentType": {    
+
+  
+
+     
+
+  
+
+  "PrimaryInvestmentRecommended": (e.g., L Bonds, Structured Notes)   , 
+
+  
+
+“RiskProfileofPrimaryRecommendedInvestment”: (low, medium, high)   , 
+
+  
+
+     
+
+  
+
+"InvestmentPurpose": (e.g., growth, income, wealth preservation, speculation. Note: Please note if in the text of the case, FINRA assesses that the broker or dealer has intentionally misrepresented the customer’s investment purpose and in those cases provide your assessment of the customer’s actual investment purpose, based on context provided in the case.) ,   
+
+  
+
+     
+
+  
+
+"RiskTolerance": (low, moderate, high. Note: Please note if in the text of the case, FINRA assesses that the broker or dealer has intentionally misrepresented the customer’s risk tolerance and in those cases provide your assessment of the customer’s actual risk tolerance, based on the customer’s actual investment purpose, age, net worth, and other factors) ,   
+
+  
+
+     
+
+  
+
+"InvestmentAccountType": (IRA, Brokerage, Retirement)    
+
+  
+
+},    
+
+  
+
+     
+
+  
+
+"AccountInformation": {     
+
+  
+
+"AnnualizedPortfolioTurnover" : Annualized Portfolio Turnover for an account ($),    
+
+  
+
+"CostToEquityRatio": Annualized Cost-to-equity Ratio  (percentage),    
+
+  
+
+“HighRiskInvestmentRatio”: Percentage of customer’s portfolio that is made up of high risk investments following a broker or dealer’s recommended transactions (percentage),    
+
+“HighRiskNetworthRatio”: Percentage of customer’s networth that is made up of high risk investments following a broker or dealer’s recommended transactions (percentage) 
+
+  
+
+     
+
+  
+
+},    
+
+  
+
+     
+
+  
+
+     
+
+  
+
+"FinancialLossSuffered":  {    
+
+  
+
+     
+
+  
+
+"AmountLost": (specific dollar figures where available),    
+
+  
+
+     
+
+  
+
+"FeesCommissionsPaid": (include the fees or commissions earned by the broker or dealer for transactions included in the case), 
+
     
 
-},   
+“OtherTransactionCosts”: (include any other transaction costs incurred by the customer, aside from fees or commissions charged by the broker or dealer.) , 
 
-    
+     
 
-"InvestmentType": {   
+  
 
-    
+"ImpactOnPortfolio": (severe, moderate, minor)    
 
-  "PrimaryInvestmentRecommended": (e.g., L Bonds, Structured Notes)   
+  
 
-“RiskProfileofPrimaryRecommendedInvestment”: (low, medium, high)   
+     
 
-    
+  
 
-"InvestmentPurpose": (e.g., growth, income, wealth preservation, speculation)   
-
-    
-
-"RiskTolerance": (low, moderate, high)   
-
-    
-
-"InvestmentAccountType": (IRA, Brokerage, Retirement)   
-
-},   
-
-    
-
-"AccountInformation": {    
-
-"AnnualizedPortfolioTurnover" : Annualized Portfolio Turnover for an account ($),   
-
-"CostToEquityRatio": Annualized Cost-to-equity Ratio  (percentage),   
-
-“HighRiskInvestmentRatio”: Percentage of customer’s portfolio that is made up of high risk investments following a broker or dealer’s recommended transactions (percentage).   
-
-    
-
-},   
-
-    
-
-    
-
-"FinancialLossSuffered":  {   
-
-    
-
-"AmountLost": (specific dollar figures where available),   
-
-    
-
-"FeesCommissionsPaid": (where excessive),   
-
-    
-
-"ImpactOnPortfolio": (severe, moderate, minor),   
-
-    
-
-},   
-
-    
-
-"Breach": {   
-
-“ExistenceofLegalBreach: (Respond “Yes” or “No”.)    If it's a breach, provide detailed information":  
-
-{“Case Information”:   
-
-“Name of Party”: (include individual or firm listed in RE line)   
-
-   
-
-“Type of Document”: (e.g., AWC letter, Offer of Settlement, Office of Hearing Officer’s Decision)   
-
-   
-
-“Case No.”: (include document number provided at the top of the case)   
-
-   
-
-“Date”: (provide the date of the document)   
+},    
 
  
 
-"CareObligationViolation": (Respond "Yes" or "No".) Important: Please read the case carefully and only respond "yes", if the case specifically mentions the "Care Obligation" or cites to "17 CFR § 240.15l-1(a)(2)(ii)" as a primary violation. Do not infer a Care Obligation violation from other rule violations. Please analyze this case with special attention to the regulatory framework and primary rule violations cited by FINRA. Distinguish between primary violations and secondary effects. If the case only includes other violations of Reg BI, 17 CFR § 240.15l-1, such as the need to provide a form CRS notification or the requirements for compliance procedures, you should respond "no". 
+ 
+
+  
+
+"Breach": {    
+
+  
+
+“ExistenceofLegalBreach”: (Respond “Yes” or “No”.),    
+
+"IsCareObligationViolation": (Respond "Yes" or "No".) (Important: Please read the case carefully and only respond "yes", if the case specifically mentions the "Care Obligation" or cites to "17 CFR § 240.15l-1(a)(2)(ii)" as a primary violation. Do not infer a Care Obligation violation from other rule violations. Please analyze this case with special attention to the regulatory framework and primary rule violations cited by FINRA. Distinguish between primary violations and secondary effects – for example, you should respond “no” if the primary violation is a failure to supervise that leads to the secondary effect of unspecific Care Obligation violations. If the case only includes other violations of Reg BI, 17 CFR § 240.15l-1, such as the need to provide a form CRS notification or the requirements for compliance procedures, you should respond "no".  Respond “no” if for a particular customer, the activity in question took place exclusively before Reg BI went into effect and the breaches in question were under FINRA rule 2111.), 
+
+  
+
+  
+
+  
+
+“TypeofCareObligationViolation”: (If there is no care obligation violation, respond “None”.  Please explain the type of Care Obligation violation that has been identified.  Examples include Insufficient Due Diligence and Risk Analysis, Inappropriate Investment Recommendations Relative to Client Profile, Failure to Consider Reasonable Alternative Investments Involving a Lower Cost to the Investor, Excessive Trading. For cases where there is not a Care Obligation violation, you may note here where appropriate “Failure to supervise under other regulations leading to secondary Care Obligation violations,” or “Violations of analogous suitability requirements under FINRA Rule 2111”.)  , 
 
  
 
-“TypeofCareObligationViolation”: (Please explain the type of Care Obligation violation that has been identified.  Examples include Insufficient Due Diligence and Risk Analysis, Inappropriate Investment Recommendations Relative to Client Profile, Excessive Trading, Failure to supervise under other regulations leading to secondary care act violations)   
+}, 
+
+ 
+
+ 
+
+"CustomerSummary": (For each customer you outline, please provide a summary of how this person was affected. Please explicitly identify the nature of the Care Obligation violation (i.e., violation type) and describe the test or specific analytical steps used (numbered if possible) to reach this conclusion. If you identify important information that regarding a customer doesn't fit cleanly into the specified fields, include it in the "CustomerSummary" field rather than omitting it. ) 
+
+], 
+
+  
+
+      
+
+  
+
+“Case Information”:    { 
+
+  
+
+“Name of Party”: (include individual or firm listed in RE line),    
+
+  
 
     
 
-}},   
+  
+
+“Type of Document”: (e.g., AWC letter, Offer of Settlement, Office of Hearing Officer’s Decision),    
+
+  
 
     
 
-"CustomerSummary": For each customer you outline, please provide a summary of how this person was affected. Please explicitly identify the nature of the Care Obligation violation (i.e., violation type) and describe the test or specific analytical steps used (numbered if possible) to reach this conclusion. If you identify important information that regarding a customer doesn't fit cleanly into the specified fields, include it in the "CustomerSummary" field rather than omitting it.   
+  
 
-     "OverallSummary": Provide a detailed overall summary of the Care Obligation violations in the case, including specific violations, how the firm failed to meet its obligations, number of affected customers, dollar amounts involved, and any relevant context about the investments or issuers that affects customer impact. Explicitly identify the nature of the Care Obligation violation (i.e., violation type) and describe the test or analytical steps (numbered if possible) used to reach this conclusion. All details in the summary should be provided in the JSON file, which should be standalone. If you identify important information that doesn't fit cleanly into the specified fields, include it in the "OverallSummary" field rather than omitting it.    
+“Case No.”: (include document number provided at the top of the case),    
 
-}]   
+  
 
     
 
-You can use NOTSPECIFIED if the info is not there.     
+  
 
-Please return only the JSON specified.
+“Date”: (provide the date of the document) ,   
+
+  
+
+  
+
+  
+
+     
+
+  
+
+},    
+
+     "OverallSummary": (Provide a detailed overall summary of the Care Obligation violations in the case, including specific violations, how the firm failed to meet its obligations, number of affected customers, dollar amounts involved, and any relevant context about the investments or issuers that affects customer impact. Explicitly identify the nature of the Care Obligation violation (i.e., violation type) and describe the test or analytical steps (numbered if possible) used to reach this conclusion. All details in the summary should be provided in the JSON file, which should be standalone. If you identify important information that doesn't fit cleanly into the specified fields, include it in the "OverallSummary" field rather than omitting it. )    
+
+  
+
+}    
+
+  
+
+     
+
+  
+
+You can use NOTSPECIFIED if the info is not there.      
+
+  
+
+Please return only the JSON specified. 

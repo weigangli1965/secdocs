@@ -4,10 +4,11 @@ import sys
 import argparse
 from dotenv import load_dotenv
 import anthropic
+from json_repair import repair_json
 
 # Set up argument parser
 parser = argparse.ArgumentParser()
-parser.add_argument("--cases-dir", default="../../cases_summaries", help="Path to directory with case JSON files")
+parser.add_argument("--cases-dir", default="../summarize_cases/summarize_case_output/", help="Path to directory with case JSON files")
 parser.add_argument("--cached-customer", action="store_true", help="Use cached customer data")
 parser.add_argument("--cached-allocation", action="store_true", help="Use cached allocation data")
 parser.add_argument("--cached-transactions", action="store_true", help="Use cached transactions data")
@@ -19,25 +20,43 @@ args = parser.parse_args()
 
 CASES_DIR = args.cases_dir
 
+# Cleaning: Sometimes Claude or GPT will return this random json format
+def clean_and_load_json(s):
+    content_with_removed_backticks = s.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+    repaired_json_string = repair_json(content_with_removed_backticks)
+    return json.loads(repaired_json_string)
+
+def case_number_from_file_path(file_path):
+    basename = os.path.basename(file_path)
+    return basename.removesuffix('.json')  
+
 def get_case_data(casefile):
     cases_map = {}
 
+    # KEY IS FULL PATH
     # If a single casefile is specified, load only that
     if casefile:
-        with open(casefile, "r") as file:
-            data = json.load(file)
-        print("READING FILE:", casefile)
-        cases_map[os.path.basename(casefile)] = data
-        return cases_map
+        filepaths = [casefile]
+    else:
+        filepath_ends = os.listdir(CASES_DIR)
+        filepaths = [os.path.join(CASES_DIR, filepath) for filepath in filepath_ends]
+
+    print(filepaths)
 
     # Otherwise, read from the specified directory
-    for filename in os.listdir(CASES_DIR):
-        if filename.endswith(".json"):
-            filepath = os.path.join(CASES_DIR, filename)
+    for filepath in filepaths:
+        if filepath.endswith(".json"):
             with open(filepath, "r") as file:
-                data = json.load(file)
-            print("READING FILENAME:", filename)
-            cases_map[filename] = data
+                print("READING FILENAME:", filepath)
+                data_string = file.read()
+                try:
+                    data = clean_and_load_json(data_string)
+                    case_number = case_number_from_file_path(filepath) 
+                    cases_map[case_number] = data
+                    print("CASE NAME:", case_number)   
+                except Exception as e:
+                    print(f"File {filepath} has error decoding JSON : {e}. SKIPPING.")
+                    continue
 
     return cases_map
 
@@ -49,16 +68,6 @@ if not API_KEY:
 
 anthropic_client = anthropic.Anthropic(api_key=API_KEY)
 
-# def send_anthropic_message_raw(user_message, system_message="", max_tokens=4096):
-#     messages = [{"role": "user", "content": user_message}]
-
-#     response = anthropic_client.messages.create(
-#         model="claude-3-7-sonnet-20250219",
-#         system=system_message,
-#         max_tokens=max_tokens,
-#         messages=messages)
-    
-#     return response
 
 PROMPTS_DIR = "./synthesize_prompts"
 def load_prompts():
@@ -126,12 +135,11 @@ def nice_mkdir(path):
         os.mkdir(path)
 
 def process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_prefix):
-
+    print(f"Processing plaintiff {plaintiff_index} for {plaintiff_filename_prefix}")
     nice_mkdir("./synthesize_output")
     nice_mkdir(f"./synthesize_output/{plaintiff_filename_prefix}")
     nice_mkdir(f"./synthesize_output/{plaintiff_filename_prefix}/{plaintiff_index}")
     
-
     plaintiff_record_cleaned = select_relevant_keys(plaintiff_record)
     if not plaintiff_record_cleaned:
         return # skip any empty records 
@@ -207,13 +215,14 @@ def process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_pref
 
 def main():
     case_data = get_case_data(args.casefile)
-
+    
     for plaintiff_filename in case_data.keys():
         plaintiff_filename_prefix = plaintiff_filename.replace('.json', '')
         if args.plaintiff_index is not None:
-            process_plaintiff(case_data[plaintiff_filename][args.plaintiff_index], args.plaintiff_index, plaintiff_filename_prefix)
+            process_plaintiff(case_data[plaintiff_filename]['Customers'][args.plaintiff_index], args.plaintiff_index, plaintiff_filename_prefix)
         else:
-            for plaintiff_index, plaintiff_record in enumerate(case_data[plaintiff_filename]):
+            for plaintiff_index, plaintiff_record in enumerate(case_data[plaintiff_filename]['Customers']):
+                print(f"Processing plaintiff {plaintiff_index} for {plaintiff_filename_prefix}")
                 process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_prefix)
 
 if __name__ == "__main__":

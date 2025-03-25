@@ -1,11 +1,18 @@
 
-Using the information above, come up with a reasonable series of financial transactions matching the above data of the form
-```
-Date,
-PrimaryInvestmentRecommended,
-RiskProfileofPrimaryRecommendedInvestment,
-InvestmentPurpose,
-InvestmentAccoutType,
-BoughtOrSold,
-TotalAmount
-```
+Using the information above, come up with a reasonable series of financial transactions matching the above data of the form 
+
+Date, 
+PrimaryInvestmentRecommended, 
+RiskProfileofPrimaryRecommendedInvestment, 
+InvestmentPurpose, 
+InvestmentAccoutType, 
+BoughtOrSold, 
+TotalAmount 
+
+Ratio of Total Portolio (%) 
+
+Fees Commissions Paid (in $),  
+
+Other Transaction Costs (in $):  
+ 
+ 

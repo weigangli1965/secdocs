@@ -1,34 +1,45 @@
-Read this json in <CASE_DATA></CASE_DATA> and come up with a hypothetical record for a customer that would match it.
+Customer Information Prompt with Updates 3/24/25 
+Read this case summery json in <case_data></case_data> and come up with a hypothetical record for a customer that would match it.  Where possible, you should match the hypothetical data with the data in the case summary json.  Where you are required to develop hypothetical data, please ensure that it does not contradict the data in the case summary json. 
 
-For the file customer.json, return json and use the keys specified as (Key name, type or enum)
+ 
 
-```
-'ID (integer),
-Age (in years),
-Experience (in years),
-Income (in K/year),
-Income Categorical (High,Low,Medium)
-ZIP Code (numeric),
-Family members (integer count),
-Education (Graduate,Professional,Undergraduate,Undergraduate),
-Employment (Retired,Self-Employed,Working Professional),
-Mortgage (in K$),
-Personal Loan (Yes/No),
-Securities Account (Yes/No),
-Annualized Portfolio Turnover (number),
-Cost To Equity Ratio (Percent),
-Amount Lost (in $), 
-Fees Commissions Paid (in $),
-TD Account (Yes/No),
-Online Account (Yes/No),
-CreditCard (Yes, No)
-Net Worth (in K$)
-Investment Portfolio (in K$)
-Risk Tolerance (Aggressive,Conservative,Moderate),
-Financial Goals (Education Funding,Estate Planning,Retirement,Tax Optimization,Wealth Growth,Wealth Growth)
-Wealth Management Service Level (Basic,Premium,Premium,Private)
-```
+For the file customer.json, return json and use the keys specified as (Key name, type or enum) 
 
-<CASE_DATA>{CASE_DATA}</CASE_DATA>
+'ID (integer), 
+Age (in years), 
+Experience (in years), 
+Income (in K/year), 
+Income Categorical (High,Low,Medium) 
+ZIP Code (numeric), 
+Family members (integer count), 
+Education (Graduate,Professional,Undergraduate,Undergraduate), 
+Employment (Retired,Self-Employed,Working Professional), 
+Mortgage (in K$), 
+Personal Loan (Yes/No), 
+Securities Account (Yes/No), 
+Annualized Portfolio Turnover (number), (Note- if there is no number specified in the case summary json, return a number lower than 6)  
+Cost To Equity Ratio (Percent), (Note- if there is no percentage specified in the case summary json, return a percentage lower than 20%) 
 
-Please just return the json with no commentary.
+High Risk Investment Ratio (percent) 
+
+HighRiskNetworthRatio (percent) 
+Amount Lost (in $),  
+Fees Commissions Paid (in $), 
+
+Other Transaction Costs (in $): 
+TD Account (Yes/No), 
+Online Account (Yes/No), 
+CreditCard (Yes, No) 
+Net Worth (in K$) 
+Investment Portfolio Value (in K$) 
+Risk Tolerance (Aggressive,Conservative,Moderate), 
+Financial Goals (Education Funding,Estate Planning,Retirement,Tax Optimization,Wealth Growth,Wealth Growth) 
+Wealth Management Service Level (Basic,Premium,Premium,Private) 
+  
+<case_data>
+{CASE_DATA} 
+</case_data>
+
+Please just return the json with no commentary. 
+
+ 

@@ -89,8 +89,6 @@ def send_anthropic_message(messages, user_message, system_message="", max_tokens
 
 
 def summarize_case(case_raw_text, case_filename):
-    print (f"SUMARRIZING {case_filename}: ", case_raw_text)
-
     nice_mkdir("./summarize_case_output")
     
     messages = []
@@ -99,12 +97,13 @@ def summarize_case(case_raw_text, case_filename):
 #   == Case Summary prompt ==
     summarize_case_prompt = prompts['summarize_case_teddy.txt']
     summarize_case_prompt = summarize_case_prompt.replace("{CASE}", case_raw_text)
+    print("** Processing Case: ", case_filename)
     summarize_case_response = send_anthropic_message(messages, summarize_case_prompt)
     print("** Process Case Response: ", summarize_case_response)
 
     if args.save_output:
-        print ("** Saving Process Case Response")
-        with open(f"./summarize_case_output/{case_filename}", "w") as f:
+        print("** Saving Process Case Response")
+        with open(f"./summarize_case_output/{case_filename}.json", "w") as f:
             f.write(summarize_case_response)
 
 def main():
