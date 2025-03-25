@@ -1,0 +1,48 @@
+# Violations of Regulation Best Interest's Care Obligation Under Section (2)(ii)
+
+Based on the provided customer information, portfolio allocation, transaction history, and the relevant law, there are clear violations of the Care Obligation under Regulation Best Interest Section (2)(ii), specifically under subsections (A) and (B).
+
+## Violation of Care Obligation (2)(ii)(B)
+
+### 1. Misalignment with Customer's Risk Tolerance and Investment Profile
+
+The customer data clearly indicates:
+- Risk tolerance: Conservative
+- Investment experience: None
+- Income: Low ($35K/year)
+- Financial goal: Education funding
+- Net worth: Low ($50K)
+
+Despite this profile, the broker recommended a portfolio where:
+- 95% of assets are allocated to moderate-to-very high risk investments
+- Only 5% is allocated to low or moderate risk investments
+- 85.2% of the portfolio is in high-risk investments (High Risk Investment Ratio)
+
+This allocation directly contradicts FINRA's guidance which specifically identifies "the recommendation of high risk or alternative investments to a customer with a conservative risk tolerance, low income, or a need for liquidity" as a violation.
+
+### 2. Disproportionate High-Risk Allocation
+
+The High Risk Investment Ratio of 85.2% vastly exceeds what FINRA considers appropriate even for moderate risk tolerance customers (where FINRA cites as little as 20% high-risk allocation can be disproportionate). The specific allocations show:
+- Technology Sector ETF (High risk): 35%
+- Cryptocurrency ETF (High risk): 20%
+- Growth Stock Fund (Moderate to High risk): 25%
+- REIT (High risk): 10%
+- Commodities Futures (Very High risk): 5%
+
+### 3. Misalignment with Investment Purpose
+
+All transactions list "Wealth preservation" as the investment purpose, yet the selected investments are predominantly growth-oriented and speculative, completely contrary to preservation.
+
+## Violation of Care Obligation (2)(ii)(C)
+
+### Potentially Excessive Trading
+
+The customer's portfolio shows:
+- Annualized Portfolio Turnover: 5.8
+- Cost To Equity Ratio: 18.5%
+
+While these numbers fall just below FINRA's explicit thresholds for automatic excessive trading findings (turnover of 6+ or cost-to-equity ratio above 20%), they are extremely close to those thresholds for a customer with zero investment experience and a conservative risk profile. The high fees and transaction costs ($3,200 in commissions plus $850 in other costs) on a relatively small portfolio ($25K) suggest trading that may be excessive given the customer's profile.
+
+## Conclusion
+
+The broker failed to satisfy the Care Obligation under Regulation Best Interest by recommending investments that were clearly unsuitable for this customer's investment profile. The allocation of 85.2% to high-risk investments for a conservative, inexperienced investor with low income and education funding goals represents a serious violation of the requirement to make recommendations in the best interest of the retail customer based on their investment profile. The broker appears to have placed their own financial interests ahead of the customer's, as evidenced by the high commission and fee structure on inappropriate investments.

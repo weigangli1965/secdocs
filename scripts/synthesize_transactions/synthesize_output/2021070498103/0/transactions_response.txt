@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2019-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 128400,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 2568,
+    "Other Transaction Costs (in $)": 850
+  },
+  {
+    "Date": "2019-05-22",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 107000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 535,
+    "Other Transaction Costs (in $)": 215
+  },
+  {
+    "Date": "2019-06-18",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 64200,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 128,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2019-08-05",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42800,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 107,
+    "Other Transaction Costs (in $)": 35
+  },
+  {
+    "Date": "2019-09-12",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income and diversification",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42800,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 85,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2019-10-24",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "tax-advantaged income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21400,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 42,
+    "Other Transaction Costs (in $)": 10
+  },
+  {
+    "Date": "2019-11-15",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "capital preservation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21400,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 35,
+    "Other Transaction Costs (in $)": 10
+  }
+]
+```

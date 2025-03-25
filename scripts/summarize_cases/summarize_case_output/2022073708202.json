@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "58",
+        "Employment": "general contractor",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "16",
+        "CostToEquityRatio": "47%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$52,000+ in commissions and trade costs",
+        "OtherTransactionCosts": "Included in the $52,000+ figure",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "The 58-year-old general contractor opened an account with Moise in February 2021. Over the next seven months, Moise recommended 199 trades that resulted in a turnover rate of 16 and a cost-to-equity ratio exceeding 47%. This level of trading was excessive and not in the customer's best interest. The customer suffered realized losses when Moise recommended selling securities shortly after purchasing them. The customer paid more than $52,000 in commissions and trade costs, benefiting Moise at the customer's expense. FINRA analyzed the case using quantitative metrics (turnover rate and cost-to-equity ratio) to determine the trading was excessive, noting that rates above 6 and 20% respectively generally indicate excessive trading. The customer ultimately settled with Joseph Stone Capital through mediation."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Steve Allen Moise",
+    "Type of Document": "AWC letter",
+    "Case No.": "2022073708202",
+    "Date": "June 24, 2024"
+  },
+  "OverallSummary": "This case involves Steve Allen Moise, a former General Securities Representative with Joseph Stone Capital L.L.C., who willfully violated the Care Obligation of Regulation Best Interest (Reg BI) and FINRA Rule 2010 by recommending excessive transactions that were not in his customer's best interest. From February 2021 to August 2021, Moise recommended 199 trades to a 58-year-old general contractor that resulted in a turnover rate of 16 and a cost-to-equity ratio exceeding 47%. FINRA determined the trading was excessive by applying specific quantitative tests: (1) analyzing the turnover rate, which at 16 was significantly higher than the threshold of 6 that generally indicates excessive trading; and (2) evaluating the cost-to-equity ratio, which at over 47% far exceeded the 20% threshold that typically indicates excessive activity. The customer suffered realized losses and paid more than $52,000 in commissions and trade costs. Moise's pattern of recommending that the customer sell securities shortly after purchase generated commissions for himself while causing customer losses. As a result of these violations, Moise was suspended for five months from associating with any FINRA member in all capacities and fined $5,000. Joseph Stone Capital settled with the affected customer through mediation."
+}
+```

@@ -1,0 +1,148 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 84000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 420,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 63000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-03-05",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 63000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 410,
+    "Other Transaction Costs (in $)": 140
+  },
+  {
+    "Date": "2023-05-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 180
+  },
+  {
+    "Date": "2023-07-12",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Wealth Preservation",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 33600,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 180,
+    "Other Transaction Costs (in $)": 90
+  },
+  {
+    "Date": "2023-09-08",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax Optimization",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 29400,
+    "Ratio of Total Portfolio (%)": 7,
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 80
+  },
+  {
+    "Date": "2023-10-25",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-11-15",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 320,
+    "Other Transaction Costs (in $)": 110
+  },
+  {
+    "Date": "2023-12-05",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Wealth Preservation",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 120,
+    "Other Transaction Costs (in $)": 60
+  },
+  {
+    "Date": "2024-01-10",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Emergency Fund",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 50,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2024-02-18",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 12600,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 380,
+    "Other Transaction Costs (in $)": 70
+  },
+  {
+    "Date": "2024-03-05",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Self-directed retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8400,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 220,
+    "Other Transaction Costs (in $)": 50
+  }
+]
+```

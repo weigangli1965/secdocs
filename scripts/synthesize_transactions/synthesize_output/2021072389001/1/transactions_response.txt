@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 143000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 2500,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2020-02-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 107400,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2020-03-10",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 107400,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 3500,
+    "Other Transaction Costs (in $)": 900
+  },
+  {
+    "Date": "2020-04-05",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 71600,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2020-05-12",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 71600,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2200,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2020-06-18",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50100,
+    "Ratio of Total Portfolio (%)": 7,
+    "Fees Commissions Paid (in $)": 800,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2020-07-01",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 35800,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 700,
+    "Other Transaction Costs (in $)": 150
+  }
+]
+```

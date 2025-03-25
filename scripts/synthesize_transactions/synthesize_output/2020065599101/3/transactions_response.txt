@@ -1,0 +1,74 @@
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2023-02-28",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 2400,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2023-04-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 13.3,
+    "Fees Commissions Paid (in $)": 1600,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2023-05-22",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2023-07-08",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 700
+  },
+  {
+    "Date": "2023-08-15",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 8.3,
+    "Fees Commissions Paid (in $)": 1250,
+    "Other Transaction Costs (in $)": 500
+  }
+]

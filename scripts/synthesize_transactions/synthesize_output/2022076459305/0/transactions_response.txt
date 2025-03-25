@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3920,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 150,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2940,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 125,
+    "Other Transaction Costs": 65
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2940,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 120,
+    "Other Transaction Costs": 60
+  },
+  {
+    "Date": "2023-05-05",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2940,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 135,
+    "Other Transaction Costs": 70
+  },
+  {
+    "Date": "2023-07-18",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "Bank",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1960,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 80,
+    "Other Transaction Costs": 40
+  },
+  {
+    "Date": "2023-09-30",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax Optimization",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1960,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 95,
+    "Other Transaction Costs": 50
+  },
+  {
+    "Date": "2023-11-12",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 588,
+    "Ratio of Total Portfolio": 3,
+    "Fees Commissions Paid": 65,
+    "Other Transaction Costs": 35
+  },
+  {
+    "Date": "2024-01-08",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Emergency Fund",
+    "InvestmentAccountType": "Bank",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 980,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  },
+  {
+    "Date": "2024-02-15",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 980,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 80,
+    "Other Transaction Costs": 55
+  },
+  {
+    "Date": "2024-03-10",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and Diversification",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 392,
+    "Ratio of Total Portfolio": 2,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  }
+]
+```

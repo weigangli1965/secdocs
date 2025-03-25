@@ -1,0 +1,83 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "54",
+        "Employment": "retiree",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "14",
+        "CostToEquityRatio": "64%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$95,393",
+        "FeesCommissionsPaid": "$28,428",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A was a 54-year-old retiree with a stated investment objective of speculation. Between September 2020 and November 2021, Gallo recommended 45 transactions in Customer A's account, resulting in excessive trading as demonstrated by an annualized turnover rate of 14 (exceeding the threshold of 6) and an annualized cost-to-equity ratio of 64% (far exceeding the 20% threshold). This excessive trading violated Regulation BI's Care Obligation, which prohibits a series of transactions that are excessive in light of the customer's investment profile. The excessive trading generated $28,428 in commissions for Gallo while causing Customer A to suffer $95,393 in realized losses. The case specifically cites this as a violation of Exchange Act Rule 15l-1(a)(1) and FINRA Rule 2010."
+    },
+    {
+      "Demographics": {
+        "Age": "73",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "16",
+        "CostToEquityRatio": "80%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$109,099",
+        "FeesCommissionsPaid": "$69,553",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer B was a 73-year-old senior investor with a stated investment objective of speculation. Between June 30, 2020, and November 2021, Gallo recommended 120 transactions in Customer B's account, resulting in excessive trading as demonstrated by an annualized turnover rate of 16 (significantly exceeding the threshold of 6) and an annualized cost-to-equity ratio of 80% (four times the 20% threshold). This excessive trading violated Regulation BI's Care Obligation, which prohibits a series of transactions that are excessive even if individual transactions might be suitable. The excessive trading generated $69,553 in commissions for Gallo while causing Customer B to suffer $109,099 in realized losses. The case specifically cites this as a violation of Exchange Act Rule 15l-1(a)(1) and FINRA Rule 2010, with special concern given Customer B's status as a senior investor."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Christopher P. Gallo",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2018056490321",
+    "Date": "November 27, 2024"
+  },
+  "OverallSummary": "This case involves Christopher P. Gallo's willful violation of Regulation BI's Care Obligation by engaging in excessive trading in the accounts of two retail customers, including one senior investor. The excessive trading determination was based on established quantitative metrics: 1) Turnover rates: Customer A's account had a turnover rate of 14 and Customer B's account had a turnover rate of 16, both well above the threshold of 6 that generally indicates excessive trading; 2) Cost-to-equity ratios: Customer A's ratio was 64% and Customer B's ratio was 80%, both far exceeding the 20% threshold that indicates excessive trading; 3) Pattern of frequent transactions: 45 transactions for Customer A and 120 transactions for Customer B over approximately a 14-month period. These practices resulted in significant financial harm to the customers - Customer A suffered $95,393 in realized losses while paying $28,428 in commissions, and Customer B suffered $109,099 in realized losses while paying $69,553 in commissions. This clearly demonstrates that Gallo placed his own financial interests ahead of his customers' interests, contrary to Regulation BI's requirement. As a result, Gallo was suspended for five months from associating with any FINRA member in all capacities, though no monetary sanctions were imposed due to his demonstrated financial inability to pay."
+}
+```

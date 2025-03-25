@@ -1,0 +1,118 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "77",
+        "Employment": "Retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "Capital preservation",
+        "RiskTolerance": "Moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "20.3%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$550,000+",
+        "FeesCommissionsPaid": "$490,000+",
+        "OtherTransactionCosts": "Included in trading costs",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "This 77-year-old retiree with a capital preservation investment objective and moderate risk tolerance was subjected to excessive trading that generated an extremely high cost-to-equity ratio of 20.3%. The customer paid more than $490,000 in total trading costs and suffered realized losses exceeding $550,000, inclusive of commissions. The registered representative's trading pattern violated Regulation BI's Care Obligation by engaging in transactions that were excessive, unsuitable for the customer's investment profile, and not in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "88 (deceased in 2022)",
+        "Employment": "Retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "Growth and income",
+        "RiskTolerance": "Moderate",
+        "InvestmentAccountType": "Trust"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "23.4%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$560,000+",
+        "FeesCommissionsPaid": "$650,000+",
+        "OtherTransactionCosts": "Included in trading costs",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "This customer was an 88-year-old retiree (deceased in 2022) whose trust account had an investment objective of growth and income with moderate risk tolerance. The registered representative engaged in excessive trading that generated an extremely high cost-to-equity ratio of 23.4%. The trust account paid more than $650,000 in total trading costs and suffered realized losses exceeding $560,000, inclusive of commissions. This trading pattern violated Regulation BI's Care Obligation as it was excessive, inconsistent with the account's investment profile, and not in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "Senior investors (specific ages not provided)",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "Portion of collective $2.2 million realized losses",
+        "FeesCommissionsPaid": "Portion of collective $2.2 million in trading costs",
+        "OtherTransactionCosts": "Included in trading costs",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "This entry represents the remaining three affected customers (of five total) mentioned in the case. While specific details about these customers are not individually provided, they were part of the group of customers subjected to excessive trading by the registered representative. Collectively, the five affected customers paid more than $2.2 million in total trading costs and suffered realized losses of approximately $2.2 million. The text specifically mentions that some were senior customers. The trading pattern violated Regulation BI's Care Obligation as it was excessive, inconsistent with these customers' investment profiles, and not in their best interest."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Richard Mireles",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2023080627902",
+    "Date": "Not specified in the document"
+  },
+  "OverallSummary": "This case involves Richard Mireles, who failed to properly supervise a registered representative who excessively traded in the accounts of five customers between July 2020 and December 2022. The excessive trading violated Regulation BI's Care Obligation under Exchange Act Rule 15l-1(a)(2)(ii) and FINRA Rule 2111. Multiple red flags were escalated to Mireles by two different supervisors who identified concerns about high volumes of solicited trades, including in accounts of senior customers. Instead of addressing potential excessive trading, Mireles directed supervisors to only perform trade-by-trade assessments rather than reviewing the pattern of transactions within accounts. As a result, the registered representative's excessive trading continued unchecked, resulting in approximately $2.2 million in trading costs and $2.2 million in realized losses across the five affected customer accounts. Two specifically identified affected customers included a 77-year-old retiree with a capital preservation objective (20.3% cost-to-equity ratio, $490,000+ in trading costs, $550,000+ in losses) and an 88-year-old retiree's trust account with growth and income objective (23.4% cost-to-equity ratio, $650,000+ in trading costs, $560,000+ in losses). For his failure to reasonably supervise, Mireles was suspended for four months in all principal capacities and fined $5,000."
+}
+```

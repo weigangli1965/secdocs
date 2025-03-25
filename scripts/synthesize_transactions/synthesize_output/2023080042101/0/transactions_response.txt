@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2022-10-15",
+    "PrimaryInvestmentRecommended": "Rollovers of employer-sponsored retirement plans into individual retirement accounts",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 350000,
+    "Ratio of Total Portfolio (%)": 100,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2022-10-16",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 180,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2022-10-16",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 180,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2022-10-17",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 70000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 240,
+    "Other Transaction Costs (in $)": 70
+  },
+  {
+    "Date": "2022-10-17",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 87500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 90
+  },
+  {
+    "Date": "2022-10-18",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 180,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2022-10-18",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 60,
+    "Other Transaction Costs (in $)": 20
+  },
+  {
+    "Date": "2022-10-18",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "Individual Retirement Accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 60,
+    "Other Transaction Costs (in $)": 20
+  }
+]
+```

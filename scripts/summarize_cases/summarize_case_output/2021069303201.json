@@ -1,0 +1,48 @@
+```json
+{
+"Customers": [
+    {
+        "Demographics": {
+            "Age": "NOTSPECIFIED",
+            "Employment": "NOTSPECIFIED",
+            "IncomeLevel": "NOTSPECIFIED",
+            "InvestmentExperience": "NOTSPECIFIED",
+            "NetWorth": "NOTSPECIFIED",
+            "InvestmentPortfolioValue": "NOTSPECIFIED"
+        },
+        "InvestmentType": {
+            "PrimaryInvestmentRecommended": "Regulation D private placement offerings from Company A affiliates",
+            "RiskProfileofPrimaryRecommendedInvestment": "high",
+            "InvestmentPurpose": "NOTSPECIFIED",
+            "RiskTolerance": "NOTSPECIFIED",
+            "InvestmentAccountType": "NOTSPECIFIED"
+        },
+        "AccountInformation": {
+            "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+            "CostToEquityRatio": "NOTSPECIFIED",
+            "HighRiskInvestmentRatio": "NOTSPECIFIED",
+            "HighRiskNetworthRatio": "NOTSPECIFIED"
+        },
+        "FinancialLossSuffered": {
+            "AmountLost": "NOTSPECIFIED",
+            "FeesCommissionsPaid": "NOTSPECIFIED",
+            "OtherTransactionCosts": "NOTSPECIFIED",
+            "ImpactOnPortfolio": "NOTSPECIFIED"
+        },
+        "Breach": {
+            "ExistenceofLegalBreach": "Yes",
+            "IsCareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+        },
+        "CustomerSummary": "The case describes that from June 30, 2020, through the present, Signet Securities recommended and sold private placement securities to accredited retail investors without conducting reasonable due diligence on the offerings. The firm's due diligence for 13 private placement offerings from Company A affiliates, totaling $140 million in sales, was limited to only documents provided by Company A itself. This constitutes a violation of Reg BI's Care Obligation, specifically for failing to conduct independent verification of the issuer's representations, understand the potential risks and rewards associated with these complex private placements, and ensure the recommendations could be in the best interest of at least some retail investors. The firm failed to follow FINRA's guidance in Regulatory Notice 10-22 requiring independent verification of issuer claims for private placements."
+    }
+],
+"Case Information": {
+    "Name of Party": "Signet Securities, LLC",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069303201",
+    "Date": "October 3, 2024"
+},
+"OverallSummary": "Signet Securities violated the Care Obligation under Regulation Best Interest by failing to conduct reasonable due diligence on private placement offerings that it recommended to retail investors. From June 30, 2020, to the present, the firm recommended and sold $140 million worth of securities across 13 Regulation D private placement offerings to accredited retail investors. All of these offerings were issued by affiliates of a commercial real estate investment company referred to as 'Company A.' The firm's due diligence was inadequate because: (1) it relied solely on documents provided by Company A without independent verification, (2) it failed to independently verify material representations and claims as required under FINRA Regulatory Notice 10-22, and (3) it did not maintain documentation of its due diligence process. The firm also failed to properly supervise outside business activities of registered representatives who were simultaneously employed by a Company A affiliate, creating potential conflicts of interest. Additionally, the firm failed to deliver Form CRS to 282 retail customers between June 30, 2020, and April 14, 2022, and continued to fail to deliver Form CRS to existing customers after that date. For these violations, Signet Securities was censured, fined $100,000, and required to implement remedial measures. The case does not specify individual customer losses or the exact number of retail investors affected by these violations."
+}
+```

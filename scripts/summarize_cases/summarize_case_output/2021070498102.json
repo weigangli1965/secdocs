@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$200,001-$500,000 (liquid net worth)"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "growth and income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "individual account"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "at least 20%",
+        "HighRiskNetworthRatio": "at least 20% of liquid net worth"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$1,324.38 (for July 2020 recommendation)",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "This customer opened an individual account at WestPark through Mason in February 2020, reporting a moderate risk tolerance and liquid net worth between $200,001 and $500,000. Her investment objective was growth and income, not speculation. Mason recommended she invest $50,000 in GWG L Bonds from the third offering in February 2020, and an additional $50,000 in the fourth offering in July 2020. This resulted in at least 20% of her liquid net worth being invested in these high-risk, speculative bonds. The Care Obligation violation occurred when Mason recommended investments that were inconsistent with the customer's moderate risk tolerance and investment objectives. The recommendation was excessive concentration in a speculative, unrated debt security that carried a high degree of risk. The bonds subsequently defaulted in January 2022, and GWG filed for bankruptcy in April 2022. The customer eventually brought and settled an arbitration against WestPark relating to her GWG L Bond investments."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Alan Mason",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021070498102",
+    "Date": "NOTSPECIFIED"
+  },
+  "OverallSummary": "This case involves a Care Obligation violation by Alan Mason, who recommended that a retail customer invest at least 20% of her liquid net worth in speculative, unrated GWG L Bonds. Mason willfully violated Rule 15l-1(a)(1) under the Securities Exchange Act of 1934 (Reg BI) and FINRA Rule 2010. The violation specifically stemmed from Mason's failure to act in the customer's best interest when making investment recommendations. The analytical steps that led to this conclusion were: 1) The customer had a moderate risk tolerance and investment objectives of growth and income, not speculation; 2) GWG L Bonds were speculative, high-risk, illiquid investments as clearly stated in their offering documents; 3) Mason recommended investments totaling $100,000 in GWG L Bonds, representing at least 20% of the customer's liquid net worth; 4) This concentration created a risk inconsistent with the customer's investment profile; 5) The recommendation was made after Reg BI went into effect on June 30, 2020; and 6) Mason earned $1,324.38 in commission for the July 2020 recommendation. The L Bonds subsequently defaulted in January 2022, and GWG filed for bankruptcy in April 2022. As a result of these violations, Mason received a two-month suspension, a $5,000 fine, and was ordered to disgorge his commission of $1,324.38 plus interest. The customer later brought and settled an arbitration against WestPark relating to these investments."
+}
+```

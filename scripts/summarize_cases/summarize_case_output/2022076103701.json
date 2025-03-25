@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Self-directed retail accounts",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Self-directed retail accounts"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "Axos Invest LLC's retail customers received inaccurate Form CRS documents that falsely stated the firm and its financial professionals had no legal or disciplinary history when in fact a control affiliate of the firm had been subject to 13 disciplinary actions between 2004 and 2019, and two of the firm's registered representatives had disclosable events (one with a bankruptcy filing and one with a customer complaint). This misrepresentation occurred from June 30, 2020, to February 6, 2023, through both the initial Form CRS filing and an amended version. This violation relates to disclosure obligations under Exchange Act Rule 17a-14, not to a Care Obligation violation."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Axos Invest LLC",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2022076103701",
+    "Date": "May 19, 2023"
+  },
+  "OverallSummary": "This case involves Axos Invest LLC, a FINRA member firm headquartered in Las Vegas with two branch offices and 15 registered representatives. The firm primarily provides self-directed accounts for retail investors. From June 30, 2020, to February 6, 2023, Axos Invest LLC falsely responded 'No' to the question about legal or disciplinary history on its Form CRS (Customer Relationship Summary), when it should have answered 'Yes' because: (1) a control affiliate of the firm had been subject to 13 disciplinary actions between 2004-2019 for various regulatory violations, (2) one registered representative had a bankruptcy filing, and (3) another registered representative had a customer complaint. The firm had already disclosed the affiliate's disciplinary history on its Form BD and was aware of its representatives' disciplinary history, yet still incorrectly responded on Form CRS. This constituted a willful violation of Section 17(a)(1) of the Securities Exchange Act of 1934, Exchange Act Rule 17a-14, and FINRA Rule 2010. For these violations, FINRA imposed sanctions including a censure and a $75,000 fine. This case does not involve Care Obligation violations under Regulation Best Interest, but rather disclosure requirements related to Form CRS. The violation affected all retail customers who received the inaccurate Form CRS during the nearly three-year period, as they were deprived of accurate information about the disciplinary history of the firm's control affiliate and registered representatives."
+}
+```

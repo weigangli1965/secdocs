@@ -1,0 +1,59 @@
+```json
+[
+  {
+    "ID": 54321,
+    "Investment Product": "Savings Account",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Certificate of Deposit (CD)",
+    "Allocation (%)": 8
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "U.S. Treasury Bonds",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Municipal Bonds",
+    "Allocation (%)": 12
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Corporate Bonds",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "S&P 500 Index Fund",
+    "Allocation (%)": 20
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Dividend Stock Fund",
+    "Allocation (%)": 12
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Growth Stock Fund",
+    "Allocation (%)": 8
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Technology Sector ETF",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Real Estate Investment Trust (REIT)",
+    "Allocation (%)": 4
+  },
+  {
+    "ID": 54321,
+    "Investment Product": "Hedge Fund",
+    "Allocation (%)": 1
+  }
+]
+```

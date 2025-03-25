@@ -1,0 +1,188 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "79",
+        "Employment": "retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "low",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "equities",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium to high",
+        "InvestmentPurpose": "capital preservation",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "IRA"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "20.3%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$556,000",
+        "FeesCommissionsPaid": "$494,000",
+        "OtherTransactionCosts": "minor additional trading costs beyond commissions",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer 1 is a 79-year-old retiree with a moderate risk tolerance and capital preservation investment objective. Ginn churned and excessively traded Customer 1's IRA account, executing 259 trades between July 2020 and December 2022. These trades resulted in approximately $556,000 in realized losses while generating nearly $494,000 in commissions. The account had an annualized cost-to-equity ratio of 20.3%, making profitability virtually impossible. Ginn frequently engaged in in-and-out trading, selling positions shortly after purchase with minimal price changes but substantial commission costs. Ginn failed to discuss trading costs with Customer 1 and often exercised discretion without proper authorization. This constitutes a Care Obligation violation under Regulation BI as Ginn failed to consider the customer's best interests by recommending an excessive series of transactions that primarily benefited himself through commissions."
+    },
+    {
+      "Demographics": {
+        "Age": "88",
+        "Employment": "retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "low",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "equities",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium to high",
+        "InvestmentPurpose": "growth & income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "trust account"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "23.4%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$570,000",
+        "FeesCommissionsPaid": "$652,000",
+        "OtherTransactionCosts": "approximately $1,000 in other trading costs",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer 2 was an 88-year-old retiree with Alzheimer's disease who died in February 2022. Her trust account was managed by her sister as trustee. The account had a moderate risk tolerance and growth & income investment objective. Ginn churned and excessively traded this account, executing 275 trades between July 2020 and December 2022, resulting in approximately $570,000 in realized losses while generating about $653,000 in commissions and trading costs. The account had an extremely high annualized cost-to-equity ratio of 23.4%. Ginn engaged in frequent in-and-out trading with minimal price changes but substantial commission costs. He exercised discretion without proper authorization and failed to discuss trading costs with Customer 2 or her trustee. This constitutes a Care Obligation violation under Regulation BI as Ginn failed to consider the vulnerable customer's best interests by recommending an excessive series of transactions that primarily benefited himself."
+    },
+    {
+      "Demographics": {
+        "Age": "61",
+        "Employment": "civil engineer",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "low",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "equities",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium to high",
+        "InvestmentPurpose": "income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "IRA"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "20.3%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$147,000",
+        "FeesCommissionsPaid": "$189,000",
+        "OtherTransactionCosts": "minimal additional trading costs beyond commissions",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer 3 is a 61-year-old civil engineer with a moderate risk tolerance and income investment objective. Ginn churned and excessively traded Customer 3's IRA account, executing 170 trades between July 2020 and December 2022. These trades resulted in approximately $147,000 in realized losses while generating about $189,000 in commissions and trading costs. The account had an annualized cost-to-equity ratio of 20.3%, making profitability virtually impossible. Ginn frequently engaged in in-and-out trading with minimal price changes but substantial commission costs, often exercising discretion without proper authorization. He failed to discuss trading costs with Customer 3. This constitutes a Care Obligation violation under Regulation BI as Ginn failed to consider the customer's best interests by recommending an excessive series of transactions that primarily benefited himself through commissions rather than serving the customer's stated income objective."
+    },
+    {
+      "Demographics": {
+        "Age": "72",
+        "Employment": "retired police officer",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "low",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "equities",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium to high",
+        "InvestmentPurpose": "capital appreciation",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "IRA"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "13.7%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$117,000",
+        "FeesCommissionsPaid": "$115,000",
+        "OtherTransactionCosts": "minimal additional trading costs beyond commissions",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer 4 is a 72-year-old retired police officer with a moderate risk tolerance and capital appreciation investment objective. Ginn churned and excessively traded Customer 4's IRA account, executing 113 trades between July 2020 and December 2022. These trades resulted in approximately $117,000 in realized losses while generating about $115,000 in commissions. The account had an annualized cost-to-equity ratio of 13.7%, making profitability difficult. Ginn frequently engaged in in-and-out trading with minimal price changes but substantial commission costs, often exercising discretion without proper authorization. He failed to discuss trading costs with Customer 4. This constitutes a Care Obligation violation under Regulation BI as Ginn failed to consider the customer's best interests by recommending an excessive series of transactions that primarily benefited himself through commissions rather than achieving the customer's capital appreciation objective."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "profit sharing plan for a small dental practice",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "low",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "equities",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium to high",
+        "InvestmentPurpose": "capital appreciation/growth",
+        "RiskTolerance": "moderate to moderately high",
+        "InvestmentAccountType": "profit sharing plan"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "27.1%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$830,000",
+        "FeesCommissionsPaid": "$788,000",
+        "OtherTransactionCosts": "approximately $2,000 in other trading costs",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customer 5 is a profit sharing plan for a small dental practice, not classified as a retail customer, thus falling under FINRA Rule 2111 rather than Regulation BI. The account initially had a moderate risk tolerance and capital appreciation objective, later changed to moderately high risk tolerance and growth objective. Ginn churned and excessively traded this account, executing 351 trades between July 2020 and December 2022, resulting in approximately $830,000 in realized losses while generating about $790,000 in trading costs, primarily in commissions. The account had an extremely high annualized cost-to-equity ratio of 27.1%, making profitability virtually impossible. Ginn engaged in frequent in-and-out trading with minimal price changes but substantial commission costs and failed to discuss trading costs with the plan's authorized contacts. This constitutes a violation of FINRA Rules 2111 and 2010 for quantitative unsuitability."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Stewart Ginn",
+    "Type of Document": "Complaint",
+    "Case No.": "2021072167901",
+    "Date": "October 17, 2023"
+  },
+  "OverallSummary": "This case involves Stewart Ginn's excessive trading and churning in five customer accounts between July 2020 and December 2022, resulting in over $2.22 million in realized losses while generating more than $2.24 million in commissions. For Customers 1-4 (retail customers), Ginn's actions constituted violations of Regulation BI's Care Obligation through excessive trading. For Customer 5 (a profit sharing plan), Ginn violated FINRA Rules 2111 and 2010 for quantitative unsuitability. \n\nThe excessive trading violations were established through several analytical steps: (1) Examination of cost-to-equity ratios, which ranged from 13.7% to 27.1% annualized, making profitability virtually impossible; (2) Analysis of trading patterns showing frequent in-and-out trading with minimal price changes but substantial commission costs; (3) Assessment of customer profiles showing three senior investors (ages 79, 88, and 72) and customers with moderate risk tolerances; (4) Documentation of Ginn's control over the accounts, including unauthorized discretionary trading; and (5) Evidence that Ginn placed his financial interests ahead of customers' by charging high commissions (generally 3% on purchases and 2% on sales) without discussing costs with customers.\n\nGinn also violated FINRA Rules 3260 and 2010 by exercising discretion without written authorization in four accounts. The customers had little trading experience and previously maintained buy-and-hold strategies with their prior representative. Three customers were retired seniors, including one with Alzheimer's disease. The case demonstrates a systematic pattern of abusive trading practices designed to generate commissions rather than serve customer interests."
+}
+```

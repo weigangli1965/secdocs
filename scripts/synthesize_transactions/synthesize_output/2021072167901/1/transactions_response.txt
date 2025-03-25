@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth & income",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 450,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 360,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-03-25",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 340,
+    "Other Transaction Costs (in $)": 110
+  },
+  {
+    "Date": "2023-05-08",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth & income",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-07-12",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 270,
+    "Other Transaction Costs (in $)": 90
+  },
+  {
+    "Date": "2023-09-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium to high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 230,
+    "Other Transaction Costs (in $)": 80
+  },
+  {
+    "Date": "2023-11-05",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth & income",
+    "InvestmentAccountType": "trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 80
+  }
+]
+```

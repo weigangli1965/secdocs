@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "Senior (60+ years old)",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "20.39",
+        "CostToEquityRatio": "37.65%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$12,000 in trading losses",
+        "FeesCommissionsPaid": "$27,566 in commissions",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "The customer opened an account with Laidlaw in July 2010 when he was 60 years old. Between June 2020 and January 2021, Todd Cirella recommended 46 transactions in the customer's account and exercised de facto control as the customer routinely followed his recommendations. These recommendations were excessive and unsuitable, generating $27,566 in commissions and approximately $12,000 in trading losses. The excessive trading is evidenced by the high annualized turnover rate of 20.39 and a cost-to-equity ratio of 37.65%, meaning the account would need to grow by more than 37% annually just to break even. This level of trading was determined to be not in the customer's best interest and constituted a Care Obligation violation under Regulation BI (for transactions after June 30, 2020) and a violation of FINRA Rule 2111 (for transactions before June 30, 2020)."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Todd Anthony Cirella",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2020065683301",
+    "Date": "NOTSPECIFIED"
+  },
+  "OverallSummary": "This case involves Todd Anthony Cirella, who violated Regulation BI's Care Obligation and FINRA Rules 2111 and 2010 by recommending excessive trading in a senior customer's account. Between June 2020 and January 2021, Cirella recommended 46 transactions that generated $27,566 in commissions while causing approximately $12,000 in trading losses. The customer, who was over 60 years old, relied on Cirella's advice and routinely followed his recommendations, giving Cirella de facto control over the account. The excessive nature of the trading is established through two key metrics: (1) an annualized turnover rate of 20.39 (significantly above the 6.0 threshold that generally indicates excessiveness) and (2) a cost-to-equity ratio of 37.65% (well above the 20% threshold considered excessive). This high cost-to-equity ratio meant the customer's account would have to grow by more than 37% annually just to break even, making it virtually impossible for the customer to realize a profit. FINRA determined that these recommendations were not in the customer's best interest, resulting in a willful violation of Regulation BI's Care Obligation (for conduct after June 30, 2020, when Reg BI went into effect) and a violation of FINRA Rule 2111 (for conduct before June 30, 2020). As sanctions, Cirella was suspended for three months, fined $5,000, and ordered to pay $27,566 in restitution plus interest to the affected customer."
+}
+```

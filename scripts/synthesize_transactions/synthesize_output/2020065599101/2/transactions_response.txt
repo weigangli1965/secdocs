@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-02-15",
+    "PrimaryInvestmentRecommended": "pre-IPO private placement offerings",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "investment in pre-IPO companies",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 225000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 6750,
+    "Other Transaction Costs (in $)": 2250
+  },
+  {
+    "Date": "2023-05-20",
+    "PrimaryInvestmentRecommended": "pre-IPO private placement offerings",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "investment in pre-IPO companies",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 3375,
+    "Other Transaction Costs (in $)": 1350
+  },
+  {
+    "Date": "2023-09-10",
+    "PrimaryInvestmentRecommended": "pre-IPO private placement offerings",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "investment in pre-IPO companies",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 900
+  },
+  {
+    "Date": "2024-01-05",
+    "PrimaryInvestmentRecommended": "pre-IPO private placement offerings",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "investment in pre-IPO companies",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 187500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 5625,
+    "Other Transaction Costs (in $)": 2250
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "pre-IPO private placement offerings",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "investment in pre-IPO companies",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 4500,
+    "Other Transaction Costs (in $)": 1800
+  }
+]
+```

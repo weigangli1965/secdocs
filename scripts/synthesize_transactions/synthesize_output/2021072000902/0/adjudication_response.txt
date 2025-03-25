@@ -1,0 +1,17 @@
+Based on the provided information, I believe there are violations under section 2(ii) of the Care Obligation as interpreted by the SEC and FINRA.
+
+The violations relate to the broker or dealer failing to have a reasonable basis to believe that the recommendations are in the best interest of this particular retail customer based on the customer's investment profile.
+
+Key violations include:
+
+1. **Inappropriate Risk Level for Customer Profile**: The customer is 98 years old with a moderate risk tolerance, yet 70% of their portfolio is allocated to high and very high risk investments. This includes Daily-reset Non-Traditional Funds (70% of portfolio), Technology Sector ETFs, REITs, Hedge Funds, Cryptocurrency ETFs, Private Equity Funds, and Commodities Futures. FINRA specifically notes that recommending high-risk investments to customers with moderate risk tolerance where the amount becomes disproportionate (as low as 20% in some cases) constitutes a violation.
+
+2. **Age-Inappropriate Investments**: At 98 years old, the client has a very short investment time horizon, yet the portfolio contains numerous high-risk, long-term growth investments. The Daily-reset Non-Traditional Fund alone (70% of the portfolio) is categorized as high risk, which is inappropriate for someone of advanced age with retirement goals.
+
+3. **Misalignment with Financial Goals**: The client's stated financial goal is retirement, but the portfolio is heavily weighted toward speculative investments rather than income-producing, capital-preserving assets appropriate for someone already in retirement.
+
+4. **High Risk-to-Net Worth Ratio**: The customer's "HighRiskNetworthRatio" is 40%, indicating that a significant portion of their net worth is exposed to high-risk investments, which is excessive given their age and risk tolerance.
+
+5. **Portfolio Turnover and Cost Considerations**: While the Annualized Portfolio Turnover (5.5) and Cost To Equity Ratio (18.5%) don't quite reach FINRA's explicit thresholds for excessive trading (6.0 and 20% respectively), they are very close to these levels, suggesting potentially problematic trading activity for a 98-year-old retired individual.
+
+These recommendations fail to adequately consider the customer's investment profile as required under §240.15l-1(a)(2)(ii)(B), particularly their advanced age, moderate risk tolerance, and retirement status, which should have guided the broker toward more conservative recommendations.

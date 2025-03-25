@@ -1,0 +1,40 @@
+```
+[
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 66000,
+    "RatioOfTotalPortfolio": 30,
+    "FeesCommissionsPaid": 1200,
+    "OtherTransactionCosts": 500
+  },
+  {
+    "Date": "2023-07-20",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 77000,
+    "RatioOfTotalPortfolio": 35,
+    "FeesCommissionsPaid": 2000,
+    "OtherTransactionCosts": 1000
+  },
+  {
+    "Date": "2024-01-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 46000,
+    "RatioOfTotalPortfolio": 20,
+    "FeesCommissionsPaid": 0,
+    "OtherTransactionCosts": 0
+  }
+]
+```

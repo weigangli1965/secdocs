@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2023-03-15",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Retirement Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 110000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 550,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2023-04-12",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax-Advantaged Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 82500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 495,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-06-08",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 82500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 495,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-08-22",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Long-term Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 137500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 688,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-09-14",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income and Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 82500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 495,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-11-10",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Diversification and Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 275,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2024-01-17",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth Opportunity",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 502,
+    "Other Transaction Costs (in $)": 125
+  }
+]
+```

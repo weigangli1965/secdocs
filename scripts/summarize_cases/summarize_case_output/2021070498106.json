@@ -1,0 +1,83 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "senior investor",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "moderate",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$912,000 (liquid net worth)"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "growth and income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "20% of liquid net worth in alternative investments including GWG L Bonds",
+        "HighRiskNetworthRatio": "20% of liquid net worth in alternative investments including GWG L Bonds"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$2,000",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer A was a senior investor with moderate risk tolerance, $80,000 annual income, and $912,000 liquid net worth. The customer's stated investment objective was growth and income, not speculation. In August 2020, Vanderlaan recommended a $50,000 investment in GWG L Bonds (speculative, unrated corporate bonds with high risk), knowing Customer A had already invested $135,000 in other alternative investments. This brought Customer A's total alternative investments to $185,000, exceeding 20% of liquid net worth. FINRA determined this recommendation violated Reg BI's Care Obligation because it was not in Customer A's best interest based on the customer's investment profile, particularly the moderate risk tolerance, given the high degree of risk associated with GWG L Bonds. Vanderlaan received $2,000 in commission for this transaction."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "high",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$1,000,000 (liquid net worth)"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "growth and income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "23% of liquid net worth in alternative investments (21% in GWG L Bonds)",
+        "HighRiskNetworthRatio": "23% of liquid net worth in alternative investments (21% in GWG L Bonds)"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$4,508 ($3,920 for December 2020 investment and $588 for February 2021 investment)",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer B had moderate risk tolerance, $700,000 annual income, and $1 million liquid net worth. The customer's stated investment objective was growth and income, not speculation. In December 2020, Vanderlaan recommended a $100,000 investment in GWG L Bonds, knowing Customer B had already invested $100,000 in GWG L Bonds and $15,000 in other alternative investments. In February 2021, he recommended an additional $15,000 investment in GWG L Bonds. These recommendations resulted in Customer B having over 21% of liquid net worth in GWG L Bonds and 23% in alternative investments total. FINRA determined these recommendations violated Reg BI's Care Obligation because they were not in Customer B's best interest based on the customer's moderate risk tolerance, given the high degree of risk associated with GWG L Bonds. Vanderlaan received $4,508 in commissions from these transactions."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Alfred S. Vanderlaan",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021070498106",
+    "Date": "1/22/2025"
+  },
+  "OverallSummary": "In this case, Alfred S. Vanderlaan willfully violated Regulation Best Interest (Reg BI) and FINRA Rule 2010 by recommending GWG L Bonds to two retail customers when these recommendations were not in the customers' best interests. GWG L Bonds were speculative, unrated corporate bonds with a high degree of risk that eventually defaulted in January 2022, leading to GWG's bankruptcy in April 2022. The Care Obligation violations involved inappropriate investment recommendations relative to clients' profiles. For both customers, Vanderlaan recommended high-risk investments that were inconsistent with their moderate risk tolerances and growth and income investment objectives (which did not include speculation). The inappropriate recommendations led to excessive concentration in risky alternative investments: Customer A, a senior investor with moderate risk tolerance, had over 20% of liquid net worth in alternative investments, while Customer B had 23% of liquid net worth in alternative investments (with 21% in GWG L Bonds specifically). FINRA's analysis focused on: 1) The customers' stated risk tolerance (moderate) versus the actual risk of the product (high); 2) The customers' stated investment objectives (growth and income, not speculation) versus the speculative nature of the product; 3) The concentration levels of high-risk investments in the customers' portfolios following the recommendations. Vanderlaan earned $6,508 in commissions from these unsuitable recommendations. As sanctions, he received a three-month suspension, $10,000 fine, and was ordered to pay partial restitution of $6,508 plus interest to the affected customers."
+}
+```

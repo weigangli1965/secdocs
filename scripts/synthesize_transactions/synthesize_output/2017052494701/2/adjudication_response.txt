@@ -1,0 +1,15 @@
+Based on my analysis of the provided information, there appears to be a violation of the Care Obligation under section (2)(ii)(B) of Regulation Best Interest.
+
+The violation stems from a mismatch between the customer's risk tolerance and the investment recommendations made:
+
+1. The customer's profile clearly indicates a "Conservative" risk tolerance and a "Retirement" financial goal.
+
+2. Despite this conservative risk profile, the customer's portfolio contains a "High Risk Investment Ratio" of 65% and a "HighRiskNetworthRatio" of 22.8%.
+
+3. The transactions data shows recommendations for high-risk investments including Listed Business Development Companies (BDCs) and Real Estate Investment Trusts (REITs), which together constitute 15% of the portfolio.
+
+4. The complete portfolio allocation shows that while there are low-risk investments (savings, CDs, treasury bonds), the high-risk components are disproportionate to the customer's stated risk tolerance.
+
+According to FINRA guidance cited in the regulatory text, a violation occurs when there is "recommendation of sufficient high-risk investments to customers with a moderate risk tolerance that the amount of high risk investments in the customer's portfolio becomes disproportionate (as low as 20% in some cases)." In this case, the high-risk investment ratio of 65% far exceeds what would be appropriate for a customer with conservative risk tolerance.
+
+Additionally, the customer has experienced losses ($18,500) and paid significant fees and commissions ($3,200), suggesting that these recommendations were not in the customer's best interest and did not properly align with their investment profile, which is a clear violation of the broker's obligation to make recommendations based on the customer's investment profile.

@@ -1,0 +1,21 @@
+Based on the information provided, there appear to be violations of the Care Obligation under Section 240.15l-1(a)(2)(ii) of Regulation Best Interest, particularly relating to subsection (B) which requires recommendations to be in the best interest of the particular retail customer based on their investment profile.
+
+The violations include:
+
+1. **Unsuitable Risk Level Recommendations**: The customer has a "Moderate" risk tolerance, yet 75% of their transactions involve high-risk investments (GWG L Bonds at 40%, illiquid alternative investments at 20%, and non-traded REITs at 15%). The combined high-risk allocation significantly exceeds what would be appropriate for a moderate risk investor. FINRA explicitly notes that recommendations causing high-risk investments to become "disproportionate" (even as low as 20%) in a moderate risk customer's portfolio constitute violations.
+
+2. **Misalignment with Financial Situation**: The customer has:
+   - Low income ($35K/year)
+   - Moderate net worth ($250K)
+   - Existing financial obligations (mortgage, personal loan)
+   - A retirement financial goal
+
+   Yet the broker recommended illiquid, high-risk investments that are inappropriate given these financial constraints.
+
+3. **Liquidity Concerns**: The recommendation of illiquid investments (GWG L Bonds, non-traded REITs, and other alternative investments) fails to consider the customer's potential liquidity needs, particularly problematic given their moderate net worth and low income.
+
+4. **High Fees and Costs**: The transactions involved significant fees and commissions ($3,500) plus other transaction costs ($1,200), which is concerning given the customer's limited financial resources and the availability of lower-cost alternatives that could have achieved similar investment objectives with less risk.
+
+5. **Failure to Consider Alternatives**: There's no evidence that the broker considered reasonably available alternative investments at lower cost and risk that would better align with the customer's moderate risk tolerance and retirement goals.
+
+These recommendations appear to place the financial interests of the broker ahead of the customer's interests, as evidenced by the high fees collected relative to the customer's portfolio size and income level, violating the core principle of Regulation Best Interest.

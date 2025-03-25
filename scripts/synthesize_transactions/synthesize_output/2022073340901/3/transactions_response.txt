@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 11250,
+    "Ratio of Total Portfolio": 25,
+    "Fees Commissions Paid": 1200,
+    "Other Transaction Costs": 350
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 9000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 950,
+    "Other Transaction Costs": 300
+  },
+  {
+    "Date": "2023-03-05",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6750,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 800,
+    "Other Transaction Costs": 250
+  },
+  {
+    "Date": "2023-04-20",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4500,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 750,
+    "Other Transaction Costs": 225
+  },
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4500,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 500,
+    "Other Transaction Costs": 150
+  },
+  {
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2250,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 300,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2023-07-05",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2250,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 300,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2023-08-20",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2250,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 400,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2023-09-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 900,
+    "Ratio of Total Portfolio": 2,
+    "Fees Commissions Paid": 200,
+    "Other Transaction Costs": 50
+  },
+  {
+    "Date": "2023-10-10",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1350,
+    "Ratio of Total Portfolio": 3,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  }
+]
+```

@@ -1,0 +1,148 @@
+```json
+[
+  {
+    "Date": "2023-02-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Business Entity Account 1",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio": 9,
+    "Fees Commissions Paid": 1350,
+    "Other Transaction Costs": 405
+  },
+  {
+    "Date": "2023-03-02",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Business Entity Account 1",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 70125,
+    "Ratio of Total Portfolio": 9.35,
+    "Fees Commissions Paid": 1402.5,
+    "Other Transaction Costs": 420.75
+  },
+  {
+    "Date": "2023-04-10",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Business Entity Account 2",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 1500,
+    "Other Transaction Costs": 450
+  },
+  {
+    "Date": "2023-04-28",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Business Entity Account 2",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 72000,
+    "Ratio of Total Portfolio": 9.6,
+    "Fees Commissions Paid": 1440,
+    "Other Transaction Costs": 432
+  },
+  {
+    "Date": "2023-06-12",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Business Entity Account 1",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 37500,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 750,
+    "Other Transaction Costs": 225
+  },
+  {
+    "Date": "2023-07-05",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Business Entity Account 1",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 36375,
+    "Ratio of Total Portfolio": 4.85,
+    "Fees Commissions Paid": 727.5,
+    "Other Transaction Costs": 218.25
+  },
+  {
+    "Date": "2023-08-18",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Business Entity Account 2",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio": 6,
+    "Fees Commissions Paid": 900,
+    "Other Transaction Costs": 270
+  },
+  {
+    "Date": "2023-09-01",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Business Entity Account 2",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 42750,
+    "Ratio of Total Portfolio": 5.7,
+    "Fees Commissions Paid": 855,
+    "Other Transaction Costs": 256.5
+  },
+  {
+    "Date": "2023-10-15",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Business Entity Account 1",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 18750,
+    "Ratio of Total Portfolio": 2.5,
+    "Fees Commissions Paid": 375,
+    "Other Transaction Costs": 112.5
+  },
+  {
+    "Date": "2023-10-29",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Business Entity Account 1",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 16875,
+    "Ratio of Total Portfolio": 2.25,
+    "Fees Commissions Paid": 337.5,
+    "Other Transaction Costs": 101.25
+  },
+  {
+    "Date": "2023-12-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Business Entity Account 2",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio": 9,
+    "Fees Commissions Paid": 1350,
+    "Other Transaction Costs": 405
+  },
+  {
+    "Date": "2023-12-21",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Business Entity Account 2",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 63000,
+    "Ratio of Total Portfolio": 8.4,
+    "Fees Commissions Paid": 1260,
+    "Other Transaction Costs": 378
+  }
+]
+```

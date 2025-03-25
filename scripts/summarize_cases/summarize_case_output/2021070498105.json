@@ -1,0 +1,81 @@
+{
+"Customers": [
+{
+"Demographics": {
+"Age": "71 and 63 at the time of account opening in August 2018",
+"Employment": "NOTSPECIFIED",
+"IncomeLevel": "NOTSPECIFIED",
+"InvestmentExperience": "NOTSPECIFIED",
+"NetWorth": "NOTSPECIFIED",
+"InvestmentPortfolioValue": "NOTSPECIFIED"
+},
+"InvestmentType": {
+"PrimaryInvestmentRecommended": "NOTSPECIFIED",
+"RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+"InvestmentPurpose": "NOTSPECIFIED",
+"RiskTolerance": "NOTSPECIFIED",
+"InvestmentAccountType": "Joint account"
+},
+"AccountInformation": {
+"AnnualizedPortfolioTurnover": "13.01",
+"CostToEquityRatio": "50.49%",
+"HighRiskInvestmentRatio": "NOTSPECIFIED",
+"HighRiskNetworthRatio": "NOTSPECIFIED"
+},
+"FinancialLossSuffered": {
+"AmountLost": "$115,183 in realized losses",
+"FeesCommissionsPaid": "$9,613.76 in commissions",
+"OtherTransactionCosts": "NOTSPECIFIED",
+"ImpactOnPortfolio": "Severe"
+},
+"Breach": {
+"ExistenceofLegalBreach": "Yes",
+"IsCareObligationViolation": "Yes",
+"TypeofCareObligationViolation": "Excessive Trading"
+},
+"CustomerSummary": "Customers A1 (71) and A2 (63) opened a joint account with Turner in August 2018. Turner exercised de facto control over their account as they relied on his advice and routinely followed his recommendations. Between September 2018 and March 2020, Turner placed 72 trades in their account, generating $9,613.76 in commissions while causing $115,183 in realized losses. The account had an annualized turnover rate of 13.01 and cost-to-equity ratio of 50.49%, meaning the account would have needed to grow by more than 50% annually just to break even. This excessive trading violated FINRA Rule 2111 prior to June 30, 2020, and was found to be unsuitable for these customers. Turner also exercised discretionary authority in their account without written authorization, violating NASD Rule 2510(b) and FINRA Rules 3260(b) and 2010."
+},
+{
+"Demographics": {
+"Age": "NOTSPECIFIED",
+"Employment": "NOTSPECIFIED",
+"IncomeLevel": "NOTSPECIFIED",
+"InvestmentExperience": "NOTSPECIFIED",
+"NetWorth": "NOTSPECIFIED",
+"InvestmentPortfolioValue": "NOTSPECIFIED"
+},
+"InvestmentType": {
+"PrimaryInvestmentRecommended": "NOTSPECIFIED",
+"RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+"InvestmentPurpose": "NOTSPECIFIED",
+"RiskTolerance": "NOTSPECIFIED",
+"InvestmentAccountType": "NOTSPECIFIED"
+},
+"AccountInformation": {
+"AnnualizedPortfolioTurnover": "9.04",
+"CostToEquityRatio": "27.58%",
+"HighRiskInvestmentRatio": "NOTSPECIFIED",
+"HighRiskNetworthRatio": "NOTSPECIFIED"
+},
+"FinancialLossSuffered": {
+"AmountLost": "$45,639 in realized losses",
+"FeesCommissionsPaid": "$24,655.93 in commissions",
+"OtherTransactionCosts": "NOTSPECIFIED",
+"ImpactOnPortfolio": "Severe"
+},
+"Breach": {
+"ExistenceofLegalBreach": "Yes",
+"IsCareObligationViolation": "Yes",
+"TypeofCareObligationViolation": "Excessive Trading"
+},
+"CustomerSummary": "Customer B opened an account with WestPark in August 2018, with Turner becoming the broker of record in September 2019. Turner exercised de facto control over the account as Customer B relied on his advice and routinely followed his recommendations. Between October 2019 and December 2020, Turner placed 110 trades in Customer B's account, generating $24,655.93 in commissions while causing $45,639 in realized losses. The account had an annualized turnover rate of 9.04 and cost-to-equity ratio of 27.58%, meaning the account would have needed to grow by more than 27% annually just to break even. This excessive trading violated both FINRA Rule 2111 (prior to June 30, 2020) and Reg BI (after June 30, 2020), and was found to be unsuitable and not in the customer's best interest. Turner also exercised discretionary authority in this account without written authorization, violating NASD Rule 2510(b) and FINRA Rules 3260(b) and 2010."
+}
+],
+"Case Information": {
+"Name of Party": "Matthew I. Turner",
+"Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+"Case No.": "2021070498105",
+"Date": "January 15, 2025"
+},
+"OverallSummary": "This case involves Matthew I. Turner, a General Securities Representative with WestPark Capital, Inc., who engaged in excessive trading in multiple customer accounts between September 2018 and December 2020. Turner willfully violated Reg BI Rule 15l-1(a)(1) (for conduct after June 30, 2020) and FINRA Rule 2111 (for conduct before June 30, 2020) by recommending excessive trading that was unsuitable and not in his customers' best interest. The excessive trading is evidenced by high turnover rates and cost-to-equity ratios in the affected accounts: Customers A1/A2's joint account had a turnover rate of 13.01 and cost-to-equity ratio of 50.49%, while Customer B's account had a turnover rate of 9.04 and cost-to-equity ratio of 27.58%. These high ratios meant the accounts would have to grow by 50% and 27% annually just to break even. Turner also violated NASD Rule 2510(b) and FINRA Rules 3260(b) and 2010 by exercising discretionary authority in four customers' accounts without written authorization. In total, Turner's excessive trading resulted in $160,822 in realized losses and $34,269.69 in commissions across the affected accounts. As sanctions, Turner received a five-month suspension and was ordered to pay $27,415.75 in restitution plus interest to the affected customers, with installment payments due to his demonstrated financial inability to pay the full amount immediately."
+}

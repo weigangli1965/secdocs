@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 630,
+    "Other Transaction Costs (in $)": 210
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 875,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2023-03-05",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 840,
+    "Other Transaction Costs (in $)": 315
+  },
+  {
+    "Date": "2023-04-20",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 105
+  },
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5600,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 280,
+    "Other Transaction Costs (in $)": 84
+  },
+  {
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 175,
+    "Other Transaction Costs (in $)": 52
+  },
+  {
+    "Date": "2023-07-05",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2800,
+    "Ratio of Total Portfolio (%)": 4,
+    "Fees Commissions Paid (in $)": 140,
+    "Other Transaction Costs (in $)": 42
+  },
+  {
+    "Date": "2023-08-01",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "retirement savings",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2100,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 210,
+    "Other Transaction Costs (in $)": 42
+  }
+]
+```

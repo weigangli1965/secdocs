@@ -1,0 +1,247 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$5,785.37",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$5,785.37 in surrender fees",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer 1 was recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $5,785.37 in surrender fees. The customer also relinquished valuable living benefit riders, and possibly an enhanced death benefit. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation by failing to consider the costs and disadvantages of the recommendation and by not having a reasonable basis to believe the recommendation was in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$20,136.62",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$20,136.62 in surrender fees",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customers 1 and 2 (joint account) were recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $20,136.62 in surrender fees. The customers relinquished valuable living benefit riders that may have had a benefit base exceeding the contract value, and possibly an enhanced death benefit. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation by failing to consider the costs and disadvantages of the recommendation and by not having a reasonable basis to believe the recommendation was in the customers' best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$3,501.73",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$3,501.73 in surrender fees",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer 3 was recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $3,501.73 in surrender fees. The customer relinquished valuable living benefit riders, and possibly an enhanced death benefit. The case notes that Kumar was aware that at least three customers were facing significant liquidity issues, and Customer 3 may have been one of them. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation by failing to consider the costs and disadvantages of the recommendation and by not having a reasonable basis to believe the recommendation was in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$9,789.37",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$9,789.37 in surrender fees",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer 4 was recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $9,789.37 in surrender fees. The customer relinquished valuable living benefit riders, and possibly an enhanced death benefit. The case notes that Kumar was aware that at least three customers were facing significant liquidity issues, and Customer 4 may have been one of them. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation by failing to consider the costs and disadvantages of the recommendation and by not having a reasonable basis to believe the recommendation was in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$5,874.62",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$5,874.62 in surrender fees",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer 5 was recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $5,874.62 in surrender fees. The customer relinquished valuable living benefit riders, and possibly an enhanced death benefit. The case notes that Kumar was aware that at least three customers were facing significant liquidity issues, and Customer 5 may have been one of them. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation by failing to consider the costs and disadvantages of the recommendation and by not having a reasonable basis to believe the recommendation was in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$1,415.72",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$1,415.72 in surrender fees",
+        "ImpactOnPortfolio": "minor"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer 6 was recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $1,415.72 in surrender fees. The customer relinquished valuable living benefit riders, and possibly an enhanced death benefit. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation by failing to consider the costs and disadvantages of the recommendation and by not having a reasonable basis to believe the recommendation was in the customer's best interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$3,600.00",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$3,600.00 in surrender fees",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer 7 was recommended by Kumar to surrender an existing variable annuity and purchase a new one, resulting in $3,600.00 in surrender fees. The customer relinquished valuable living benefit riders, and possibly an enhanced death benefit. Kumar failed to consider the disadvantages of this exchange including surrender fees, new surrender periods, and loss of existing benefits. Kumar did not conduct a comparative analysis of the existing and new annuities. This violates the Care Obligation

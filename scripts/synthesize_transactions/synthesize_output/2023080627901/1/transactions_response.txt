@@ -1,0 +1,112 @@
+```json
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 68000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2550,
+    "Other Transaction Costs (in $)": 850
+  },
+  {
+    "Date": "2020-02-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 102000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 3200,
+    "Other Transaction Costs (in $)": 980
+  },
+  {
+    "Date": "2020-04-10",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 68000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 4100,
+    "Other Transaction Costs (in $)": 1200
+  },
+  {
+    "Date": "2020-06-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 68000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2750,
+    "Other Transaction Costs (in $)": 920
+  },
+  {
+    "Date": "2020-06-15",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 34000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 2800,
+    "Other Transaction Costs (in $)": 950
+  },
+  {
+    "Date": "2020-09-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 102000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 3100,
+    "Other Transaction Costs (in $)": 880
+  },
+  {
+    "Date": "2020-09-18",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 68000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2100,
+    "Other Transaction Costs (in $)": 720
+  },
+  {
+    "Date": "2021-01-20",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 68000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 3900,
+    "Other Transaction Costs (in $)": 1050
+  },
+  {
+    "Date": "2021-02-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth and income",
+    "InvestmentAccountType": "Trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 102000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 4000,
+    "Other Transaction Costs (in $)": 1200
+  }
+]
+```

@@ -1,0 +1,216 @@
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "45%+ (prior to August 2016), increased to 52%+ by March 2018",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$23,283",
+      "FeesCommissionsPaid": "$18,000+ (prior to August 2016) and $20,000+ (August 2016-March 2018)",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "No",
+      "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+    },
+    "CustomerSummary": "Customer A experienced excessive trading in their account that resulted in significant fees. The firm failed to identify or address this issue despite receiving reports showing the customer had been charged more than $18,000 in commissions over a 12-month period (before August 2016), resulting in a cost-to-equity ratio exceeding 45%. The firm's failure to review active account reports allowed the excessive trading to continue, with Customer A being charged an additional $20,000 in commissions between August 2016 and March 2018, by which time the cost-to-equity ratio had increased to more than 52%. The breach involved violations of FINRA Rule 2111 (suitability) rather than Reg BI Care Obligation violations as the activity occurred before Reg BI went into effect. Total restitution owed: $23,283."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20% (February 2021), increased to 26% (November 2021)",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$103,768",
+      "FeesCommissionsPaid": "$26,000+ (prior month as of February 2021) and additional $116,865 (through November 2021)",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer B was subject to excessive trading that violated Reg BI's Care Obligation. The firm identified that Customer B had been charged more than $26,000 in commissions over a one-month period (as of February 2021), resulting in an annualized cost-to-equity ratio of 20%. Despite implementing commission restrictions on individual trades, the firm inconsistently applied these measures by lifting the restrictions after only two months and then reimposing them later. This inadequate response allowed the representative to continue excessive trading, resulting in an additional $116,865 in commissions by November 2021 and an increased cost-to-equity ratio of 26%. The violation is determined by: (1) identifying the high commission-to-equity ratio exceeding the 20% threshold mentioned in the case as indicative of excessive trading, (2) noting the continued pattern of trading despite purported restrictions, and (3) recognizing that this trading occurred after Reg BI went into effect on June 30, 2020. Total restitution owed: $103,768."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "10 (October 2020), increased to 11 (November 2020), further increased to 12 (November 2021)",
+      "CostToEquityRatio": "27%+ (October 2020), increased to 34% (November 2020), decreased to 23% (November 2021)",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$131,331",
+      "FeesCommissionsPaid": "$16,805 (prior to October 2020), $9,485 (October-November 2020), and $125,000+ (following 12 months)",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer C was subject to excessive trading that violated Reg BI's Care Obligation. The firm received reports showing the customer had a 27% cost-to-equity ratio and annualized turnover rate of 10 (October 2020), which worsened to 34% cost-to-equity ratio and turnover rate of 11 (November 2020). Despite imposing commission restrictions on individual trades (first limiting to 1.5%, then to 1%), the firm's response was inadequate as it failed to limit the frequency of trading. This allowed the representative to continue excessive trading, resulting in over $125,000 in additional commissions over the next 12 months. By November 2021, the customer still had an excessive cost-to-equity ratio of 23% and an increased turnover rate of 12. The violation is determined by: (1) identifying both turnover rates exceeding 6 and cost-to-equity ratios exceeding 20% (both exceeding thresholds mentioned in the case), (2) noting the continued pattern of trading despite purported restrictions, and (3) recognizing that this trading occurred after Reg BI went into effect. Total restitution owed: $131,331."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "6 (July 2021), increased to 9 (October 2021)",
+      "CostToEquityRatio": "21%+ (July 2021), increased to 23% (October 2021)",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$30,688",
+      "FeesCommissionsPaid": "$20,750 (February-July 2021) and additional $8,400 (following 3 months)",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer D opened an account on February 11, 2021, and was immediately subject to excessive trading that violated Reg BI's Care Obligation. By July 2021, the customer had been charged $20,750 in commissions, resulting in a cost-to-equity ratio exceeding 21% and an annualized turnover rate of 6. Despite Network 1 imposing a 1.5% commission restriction on individual trades, this measure failed to limit the frequency of trading. Over the next three months, Customer D was charged an additional $8,400 in commissions, and the cost-to-equity ratio increased to 23% with the turnover rate rising to 9. The violation is determined by: (1) identifying both turnover rates of 6+ and cost-to-equity ratios exceeding 20% (both exceeding thresholds mentioned in the case), (2) noting the continued pattern of trading despite purported restrictions, and (3) recognizing that this trading occurred after Reg BI went into effect. Total restitution owed: $30,688."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$28,471",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer E was one of the eight customers identified as being subject to excessive trading. While specific details about Customer E's account are not provided in the case, the AWC indicates that this customer's account had a cost-to-equity ratio exceeding 20% (and in some cases exceeding 50%), which is inconsistent with the customer's investment profile and not in their best interest. The firm's representatives recommended frequent trades that the customer routinely relied upon, resulting in excessive commissions and trading costs. The violation of Reg BI's Care Obligation is determined by the firm's failure to act in the customer's best interest when recommending a series of transactions that, while potentially suitable in isolation, collectively constituted excessive trading. Total restitution owed: $28,471."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$65,816",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer F was one of the eight customers identified as being subject to excessive trading. While specific details about Customer F's account are not provided in the case, the AWC indicates that this customer's account had a cost-to-equity ratio exceeding 20% (and in some cases exceeding 50%), which is inconsistent with the customer's investment profile and not in their best interest. The firm's representatives recommended frequent trades that the customer routinely relied upon, resulting in excessive commissions and trading costs. The violation of Reg BI's Care Obligation is determined by the firm's failure to act in the customer's best interest when recommending a series of transactions that, while potentially suitable in isolation, collectively constituted excessive trading. Total restitution owed: $65,816."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "

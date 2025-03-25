@@ -1,0 +1,74 @@
+```json
+[
+  {
+    "ID": 123456,
+    "Investment Product": "Savings Account",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Certificate of Deposit (CD)",
+    "Allocation (%)": 2
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "U.S. Treasury Bonds",
+    "Allocation (%)": 3
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Municipal Bonds",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Corporate Bonds",
+    "Allocation (%)": 6
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "S&P 500 Index Fund",
+    "Allocation (%)": 8
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Dividend Stock Fund",
+    "Allocation (%)": 6
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Growth Stock Fund",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Technology Sector ETF",
+    "Allocation (%)": 22
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Real Estate Investment Trust (REIT)",
+    "Allocation (%)": 8
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Hedge Fund",
+    "Allocation (%)": 7
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Cryptocurrency ETF",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Private Equity Fund",
+    "Allocation (%)": 6
+  },
+  {
+    "ID": 123456,
+    "Investment Product": "Commodities Futures",
+    "Allocation (%)": 2
+  }
+]
+```

@@ -1,0 +1,50 @@
+```json
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "Senior investors (6 customers out of 18 total)",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "minimal or no prior experience investing in NT-ETPs and crypto asset mining stocks",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Leveraged exchange-traded funds (NT-ETPs) and stocks of companies engaged in crypto asset mining",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "ranging from conservative to moderate (7 customers had conservative or moderate risk tolerance, including 2 seniors)",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "approximately $30,000 total realized losses for customers who purchased the recommended stocks",
+      "FeesCommissionsPaid": "$3,699.03 total commissions received by Snyder for all 33 transactions",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis, Inappropriate Investment Recommendations Relative to Client Profile"
+    },
+    "CustomerSummary": "This represents a group of 18 customers who received unsuitable recommendations from George Snyder between January and August 2022. Snyder recommended 33 purchases across these customers without understanding the risks and features of the products or analyzing whether the recommendations were in each customer's best interest. The Care Obligation violations occurred because: (1) Snyder failed to understand the features and risks of NT-ETPs, including their holding-period risks and the volatility of crypto mining stocks; (2) he didn't review prospectuses or conduct research; (3) he didn't consider customers' individual profiles, including varying investment objectives, risk tolerance, and age; and (4) he recommended high-risk investments to customers with conservative or moderate risk tolerance, including senior investors. The firm ultimately offered rescission to affected customers."
+  }
+],
+
+"Case Information": {
+  "Name of Party": "George Snyder IV",
+  "Type of Document": "AWC letter (Letter of Acceptance, Waiver, and Consent)",
+  "Case No.": "2022076795001",
+  "Date": "October 11, 2024"
+},
+
+"OverallSummary": "This case involves George Snyder IV, a former General Securities Representative with Ameriprise Financial Services, LLC, who willfully violated Regulation Best Interest (Reg BI) by recommending 33 purchases of leveraged exchange-traded funds (NT-ETPs) and crypto mining stocks to 18 retail customers without understanding the products or analyzing if they were in each customer's best interest. The Care Obligation violations occurred through the following failures: (1) Snyder lacked understanding of the features and risks associated with the investments, including the holding-period risk of NT-ETPs which are generally unsuitable for retail investors planning to hold them longer than a single trading session; (2) He conducted no research about the investments and didn't review prospectuses; (3) He failed to consider individual customer investment profiles, including varying investment objectives, risk tolerance, and age; (4) He recommended high-risk investments to customers with conservative or moderate risk tolerance, including 6 senior investors. Additionally, Snyder marked 32 order tickets as unsolicited when they were actually solicited, and exercised discretion without written authorization in 6 transactions. Customers suffered approximately $30,000 in realized losses, while Snyder earned $3,699.03 in commissions. FINRA imposed sanctions including a 5-month suspension, $10,000 fine, and disgorgement of commissions. The firm offered rescission to affected customers."
+}
+```

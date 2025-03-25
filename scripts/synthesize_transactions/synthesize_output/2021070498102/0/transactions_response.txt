@@ -1,0 +1,112 @@
+```json
+[
+  {
+    "Date": "2022-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 105000,
+    "Ratio of Total Portolio": 30,
+    "Fees Commissions Paid": 2625,
+    "Other Transaction Costs": 500
+  },
+  {
+    "Date": "2022-04-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 70000,
+    "Ratio of Total Portolio": 20,
+    "Fees Commissions Paid": 1050,
+    "Other Transaction Costs": 300
+  },
+  {
+    "Date": "2022-05-22",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "Ratio of Total Portolio": 15,
+    "Fees Commissions Paid": 525,
+    "Other Transaction Costs": 200
+  },
+  {
+    "Date": "2022-06-18",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "Ratio of Total Portolio": 10,
+    "Fees Commissions Paid": 350,
+    "Other Transaction Costs": 150
+  },
+  {
+    "Date": "2022-08-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 28000,
+    "Ratio of Total Portolio": 8,
+    "Fees Commissions Paid": 280,
+    "Other Transaction Costs": 120
+  },
+  {
+    "Date": "2023-01-12",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 24500,
+    "Ratio of Total Portolio": 7,
+    "Fees Commissions Paid": 245,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2023-03-28",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "income",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "Ratio of Total Portolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10500,
+    "Ratio of Total Portolio": 3,
+    "Fees Commissions Paid": 105,
+    "Other Transaction Costs": 55
+  },
+  {
+    "Date": "2023-07-20",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccoutType": "individual account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7000,
+    "Ratio of Total Portolio": 2,
+    "Fees Commissions Paid": 70,
+    "Other Transaction Costs": 40
+  }
+]
+```

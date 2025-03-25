@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "529 plan rollovers",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "education savings",
+    "InvestmentAccountType": "529 education savings plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 7.8,
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 75
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "529 plan rollovers",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "education savings",
+    "InvestmentAccountType": "529 education savings plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 15000,
+    "Ratio of Total Portfolio (%)": 4.7,
+    "Fees Commissions Paid (in $)": 125,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "529 plan rollovers",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "education savings",
+    "InvestmentAccountType": "529 education savings plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio (%)": 3.1,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 45
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "529 plan rollovers",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "education savings",
+    "InvestmentAccountType": "529 education savings plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio (%)": 6.3,
+    "Fees Commissions Paid (in $)": 140,
+    "Other Transaction Costs (in $)": 65
+  },
+  {
+    "Date": "2023-12-15",
+    "PrimaryInvestmentRecommended": "529 plan rollovers",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "education savings",
+    "InvestmentAccountType": "529 education savings plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio (%)": 9.4,
+    "Fees Commissions Paid (in $)": 235,
+    "Other Transaction Costs (in $)": 90
+  }
+]
+```

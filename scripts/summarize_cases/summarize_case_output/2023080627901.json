@@ -1,0 +1,186 @@
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "77-year-old in July 2020",
+      "Employment": "Retiree",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Capital preservation",
+      "RiskTolerance": "Moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20.3%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "More than $550,000 in realized losses, inclusive of commissions",
+      "FeesCommissionsPaid": "More than $490,000 in total trading costs",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer 1 was a 77-year-old retiree with a capital preservation investment objective and moderate risk tolerance. The registered representative engaged in excessive trading in the customer's account, resulting in an annualized cost-to-equity ratio of 20.3% (well above the 20% threshold that generally indicates excessive trading). The customer paid more than $490,000 in total trading costs and suffered realized losses exceeding $550,000. The nature of the Care Obligation violation was excessive trading, determined by analyzing: (1) the high cost-to-equity ratio of 20.3% (above the 20% threshold indicating excessive trading), (2) the frequent in-and-out trading pattern, (3) the substantial trading costs relative to account value, and (4) the inconsistency between the high-cost active trading strategy and the customer's stated capital preservation objective and moderate risk tolerance."
+  },
+  {
+    "Demographics": {
+      "Age": "88-year-old",
+      "Employment": "Retiree with Alzheimer's disease (deceased in 2022)",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Growth and income",
+      "RiskTolerance": "Moderate",
+      "InvestmentAccountType": "Trust"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "23.4%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "More than $560,000 in realized losses, inclusive of commissions",
+      "FeesCommissionsPaid": "More than $650,000 in total trading costs",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer 2 was a trust owned by an 88-year-old retiree who had been diagnosed with Alzheimer's disease prior to becoming a customer and passed away in 2022. The trust had a growth and income investment objective with moderate risk tolerance. The representative engaged in excessive trading in the account, resulting in an extremely high annualized cost-to-equity ratio of 23.4% (significantly above the 20% threshold indicating excessive trading). The customer paid more than $650,000 in total trading costs and suffered realized losses exceeding $560,000. The Care Obligation violation involved excessive trading, determined by: (1) the excessive cost-to-equity ratio of 23.4%, (2) frequent in-and-out trading patterns, (3) extraordinary trading costs relative to the account value, and (4) the unsuitability of such active trading for an elderly customer with cognitive impairment and moderate risk tolerance."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Engineer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Income",
+      "RiskTolerance": "Moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "20.3%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "More than $145,000 in realized losses, inclusive of commissions",
+      "FeesCommissionsPaid": "More than $185,000 in total trading costs",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer 3 was an engineer with an income investment objective and moderate risk tolerance. The registered representative engaged in excessive trading in the customer's account, resulting in an annualized cost-to-equity ratio of 20.3% (above the 20% threshold indicating excessive trading). The customer paid more than $185,000 in total trading costs and suffered realized losses exceeding $145,000. The Care Obligation violation was excessive trading, determined by analyzing: (1) the high cost-to-equity ratio of 20.3%, (2) the pattern of frequent in-and-out trading, (3) substantial trading costs relative to account value, and (4) the inconsistency between this high-cost active trading approach and the customer's stated income investment objective and moderate risk tolerance."
+  },
+  {
+    "Demographics": {
+      "Age": "69-year-old in July 2020",
+      "Employment": "Retired police officer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Capital appreciation",
+      "RiskTolerance": "Moderate",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "13.7%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "More than $115,000 in realized losses, inclusive of commissions",
+      "FeesCommissionsPaid": "More than $110,000 in total trading costs",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer 4 was a 69-year-old retired police officer with a capital appreciation investment objective and moderate risk tolerance. Although the annualized cost-to-equity ratio of 13.7% was below the 20% threshold that generally indicates excessive trading, the representative's pattern of frequent in-and-out trading led to trading costs exceeding $110,000 and realized losses of more than $115,000. The Care Obligation violation involved excessive trading, determined by analyzing: (1) the substantial trading costs relative to account value, (2) the pattern of frequent in-and-out trading, (3) the significant losses incurred, and (4) the incompatibility of this trading strategy with the customer's moderate risk tolerance, even though capital appreciation was the stated objective."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Dental practice (business entity)",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Capital appreciation (one account) and growth (second account)",
+      "RiskTolerance": "Moderate (one account) and moderately-high (second account)",
+      "InvestmentAccountType": "Two separate accounts for a business entity"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "27.1%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "More than $825,000 in realized losses, inclusive of commissions",
+      "FeesCommissionsPaid": "Approximately $788,000 in total trading costs",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "No",
+      "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+    },
+    "CustomerSummary": "Customer 5 was a dental practice with two accounts - one with a capital appreciation objective and moderate risk tolerance, and another with a growth objective and moderately-high risk tolerance. As a business entity, Customer 5 was not a retail customer subject to Reg BI, so FINRA Rule 2111 applied instead. The representative engaged in excessive trading that produced an extremely high annualized cost-to-equity ratio of 27.1% (far above the 20% threshold indicating excessive trading). The customer paid approximately $788,000 in total trading costs and suffered realized losses exceeding $825,000. The breach involved violations of FINRA's suitability rule (Rule 2111), determined by analyzing: (1) the excessively high cost-to-equity ratio of 27.1%, (2) frequent in-and-out trading patterns, (3) the extraordinary level of trading costs relative to account value, and (4) the inconsistency between this highly aggressive trading approach and the customer's stated risk tolerances."
+  }
+],
+"Case Information": {
+  "Name of Party": "Independent Financial Group, LLC",
+  "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+  "Case No.": "2023080627901",
+  "Date": "September 23, 2024"
+},
+"OverallSummary": "This case involves Independent Financial Group, LLC (IFG) failing to establish and maintain a supervisory system reasonably designed to supervise excessive trading, which led to Care Obligation violations under Regulation Best Interest (Reg BI) that impacted multiple customers. Between July 2020 and December 2022, IFG failed to supervise a registered representative who excessively traded five customers' accounts, resulting in approximately $2.2 million in trading costs and $2.2 million in realized losses for these customers. The specific Care Obligation violations involved excessive trading in customer accounts, determined through analysis of: (1) cost-to-equity ratios ranging from 13.7% to 27.1% (with four of five customers exceeding the 20% threshold that generally indicates excessive trading), (2) patterns of frequent in-and-out trading, (3) substantial trading costs relative to account values, and (4) the inconsistency between the high-cost active trading strategies and the customers' investment objectives and risk tolerances. Four of the affected customers were retail investors (including elderly retirees), with cost-to-equity ratios between 13.7% and 23.4%, while one was a business entity (dental practice) subject to FINRA Rule 2111 rather than Reg BI, with an extremely high cost-to-equity ratio of 27.1%. IFG's supervisory failures included: implementing an ineffective alert system for excessive trading that would stop generating alerts for six months after initial review; failing to provide guidance on cost-to-equity ratios or turnover rates that could signal excessive trading; and instructing supervisors to assess each trade individually rather than evaluating patterns of trading. The firm was censured, fined $500,000, and required to undertake remediation of its supervisory systems. All affected customers either received or are expected to receive full restitution through a separate agreement."
+}

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2017-02-15",
+    "PrimaryInvestmentRecommended": "Fund A (High-risk closed-end fund)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 33.3,
+    "Fees Commissions Paid (in $)": 1250,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2017-05-20",
+    "PrimaryInvestmentRecommended": "Fund B (High-risk closed-end fund)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio (%)": 26.7,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2017-09-10",
+    "PrimaryInvestmentRecommended": "Fund C (High-risk closed-end fund)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 15000,
+    "Ratio of Total Portfolio (%)": 20.0,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2018-04-15",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio (%)": 13.3,
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2019-06-30",
+    "PrimaryInvestmentRecommended": "Fund B (High-risk closed-end fund)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio (%)": 23.3,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  }
+]
+```

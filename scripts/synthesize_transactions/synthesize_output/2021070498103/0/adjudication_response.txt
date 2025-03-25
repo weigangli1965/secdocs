@@ -1,0 +1,13 @@
+Based on my analysis of the provided information, there appear to be violations of the Care Obligation under Section 240.15l-1(a)(2)(ii) of Regulation Best Interest, specifically concerning the recommendation of GWG L Bonds.
+
+The violations identified include:
+
+1. **Inappropriate Risk Level for the Customer's Profile** - The customer has a "Moderate" risk tolerance, yet 30% of their portfolio (the largest single allocation) was placed in GWG L Bonds, which are explicitly identified as "high" risk. FINRA guidance specifically flags as a violation "the recommendation of sufficient high-risk investments to customers with a moderate risk tolerance that the amount of high-risk investments in the customer's portfolio becomes disproportionate (as low as 20% in some cases)." Combined with the REIT allocation (also high risk), high-risk investments account for 40% of the portfolio.
+
+2. **Excessive Allocation to a Single High-Risk Product** - The 30% allocation to a single high-risk product (GWG L Bonds) fails to meet the reasonable basis standard that would be in the customer's best interest given their moderate risk tolerance. This appears to place the financial interest of the broker ahead of the customer's interests.
+
+3. **Significant Financial Loss** - The customer experienced a loss of $85,000, which may be related to the high allocation to GWG L Bonds. GWG Holdings, the issuer of these bonds, has faced financial difficulties and bankruptcy proceedings, suggesting that proper due diligence regarding the sustainability of this investment may have been lacking.
+
+4. **Inadequate Due Diligence** - Given the high-risk nature of GWG L Bonds and the significant allocation recommended, there's a question whether the broker exercised "reasonable diligence, care, and skill" to understand the potential risks associated with this recommendation as required by the Care Obligation.
+
+These violations demonstrate that the broker likely failed to adequately consider the customer's moderate risk tolerance when recommending a portfolio with such a high concentration in high-risk investments, potentially violating the requirement to act in the best interest of the retail customer without placing the financial interests of the broker ahead of the customer's interest.

@@ -1,0 +1,81 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "early sixties",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "moderate ($100,000 to $200,000)",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate ($200,000 to $500,000 liquid net worth)",
+        "InvestmentPortfolioValue": "$19,600 (approximate average account balance)"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "securities (specific types not specified)",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "49 percent",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$4,500",
+        "FeesCommissionsPaid": "$7,300 in commissions and trade costs",
+        "OtherTransactionCosts": "included in the $7,300 figure",
+        "ImpactOnPortfolio": "severe (losses plus costs represent a significant percentage of average account balance)"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A was in their early sixties with moderate income and net worth. Caruso excessively traded Customer A's account between November 2022 and May 2023, executing 20 trades that resulted in a cost-to-equity ratio exceeding 49%. This means Customer A's account would have needed to grow by more than 49% just to break even. Despite having an average account balance of approximately $19,600, Caruso effected purchases totaling about $146,000 in securities (indicating frequent trading of the same capital). Customer A lost approximately $4,500 and paid more than $7,300 in commissions and trade costs. The Care Obligation violation was determined through analysis of the cost-to-equity ratio, which at 49% far exceeds the 20% threshold that generally indicates excessive trading according to FINRA."
+    },
+    {
+      "Demographics": {
+        "Age": "early sixties",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "moderate ($100,000 to $200,000)",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate ($200,000 to $500,000 liquid net worth)",
+        "InvestmentPortfolioValue": "$22,200 (approximate average account balance)"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "securities (specific types not specified)",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "6.56",
+        "CostToEquityRatio": "30 percent",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$15,800",
+        "FeesCommissionsPaid": "$6,800 in commissions and trade costs",
+        "OtherTransactionCosts": "included in the $6,800 figure",
+        "ImpactOnPortfolio": "severe (losses plus costs represent a significant percentage of average account balance)"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer B was in their early sixties with moderate income and net worth. Between September 2022 and May 2023, Caruso excessively traded Customer B's account, executing 32 trades that resulted in a cost-to-equity ratio exceeding 30% and a turnover rate of 6.56. Despite having an average account balance of approximately $22,200, Caruso effected purchases totaling about $145,800 in securities (indicating frequent trading of the same capital). Customer B lost approximately $15,800 and paid more than $6,800 in commissions and trade costs. The Care Obligation violation was determined through a two-part analysis: 1) the cost-to-equity ratio of 30% exceeded the 20% threshold that generally indicates excessive trading, and 2) the turnover rate of 6.56 exceeded the threshold of 6 that generally indicates excessive trading according to FINRA standards."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Nicholas Michael Caruso",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2022076459305",
+    "Date": "10/12/2023"
+  },
+  "OverallSummary": "This case involves Nicholas Michael Caruso's willful violation of Regulation Best Interest's Care Obligation (Rule 15l-1 of the Securities Exchange Act of 1934) and FINRA Rule 2010 by excessively trading in the accounts of two retail customers between September 2022 and May 2023. Both customers were in their early sixties with similar financial profiles (income between $100,000-$200,000 and liquid net worth between $200,000-$500,000). The excessive trading was determined through analysis of two key metrics: 1) cost-to-equity ratios that significantly exceeded the 20% threshold that generally indicates excessive trading (49% for Customer A and 30% for Customer B), and 2) a turnover rate of 6.56 for Customer B that exceeded the threshold of 6 that indicates excessive trading. Caruso engaged in a pattern of in-and-out, short-term trading without considering the cumulative costs. For Customer A, Caruso effected 20 trades involving purchases of approximately $146,000 in securities despite an average account balance of only $19,600, resulting in $4,500 in losses and over $7,300 in commissions and costs. For Customer B, Caruso effected 32 trades involving purchases of approximately $145,800 in securities with an average account balance of only $22,200, resulting in $15,800 in losses and over $6,800 in commissions and costs. As a result, Caruso placed his and his firm's interests ahead of his customers' interests. The AWC imposed a three-month suspension from associating with any FINRA member in all capacities, with no monetary sanctions due to Caruso's demonstrated financial inability to pay."
+}

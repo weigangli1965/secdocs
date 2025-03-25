@@ -1,0 +1,83 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "71",
+        "Employment": "retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "non-traded alternative investments",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "47%",
+        "HighRiskNetworthRatio": "47%"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "This 71-year-old retired customer with a moderate risk tolerance and a net worth of $851,889 (excluding primary residence) was recommended five illiquid, non-traded alternative investments totaling $400,000 in January 2019. These recommendations resulted in the customer having a 47% concentration in speculative alternative investments, which was inconsistent with the customer's moderate risk tolerance. This transaction occurred before Reg BI went into effect (June 30, 2020), so the violation falls under FINRA Rule 2111 (suitability) rather than the Care Obligation. IBN and Evans approved these transactions despite clear red flags and without conducting additional review or following their firm's WSPs that required good cause for alternative investment concentrations exceeding 30% of net worth."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "low",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "illiquid, non-traded alternative investments including GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "77%",
+        "HighRiskNetworthRatio": "77%"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "This customer with an annual income of no more than $25,000, moderate risk tolerance, and net worth of $587,438 (excluding primary residence) was recommended 11 sales of illiquid, non-traded alternative investments totaling $457,000 between November 2020 and February 2021. This included $90,000 in GWG L Bonds, which later defaulted when GWG filed for bankruptcy in 2022. The transactions resulted in a 77% concentration in speculative alternative investments (15% in L Bonds). While this occurred after Reg BI went into effect, the case focuses on IBN and Evans' failure to supervise the registered representative and IBN's failure to enforce written policies rather than a direct Care Obligation violation. The customer later brought and settled an arbitration claim against IBN relating to their GWG investment."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "IBN Financial Services, Inc. and Timothy E. Evans",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2022076855801",
+    "Date": "January 29, 2025"
+  },
+  "OverallSummary": "This case involves IBN Financial Services, Inc. and Timothy Evans failing to reasonably supervise a registered representative's recommendations of speculative alternative investments to two retail customers. The recommendations were not suitable or in the best interests of the customers given their investment profiles. For the first customer (January 2019), the representative recommended five illiquid, non-traded alternative investments totaling $400,000, resulting in a 47% concentration in speculative investments despite the customer being 71, retired, with moderate risk tolerance. For the second customer (November 2020-February 2021), the representative recommended 11 sales of alternative investments totaling $457,000 (including $90,000 in GWG L Bonds which later defaulted), resulting in a 77% concentration despite the customer having an annual income of no more than $25,000 and moderate risk tolerance. While the second customer's transactions occurred after Reg BI went into effect, the case primarily focuses on IBN and Evans' supervisory failures rather than direct Care Obligation violations. IBN's policies required additional justification for alternative investment concentrations exceeding 30% of net worth, but IBN and Evans approved these transactions without conducting further review despite clear red flags. The case resulted in sanctions including a censure and $50,000 fine for IBN and a one-month principal capacity suspension and $5,000 fine for Evans. The case exemplifies how inadequate supervision can lead to unsuitable recommendations that are inconsistent with customers' investment profiles, particularly regarding concentration risk in speculative products."
+}
+```

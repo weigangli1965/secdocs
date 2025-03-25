@@ -15,6 +15,7 @@ parser.add_argument("--cached-transactions", action="store_true", help="Use cach
 parser.add_argument("--casefile", help="Single case file to process (overrides directory read)")
 parser.add_argument("--plaintiff-index", help="Single plaintiff index to process (overrides all plaintiffs)", type=int)
 parser.add_argument("--save-adjudication", action="store_true", help="Save adjudication response to file")
+parser.add_argument("--skip-if-exists", action="store_true", help="Skip processing if output directory exists")
 
 args = parser.parse_args()
 
@@ -134,8 +135,10 @@ def nice_mkdir(path):
     if not os.path.exists(path):
         os.mkdir(path)
 
+
 def process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_prefix):
-    print(f"Processing plaintiff {plaintiff_index} for {plaintiff_filename_prefix}")
+    
+
     nice_mkdir("./synthesize_output")
     nice_mkdir(f"./synthesize_output/{plaintiff_filename_prefix}")
     nice_mkdir(f"./synthesize_output/{plaintiff_filename_prefix}/{plaintiff_index}")
@@ -218,6 +221,9 @@ def main():
     
     for plaintiff_filename in case_data.keys():
         plaintiff_filename_prefix = plaintiff_filename.replace('.json', '')
+        if args.skip_if_exists and os.path.exists(f"./synthesize_output/{plaintiff_filename_prefix}"):
+            print(f"Skipping existing plaintiff ./synthesize_output/{plaintiff_filename_prefix}")
+            continue
         if args.plaintiff_index is not None:
             process_plaintiff(case_data[plaintiff_filename]['Customers'][args.plaintiff_index], args.plaintiff_index, plaintiff_filename_prefix)
         else:

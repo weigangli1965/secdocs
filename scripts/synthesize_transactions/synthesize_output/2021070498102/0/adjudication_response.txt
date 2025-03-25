@@ -1,0 +1,17 @@
+# Analysis of Potential Violations under Section 240.15l-1(a)(2)(ii) - Care Obligation
+
+Based on the provided customer information, allocation data, and transaction history, there appears to be a violation of the Care Obligation under section 240.15l-1(a)(2)(ii)(B).
+
+## Violation of Care Obligation - High Risk Investment for Moderate Risk Customer
+
+1. **Risk Tolerance Mismatch**: The customer profile clearly states a "Moderate" risk tolerance, yet 30% of their portfolio ($105,000) has been allocated to GWG L Bonds, which are explicitly labeled as "high" risk investments.
+
+2. **Disproportionate High-Risk Allocation**: The total allocation to high-risk investments (GWG L Bonds: 30% + REIT: 7% + Technology Sector ETF: 2%) equals 39% of the customer's portfolio. Additionally, there is an 8% allocation to "moderate to high" risk Growth Stock Fund. FINRA guidance specifically states that violations occur when high-risk investments become disproportionate for customers with moderate risk tolerance, citing examples where allocations as low as 20% can constitute a violation.
+
+3. **Customer Profile Considerations**: The customer is 55 years old with a net worth of $400K and investment portfolio of $350K. This suggests they are approaching retirement age and have a significant portion of their net worth (87.5%) invested. A 30% allocation to a single high-risk investment product (GWG L Bonds) appears inconsistent with the customer's profile.
+
+4. **Loss Indication**: The customer profile indicates a $50,000 "Amount Lost," which may be related to these high-risk investments, suggesting the negative outcomes that FINRA considers when evaluating violations.
+
+This recommendation pattern appears to place the interests of the broker or dealer ahead of the customer by recommending investments that were not aligned with the customer's stated risk tolerance and investment profile, in violation of section 240.15l-1(a)(2)(ii)(B).
+
+While the turnover rate (5) and cost-to-equity ratio (15%) are below the thresholds for excessive trading violations under section 240.15l-1(a)(2)(ii)(C), the disproportionate allocation to high-risk investments for a moderate risk customer constitutes a clear violation of the Care Obligation.

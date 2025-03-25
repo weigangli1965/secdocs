@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "82 at account opening in 2017",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "low",
+        "InvestmentExperience": "limited",
+        "NetWorth": "low",
+        "InvestmentPortfolioValue": "Between $50,000 and $99,999"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "High-risk closed-end funds (Fund A, Fund B, Fund C) investing in CLOs and below investment grade securities",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "Between 23% to 37% of net worth at different times"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$5,029.85",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer A, an 82-year-old investor with limited investment experience, annual income less than $25,000, and a moderate risk tolerance, was recommended to invest in high-risk closed-end funds by Lessinger. Between June 2022 and February 2023, Lessinger recommended three different closed-end funds (Fund A, Fund B, and Fund C) that resulted in concentrations of 28%, 23%, and 37% of the customer's net worth respectively. These funds invested in CLOs and below investment grade securities that were highly speculative with risk of substantial loss of investment. The Care Obligation violation consisted of recommending unsuitable high-risk investments that were inconsistent with the customer's investment profile, particularly given her age, limited finances, and moderate risk tolerance. This concentration in high-risk investments was not in the customer's best interest and resulted in a loss of $5,029.85. The respondent was ordered to pay restitution of this amount plus interest."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Victor Alan Lessinger",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2023077597701",
+    "Date": "October 28, 2024"
+  },
+  "OverallSummary": "This case involves Victor Alan Lessinger, a General Securities Representative formerly associated with Colorado Financial Service Corporation, who violated Regulation Best Interest (Reg BI) Care Obligation by recommending unsuitable high-risk investments to an elderly customer. Between June 2022 and February 2023, Lessinger recommended that an 82-year-old customer with limited investment experience, low income (less than $25,000 annually), moderate risk tolerance, and a net worth between $50,000 and $99,999 invest in three high-risk closed-end funds at different times. These funds, which invested in CLOs and below investment grade securities, constituted concentrations of at least 28%, 23%, and 37% of the customer's net worth respectively. The analysis revealing the Care Obligation violation included: (1) assessment of the customer's investment profile (age, limited finances, moderate risk tolerance, limited experience); (2) evaluation of the recommended securities' risk level (prospectuses described them as highly speculative with significant risk of loss); (3) determination that the concentration levels (28-37% of net worth) created excessive risk; and (4) conclusion that these recommendations were not in the customer's best interest. As a result of these unsuitable investments, the customer lost $5,029.85. FINRA determined that Lessinger willfully violated Exchange Act Rule 15l-1(a)(1) and FINRA Rule 2010. The sanctions include a three-month suspension, a $5,000 fine, and restitution of $5,029.85 plus interest to the customer. Lessinger had prior regulatory history, including a 2000 AWC for allowing an unqualified representative to effect securities transactions and a 2005 SEC judgment for failing to supervise brokers conducting penny stock manipulation."
+}
+```

@@ -1,0 +1,48 @@
+```json
+{
+"Customers": [
+    {
+        "Demographics": {
+            "Age": "NOTSPECIFIED",
+            "Employment": "NOTSPECIFIED",
+            "IncomeLevel": "NOTSPECIFIED",
+            "InvestmentExperience": "NOTSPECIFIED",
+            "NetWorth": "NOTSPECIFIED",
+            "InvestmentPortfolioValue": "NOTSPECIFIED"
+        },
+        "InvestmentType": {
+            "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+            "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+            "InvestmentPurpose": "NOTSPECIFIED",
+            "RiskTolerance": "NOTSPECIFIED",
+            "InvestmentAccountType": "NOTSPECIFIED"
+        },
+        "AccountInformation": {
+            "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+            "CostToEquityRatio": "NOTSPECIFIED",
+            "HighRiskInvestmentRatio": "NOTSPECIFIED",
+            "HighRiskNetworthRatio": "NOTSPECIFIED"
+        },
+        "FinancialLossSuffered": {
+            "AmountLost": "NOTSPECIFIED",
+            "FeesCommissionsPaid": "NOTSPECIFIED",
+            "OtherTransactionCosts": "NOTSPECIFIED",
+            "ImpactOnPortfolio": "NOTSPECIFIED"
+        },
+        "Breach": {
+            "ExistenceofLegalBreach": "Yes",
+            "IsCareObligationViolation": "No",
+            "TypeofCareObligationViolation": "None"
+        },
+        "CustomerSummary": "This case involves retail investors of RCM Securities who were affected by the firm's failure to timely file and deliver Form CRS as required by regulations. The firm did not file Form CRS until March 4, 2022, despite being required to do so by June 30, 2020. Additionally, when the firm finally filed Form CRS, it failed to properly disclose legal and disciplinary history of the firm and three of its registered representatives. This prevented retail investors from receiving important information about the firm's services, fees, conflicts of interest, and disciplinary history that would help them make informed decisions about investment services. No specific information about individual customers is provided in the case."
+    }
+],
+"Case Information": {
+    "Name of Party": "RCM Securities",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069362101",
+    "Date": "December 15, 2023"
+},
+"OverallSummary": "This case involves RCM Securities' failure to comply with Form CRS requirements, which affected its retail investors. From June 30, 2020, to March 4, 2022, the firm failed to timely file and deliver Form CRS to retail investors as required by regulations. When the firm finally filed Forms CRS on March 4, 2022, March 9, 2022, and July 7, 2022, it failed to properly disclose that the firm and three of its registered representatives had legal or disciplinary history. The firm had disclosed three state disciplinary actions on its Form BD related to engaging in securities business in states where it was not registered, and three of its registered representatives had disclosed prior legal or disciplinary history on their Form U4 filings. The firm did not correct this disclosure issue until January 23, 2023. As a result, RCM Securities willfully violated Section 17(a)(1) of the Securities Exchange Act of 1934 and Exchange Act Rule 17a-14, and violated FINRA Rule 2010. The firm was censured, fined $20,000, and required to undertake remediation of deficiencies in its Form CRS. This case does not involve Care Obligation violations under Regulation Best Interest, but rather violations related to disclosure requirements. No specific information about individual affected customers, their investments, or financial losses is provided in the case."
+}
+```

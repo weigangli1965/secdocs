@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2024-02-03",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Aggressive income",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2024-03-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Aggressive income",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 600,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 300
+  }
+]
+```

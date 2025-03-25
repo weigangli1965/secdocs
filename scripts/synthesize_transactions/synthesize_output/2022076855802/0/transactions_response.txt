@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "preservation of capital, current income, and funding retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 205603.30,
+    "Ratio of Total Portfolio (%)": 35.0,
+    "Fees Commissions Paid (in $)": 8224.13,
+    "Other Transaction Costs (in $)": 1850.43
+  },
+  {
+    "Date": "2022-02-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "current income and funding retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 88115.70,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 2203.89,
+    "Other Transaction Costs (in $)": 450.00
+  },
+  {
+    "Date": "2022-03-05",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth growth and income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 88115.70,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 1982.60,
+    "Other Transaction Costs (in $)": 440.58
+  },
+  {
+    "Date": "2022-04-12",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 88115.70,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 2203.89,
+    "Other Transaction Costs (in $)": 450.00
+  },
+  {
+    "Date": "2022-05-20",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "wealth growth and retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 58743.80,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 293.72,
+    "Other Transaction Costs (in $)": 175.00
+  },
+  {
+    "Date": "2022-06-08",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "preservation of capital and income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 29371.90,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 58.74,
+    "Other Transaction Costs (in $)": 88.12
+  },
+  {
+    "Date": "2022-07-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "preservation of capital",
+    "InvestmentAccountType": "Savings",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17623.14,
+    "Ratio of Total Portfolio (%)": 3.0,
+    "Fees Commissions Paid (in $)": 0.00,
+    "Other Transaction Costs (in $)": 35.25
+  },
+  {
+    "Date": "2022-08-03",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "preservation of capital",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 11748.76,
+    "Ratio of Total Portfolio (%)": 2.0,
+    "Fees Commissions Paid (in $)": 33.03,
+    "Other Transaction Costs (in $)": 10.62
+  }
+]
+```

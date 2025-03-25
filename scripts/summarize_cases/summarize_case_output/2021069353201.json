@@ -1,0 +1,83 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "Over 65",
+        "Employment": "Retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "Moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$16,817.64",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer A was a senior (over 65) retired investor with a moderate risk tolerance. Reilly recommended and executed short-term switches of Class A mutual funds, which are designed as long-term investments, in Customer A's account. These transactions generated excessive fees and were inconsistent with the customer's investment profile. Reilly failed to consider the customer's investment objectives and time horizon, and did not explore lower-cost alternatives such as switching within the same fund family. The customer paid $16,817.64 in excessive sales fees for which restitution was ordered."
+    },
+    {
+      "Demographics": {
+        "Age": "Over 65",
+        "Employment": "Retired",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "Moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$14,857.50",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading and Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer B was a senior (over 65) retired investor with a moderate risk tolerance. Reilly recommended and executed short-term switches of Class A mutual funds, which are designed as long-term investments, in Customer B's account. These transactions generated excessive fees and were inconsistent with the customer's investment profile. Reilly failed to consider the customer's investment objectives and time horizon, and did not explore lower-cost alternatives such as switching within the same fund family. The customer paid $14,857.50 in excessive sales fees for which restitution was ordered."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "John Wigmore Reilly III",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069353201",
+    "Date": "July 9, 2024"
+  },
+  "OverallSummary": "This case involves a willful violation of Regulation BI's Care Obligation by John Wigmore Reilly III, who recommended and executed 25 short-term switches of Class A mutual fund shares for two senior retired customers between July 2018 and September 2021. The violations occurred across two regulatory periods: 22 switches before June 30, 2020 (violating FINRA Rule 2111) and 3 switches after June 30, 2020 (violating Regulation BI's Care Obligation). The Care Obligation violations included: (1) failing to exercise reasonable diligence, care, and skill when recommending the mutual fund switches; (2) failing to consider the customers' investment objectives and time horizons; (3) failing to consider costs associated with the recommendations; and (4) failing to consider reasonably available alternatives that would have achieved the customers' objectives at lower cost, such as switching within the same fund family. The switches involved Class A mutual funds, which typically have substantial front-end loads and are intended for long-term investment, with an average holding period of only 229-273 days. Both customers were over 65, retired, with moderate risk tolerances. The customers collectively paid $40,972.50 in excessive sales fees, of which $31,675.14 is being returned as restitution. Reilly was also fined $5,000 and suspended for three months."
+}
+```

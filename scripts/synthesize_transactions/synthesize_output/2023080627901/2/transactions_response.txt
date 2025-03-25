@@ -1,0 +1,76 @@
+```json
+[
+  {
+    "Date": "2024-02-15",
+    "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio": 10.7,
+    "Fees Commissions Paid": 1250,
+    "Other Transaction Costs": 450
+  },
+  {
+    "Date": "2024-02-22",
+    "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio": 10.0,
+    "Fees Commissions Paid": 1150,
+    "Other Transaction Costs": 400
+  },
+  {
+    "Date": "2024-03-04",
+    "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 65000,
+    "Ratio of Total Portfolio": 15.5,
+    "Fees Commissions Paid": 1800,
+    "Other Transaction Costs": 650
+  },
+  {
+    "Date": "2024-03-10",
+    "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 14.3,
+    "Fees Commissions Paid": 1650,
+    "Other Transaction Costs": 600
+  },
+  {
+    "Date": "2024-03-18",
+    "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 53000,
+    "Ratio of Total Portfolio": 12.6,
+    "Fees Commissions Paid": 1450,
+    "Other Transaction Costs": 550
+  },
+  {
+    "Date": "2024-03-22",
+    "PrimaryInvestmentRecommended": "Frequent in-and-out trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 48000,
+    "Ratio of Total Portfolio": 11.4,
+    "Fees Commissions Paid": 1200,
+    "Other Transaction Costs": 550
+  }
+]
+```

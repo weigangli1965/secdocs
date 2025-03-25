@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "ID": 12345,
+    "Investment Products": "Variable Annuity",
+    "Allocation": 40
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Dividend Stock Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Municipal Bonds",
+    "Allocation": 8
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 7
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 3
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation": 2
+  }
+]
+```

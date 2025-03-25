@@ -1,0 +1,64 @@
+```
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Registered index-linked annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portolio (%)": 21.4,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2023-03-10",
+    "PrimaryInvestmentRecommended": "Registered index-linked annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portolio (%)": 14.3,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2023-06-22",
+    "PrimaryInvestmentRecommended": "Registered index-linked annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "Ratio of Total Portolio (%)": 10,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "Registered index-linked annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portolio (%)": 12.9,
+    "Fees Commissions Paid (in $)": 450,
+    "Other Transaction Costs (in $)": 180
+  },
+  {
+    "Date": "2023-12-12",
+    "PrimaryInvestmentRecommended": "Registered index-linked annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "401(k)",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portolio (%)": 12.9,
+    "Fees Commissions Paid (in $)": 450,
+    "Other Transaction Costs (in $)": 170
+  }
+]
+```

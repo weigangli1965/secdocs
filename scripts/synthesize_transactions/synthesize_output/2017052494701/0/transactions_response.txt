@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Mutual funds (class C shares)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Long-term investment",
+    "InvestmentAccountType": "Direct business",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 850,
+    "Other Transaction Costs": 200
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Mutual funds (class C shares)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Long-term investment",
+    "InvestmentAccountType": "Direct business",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 650,
+    "Other Transaction Costs": 150
+  },
+  {
+    "Date": "2023-07-10",
+    "PrimaryInvestmentRecommended": "Mutual funds (class C shares)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Long-term investment",
+    "InvestmentAccountType": "Direct business",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio": 25,
+    "Fees Commissions Paid": 1000,
+    "Other Transaction Costs": 250
+  },
+  {
+    "Date": "2023-11-05",
+    "PrimaryInvestmentRecommended": "Mutual funds (class C shares)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Long-term investment",
+    "InvestmentAccountType": "Direct business",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 200
+  }
+]
+```

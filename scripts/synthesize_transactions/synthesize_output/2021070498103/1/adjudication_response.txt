@@ -1,0 +1,15 @@
+Based on the information provided, there appear to be violations of Regulation Best Interest under section (2)(ii), the Care Obligation, specifically regarding subsection (B).
+
+The main violation concerns the recommendation of GWG L Bonds, which constitute 40% of the customer's portfolio ($262,000 out of $655,000 total investment portfolio value), despite the customer having only a "moderate" risk tolerance.
+
+Key issues:
+
+1. **Risk Mismatch**: The customer has a "moderate" risk tolerance, but GWG L Bonds are explicitly identified as "high" risk investments. Per FINRA guidance, recommending high-risk investments that become disproportionate to a customer with moderate risk tolerance (even as low as 20% in some cases) can constitute a violation. At 40%, the GWG L Bonds allocation significantly exceeds this threshold.
+
+2. **Customer Profile Considerations**: The customer has a relatively modest income ($90K/year), is 55 years old (approaching retirement age), has a "moderate" risk tolerance, and has "income" as their financial goal. These factors suggest a more conservative approach would be appropriate, not concentrating 40% of their portfolio in a high-risk product.
+
+3. **Concentration Risk**: Combined with the REIT investment (another 10% high-risk investment), the customer has 50% of their portfolio in high-risk assets despite their moderate risk tolerance. This is reflected in the "High Risk Investment Ratio" of 40% and "HighRiskNetworthRatio" of 30%, which are significant for a moderate risk investor.
+
+4. **Significant Losses**: The customer has experienced an "Amount Lost" of $85,000, which is approximately 13% of their total portfolio value, suggesting that the recommendations may not have been in the customer's best interest.
+
+These facts indicate that the broker or dealer failed to "have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer's investment profile and the potential risks, rewards, and costs associated with the recommendation." The high concentration of high-risk investments appears inconsistent with the customer's moderate risk tolerance and income-focused financial goals.

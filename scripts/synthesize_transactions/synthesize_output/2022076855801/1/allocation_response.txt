@@ -1,0 +1,69 @@
+```
+[
+  {
+    "ID": 123456789,
+    "Investment Products": "Savings Account",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Certificate of Deposit (CD)",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Municipal Bonds",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Corporate Bonds",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Dividend Stock Fund",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Technology Sector ETF",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Hedge Fund",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Private Equity Fund",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 123456789,
+    "Investment Products": "Commodities Futures",
+    "Allocation (%)": 5
+  }
+]
+```

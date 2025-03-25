@@ -1,0 +1,252 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$7,078",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 1 suffered a loss of $7,078 due to Candelario Padilla's recommendations to purchase NT-ETFs without having a sufficient understanding of the risks and features associated with these products. This constitutes a Care Obligation violation under Regulation BI as Candelario Padilla failed to exercise reasonable diligence to understand the potential risks of NT-ETFs, specifically the compounding losses that can occur due to the daily reset function. The customer held NT-ETF positions for an extended period, contrary to the guidance that these products are typically not suitable for retail investors who plan to hold them for more than one trading session."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$4,001",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 2 lost $4,001 as a result of Candelario Padilla's recommendations to purchase NT-ETFs without properly understanding their risks and features. This represents a Care Obligation violation as Candelario Padilla failed to exercise reasonable diligence to understand that NT-ETFs are designed for short-term trading (single day) and can result in significant losses when held for longer periods due to compounding effects. The customer held NT-ETF positions for a period between 14 to 65 days, contrary to the product's design and FINRA's guidance."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$1,050",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 3 experienced a $1,050 loss from investing in NT-ETFs based on Candelario Padilla's recommendations. This reflects a Care Obligation violation as Candelario Padilla lacked sufficient understanding of NT-ETFs' risks and features, particularly that losses can be compounded due to the daily reset function. The customer held NT-ETF positions for an extended period, contrary to the product design which is intended for single-day trading sessions. Candelario Padilla's failure to understand and communicate these risks constitutes a failure to exercise reasonable diligence under Regulation BI."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$4,468",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 4 incurred a $4,468 loss due to Candelario Padilla's recommendations to purchase NT-ETFs. This represents a Care Obligation violation as Candelario Padilla failed to understand that NT-ETFs are designed for short-term trading and can result in significant losses when held for extended periods due to the daily reset function and compounding effects. The customer held NT-ETF positions for a period between 14 to 65 days, which is inconsistent with the product's intended use as outlined in FINRA Regulatory Notice 09-31."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$3,572",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 5 suffered a $3,572 loss following Candelario Padilla's recommendations to invest in NT-ETFs. This constitutes a Care Obligation violation as Candelario Padilla did not have a sufficient understanding of the features and risks of NT-ETFs, particularly how losses can be compounded because of the daily reset function. The customer held NT-ETF positions for an extended period between 14 to 65 days, despite these products being designed for single-day trading sessions, demonstrating Candelario Padilla's failure to exercise reasonable diligence in understanding the appropriate use of these complex products."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$3,226",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 6 experienced a $3,226 loss due to Candelario Padilla's recommendations to purchase NT-ETFs without having a proper understanding of their risks. This represents a Care Obligation violation as Candelario Padilla failed to understand that NT-ETFs are designed for short-term trading and can result in significant losses when held for extended periods due to compounding effects. The customer held NT-ETF positions for a period between 14 to 65 days, contrary to the product's design and FINRA's guidance that these products are typically not suitable for retail investors planning to hold them for more than one trading session."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$1,382",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "Customer 7 incurred a $1,382 loss following Candelario Padilla's recommendations to invest in NT-ETFs. This constitutes a Care Obligation violation as Candelario Padilla lacked sufficient understanding of the features and risks associated with NT-ETFs, particularly how the daily reset function can lead to compounded losses. The customer held NT-ETF positions for an extended period between 14 to 65 days, despite FINRA's guidance that these products are not suitable for retail investors who plan to hold them for more than one trading session."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "Income

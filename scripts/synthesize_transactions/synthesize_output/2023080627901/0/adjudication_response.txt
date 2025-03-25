@@ -1,0 +1,43 @@
+# Violations under Section 2(ii) of Regulation Best Interest
+
+Based on the provided information, there appear to be multiple violations of the Care Obligation under section 2(ii) of Regulation Best Interest. These violations include:
+
+## 1. Misalignment between Investment Recommendations and Customer Profile
+
+The broker has recommended investments that do not align with the customer's investment profile:
+
+- The customer is a 77-year-old retiree with a moderate risk tolerance and capital preservation as an investment purpose
+- Yet, 65% of the portfolio is allocated to high-risk investments:
+  - Technology Sector ETF (20% - High risk)
+  - Hedge Fund (15% - High risk)
+  - Real Estate Investment Trust (REIT) (10% - High risk)
+  - Growth Stock Fund (25% - Moderate to High risk)
+
+This substantial allocation to high-risk investments contradicts FINRA guidance, which indicates that having a disproportionate amount of high-risk investments (even as low as 20%) for a customer with moderate risk tolerance constitutes a violation.
+
+## 2. Excessive Trading
+
+The customer's portfolio exhibits signs of excessive trading:
+
+- The annualized portfolio turnover rate is 5.8, which is very close to the 6.0 threshold that FINRA considers indicative of excessive trading
+- The cost-to-equity ratio is 18.5%, nearly at the 20% threshold that FINRA considers problematic
+- The transaction history shows frequent buying and selling within a short period (January to July 2020)
+- The "frequent in-and-out trading" mentioned in the customer data further supports this conclusion
+
+## 3. Lack of Reasonable Basis
+
+The broker appears to have failed to establish a reasonable basis that the recommendations were in the best interest of this particular retail customer:
+
+- Recommending high-risk investments to a 77-year-old retiree seeking capital preservation contradicts the customer's stated investment purpose
+- The customer lost $75,000 while incurring $12,500 in fees and commissions plus $3,500 in other transaction costs
+- The transaction pattern shows buying and selling the same types of investments within short periods, generating significant fees
+
+## 4. Failure to Consider Alternatives
+
+The broker has recommended transactions that led to customer losses without considering reasonably available alternatives with lower costs:
+
+- High-fee products like Hedge Funds (which generated $2,700 in fees on a single transaction)
+- Frequent trading in Technology Sector ETFs and REITs with substantial transaction costs
+- The lack of sufficient allocation to more appropriate investments like bonds and other safer vehicles considering the customer's age and investment purpose
+
+In conclusion, the broker has violated the Care Obligation under Regulation Best Interest by recommending investment strategies that were unsuitable for the customer's age, risk tolerance, and investment goals, engaging in potentially excessive trading, and creating a portfolio that was disproportionately weighted toward high-risk investments without a reasonable basis to believe these recommendations were in the customer's best interest.

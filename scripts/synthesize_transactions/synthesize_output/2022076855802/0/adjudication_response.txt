@@ -1,0 +1,52 @@
+# Analysis of Violations Under Section (2)(ii) of Regulation Best Interest
+
+Based on the provided customer information, allocation, transactions, and the law, there are multiple violations of Section (2)(ii) of Regulation Best Interest, specifically concerning the Care Obligation.
+
+## Violations of the Care Obligation
+
+### 1. High-Risk Allocation for a Moderate Risk Tolerance Customer
+
+The customer's risk tolerance is stated as "Moderate," yet the portfolio contains a disproportionately high allocation to high-risk investments:
+- 35% in GWG L Bonds (high risk)
+- 15% in REITs (high risk)
+- 15% in Private Equity Fund (very high risk)
+
+This totals 65% of the portfolio in high or very high-risk investments, which is severely disproportionate for a customer with moderate risk tolerance. FINRA specifically notes violations when high-risk investments become disproportionate (as low as 20%) for moderate risk tolerance customers.
+
+### 2. Misalignment with Investment Purpose
+
+The transactions indicate that investments like GWG L Bonds (high risk) were recommended for "preservation of capital, current income, and funding retirement." This represents a fundamental misalignment, as high-risk speculative investments are not appropriate vehicles for capital preservation, especially for a retired 60-year-old with low income.
+
+### 3. Unsuitable Investments for Customer Profile
+
+The customer's profile shows:
+- Age: 60
+- Employment: Retired
+- Income: $45K/year (categorized as "Low")
+- Financial Goals: Retirement
+
+Recommending that such a customer allocate 35% of their portfolio to GWG L Bonds and 15% to Private Equity (very high risk) violates the requirement to make recommendations in the best interest of the particular retail customer based on their investment profile.
+
+### 4. Concentrated Position in Alternative Investments
+
+The 35% allocation to GWG L Bonds represents a concentrated position in a single high-risk alternative investment. This concentration is particularly problematic given:
+- The customer is retired
+- The customer has moderate risk tolerance
+- The stated investment purpose includes "preservation of capital"
+
+### 5. Potential Failure in Due Diligence
+
+While specific information about the broker's due diligence is not provided, the recommendation of GWG L Bonds (which have had significant issues in recent years, including bankruptcy) suggests potential failures in due diligence. This may include:
+- Failure to properly understand the risks associated with GWG L Bonds
+- Potentially relying too heavily on issuer-provided information rather than conducting independent verification
+- Failure to consider reasonably available alternative investments at lower cost that would better align with the customer's moderate risk tolerance and retirement goals
+
+## Conclusion
+
+The broker's recommendations violated the Care Obligation under Section (2)(ii) of Regulation Best Interest by:
+1. Recommending a portfolio with 65% high-risk investments to a moderate risk tolerance customer
+2. Recommending investments unsuitable for the customer's age, income, retirement status, and financial goals
+3. Creating a significant concentration in a single high-risk investment (GWG L Bonds) for a retired person with capital preservation goals
+4. Potentially failing to conduct proper due diligence on the recommended investments
+
+These violations resulted in substantial financial harm to the customer, with documented losses of $125,000.

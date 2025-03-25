@@ -1,0 +1,126 @@
+```json
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": 7.15,
+      "CostToEquityRatio": 71.25,
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": 2625,
+      "OtherTransactionCosts": 876,
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "This customer had 35 trades recommended by a Cambria Capital representative, resulting in an annualized turnover rate of 7.15 and a cost-to-equity ratio of 71.25%. The customer incurred $3,501 in total trading costs, including $2,625 in commissions. These metrics indicate excessive trading under Reg BI's Care Obligation (after June 30, 2020) and FINRA Rule 2111 (before June 30, 2020), as turnover rates above 6 and cost-to-equity ratios above 20% generally indicate excessive trading. Cambria failed to identify this account through its supervisory processes."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+      "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": 7.26,
+      "CostToEquityRatio": 44.96,
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": 28589,
+      "OtherTransactionCosts": 9678,
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "This customer had 380 trades recommended by the same Cambria Capital representative, resulting in an annualized turnover rate of a 7.26 and a cost-to-equity ratio of 44.96%. The customer incurred $38,267 in total trading costs, including $28,589 in commissions. These metrics indicate excessive trading under Reg BI's Care Obligation (after June 30, 2020) and FINRA Rule 2111 (before June 30, 2020), as turnover rates above 6 and cost-to-equity ratios above 20% generally indicate excessive trading. Cambria failed to identify this account through its supervisory processes."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Non-traditional and volatility-linked ETPs",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Not speculation (other objective not specified)",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "Part of $3,512.33 collectively lost by three customers",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "No",
+      "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+    },
+    "CustomerSummary": "This customer was one of three customers who collectively incurred $3,512.33 in losses from recommendations to buy non-traditional and volatility-linked ETPs without a reasonable basis. The customer had an investment objective other than speculation and held these ETP positions for periods ranging from 9 to 152 days. This occurred before the implementation of Reg BI (April 2019 through March 2020), so the violation falls under FINRA Rule 2111's suitability requirements rather than Reg BI's Care Obligation. These products are typically not suitable for retail investors who plan to hold them beyond a single trading session due to the compounding effects that can significantly impact performance."
+  }
+],
+
+"Case Information": {
+  "Name of Party": "Cambria Capital, LLC",
+  "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+  "Case No.": "2021072094101",
+  "Date": "December 17, 2024"
+},
+
+"OverallSummary": "This case involves multiple violations by Cambria Capital, LLC between 2019 and 2021. The violations include: (1) charging unfair commissions on 255 transactions in 20 customer accounts, (2) failing to establish adequate supervisory systems for monitoring excessive trading, and (3) failing to supervise recommendations of non-traditional and volatility-linked ETPs. 
+
+The Care Obligation violations occurred from June 30, 2020 (when Reg BI went into effect) through August 2021 and involved excessive trading in two customer accounts. These violations were identified using two key metrics: (1) turnover rates above 6 (7.15 and 7.26) and (2) cost-to-equity ratios significantly above 20% (71.25% and 44.96%). The first customer had 35 recommended trades resulting in $3,501 in total trading costs, including $2,625 in commissions. The second customer had 380 recommended trades resulting in $38,267 in total trading costs, including $28,589 in commissions.
+
+Prior to Reg BI's implementation (April 2019-June 29, 2020), similar trading patterns violated FINRA Rule 2111's suitability requirements. Additionally, from April 2019 through March 2020, three customers with non-speculation investment objectives were recommended non-traditional and volatility-linked ETPs, which they held for 9-152 days despite these products being generally unsuitable for retail investors holding them beyond a single trading session. These customers collectively lost $3,512.33.
+
+Cambria's supervisory failures enabled these violations, as they lacked proper procedures for monitoring commission fairness, excessive trading, and ETP suitability. The firm failed to utilize available exception reports and relied on an inadequate manual review process. Cambria has agreed to pay $48,435.76 in restitution to affected customers and has filed to terminate its FINRA registration."
+}
+```

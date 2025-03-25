@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "early sixties",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "moderate",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$101,000"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "12.93",
+        "CostToEquityRatio": "28%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$28,000",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A, a woman in her early sixties with an income of $50,000 and a liquid net worth of $700,000, was subjected to excessive trading by Robert Gleason. Between July 2020 and June 2021, Gleason recommended and executed 91 trades in Customer A's account involving a pattern of in-and-out, short-term trading. These recommendations resulted in a cost-to-equity ratio exceeding 28% and a turnover rate of 12.93, both well above the thresholds that indicate excessive trading (20% and 6, respectively). With an average account value of approximately $101,000, Gleason purchased approximately $1.3 million in securities over this 11-month period, generating over $28,000 in commissions and trading costs. This level of trading required the account to grow by more than 28% just to break even, placing Gleason's financial interests ahead of Customer A's. FINRA specifically found this to be a violation of Regulation BI's Care Obligation, as Gleason failed to consider the cumulative costs of his trading recommendations."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Robert Spaulding Gleason Jr.",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069335701",
+    "Date": "April 5, 2024"
+  },
+  "OverallSummary": "This case involves a clear violation of Regulation BI's Care Obligation by Robert Spaulding Gleason Jr., who engaged in excessive trading in the account of a retail customer (Customer A). FINRA's analysis determined the violation through the application of established quantitative measures: (1) Turnover rate - Gleason's recommendations resulted in a turnover rate of 12.93, which is more than double the threshold of 6 that generally indicates excessive trading; and (2) Cost-to-equity ratio - the trading generated a cost-to-equity ratio exceeding 28%, significantly above the 20% threshold that indicates excessive trading. Between July 2020 and June 2021, Gleason recommended and executed 91 trades in Customer A's account, which had an average value of approximately $101,000. Despite this modest account size, he purchased approximately $1.3 million in securities during this 11-month period, engaging in a pattern of in-and-out, short-term trading. These recommendations resulted in Customer A paying more than $28,000 in commissions and trade costs, meaning her account would have needed to grow by more than 28% just to break even. This activity clearly placed Gleason's financial interests ahead of the customer's, who was in her early sixties with an income of $50,000 and a liquid net worth of $700,000. For these violations, Gleason was fined $5,000 and suspended for three months. The case also notes that Gleason settled with Customer A through voluntary mediation, though the settlement amount is not specified."
+}
+```

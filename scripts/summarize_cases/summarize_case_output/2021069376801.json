@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "No specific individual customers are identified in this case. The matter concerns American Wealth Management's failure to properly disclose required information on its Form CRS, which affected all retail investors who received the deficient Form CRS. The firm failed to disclose that it and six of its financial professionals had legal or disciplinary history, omitted required language about conflicts of interest, and failed to include required conversation starters that would help clients understand potential conflicts. These omissions potentially impacted customers' ability to make fully informed decisions about engaging with the firm's services."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "American Wealth Management, Inc.",
+    "Type of Document": "AWC letter",
+    "Case No.": "2021069376801",
+    "Date": "May 19, 2023"
+  },
+  "OverallSummary": "This case involves American Wealth Management's failure to properly disclose required information on its Form CRS (Customer Relationship Summary) from July 23, 2020, to at least April 3, 2023. The primary violation was the firm's failure to disclose on its Form CRS that it and six of its financial professionals had legal or disciplinary history, despite having disclosed five disciplinary actions on its Form BD and despite the firm's knowledge of six registered representatives' legal or disciplinary history. The firm also omitted other required information from its Form CRS, including specific language about conflicts of interest and required conversation starters. The firm directed customers to an incorrect website for additional information. These omissions constituted a willful violation of Exchange Act § 17(a)(1), Exchange Act Rule 17a-14, and FINRA Rule 2010. This case does not involve Care Obligation violations under Regulation Best Interest; rather, it focuses on disclosure requirements related to Form CRS. As a result of these violations, American Wealth Management was censured, fined $35,000, and required to undertake remediation of the deficiencies in its Form CRS. No specific dollar amount of customer harm was identified, though the failure to disclose disciplinary history potentially affected all retail customers who received the deficient Form CRS by depriving them of important information needed to make informed decisions about engaging the firm's services."
+}
+```

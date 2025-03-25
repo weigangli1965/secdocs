@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Brokerage"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$557,830.64 across all 432 customers",
+        "FeesCommissionsPaid": "Variable by customer, detailed in Attachment A",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Account-Type Recommendations Resulting in Unnecessary Fees"
+      },
+      "CustomerSummary": "This case involved 432 customers who were collectively charged $557,830.64 in unnecessary fees. The specific violation occurred when Hefren-Tillotson representatives recommended that these customers open Portfolio Review Program accounts, despite the fact that these customers were already receiving the same services through existing or simultaneously opened accounts. The Care Obligation violation stemmed from representatives failing to consider whether customers would benefit from these additional accounts, as they provided no additional services yet generated fees based on assets under management. Individual restitution amounts range from as little as $1.80 to as much as $19,389.69 per customer as detailed in Attachment A to the AWC."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Robert W. Baird & Co. Incorporated (as successor-in-interest to Hefren-Tillotson, Inc.)",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2022075391301",
+    "Date": "March 6, 2025"
+  },
+  "OverallSummary": "This case involves a Care Obligation violation under Regulation Best Interest (Reg BI) by Hefren-Tillotson, Inc., now Robert W. Baird & Co. Incorporated as successor-in-interest. From June 30, 2020, through September 29, 2022, Hefren-Tillotson representatives recommended that 432 retail brokerage customers open approximately 600 Portfolio Review Program accounts. These customers were already receiving identical services through existing or simultaneously opened accounts, meaning they received no additional benefits but were charged unnecessary fees totaling $557,830.64. The violations occurred because: (1) Hefren-Tillotson failed to establish and maintain a supervisory system reasonably designed to ensure account-type recommendations complied with the Care Obligation of Reg BI; (2) The firm's WSPs lacked guidance on factors to consider when recommending Portfolio Review Program accounts; (3) Representatives were not required to consider whether customers would benefit from these accounts given services they already received; and (4) Principals approving new accounts lacked procedures to determine if account-type recommendations were in customers' best interests. The firm was censured, fined $100,000, and ordered to pay restitution of $557,830.64 plus interest to the affected customers. Baird voluntarily discontinued charging Portfolio Review fees and recommending Portfolio Review accounts after acquiring Hefren-Tillotson's business in October 2022."
+}
+```

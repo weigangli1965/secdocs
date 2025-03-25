@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2023-06-15",
+    "PrimaryInvestmentRecommended": "Pre-IPO funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 320000,
+    "Ratio of Total Portfolio (%)": 40,
+    "Fees Commissions Paid (in $)": 6400,
+    "Other Transaction Costs (in $)": 1600
+  },
+  {
+    "Date": "2023-08-22",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 160000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 2400,
+    "Other Transaction Costs (in $)": 800
+  },
+  {
+    "Date": "2023-10-05",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2024-01-18",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 80000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 64000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 160,
+    "Other Transaction Costs (in $)": 80
+  },
+  {
+    "Date": "2024-03-10",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 32000,
+    "Ratio of Total Portfolio (%)": 4,
+    "Fees Commissions Paid (in $)": 32,
+    "Other Transaction Costs (in $)": 16
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 16000,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 8,
+    "Other Transaction Costs (in $)": 4
+  },
+  {
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "wealth preservation",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8000,
+    "Ratio of Total Portfolio (%)": 1,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  }
+]
+```

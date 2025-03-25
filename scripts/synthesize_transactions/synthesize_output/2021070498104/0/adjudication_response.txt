@@ -1,0 +1,24 @@
+Based on the information provided, there appear to be violations of Section 240.15l-1(a)(2)(ii) - the Care Obligation - under Regulation Best Interest.
+
+The primary violation concerns the recommendation of GWG L Bonds, which constitutes 45.6% of the customer's portfolio. This raises several issues under the Care Obligation:
+
+1. **Violation of 240.15l-1(a)(2)(ii)(B) - Recommendation Not in Best Interest of the Particular Customer:**
+   - The customer is a 73-year-old retired individual with moderate risk tolerance and retirement as their financial goal
+   - Despite this profile, they were recommended high-risk GWG L Bonds that comprised 45.6% of their portfolio ($189,240)
+   - FINRA guidance specifically states that recommendations of high-risk investments that become disproportionate to a customer with moderate risk tolerance (as low as 20% in some cases) can constitute a violation
+   - At 45.6%, the high-risk allocation is more than double what FINRA might consider appropriate for a moderate risk investor
+
+2. **Risk Profile Mismatch:**
+   - The customer's investment profile indicates "moderate" risk tolerance
+   - The recommended GWG L Bonds have a "high" risk profile
+   - The high-risk investment ratio of 45.6% is excessive for a moderate risk investor, especially a senior citizen (73 years old) who is retired and relying on investment income
+
+3. **Potential Lack of Due Diligence (240.15l-1(a)(2)(ii)(A)):**
+   - The substantial allocation to a single high-risk product (GWG L Bonds) suggests potential failure to exercise reasonable diligence, care, and skill in understanding whether this recommendation was suitable for this particular customer
+   - The substantial losses ($85,000) further suggest that the broker may not have fully understood or communicated the risks associated with this investment
+
+4. **Consideration of Customer's Investment Profile:**
+   - The customer's age (73), employment status (retired), moderate income, and moderate risk tolerance should have indicated a more conservative approach
+   - The large allocation to high-risk investments (45.6%) appears inappropriate given the customer's investment profile and retirement goals
+
+These facts indicate that the broker or dealer likely failed to meet their Care Obligation by recommending a disproportionately large allocation to high-risk investments that was unsuitable for this particular retail customer's investment profile, in violation of Section 240.15l-1(a)(2)(ii) of Regulation Best Interest.

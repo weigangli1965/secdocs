@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "The case does not identify specific customers but refers to retail customers generally. Murray Securities failed to establish and maintain proper supervisory systems for Regulation Best Interest compliance, which potentially affected all of their retail customers. The firm's written policies lacked proper procedures related to Reg BI's Conflict of Interest Obligation and Care Obligation. The firm's Form CRS also omitted required information, including conversation starters and conflict disclosure examples, which would impact all retail investors seeking services from the firm."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Murray Securities, Inc.",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069350301",
+    "Date": "April 8, 2024"
+  },
+  "OverallSummary": "This case involves Murray Securities' failure to establish and maintain proper supervisory systems and written policies and procedures to achieve compliance with Regulation Best Interest (Reg BI) and Form CRS requirements. The firm willfully violated Exchange Act Rule 15l-1(a)(1), Exchange Act Rule 17a-14, and FINRA Rules 3110 and 2010. The violations began June 30, 2020, when Reg BI became effective. The firm's written policies contained no provisions relating to Reg BI until October 20, 2021, and even then, the policies were inadequate, lacking proper procedures for conflicts of interest and the Care Obligation. The firm also failed to include required information in its Form CRS, such as conversation starters and conflict disclosure examples. This is not primarily a Care Obligation violation case, but rather a case about the firm's failure to establish proper supervisory systems and procedures. As sanctions, Murray Securities was censured, fined $35,000, and required to undertake remediation of its Form CRS and implementation of compliant supervisory systems. No specific customer losses were identified, as this case focused on systemic compliance failures rather than harm to individual customers."
+}
+```

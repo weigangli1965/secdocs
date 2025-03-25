@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Mutual funds - Class A or C shares when Class R shares would have been more beneficial",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "Retirement planning",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Retirement plans"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$91,344.52 in additional fees and sales charges across 355 retirement plan customers",
+        "FeesCommissionsPaid": "Unnecessary front-end sales charges for Class A shares or additional operating fees for Class C shares",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Failure to Consider Reasonable Alternative Investments Involving a Lower Cost to the Investor"
+      },
+      "CustomerSummary": "The case identifies 355 retirement plan customers who were affected by Park Avenue Securities' failure to properly supervise mutual fund share class recommendations. These customers were eligible to purchase Class R shares but instead were sold Class A shares (with front-end sales charges) or Class C shares (with higher operating fees). This resulted in these customers collectively paying $91,344.52 in unnecessary charges. The firm violated the Care Obligation by failing to consider the costs associated with different share classes and recommending higher-cost options when lower-cost, more beneficial options (Class R shares) were available. PAS has already paid restitution to these customers."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Park Avenue Securities LLC",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021070875201",
+    "Date": "September 24, 2024"
+  },
+  "OverallSummary": "This case involves Park Avenue Securities LLC (PAS) failing to establish, maintain, and enforce a supervisory system and written supervisory procedures (WSPs) reasonably designed to achieve compliance with suitability requirements regarding mutual fund share class recommendations to retirement plan customers. From January 2019 through July 2021, PAS failed to properly supervise these recommendations, violating FINRA Rules 3110 and 2010. Additionally, from June 30, 2020 (when Reg BI went into effect) through July 2021, PAS violated the Care Obligation and Compliance Obligation under Reg BI by failing to consider costs associated with different mutual fund share classes when making recommendations to retirement plan customers.\n\nSpecifically, PAS's supervisory system and WSPs failed to provide guidance for evaluating whether Class A or Class C shares were in the best interest of retirement plan customers when they were eligible to purchase Class R shares. This failure affected 355 retirement plan customers who purchased Class A or C shares when Class R shares would have been more beneficial, causing these customers to incur $91,344.52 in either unnecessary front-end sales charges (Class A) or higher operating fees (Class C). The Care Obligation violation stemmed from PAS's failure to properly consider costs associated with different share classes and recommend the most cost-effective option for retirement plan customers. PAS has paid restitution to the affected customers and was censured and fined $125,000 by FINRA. The firm had previously been sanctioned for similar issues related to mutual fund sales charge waivers in July 2019 and by the SEC in March 2019."
+}
+```

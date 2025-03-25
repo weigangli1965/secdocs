@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2020-02-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2020-03-05",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 54000,
+    "Ratio of Total Portfolio (%)": 12,
+    "Fees Commissions Paid (in $)": 2700,
+    "Other Transaction Costs (in $)": 675
+  },
+  {
+    "Date": "2020-03-20",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 38000,
+    "Ratio of Total Portfolio (%)": 8.5,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 285
+  },
+  {
+    "Date": "2020-04-10",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40500,
+    "Ratio of Total Portfolio (%)": 9,
+    "Fees Commissions Paid (in $)": 1350,
+    "Other Transaction Costs (in $)": 405
+  },
+  {
+    "Date": "2020-05-07",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 58500,
+    "Ratio of Total Portfolio (%)": 13,
+    "Fees Commissions Paid (in $)": 1400,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2020-06-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 49500,
+    "Ratio of Total Portfolio (%)": 11,
+    "Fees Commissions Paid (in $)": 1600,
+    "Other Transaction Costs (in $)": 475
+  },
+  {
+    "Date": "2020-07-08",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 36000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 560
+  }
+]
+```

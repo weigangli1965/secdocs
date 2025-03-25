@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "retail accounts"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "The case does not identify specific customers by name or individual circumstances. The violation impacted all retail customers of Highlander Capital Group who received the Form CRS between June 30, 2020, and August 30, 2021. These customers were provided with false information stating that neither the firm nor its associated persons had any legal or disciplinary history, when in fact the firm had disclosed six disciplinary actions on its Form BD (occurring between 1992 and 2012), and two registered representatives had prior legal or disciplinary history. This misinformation potentially affected customers' ability to make informed decisions about engaging with the firm and its representatives. The violation was related to inaccurate disclosures rather than a Care Obligation violation."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Highlander Capital Group, Inc.",
+    "Type of Document": "AWC letter",
+    "Case No.": "2021069357901",
+    "Date": "May 19, 2023"
+  },
+  "OverallSummary": "This case involves Highlander Capital Group, Inc., a FINRA member firm headquartered in Short Hills, New Jersey with two branch offices and 17 registered representatives. The firm primarily conducts equity and mutual fund transactions for retail investors. From June 30, 2020, to August 30, 2021, Highlander Capital falsely represented on its Form CRS that neither the firm nor its associated persons had any legal or disciplinary history. In reality, the firm had disclosed six disciplinary actions on its Form BD (occurring between 1992 and 2012), and two registered representatives had prior legal or disciplinary history. The firm's misrepresentation constituted a willful violation of Section 17(a)(1) of the Securities Exchange Act of 1934, Exchange Act Rule 17a-14, and FINRA Rule 2010. As sanctions, Highlander Capital received a censure and a $5,000 fine. The case does not involve Care Obligation violations under Regulation Best Interest but rather focuses on the firm's failure to provide accurate disclosure information to its customers. Form CRS is designed to provide retail investors with information about a firm's services, fees, conflicts of interest, and legal/disciplinary history. By providing false information, Highlander Capital deprived customers of accurate information needed to make informed decisions about engaging with the firm and its representatives. The firm corrected its Form CRS effective August 30, 2021, after FINRA staff's investigation."
+}
+```

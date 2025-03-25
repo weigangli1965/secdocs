@@ -1,0 +1,11 @@
+Based on my analysis of the provided information, there is a potential violation of the Care Obligation under section (2)(ii)(B) of Regulation Best Interest.
+
+The customer profile indicates a "Moderate" risk tolerance, but the investment allocation includes 15% of the portfolio in high-risk investments (Technology Sector ETF, REIT, and Hedge Fund combined). Additionally, the Growth Stock Fund (10%) is classified as "Moderate to High" risk, bringing the total allocation to higher-risk investments to 25% of the portfolio.
+
+FINRA guidance specifically notes that a violation may occur when there is "the recommendation of sufficient high-risk investments to customers with a moderate risk tolerance that the amount of high risk investments in the customer's portfolio becomes disproportionate (as low as 20% in some cases)."
+
+In this case, the 25% allocation to higher-risk investments for a 62-year-old customer with a moderate risk tolerance could be considered disproportionate and inconsistent with the customer's investment profile. Furthermore, the customer's investment purpose was stated as "Growth," but the form had incorrectly stated "high risk tolerance" when the actual risk tolerance was "moderate."
+
+The broker appears to have acted on the incorrectly stated risk tolerance instead of verifying and aligning recommendations with the customer's actual moderate risk tolerance, resulting in recommendations that may not have been in the best interest of the customer based on their investment profile.
+
+The customer has already experienced a loss of $25,000, further suggesting that the recommendations may not have been suitable for their risk tolerance and investment objectives.

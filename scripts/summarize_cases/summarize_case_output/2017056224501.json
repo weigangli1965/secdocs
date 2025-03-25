@@ -1,0 +1,84 @@
+```json
+{
+"Customers": 
+[
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "high",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "self-directed online trading",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "Brokerage"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "This represents approximately 850 retail customers who used SpeedTrader's self-directed online brokerage services. The firm failed to meet its best execution obligations by not considering all relevant execution quality factors and not comparing its existing routing arrangements to other markets. Additionally, from January 2017 to July 2022, the firm interjected third parties between itself and the best market for securities. While these failures violated FINRA Rules 5310(a)(1), 5310(a)(2), 5310.09, and 2010, they do not constitute Care Obligation violations under Reg BI as they relate to execution practices rather than investment recommendations."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "high",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "low-priced securities trading",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "Brokerage"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$120,000 to over $1.5 million (for 8 customers in China between January-September 2018)",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "This group represents 13 customers based in China who generated over 46% of the firm's total commissions and 36% of all automated AML alerts in 2018. These customers engaged in potentially suspicious trading activities including layering, spoofing, and wash trades, particularly in low-priced securities. Eight of these accounts realized significant losses ranging from approximately $120,000 to over $1.5 million from January through September 2018. SpeedTrader's failure to properly investigate these suspicious trading patterns violated its AML obligations under FINRA Rules 3310(a), 3310(f), and 2010, but these do not constitute Care Obligation violations as they relate to AML compliance rather than investment recommendations."
+    }
+],
+"Case Information": {
+  "Name of Party": "SpeedTrader, Inc., formerly known as Mint Global Markets, Inc.",
+  "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+  "Case No.": "2017056224501",
+  "Date": "September 23, 2024"
+},
+"OverallSummary": "This case involves violations by SpeedTrader, Inc. related to best execution, AML compliance, and Form CRS disclosures, but does not include Care Obligation violations under Regulation Best Interest. The firm failed to meet its best execution obligations under FINRA Rule 5310 by not considering all relevant execution quality factors and not comparing execution quality of existing routing arrangements to other markets. From January 2017 to July 2022, SpeedTrader improperly interjected third parties between itself and the best market for securities. The firm also had inadequate supervisory systems and procedures for best execution and AML compliance. SpeedTrader failed to monitor suspicious trading activity, particularly by certain foreign customers who traded low-priced securities and generated significant losses. Additionally, the firm made false statements on its Form CRS regarding disciplinary history. Due to the firm's financial condition, FINRA imposed no monetary fine but required SpeedTrader to retain an independent consultant to review and remediate its supervisory systems and procedures. The violations did not involve making unsuitable recommendations to customers, as SpeedTrader primarily provided self-directed online brokerage services to approximately 850 retail customers."
+}
+```

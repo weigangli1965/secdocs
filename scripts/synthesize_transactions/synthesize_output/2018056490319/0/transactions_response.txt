@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 145000,
+    "Ratio of Total Portfolio (%)": 12.1,
+    "Fees Commissions Paid (in $)": 2175,
+    "Other Transaction Costs (in $)": 725
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Semiconductor Stocks",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "Biotechnology Stocks",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 2700,
+    "Other Transaction Costs (in $)": 900
+  },
+  {
+    "Date": "2023-08-05",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 72000,
+    "Ratio of Total Portfolio (%)": 6.0,
+    "Fees Commissions Paid (in $)": 1080,
+    "Other Transaction Costs (in $)": 360
+  },
+  {
+    "Date": "2023-10-18",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 84000,
+    "Ratio of Total Portfolio (%)": 7.0,
+    "Fees Commissions Paid (in $)": 1260,
+    "Other Transaction Costs (in $)": 420
+  },
+  {
+    "Date": "2023-12-02",
+    "PrimaryInvestmentRecommended": "Biotechnology Stocks",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 95000,
+    "Ratio of Total Portfolio (%)": 7.9,
+    "Fees Commissions Paid (in $)": 1425,
+    "Other Transaction Costs (in $)": 475
+  },
+  {
+    "Date": "2024-02-14",
+    "PrimaryInvestmentRecommended": "Semiconductor Stocks",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 138000,
+    "Ratio of Total Portfolio (%)": 11.5,
+    "Fees Commissions Paid (in $)": 2060,
+    "Other Transaction Costs (in $)": 320
+  }
+]
+```

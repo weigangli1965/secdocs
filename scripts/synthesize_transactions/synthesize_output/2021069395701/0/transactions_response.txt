@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 137500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 5500,
+    "Other Transaction Costs (in $)": 2000
+  },
+  {
+    "Date": "2023-04-22",
+    "PrimaryInvestmentRecommended": "Private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 82500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 3300,
+    "Other Transaction Costs (in $)": 1500
+  },
+  {
+    "Date": "2023-08-17",
+    "PrimaryInvestmentRecommended": "Private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 55000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2200,
+    "Other Transaction Costs (in $)": 1000
+  },
+  {
+    "Date": "2023-11-30",
+    "PrimaryInvestmentRecommended": "Private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 38500,
+    "Ratio of Total Portfolio (%)": 7,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 500
+  }
+]
+```

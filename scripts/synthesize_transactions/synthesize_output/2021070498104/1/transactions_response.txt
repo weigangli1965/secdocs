@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 7500,
+    "Other Transaction Costs (in $)": 1200
+  },
+  {
+    "Date": "2020-02-12",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 200000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 6000,
+    "Other Transaction Costs (in $)": 1000
+  },
+  {
+    "Date": "2020-07-08",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 200000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 6000,
+    "Other Transaction Costs (in $)": 1000
+  },
+  {
+    "Date": "2020-10-21",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 800
+  },
+  {
+    "Date": "2021-03-14",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 200000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 2500,
+    "Other Transaction Costs (in $)": 1000
+  }
+]
+```

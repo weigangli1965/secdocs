@@ -1,0 +1,163 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "senior investors",
+        "Employment": "retired",
+        "IncomeLevel": "moderate",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$415,000 liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "24%",
+        "HighRiskNetworthRatio": "24% of liquid net worth"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$2,632.50",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customers A1 and A2 are a senior retired married couple with moderate risk tolerance and income of $84,000 annually. In January 2020, Wimsatt recommended they invest $100,000 in GWG L Bonds, which constituted 24% of their $415,000 liquid net worth. This investment was unsuitable given their moderate risk tolerance and income-focused (not speculation) investment objectives because L Bonds were speculative, high-risk, unrated corporate bonds. Wimsatt earned $2,632.50 in commissions from this transaction. Since this recommendation occurred before Reg BI went into effect (June 30, 2020), it violated FINRA Rules 2111 (suitability) and 2010 rather than Reg BI's Care Obligation."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "high",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "high",
+        "InvestmentPortfolioValue": "$2 million liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "growth",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "over 30%",
+        "HighRiskNetworthRatio": "over 30% of liquid net worth"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$8,036 (for April 2020 recommendation)",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customers B1 and B2 are a married couple with moderate risk tolerance, $320,000 annual income, and $2 million liquid net worth. Between December 2018 and January 2020, Wimsatt recommended three L Bond investments totaling $425,000. In April 2020, Wimsatt recommended an additional $200,000 investment in L Bonds, which brought their total L Bond holdings to over 30% of their liquid net worth. This concentration was unsuitable given their moderate risk tolerance and growth-focused (not speculation) investment objectives, as L Bonds were speculative, high-risk instruments. Wimsatt earned $8,036 in commissions from the April 2020 transaction. Since this recommendation occurred before Reg BI went into effect (June 30, 2020), it violated FINRA Rules 2111 (suitability) and 2010."
+    },
+    {
+      "Demographics": {
+        "Age": "senior investors",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "high",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "high",
+        "InvestmentPortfolioValue": "$2.24 million liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "income and growth",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "22%",
+        "HighRiskNetworthRatio": "22% of liquid net worth"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$8,500 (for September 2020 recommendation)",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customers C1 and C2 are a senior married couple with moderate risk tolerance, $250,000 annual income, and $2.24 million liquid net worth. After Wimsatt's October 2019 recommendation to invest $300,000 in L Bonds, she recommended an additional $200,000 investment in September 2020. This resulted in 22% of their liquid net worth being concentrated in high-risk L Bonds. This recommendation violated the Care Obligation under Reg BI as it was not in the customers' best interest given their moderate risk tolerance and investment objectives of income and growth (not speculation). Wimsatt earned $8,500 in commissions from the September 2020 recommendation. The Care Obligation violation stems from recommending a concentrated position in speculative, high-risk securities that was inconsistent with the customers' investment profile."
+    },
+    {
+      "Demographics": {
+        "Age": "senior investor",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "moderate",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "high",
+        "InvestmentPortfolioValue": "$1 million liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "more than 11%",
+        "HighRiskNetworthRatio": "more than 11% of liquid net worth"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$1,806.25 (for August 2020 recommendation)",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer D is a senior investor with moderate risk tolerance, $65,000 annual income, and $1 million liquid net worth. After Wimsatt's January 2019 recommendation to invest $66,936 in L Bonds, she recommended an additional $50,000 investment in August 2020. This resulted in more than 11% of the customer's liquid net worth being concentrated in high-risk L Bonds. This recommendation violated the Care Obligation under Reg BI as it was not in the customer's best interest given her moderate risk tolerance and investment objective of income (not speculation). Wimsatt earned $1,806.25 in commissions from the August 2020 recommendation. The Care Obligation violation stems from recommending a speculative, high-risk investment that was inconsistent with the customer's investment profile."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Linda J. Wimsatt",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021070498104",
+    "Date": "November 15, 2024"
+  },
+  "OverallSummary": "This case involves Linda J. Wimsatt, a former General Securities Representative, who made unsuitable investment recommendations to four sets of retail customers involving GWG L Bonds, which were speculative, unrated corporate bonds with a high degree of risk. The violations span two regulatory frameworks:
+
+1. For recommendations made before June 30, 2020 (to Customers A1/A2 and B1/B2), Wimsatt violated FINRA Rules 2111 (suitability) and 2010 by recommending unsuitable investments given the customers' moderate risk tolerance and investment objectives that did not include speculation.
+
+2. For recommendations made after June 30, 2020 (to Customers C1/C2 and D), Wimsatt willfully violated Regulation Best Interest (Rule 15l-1(a)(1)) and FINRA Rule 2010 by making recommendations that were not in the customers' best interests given their investment profiles.
+
+The case highlights how Wimsatt's recommendations resulted in inappropriate concentrations of a high-risk product:
+- Customers A1/A2: 24% concentration in L Bonds of their $415,000 liquid net worth
+- Customers B1/B2: Over 30% concentration of their $2 million liquid net worth
+- Customers C1/C2: 22% concentration of their $2.24 million liquid net worth
+- Customer D: Over 11% concentration of her $1 million liquid net worth
+
+Wimsatt earned total commissions of $20,974.75 from these recommendations. GWG L Bonds subsequently defaulted in January 2022, and GWG filed for bankruptcy in April 2022. The sanctions include a four-month suspension, $10,000 fine, and partial restitution of $20,974.75 plus interest to the affected customers, representing the commissions Wimsatt earned from these unsuitable recommendations."
+}

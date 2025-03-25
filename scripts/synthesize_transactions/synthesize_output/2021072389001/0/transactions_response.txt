@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 156395.77,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid": 3500.00,
+    "Other Transaction Costs": 700.00
+  },
+  {
+    "Date": "2020-02-10",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 39098.94,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid": 2800.00,
+    "Other Transaction Costs": 500.00
+  },
+  {
+    "Date": "2020-03-05",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 117296.83,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid": 2500.00,
+    "Other Transaction Costs": 600.00
+  },
+  {
+    "Date": "2020-04-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 78197.89,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid": 1800.00,
+    "Other Transaction Costs": 450.00
+  },
+  {
+    "Date": "2020-04-28",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 78197.89,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid": 1500.00,
+    "Other Transaction Costs": 400.00
+  },
+  {
+    "Date": "2020-05-14",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 39098.94,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid": 2200.00,
+    "Other Transaction Costs": 550.00
+  },
+  {
+    "Date": "2020-06-03",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 39098.94,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid": 2500.00,
+    "Other Transaction Costs": 500.00
+  },
+  {
+    "Date": "2020-06-20",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Income and growth",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 39098.94,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid": 3000.00,
+    "Other Transaction Costs": 600.00
+  },
+  {
+    "Date": "2020-07-05",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Trading and speculation",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 19549.47,
+    "Ratio of Total Portfolio (%)": 2.5,
+    "Fees Commissions Paid": 1700.00,
+    "Other Transaction Costs": 250.00
+  },
+  {
+    "Date": "2020-07-22",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Trust account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 39098.94,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid": 1000.00,
+    "Other Transaction Costs": 250.00
+  }
+]
+```

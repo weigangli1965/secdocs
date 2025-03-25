@@ -1,0 +1,15 @@
+Based on the information provided, there appears to be a violation of the Care Obligation under Section 240.15l-1(a)(2)(ii) of Regulation Best Interest.
+
+The violations relate to subsection (B) of the Care Obligation which requires the broker-dealer to have a reasonable basis to believe the recommendation is in the best interest of the particular retail customer based on their investment profile.
+
+Specific violations include:
+
+1. **Mismatch between risk tolerance and investment allocation**: The customer has a "Moderate" risk tolerance, but 62.5% of their portfolio is allocated to high-risk GWG L Bonds (classified as "Corporate Bonds" in the allocation). FINRA specifically notes that allocating a disproportionate amount of high-risk investments (as low as 20% in some cases) to customers with moderate risk tolerance can constitute a violation. Here, the customer's portfolio significantly exceeds that threshold.
+
+2. **Unsuitable recommendation given customer profile**: The customer is 68 years old, retired, with limited investment experience (3 years), and has retirement as their financial goal. GWG L Bonds are described as "High (speculative, unrated debt security)" investments that should only be suitable for "persons with substantial financial resources and no need for liquidity." Given the customer's age, retirement status, and moderate risk profile, this appears to be an unsuitable recommendation.
+
+3. **Large concentration in a single high-risk product**: The broker recommended investing a total of $112,500 (combining both March and June 2020 transactions) in a single high-risk product, representing 62.5% of the customer's portfolio. This concentration level is excessive for a moderate risk customer, particularly one who is retired.
+
+4. **Substantial financial loss incurred**: The customer lost $65,000, suggesting the broker failed to properly consider the potential risks and rewards of the investment for this particular customer's profile. The selling transaction shows they were only able to recover $47,500 of their $112,500 investment.
+
+These violations demonstrate a failure to exercise reasonable diligence, care, and skill in making recommendations that are in the best interest of the retail customer based on their investment profile, as required by Regulation Best Interest's Care Obligation.

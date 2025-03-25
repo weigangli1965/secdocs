@@ -1,0 +1,48 @@
+```json
+{
+"Customers": [
+    {
+        "Demographics": {
+            "Age": "Mixed (three were seniors)",
+            "Employment": "NOTSPECIFIED",
+            "IncomeLevel": "NOTSPECIFIED",
+            "InvestmentExperience": "No or limited experience with alternative investments for most customers",
+            "NetWorth": "Between $79,950 and $580,400 (not including primary residence)",
+            "InvestmentPortfolioValue": "NOTSPECIFIED"
+        },
+        "InvestmentType": {
+            "PrimaryInvestmentRecommended": "GWG L Bonds",
+            "RiskProfileofPrimaryRecommendedInvestment": "High (speculative, unrated debt security)",
+            "InvestmentPurpose": "Not speculation (offering documents stated bonds could only be suitable for persons with substantial financial resources and no need for liquidity)",
+            "RiskTolerance": "Moderate (all seven customers had moderate risk tolerance)",
+            "InvestmentAccountType": "NOTSPECIFIED"
+        },
+        "AccountInformation": {
+            "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+            "CostToEquityRatio": "NOTSPECIFIED",
+            "HighRiskInvestmentRatio": "NOTSPECIFIED",
+            "HighRiskNetworthRatio": "Between 11% and 32% of their net worth was invested in the speculative, unrated L Bonds"
+        },
+        "FinancialLossSuffered": {
+            "AmountLost": "Potentially up to $494,000 total invested across seven customers (GWG defaulted and filed for bankruptcy)",
+            "FeesCommissionsPaid": "NOTSPECIFIED",
+            "OtherTransactionCosts": "NOTSPECIFIED",
+            "ImpactOnPortfolio": "Potentially severe (bonds defaulted and company filed for bankruptcy)"
+        },
+        "Breach": {
+            "ExistenceofLegalBreach": "Yes",
+            "IsCareObligationViolation": "No",
+            "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111 and supervision failures under FINRA Rule 3110"
+        },
+        "CustomerSummary": "Seven retail customers with moderate risk tolerance and investment objectives other than speculation were sold a total of $494,000 in GWG L Bonds, which were speculative, unrated debt securities. Each customer had between 11% and 32% of their net worth (excluding primary residence) concentrated in these high-risk investments. Three customers were seniors, and most had little or no experience with alternative investments. The investments were unsuitable given their investment profiles. GWG eventually defaulted on obligations to L Bond investors in January 2022 and filed for bankruptcy in April 2022. The primary violation was Stahlman's failure to reasonably supervise the representative's recommendations, not a direct Care Obligation violation."
+    }
+],
+"Case Information": {
+    "Name of Party": "Blaine R. Stahlman",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069380601",
+    "Date": "October 16, 2024"
+},
+"OverallSummary": "This case involves Blaine R. Stahlman's failure to reasonably supervise a registered representative who recommended speculative, unrated GWG L Bonds to seven retail customers between March 1, 2019, and February 1, 2021. The customers, who had moderate risk tolerance and investment objectives other than speculation, invested a total of $494,000 in these high-risk securities, with concentrations between 11% and 32% of their net worth. Three customers were seniors, and most had limited or no experience with alternative investments. Stahlman approved each sale despite knowing these customer profiles and despite the representative sharing concerns about GWG's business viability. The case does not directly cite Care Obligation violations but rather focuses on Stahlman's supervisory failures under FINRA Rules 3110 and 2010, as well as recordkeeping violations under Rule 4511 for failing to retain and review business-related emails. GWG eventually defaulted on its obligations in January 2022 and filed for bankruptcy in April 2022, potentially resulting in significant losses for the affected customers. Stahlman was sanctioned with a six-month suspension in all principal capacities, a $15,000 fine, and continuing education requirements."
+}
+```

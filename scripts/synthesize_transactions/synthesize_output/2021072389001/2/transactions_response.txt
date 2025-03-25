@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 47500,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 2850,
+    "Other Transaction Costs": 950
+  },
+  {
+    "Date": "2020-02-22",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 79000,
+    "Ratio of Total Portfolio": 25,
+    "Fees Commissions Paid": 3160,
+    "Other Transaction Costs": 790
+  },
+  {
+    "Date": "2020-03-18",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 31600,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 2370,
+    "Other Transaction Costs": 790
+  },
+  {
+    "Date": "2020-04-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital appreciation and income",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 63200,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 1896,
+    "Other Transaction Costs": 632
+  },
+  {
+    "Date": "2020-05-12",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Capital appreciation and income",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 47400,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 1185,
+    "Other Transaction Costs": 379
+  },
+  {
+    "Date": "2020-06-23",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 31600,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 632,
+    "Other Transaction Costs": 159
+  },
+  {
+    "Date": "2020-07-08",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Family trust",
+    "BoughtOrSold": "Deposited",
+    "TotalAmount": 15800,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  }
+]
+```

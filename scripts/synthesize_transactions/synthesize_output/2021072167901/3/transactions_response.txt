@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 56000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 280,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2022-02-10",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 210,
+    "Other Transaction Costs": 55
+  },
+  {
+    "Date": "2022-03-22",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 190,
+    "Other Transaction Costs": 45
+  },
+  {
+    "Date": "2022-04-18",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 28000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 165,
+    "Other Transaction Costs": 40
+  },
+  {
+    "Date": "2022-06-05",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 28000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 140,
+    "Other Transaction Costs": 35
+  },
+  {
+    "Date": "2022-08-14",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 28000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 120,
+    "Other Transaction Costs": 30
+  },
+  {
+    "Date": "2022-10-30",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 14000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 85,
+    "Other Transaction Costs": 25
+  },
+  {
+    "Date": "2022-12-12",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 14000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 60,
+    "Other Transaction Costs": 20
+  },
+  {
+    "Date": "2023-02-20",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 14000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 15
+  },
+  {
+    "Date": "2023-04-05",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 14000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 10
+  }
+]
+```

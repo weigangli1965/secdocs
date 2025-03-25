@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "ID": 1234,
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 25
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Hedge Fund",
+    "Allocation": 20
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Cryptocurrency ETF",
+    "Allocation": 15
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 15
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Private Equity Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 8
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 5
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 2
+  }
+]
+```

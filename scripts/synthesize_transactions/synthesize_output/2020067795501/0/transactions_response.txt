@@ -1,0 +1,52 @@
+```
+[
+  {
+    "Date": "2022-03-15",
+    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement Planning",
+    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2022-06-22",
+    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Wealth Preservation",
+    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 16,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2022-09-08",
+    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate-High",
+    "InvestmentPurpose": "Capital Growth",
+    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 10.67,
+    "Fees Commissions Paid (in $)": 700,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-01-12",
+    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 6.67,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 150
+  }
+]
+```

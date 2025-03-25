@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2022-05-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 262000,
+    "Ratio of Total Portfolio (%)": 40,
+    "Fees Commissions Paid (in $)": 3500,
+    "Other Transaction Costs (in $)": 1200
+  },
+  {
+    "Date": "2022-03-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 98250,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2021-11-22",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 65500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 400,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2021-09-05",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 65500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2022-01-14",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 65500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2021-06-30",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52400,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2021-04-12",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 32750,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2021-02-03",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "preservation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 13100,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  }
+]
+```

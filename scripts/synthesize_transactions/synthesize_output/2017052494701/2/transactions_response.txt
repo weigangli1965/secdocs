@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Listed Business Development Companies (BDCs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8750,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 875,
+    "Other Transaction Costs (in $)": 225
+  },
+  {
+    "Date": "2024-02-03",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Diversification",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1225,
+    "Other Transaction Costs (in $)": 325
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8750,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 525,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2024-03-12",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Long-term Growth",
+    "InvestmentAccountType": "Individual Investment Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 14000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 575,
+    "Other Transaction Costs (in $)": 150
+  }
+]
+```

@@ -1,0 +1,49 @@
+```
+[
+  {
+    "ID": 12345,
+    "Investment Products": "Private Equity Fund",
+    "Allocation": 30
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Hedge Fund",
+    "Allocation": 25
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Cryptocurrency ETF",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 8
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 4
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Municipal Bonds",
+    "Allocation": 2
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 1
+  }
+]
+```

@@ -1,0 +1,81 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$428,000 liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "growth and income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "65% in alternative investments after recommendation",
+        "HighRiskNetworthRatio": "65% of liquid net worth in alternative investments after recommendation"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$1,927 in commission to Kunz for the L Bond purchase",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customer A had a moderate risk tolerance and investment objectives of growth and income (not speculation). Kunz recommended that Customer A invest $47,000 in GWG L Bonds in November 2019, which resulted in over 65% of her liquid net worth being concentrated in alternative investments. The L Bonds were speculative, high-risk, and illiquid investments. FINRA determined this recommendation was unsuitable for Customer A based on her investment profile and moderate risk tolerance, violating FINRA Rules 2111 and 2010. This occurred before Reg BI went into effect, so it was treated as a suitability violation rather than a Care Obligation violation. Kunz earned $1,927 in commission from this transaction, which he was ordered to pay as restitution."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "less than $100,000 annual income",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "moderate",
+        "InvestmentPortfolioValue": "$655,000 liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "GWG L Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "income",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "over 30% in L Bonds after recommendation",
+        "HighRiskNetworthRatio": "over 30% of liquid net worth in L Bonds after recommendation"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED, but customer brought and settled an arbitration against WestPark",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "Customer B had a moderate risk tolerance, income less than $100,000 annually, and investment objectives of income (not speculation). Kunz first recommended that Customer B invest $50,000 in GWG L Bonds in March 2020, then in February 2021 recommended an additional $147,000 investment in L Bonds. This resulted in over 30% of her liquid net worth being concentrated in these high-risk, speculative investments. FINRA determined this second recommendation violated Reg BI's Care Obligation because it was not in Customer B's best interest based on her investment profile and moderate risk tolerance. The recommendation placed Customer B's portfolio at excessive risk inconsistent with her stated objectives. Customer B later brought and settled an arbitration against WestPark relating to her GWG L Bond investments, with Kunz contributing to the settlement."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Kim R. Kunz",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021070498103",
+    "Date": "August 5, 2024"
+  },
+  "OverallSummary": "This case involves Kim R. Kunz, a registered representative who made unsuitable recommendations to two retail customers to invest in GWG L Bonds, which were speculative, unrated debt securities with a high degree of risk. For Customer A in November 2019, Kunz recommended a $47,000 investment in L Bonds that resulted in over 65% of her liquid net worth being concentrated in alternative investments, violating FINRA's suitability rule (Rule 2111). For Customer B in February 2021, Kunz recommended an additional $147,000 investment in L Bonds (on top of a previous $50,000 investment), resulting in over 30% of her liquid net worth concentrated in these high-risk securities, which FINRA determined was a violation of Regulation Best Interest's Care Obligation. The recommendations were particularly problematic because both customers had moderate risk tolerances and investment objectives that did not include speculation. Additionally, the L Bonds were described in offering documents as speculative, high-risk, illiquid, and only suitable for persons with substantial financial resources and no need for liquidity. In January 2022, GWG defaulted on its obligations to L Bond investors and later filed for bankruptcy in April 2022. Kunz earned $1,927 in commission from Customer A's investment, which he was ordered to pay as restitution, along with a $7,500 fine and a three-month suspension. Customer B separately brought and settled an arbitration against WestPark relating to her GWG L Bond investments, with Kunz contributing to the settlement."
+}

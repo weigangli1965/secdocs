@@ -1,0 +1,28 @@
+Based on an analysis of the provided information, there appear to be violations under section 2(ii) of the Care Obligation of Regulation Best Interest.
+
+## Violations of Care Obligation - Section 2(ii)(B)
+
+The broker/dealer appears to have violated their obligation to have a reasonable basis to believe recommendations were in the best interest of this particular retail customer based on the customer's investment profile.
+
+1. **Risk Profile Mismatch**: The customer has a "Moderate" risk tolerance, yet the portfolio contains a high percentage (60.8%) of high-risk investments. This includes:
+   - Options Trading (Very High risk)
+   - Cryptocurrency ETF (High risk)
+   - Hedge Fund (High risk)
+   - Technology Sector ETF (High risk)
+   - Real Estate Investment Trust (High risk)
+
+2. **Age-Inappropriate Investments**: The customer is 66 years old with a stated financial goal of "Retirement." Recommending very high-risk investments like options trading and cryptocurrency ETFs is inconsistent with this customer's profile, as these investments typically require longer time horizons and higher risk tolerance than appropriate for someone of retirement age.
+
+3. **FINRA Guidelines Violation**: FINRA specifically notes violations occur when there are "sufficient high-risk investments to customers with a moderate risk tolerance that the amount of high-risk investments in the customer's portfolio becomes disproportionate (as low as 20% in some cases)." With a high-risk investment ratio of 60.8%, this portfolio substantially exceeds this threshold.
+
+## Considerations
+
+1. The transactions occurred over a short timeframe (January-June 2020), with multiple high-risk investments recommended to a 66-year-old customer with moderate risk tolerance.
+
+2. The broker recommended multiple very high-risk investments (Options Trading) that resulted in significant fees and commissions relative to the transaction amounts.
+
+3. The cost-to-equity ratio of 15.5% approaches the 20% threshold that FINRA considers problematic. While not exceeding this level, it is high for a customer of this age and risk profile.
+
+4. The customer experienced losses of $42,500, suggesting these high-risk recommendations did not produce favorable outcomes.
+
+In summary, the broker appears to have failed to properly align recommendations with the customer's age, risk tolerance, and retirement goals, constituting a clear violation of the Care Obligation under section 2(ii)(B) of Regulation Best Interest.

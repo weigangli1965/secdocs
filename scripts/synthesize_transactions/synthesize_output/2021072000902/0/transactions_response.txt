@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 315000,
+    "Ratio of Total Portfolio (%)": 70,
+    "Fees Commissions Paid (in $)": 4500,
+    "Other Transaction Costs (in $)": 1800
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 1750,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1050,
+    "Other Transaction Costs (in $)": 350
+  }
+]
+```

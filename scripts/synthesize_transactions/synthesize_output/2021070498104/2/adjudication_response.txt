@@ -1,0 +1,23 @@
+Based on the information provided, there appear to be violations of Section (2)(ii) of Regulation Best Interest, specifically under the Care Obligation.
+
+The primary violation concerns the recommendation of GWG L Bonds:
+
+1. **Inappropriate Risk Level for Customer Profile**: 
+   - The customer has a "Moderate" risk tolerance, but GWG L Bonds are classified as "high" risk investments.
+   - The broker allocated 35% of the portfolio (approximately $784,000) to this high-risk investment.
+   - For a retired 68-year-old investor with moderate risk tolerance and retirement as their financial goal, this high allocation to a high-risk product appears unsuitable.
+
+2. **Disproportionate High-Risk Allocation**:
+   - The customer's portfolio has a "High Risk Investment Ratio" of 35.0%, which directly corresponds to the GWG L Bonds allocation.
+   - FINRA guidance specifically notes that violations occur when high-risk investments become disproportionate for customers with moderate risk tolerance, "as low as 20% in some cases."
+   - With 35% in GWG L Bonds, plus another 8% in REITs (also classified as high risk), the total high-risk allocation exceeds 43% of the portfolio.
+
+3. **Potential Failure of Due Diligence**:
+   - GWG L Bonds have been the subject of regulatory scrutiny, and GWG Holdings eventually filed for bankruptcy in 2022.
+   - Without additional information about the broker's due diligence process, there are concerns about whether sufficient investigation was conducted regarding the risks associated with these bonds.
+
+4. **Financial Loss**:
+   - The customer experienced an "Amount Lost" of $320,000, which suggests that the recommendation led to significant financial harm.
+   - The significant fees ($45,000) and transaction costs ($12,500) further exacerbated the negative impact on the customer.
+
+In summary, the recommendation of GWG L Bonds comprising 35% of the portfolio for a moderate-risk, retired investor appears to violate the Care Obligation under section (2)(ii)(B) of Regulation Best Interest. The broker failed to have a reasonable basis to believe that this recommendation was in the best interest of this particular retail customer based on their investment profile, especially considering their age, retirement status, moderate risk tolerance, and retirement-focused financial goals.

@@ -1,0 +1,40 @@
+```json
+[
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Private placement offering",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2023-07-21",
+    "PrimaryInvestmentRecommended": "Private placement offering",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2023-10-05",
+    "PrimaryInvestmentRecommended": "Private placement offering",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 800,
+    "Other Transaction Costs (in $)": 300
+  }
+]
+```

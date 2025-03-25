@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2022-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Taxable Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$189,240",
+    "Ratio of Total Portfolio (%)": 45.6,
+    "Fees Commissions Paid": "$4,800",
+    "Other Transaction Costs": "$650"
+  },
+  {
+    "Date": "2022-02-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Taxable Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$76,360",
+    "Ratio of Total Portfolio (%)": 18.4,
+    "Fees Commissions Paid": "$950",
+    "Other Transaction Costs": "$320"
+  },
+  {
+    "Date": "2021-11-12",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$51,875",
+    "Ratio of Total Portfolio (%)": 12.5,
+    "Fees Commissions Paid": "$450",
+    "Other Transaction Costs": "$125"
+  },
+  {
+    "Date": "2021-09-24",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$34,445",
+    "Ratio of Total Portfolio (%)": 8.3,
+    "Fees Commissions Paid": "$120",
+    "Other Transaction Costs": "$45"
+  },
+  {
+    "Date": "2021-07-30",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Taxable Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$29,880",
+    "Ratio of Total Portfolio (%)": 7.2,
+    "Fees Commissions Paid": "$110",
+    "Other Transaction Costs": "$35"
+  },
+  {
+    "Date": "2021-05-18",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "capital preservation",
+    "InvestmentAccountType": "Taxable Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$21,165",
+    "Ratio of Total Portfolio (%)": 5.1,
+    "Fees Commissions Paid": "$50",
+    "Other Transaction Costs": "$15"
+  },
+  {
+    "Date": "2021-03-05",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "capital preservation",
+    "InvestmentAccountType": "Taxable Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$9,960",
+    "Ratio of Total Portfolio (%)": 2.4,
+    "Fees Commissions Paid": "$15",
+    "Other Transaction Costs": "$5"
+  },
+  {
+    "Date": "2021-01-12",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "liquidity",
+    "InvestmentAccountType": "Taxable Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": "$2,075",
+    "Ratio of Total Portfolio (%)": 0.5,
+    "Fees Commissions Paid": "$5",
+    "Other Transaction Costs": "$5"
+  }
+]
+```

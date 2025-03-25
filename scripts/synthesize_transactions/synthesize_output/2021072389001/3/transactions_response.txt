@@ -1,0 +1,88 @@
+```
+[
+  {
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 31500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2020-02-05",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 16000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2020-03-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 47500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2020-04-21",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 15800,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 1350,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2020-05-18",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 18000,
+    "Ratio of Total Portfolio (%)": 5.7,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 550
+  },
+  {
+    "Date": "2020-06-09",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 15800,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 1250,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2020-06-30",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "capital appreciation with emergency funds access",
+    "InvestmentAccountType": "generation-skipping trust",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 22500,
+    "Ratio of Total Portfolio (%)": 7.1,
+    "Fees Commissions Paid (in $)": 1750,
+    "Other Transaction Costs (in $)": 800
+  }
+]
+```

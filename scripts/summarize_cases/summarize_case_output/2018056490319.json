@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "senior",
+        "Employment": "business owner",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "stocks including biotechnology and semiconductor companies",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "23",
+        "CostToEquityRatio": "104%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$41,017",
+        "FeesCommissionsPaid": "$92,847",
+        "OtherTransactionCosts": "$3,649",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "The senior customer who was a business owner relied on Krapf's advice and routinely followed his recommendations, giving Krapf de facto control over the account. Between October 2019 and April 2022, Krapf engaged in excessive trading that was not in the customer's best interest, recommending 58 transactions including in-and-out trading even when securities prices did not materially change. For example, in April 2020, Krapf recommended purchasing $180,000 in a biotechnology stock and then selling it two days later, generating $7,800 in commissions. The very next day, he recommended purchasing $82,000 in a semiconductor company and selling it the same day at a loss, generating $2,000 in commissions. The excessive trading resulted in an annualized turnover rate of 23 and a cost-to-equity ratio of 104%, far exceeding the thresholds of 6 and 20% respectively that generally indicate excessive trading. The customer paid $96,496 in total trading costs (including $92,847 in commissions) and suffered $41,017 in realized losses."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Jesse D. Krapf",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2018056490319",
+    "Date": "10/30/2024"
+  },
+  "OverallSummary": "This case involves willful violations of Regulation Best Interest (Reg BI) Rule 15l-1 of the Securities Exchange Act of 1934, specifically the Care Obligation under Rule 15l-1(a)(2)(ii), as well as violations of FINRA Rules 2111 and 2010 by Jesse D. Krapf, a General Securities Representative associated with Spartan Capital Securities, LLC. Between October 2019 and April 2022, Krapf excessively traded a senior customer's account who was a business owner and relied on Krapf's advice. The excessive trading was determined using two quantitative measurements: (1) an annualized turnover rate of 23, far exceeding the threshold of 6 that generally indicates excessive trading, and (2) an annualized cost-to-equity ratio of 104%, drastically above the 20% threshold that generally indicates excessive trading. Krapf recommended 58 transactions including frequent in-and-out trading even when securities prices did not materially change, generating substantial commissions. Specific examples include recommending the purchase of $180,000 in biotechnology stock, then selling it two days later with $7,800 in commissions, followed by recommending $82,000 in semiconductor company stock and selling it the same day at a loss with $2,000 in commissions. The customer incurred $96,496 in total trading costs (including $92,847 in commissions) and suffered $41,017 in realized losses. Krapf was suspended for five months from associating with any FINRA member in all capacities. No monetary sanctions were imposed due to Krapf's demonstrated inability to pay."
+}
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-06-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "individual retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 65000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 325
+  },
+  {
+    "Date": "2023-08-22",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 58500,
+    "Ratio of Total Portfolio (%)": 18,
+    "Fees Commissions Paid (in $)": 730,
+    "Other Transaction Costs (in $)": 290
+  },
+  {
+    "Date": "2023-10-05",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 48750,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 975,
+    "Other Transaction Costs (in $)": 410
+  },
+  {
+    "Date": "2024-01-18",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "individual retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 39000,
+    "Ratio of Total Portfolio (%)": 12,
+    "Fees Commissions Paid (in $)": 520,
+    "Other Transaction Costs (in $)": 285
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 32500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 325,
+    "Other Transaction Costs (in $)": 190
+  }
+]
+```

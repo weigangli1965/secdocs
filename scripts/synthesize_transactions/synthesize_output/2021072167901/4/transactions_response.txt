@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 126000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2023-02-20",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 105000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 250,
+    "Other Transaction Costs (in $)": 75
+  },
+  {
+    "Date": "2023-03-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 63000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2023-04-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 40
+  },
+  {
+    "Date": "2023-05-12",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 35
+  },
+  {
+    "Date": "2023-06-18",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 50,
+    "Other Transaction Costs (in $)": 25
+  },
+  {
+    "Date": "2023-07-22",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "capital appreciation/growth",
+    "InvestmentAccountType": "profit sharing plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 50,
+    "Other Transaction Costs (in $)": 25
+  }
+]
+```

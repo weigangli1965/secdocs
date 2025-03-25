@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Private placement with minimum raise contingency",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 82500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2023-08-22",
+    "PrimaryInvestmentRecommended": "Private placement with minimum raise contingency",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 55000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2024-01-10",
+    "PrimaryInvestmentRecommended": "Private placement with minimum raise contingency",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2024-03-05",
+    "PrimaryInvestmentRecommended": "Private placement with minimum raise contingency",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 500
+  }
+]
+```

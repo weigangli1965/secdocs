@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 85000,
+    "Ratio of Total Portfolio (%)": 30.4,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 16.1,
+    "Fees Commissions Paid (in $)": 850,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2023-06-08",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "Ratio of Total Portfolio (%)": 12.5,
+    "Fees Commissions Paid (in $)": 700,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-09-14",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 28000,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-11-30",
+    "PrimaryInvestmentRecommended": "Daily-reset Non-Traditional Funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 55000,
+    "Ratio of Total Portfolio (%)": 19.6,
+    "Fees Commissions Paid (in $)": 1100,
+    "Other Transaction Costs (in $)": 325
+  }
+]
+```

@@ -1,0 +1,100 @@
+```
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio": 25,
+    "Fees Commissions Paid": 250,
+    "Other Transaction Costs": 150
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 200,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 180,
+    "Other Transaction Costs": 120
+  },
+  {
+    "Date": "2023-04-17",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 150,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2023-06-05",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 160,
+    "Other Transaction Costs": 110
+  },
+  {
+    "Date": "2023-08-14",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 16000,
+    "Ratio of Total Portfolio": 8,
+    "Fees Commissions Paid": 120,
+    "Other Transaction Costs": 80
+  },
+  {
+    "Date": "2023-10-30",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 90,
+    "Other Transaction Costs": 70
+  },
+  {
+    "Date": "2023-12-12",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "conservative investing",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4000,
+    "Ratio of Total Portfolio": 2,
+    "Fees Commissions Paid": 50,
+    "Other Transaction Costs": 70
+  }
+]
+```

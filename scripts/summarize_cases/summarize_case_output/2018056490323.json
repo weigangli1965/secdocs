@@ -1,0 +1,83 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "49",
+        "Employment": "merchandiser",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "conservative investing",
+        "RiskTolerance": "low",
+        "InvestmentAccountType": "Brokerage"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "7",
+        "CostToEquityRatio": "34%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$25,291",
+        "FeesCommissionsPaid": "$19,792",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A was a 49-year-old merchandiser who opened an account with Deiter in February 2020. She was a conservative investor who relied on Deiter's advice and always followed his recommendations, giving Deiter de facto control over her account. Between February 2020 and December 2021, Deiter recommended 32 transactions resulting in excessive trading as evidenced by an annualized turnover rate of 7 (exceeding the guideline of 6) and an annualized cost-to-equity ratio of 34% (exceeding the guideline of 20%). This excessive trading generated $19,792 in commissions for Deiter while causing Customer A to suffer $25,291 in realized losses. The excessive trading violated Reg BI's Care Obligation (after June 30, 2020) and FINRA Rule 2111 (before June 30, 2020)."
+    },
+    {
+      "Demographics": {
+        "Age": "89",
+        "Employment": "retiree",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "Brokerage"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "14",
+        "CostToEquityRatio": "35%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$33,363",
+        "FeesCommissionsPaid": "$28,264",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer B was an 89-year-old retiree and senior investor who opened an account with Deiter in February 2020. Despite having a speculative investment objective, Customer B was subjected to excessive trading. Between June 30, 2020, and March 2022, Deiter recommended 28 transactions resulting in an annualized turnover rate of 14 (more than double the guideline of 6) and an annualized cost-to-equity ratio of 35% (significantly exceeding the guideline of 20%). This excessive trading generated $28,264 in commissions for Deiter while causing Customer B to suffer $33,363 in realized losses. The excessive trading violated Reg BI's Care Obligation, which applied to all transactions after June 30, 2020."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Justin R. Deiter",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2018056490323",
+    "Date": "02/06/2025"
+  },
+  "OverallSummary": "This case involves Justin R. Deiter, a former General Securities Representative, who willfully violated Regulation BI's Care Obligation and FINRA Rules 2111 and 2010 by engaging in excessive trading in the accounts of two retail customers between February 2020 and March 2022. The Care Obligation violation was explicitly identified as excessive trading, which was determined using the following analytical steps: 1) Analysis of turnover rates (both customers had rates exceeding the guideline of 6, with rates of 7 and 14); 2) Calculation of cost-to-equity ratios (both customers had rates exceeding the guideline of 20%, with rates of 34% and 35%); and 3) Assessment of trading frequency and resulting financial impact. Customer A was a 49-year-old conservative investor over whose account Deiter exercised de facto control. Deiter recommended 32 transactions that generated $19,792 in commissions while causing $25,291 in realized losses. Customer B was an 89-year-old retiree (a senior investor) with a speculative investment objective. Deiter recommended 28 transactions that generated $28,264 in commissions while causing $33,363 in realized losses. The combined commissions for both customers totaled $48,056, with combined realized losses of $58,654. As a result of these violations, Deiter was suspended for six months in all capacities. No monetary sanctions were imposed due to Deiter's demonstrated inability to pay."
+}
+```

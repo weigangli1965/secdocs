@@ -1,0 +1,48 @@
+```json
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "moderate",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "GWG L Bonds",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "income and preservation of capital",
+      "RiskTolerance": "moderately aggressive",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "at least 14% of liquid net worth"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "$1,471",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis, Inappropriate Investment Recommendations Relative to Client Profile, Failure to Consider Reasonable Alternative Investments"
+    },
+    "CustomerSummary": "The customer invested a total of $50,000 in GWG L Bonds based on Chapman's recommendations ($28,000 in January 2020 and $22,000 in December 2020). The customer had a disclosed liquid net worth of $350,000, a moderately aggressive risk tolerance, and investment objectives of income and preservation of capital (not speculation). Chapman violated the Care Obligation by: (1) failing to perform reasonable diligence on GWG L Bonds, (2) not understanding that L Bonds were high risk and speculative, (3) erroneously concluding that GWG's business model change reduced investment risks when it actually increased them, (4) recommending a high-risk investment that constituted at least 14% of the customer's liquid net worth despite the customer's more conservative investment objectives, and (5) failing to consider reasonably available alternatives for the December 2020 recommendation. Chapman also made negligent misrepresentations to the customer, including sharing third-party risk reports that inaccurately assigned a risk score of '1' (lowest risk) to GWG L Bonds, falsely claiming GWG was still acquiring life insurance policies, and inaccurately describing GWG as 'more secure' following its business model change."
+  }
+],
+"Case Information": {
+  "Name of Party": "Kyle William Chapman",
+  "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+  "Case No.": "2020068655901",
+  "Date": "September 5, 2024"
+},
+"OverallSummary": "This case involves Kyle William Chapman's willful violation of Regulation Best Interest (Reg BI) and other FINRA rules in relation to his recommendations of GWG L Bonds to a retail customer. Chapman made two recommendations for the customer to invest in GWG L Bonds, totaling $50,000 ($28,000 in January 2020 and $22,000 in December 2020), which represented at least 14% of the customer's liquid net worth. The Care Obligation violation occurred through several specific failures: (1) Chapman failed to conduct adequate due diligence on GWG L Bonds, a speculative and unrated debt security; (2) he did not reasonably review the offering documents to understand the high-risk nature of the bonds; (3) he erroneously believed that GWG's business model change reduced investment risk when it actually increased risk; (4) he recommended these high-risk investments to a customer with more conservative investment objectives (income and preservation of capital, not speculation); and (5) for the December 2020 recommendation, he failed to consider reasonably available alternatives that may have better suited the customer's objectives. Chapman also made negligent misrepresentations and omissions of material facts about the investment, including sharing third-party risk reports that inaccurately classified GWG L Bonds as having the lowest possible risk score. Chapman earned $1,471 in commissions from these recommendations. GWG subsequently defaulted on its obligations to L Bond investors in January 2022 and filed for bankruptcy in April 2022. As sanctions, Chapman received a three-month suspension, a $5,000 fine, and disgorgement of $1,471 plus interest."
+}
+```

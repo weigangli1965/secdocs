@@ -1,0 +1,148 @@
+```
+[
+  {
+    "Date": "2023-02-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 70000,
+    "RatioOfTotalPortfolio": 20,
+    "FeesCommissionsPaid": 350,
+    "OtherTransactionCosts": 175
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "RatioOfTotalPortfolio": 15,
+    "FeesCommissionsPaid": 262,
+    "OtherTransactionCosts": 131
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "RatioOfTotalPortfolio": 15,
+    "FeesCommissionsPaid": 262,
+    "OtherTransactionCosts": 131
+  },
+  {
+    "Date": "2023-06-18",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "RatioOfTotalPortfolio": 10,
+    "FeesCommissionsPaid": 175,
+    "OtherTransactionCosts": 87
+  },
+  {
+    "Date": "2023-08-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "RatioOfTotalPortfolio": 10,
+    "FeesCommissionsPaid": 350,
+    "OtherTransactionCosts": 175
+  },
+  {
+    "Date": "2023-09-12",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Emergency Fund",
+    "InvestmentAccountType": "Cash",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 0,
+    "OtherTransactionCosts": 0
+  },
+  {
+    "Date": "2023-10-20",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 0,
+    "OtherTransactionCosts": 0
+  },
+  {
+    "Date": "2023-11-15",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 87,
+    "OtherTransactionCosts": 44
+  },
+  {
+    "Date": "2024-01-08",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 262,
+    "OtherTransactionCosts": 131
+  },
+  {
+    "Date": "2024-02-22",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 262,
+    "OtherTransactionCosts": 131
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10500,
+    "RatioOfTotalPortfolio": 3,
+    "FeesCommissionsPaid": 315,
+    "OtherTransactionCosts": 157
+  },
+  {
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7000,
+    "RatioOfTotalPortfolio": 2,
+    "FeesCommissionsPaid": 175,
+    "OtherTransactionCosts": 87
+  }
+]
+```

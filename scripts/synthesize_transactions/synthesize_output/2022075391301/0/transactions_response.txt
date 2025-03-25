@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 15.4,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 23.1,
+    "Fees Commissions Paid (in $)": 1100,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 7.7,
+    "Fees Commissions Paid (in $)": 400,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 30.8,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2023-12-18",
+    "PrimaryInvestmentRecommended": "Portfolio Review Program accounts",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 125000,
+    "Ratio of Total Portfolio (%)": 38.5,
+    "Fees Commissions Paid (in $)": 1450,
+    "Other Transaction Costs (in $)": 400
+  }
+]
+```

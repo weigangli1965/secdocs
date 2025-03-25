@@ -1,0 +1,151 @@
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Single parent with dependent children facing financial hardship",
+      "IncomeLevel": "Low",
+      "InvestmentExperience": "None",
+      "NetWorth": "Low",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and other speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Wealth preservation (FINRA notes broker misrepresented customer's investment purpose as speculation; customer actually wanted conservative investments for upcoming expenses including home down payment or college tuition)",
+      "RiskTolerance": "Low (FINRA notes broker misrepresented customer's risk tolerance as high or maximum; customer actually requested conservative investments)",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "All or significant portion",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "No",
+      "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+    },
+    "CustomerSummary": "Customer A opened an account with Pagel in 2014 after receiving an inheritance or charitable gift. As a single parent with dependent children facing financial hardship, Customer A had no prior investment experience and instructed Pagel to invest conservatively as the funds were needed for upcoming expenses. Despite these instructions, Pagel directed the customer to select a speculative investment objective with high risk tolerance on account documents. Between January 2014 and December 2015, Pagel recommended investing all or a significant portion of the customer's assets in speculative, low-priced stocks inconsistent with their investment profile. This resulted in losses and a customer complaint. This violated FINRA Rule 2111 (suitability) as the trading occurred before Regulation BI went into effect in June 2020."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Single parent with dependent children facing financial hardship",
+      "IncomeLevel": "Low",
+      "InvestmentExperience": "None",
+      "NetWorth": "Low",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and other speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Wealth preservation (FINRA notes broker misrepresented customer's investment purpose as speculation; customer actually wanted conservative investments for upcoming expenses including home down payment or college tuition)",
+      "RiskTolerance": "Low (FINRA notes broker misrepresented customer's risk tolerance as high or maximum; customer actually requested conservative investments)",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "All or significant portion",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "No",
+      "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+    },
+    "CustomerSummary": "Customer B opened an account with Pagel in 2014 after receiving an inheritance or charitable gift. As a single parent with dependent children facing financial hardship, Customer B had no prior investment experience and instructed Pagel to invest conservatively as the funds were needed for upcoming expenses. Despite these instructions, Pagel directed the customer to select a speculative investment objective with high risk tolerance on account documents. Between March 2014 and September 2014, Pagel recommended investing all or a significant portion of the customer's assets in speculative, low-priced stocks inconsistent with their investment profile. This resulted in losses and a customer complaint. This violated FINRA Rule 2111 (suitability) as the trading occurred before Regulation BI went into effect in June 2020."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Single parent with dependent children facing financial hardship",
+      "IncomeLevel": "Low",
+      "InvestmentExperience": "None",
+      "NetWorth": "Low",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and other speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Wealth preservation (FINRA notes broker misrepresented customer's investment purpose as speculation; customer actually wanted conservative investments for upcoming expenses including home down payment or college tuition)",
+      "RiskTolerance": "Low (FINRA notes broker misrepresented customer's risk tolerance as high or maximum; customer actually requested conservative investments)",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "All or significant portion",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "No",
+      "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+    },
+    "CustomerSummary": "Customer C opened an account with Pagel in 2016 after receiving an inheritance or charitable gift. As a single parent with dependent children facing financial hardship, Customer C had no prior investment experience and instructed Pagel to invest conservatively as the funds were needed for upcoming expenses. Despite these instructions, Pagel directed the customer to select a speculative investment objective with high risk tolerance on account documents. Between August 2016 and February 2019, Pagel recommended investing all or a significant portion of the customer's assets in speculative, low-priced stocks inconsistent with their investment profile. This resulted in losses and a customer complaint. This violated FINRA Rule 2111 (suitability) as the trading occurred before Regulation BI went into effect in June 2020."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Self-employed",
+      "IncomeLevel": "Low (less than $50,000 annually)",
+      "InvestmentExperience": "None",
+      "NetWorth": "Low (less than $100,000)",
+      "InvestmentPortfolioValue": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and other speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "High",
+      "InvestmentPurpose": "Balanced growth (customer selected balanced growth with moderate risk on forms, informed broker he wanted safe investments)",
+      "RiskTolerance": "Low to moderate (customer selected moderate risk tolerance defined as willingness to accept modest returns for some fluctuation in value, and specifically stated he wanted safe investments)",
+      "InvestmentAccountType": "Brokerage and IRA"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "OtherTransactionCosts": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+    },
+    "CustomerSummary": "Customer D opened two accounts with Pagel in November 2022, including an individual retirement account. As a self-employed individual with annual income less than $50,000 and net worth less than $100,000, Customer D had no prior investment experience and no other assets outside the firm. On new account forms, Customer D selected balanced growth with moderate risk tolerance, defined as accepting modest returns for some fluctuation in value. Additionally, Customer D explicitly informed Pagel he wanted only safe investments. Despite this investment profile, between November 2022 and August 2023, Pagel recommended low-priced stocks and other speculative securities inconsistent with Customer D's investment profile. This constituted a Care Obligation violation under Regulation BI because: 1) The recommendations failed to consider Customer D's stated investment preferences for safe investments; 2) The speculative securities recommended exceeded Customer D's risk tolerance; 3) The recommendations were inconsistent with Customer D's limited financial situation, including low income and net worth; and 4) The recommendations did not align with Customer D's lack of investment experience."
+  }
+],
+"Case Information": {
+  "Name of Party": "Justin W. Pagel",
+  "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+  "Case No.": "2022073340901",
+  "Date": "January 17, 2025"
+},
+"OverallSummary": "This case involves violations by Justin W. Pagel, a former General Securities Representative with Feltl & Company, who engaged in three primary types of misconduct: making unsuitable recommendations, exercising unauthorized discretion, and mismarking solicited trades as unsolicited. For four customers (A, B, C, and D), Pagel recommended speculative, high-risk stocks that were either unsuitable or not in the customers' best interest based on their investment profiles. The first three customers (A, B, C) were single parents with dependent children facing financial hardship who specifically instructed Pagel to invest conservatively as they needed the funds for upcoming expenses like home down payments or college tuition. Despite these instructions, Pagel had them select speculative investment objectives with high risk tolerances to enable him to invest in speculative securities. The trading for these customers occurred between 2014 and 2019, before Regulation BI went into effect, violating FINRA Rule 2111 (suitability). Customer D, a self-employed individual with low income and net worth who opened accounts in 2022, experienced violations under Regulation BI's Care Obligation, as Pagel recommended speculative securities despite the customer's stated preference for safe investments and moderate risk tolerance. Additionally, Pagel exercised discretion without written authorization in 360 trades across 47 customer accounts from 2019 to 2023 and mismarked 587 solicited trades as unsolicited between 2013 and 2022. The misconduct resulted in customer complaints and losses, with Pagel and his firm making payments totaling $26,000 in connection with two of the complaints. As a result of these violations, Pagel received a ten-month suspension with no monetary sanctions due to his financial condition."
+}

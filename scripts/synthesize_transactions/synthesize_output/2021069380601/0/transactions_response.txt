@@ -1,0 +1,40 @@
+```json
+[
+  {
+    "Date": "2020-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 25.0,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2020-06-22",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portfolio (%)": 37.5,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2022-01-18",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 47500,
+    "Ratio of Total Portfolio (%)": 26.4,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  }
+]
+```

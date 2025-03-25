@@ -1,0 +1,58 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Pre-IPO funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$352,935 (total commissions paid by all 36 customers, with 15% commission rate on $2,352,900 total investment)",
+        "OtherTransactionCosts": "Additional markups applied by the Issuer as high as 39%",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "This summary represents the group of 36 retail customers who collectively invested $2,352,900 in the pre-IPO fund offerings. These customers were victims of INI's Care Obligation violation through insufficient due diligence. The firm failed to verify whether the Issuer had access to or possession of the pre-IPO shares that were the sole purpose of the investments. Additionally, INI failed to determine whether the Issuer's prices and markups (which reached as high as 39%) were reasonable and properly disclosed. The customers also suffered from disclosure violations, as INI misrepresented that it would receive only a 10% sales commission when in fact it had an agreement to receive an additional 5% in selling compensation and half of any carried interest. Of the 36 customers, 23 did not have proper customer identification verification at the time of investment, showing a systematic failure in the firm's Customer Identification Program."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Investment Network, Inc. and Gary L. Arnold",
+    "Type of Document": "AWC letter",
+    "Case No.": "2022074096804",
+    "Date": "October 16, 2024"
+  },
+  "OverallSummary": "This case involves multiple Care Obligation violations by Investment Network, Inc. (INI) affecting 36 retail customers who collectively invested $2,352,900 in private placement offerings of pre-IPO funds between October 2020 and May 2021. The Care Obligation violation centered on insufficient due diligence and risk analysis. INI failed to:
+
+1. Verify whether the Issuer had access to or possession of the pre-IPO shares that were the sole purpose of the investments
+2. Determine whether the Issuer's prices and markups (which reached as high as 39%) were reasonable and properly disclosed
+3. Establish a reasonable basis for believing that the recommendations were in customers' best interest
+
+INI therefore willfully violated Reg BI's Care Obligation by recommending investments without conducting reasonable due diligence. This was compounded by disclosure violations where INI misrepresented its compensation, telling investors it would receive only a 10% sales commission when it was actually receiving an additional 5% in compensation plus half of any carried interest. The firm collected $116,745 in undisclosed commissions.
+
+The case also highlights significant supervisory failures, as INI and its principal Gary Arnold failed to establish any written supervisory procedures related to private placements or Reg BI compliance. The firm also failed to implement its Customer Identification Program, with 23 of the 36 investors lacking proper identity verification at the time of investment.
+
+The SEC subsequently filed a lawsuit against the Issuer and its principals, alleging fraud for charging undisclosed, excessive markups and not having enough pre-IPO shares to satisfy its sales to investors. Criminal charges were later filed against principals of the Issuer. This suggests that the customers' investments may be at substantial risk due to potential fraud by the Issuer, which proper due diligence by INI might have identified."
+}
+```

@@ -1,0 +1,76 @@
+```json
+[
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Municipal securities",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax Optimization",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 55000,
+    "RatioOfTotalPortfolio": 20.0,
+    "FeesCommissionsPaid": 350,
+    "OtherTransactionCosts": 150
+  },
+  {
+    "Date": "2024-02-08",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 41250,
+    "RatioOfTotalPortfolio": 15.0,
+    "FeesCommissionsPaid": 275,
+    "OtherTransactionCosts": 125
+  },
+  {
+    "Date": "2024-02-22",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "RatioOfTotalPortfolio": 10.0,
+    "FeesCommissionsPaid": 200,
+    "OtherTransactionCosts": 100
+  },
+  {
+    "Date": "2024-03-10",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 41250,
+    "RatioOfTotalPortfolio": 15.0,
+    "FeesCommissionsPaid": 175,
+    "OtherTransactionCosts": 125
+  },
+  {
+    "Date": "2024-03-18",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22000,
+    "RatioOfTotalPortfolio": 8.0,
+    "FeesCommissionsPaid": 100,
+    "OtherTransactionCosts": 75
+  },
+  {
+    "Date": "2024-03-24",
+    "PrimaryInvestmentRecommended": "Municipal securities",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax Optimization",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "RatioOfTotalPortfolio": 10.0,
+    "FeesCommissionsPaid": 100,
+    "OtherTransactionCosts": 225
+  }
+]
+```

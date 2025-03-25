@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 500,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2022-03-20",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 200,
+    "Other Transaction Costs": 50
+  },
+  {
+    "Date": "2022-06-10",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 450,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2022-09-05",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 300,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2023-01-18",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  },
+  {
+    "Date": "2023-04-22",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 300,
+    "Other Transaction Costs": 75
+  },
+  {
+    "Date": "2023-07-15",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 250,
+    "Other Transaction Costs": 50
+  },
+  {
+    "Date": "2023-10-30",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 50
+  }
+]
+```

@@ -1,0 +1,151 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "75",
+        "Employment": "retired aircraft maintenance worker",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "limited",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "$70,000"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "short-term, in-and-out trading of securities",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "retirement savings",
+        "RiskTolerance": "low",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "31.5",
+        "CostToEquityRatio": "103.49%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$131,979 in realized losses",
+        "FeesCommissionsPaid": "$101,806 in commissions",
+        "OtherTransactionCosts": "$18,582 in other trading costs",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A was a 75-year-old retired aircraft maintenance worker with limited investment experience who viewed his assets at SW Financial as retirement savings. Between December 2016 and July 2018, SW Financial through RR 1 churned his account by effecting 174 trades, resulting in an extremely high annualized cost-to-equity ratio of 103.49% and turnover rate of 31.5. With only $70,000 in average monthly equity, RR 1 purchased over $3.6 million in securities, generating $120,388 in total trading costs including $101,806 in commissions, and causing $131,979 in realized losses. Customer A lost the majority of his retirement savings and was forced to sell his home and downsize to pay expenses. The Care Obligation violation was established through: (1) identifying the excessive trading metrics (cost-to-equity ratio over 100% and turnover rate over 31), (2) establishing that RR 1 had de facto control over the account as Customer A relied completely on recommendations, and (3) demonstrating the severe impact on the customer's financial situation."
+    },
+    {
+      "Demographics": {
+        "Age": "72",
+        "Employment": "owner of an air conditioning company",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "no recent investment experience",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "$26,000"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "short-term, in-and-out trading of securities",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "low",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "20.92",
+        "CostToEquityRatio": "79.88%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$76,866 in realized losses",
+        "FeesCommissionsPaid": "$50,936 in commissions",
+        "OtherTransactionCosts": "$8,096 in other trading costs",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer B was a 72-year-old owner of an air conditioning company with no recent investment experience. Between April 2016 and May 2019, SW Financial through RR 1 churned his account by effecting 145 trades, resulting in an extremely high annualized cost-to-equity ratio of 79.88% and turnover rate of 20.92. With only $26,000 in average monthly equity, RR 1 purchased over $1.7 million in securities, generating $59,032 in total trading costs including $50,936 in commissions, and causing $76,866 in realized losses. The Care Obligation violation was established through: (1) identifying the excessive trading metrics (cost-to-equity ratio of nearly 80% and turnover rate over 20), (2) establishing that RR 1 had de facto control over the account as Customer B relied completely on recommendations, and (3) demonstrating the severity of costs and losses relative to the modest account size."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "pre-IPO private placement offerings",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "investment in pre-IPO companies",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "Approximately $3.06 million in total selling compensation to SW Financial, including $936,000 in undisclosed compensation",
+        "OtherTransactionCosts": "Markups as high as 25-39% on some offerings",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "This represents the 163 retail customers who collectively invested approximately $21.3 million in pre-IPO private placement offerings. SW Financial failed to conduct reasonable due diligence before recommending the offerings, including failing to verify whether the issuer had access to or possession of the pre-IPO shares that were the sole purported assets of the offerings. The firm also failed to determine the amount of the issuer's markups, which for some offerings were as high as 25-39%, or to ensure these markups were disclosed to customers. The Care Obligation violation was established through: (1) identifying SW Financial's failure to conduct reasonable investigation about the issuer's assets and claims, (2) determining the firm lacked a reasonable basis to believe the recommendations were in customers' best interests, and (3) noting the firm's material misrepresentations and omissions about compensation, including failing to disclose an additional 5% in selling compensation and half of any carried interest."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "short-term, in-and-out trading of securities",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "ranging from 18.63 to 66.88",
+        "CostToEquityRatio": "ranging from 79.88% to 228.25%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$465,964 in total realized losses",
+        "FeesCommissionsPaid": "$304,873 in commissions",
+        "OtherTransactionCosts": "$45,407 in other trading costs",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "This represents the other seven churned customer accounts (beyond Customers A and B detailed above). Between January 2016 and May 2019, SW Financial, through RR 1 and RR 2, churned these accounts, resulting in extremely high annualized cost-to-equity ratios ranging from 79.88% to 228.25% and turnover rates ranging from 18.63 to 66.88. The excessive trading in these accounts generated $350,280 in total trading costs, including $304,873 in commissions, and caused $465,964 in realized losses. The Care Obligation violation was established through: (1) identifying the excessive trading metrics (cost-to-equity ratios and turnover rates far exceeding industry benchmarks of 20% and 6, respectively), (2) establishing that the representatives had de facto control over the accounts, and (3) demonstrating the firm's failure to reasonably supervise or intervene despite multiple red flags of excessive trading."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "SW Financial",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2020065599101",
+    "Date": "NOTSPECIFIED"
+  },
+  "OverallSummary": "SW Financial committed two primary types of Care Obligation violations. First, between January 2018 and December 2021, the firm failed to conduct reasonable due diligence on pre-IPO private placement offerings before recommending them to 163 retail customers who invested approximately $21.3 million. The firm violated the Care Obligation by: (1) failing to verify whether the issuer had access to or possession of the pre-IPO shares that were the offerings' sole purported assets, (2) failing to determine the amount of the issuer's markups (which were as high as 25-39% for some offerings) or ensure these were disclosed to customers, and (3) misrepresenting the firm's compensation arrangement by not disclosing it would receive an additional 5% in selling compensation beyond the disclosed 10% commission, plus half of any carried interest. This undisclosed compensation amounted to approximately $2 million. Second, between January 2016 and May 2019, the firm, through two registered representatives, churned nine customer accounts in violation of the Care Obligation. These accounts had annualized cost-to-equity ratios ranging from 79.88% to 228.25% and turnover rates ranging from 18.63 to 66.88, far exceeding industry benchmarks that indicate excessive trading (20% and 6, respectively). The excessive trading resulted in $350,280 in total trading costs, including $304,873 in commissions, and caused $465,964 in total realized losses. The impact was particularly severe for elderly customers with limited investment experience, including a 75-year-old retired aircraft maintenance worker who lost most of his retirement savings and was forced to sell his home. The firm's supervisory failures facilitated both types of violations, as it failed to establish, maintain, and enforce reasonably designed supervisory systems for private placements and excessive trading."
+}

@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "ID": 1234,
+    "Investment Products": "Savings Account",
+    "Allocation": 5
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Certificate of Deposit (CD)",
+    "Allocation": 8
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 10
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Municipal Bonds",
+    "Allocation": 5
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 7
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 22
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation": 15
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Hedge Fund",
+    "Allocation": 12
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Cryptocurrency ETF",
+    "Allocation": 10
+  },
+  {
+    "ID": 1234,
+    "Investment Products": "Options Trading",
+    "Allocation": 6
+  }
+]
+```

@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2015-03-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 300000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 4500,
+    "Other Transaction Costs (in $)": 1500
+  },
+  {
+    "Date": "2015-04-22",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 240000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 3600,
+    "Other Transaction Costs (in $)": 1200
+  },
+  {
+    "Date": "2015-06-18",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2700,
+    "Other Transaction Costs (in $)": 900
+  },
+  {
+    "Date": "2015-09-05",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2700,
+    "Other Transaction Costs (in $)": 900
+  },
+  {
+    "Date": "2015-11-14",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2016-02-20",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2016-05-08",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 36000,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 540,
+    "Other Transaction Costs (in $)": 180
+  },
+  {
+    "Date": "2016-08-12",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 24000,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 360,
+    "Other Transaction Costs (in $)": 120
+  }
+]
+```

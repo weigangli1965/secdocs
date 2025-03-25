@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 300000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 4500,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2023-04-10",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-06-22",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 125
+  },
+  {
+    "Date": "2023-09-30",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 7.5,
+    "Fees Commissions Paid (in $)": 1125,
+    "Other Transaction Costs (in $)": 75
+  },
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 625,
+    "Other Transaction Costs (in $)": 0
+  }
+]
+```

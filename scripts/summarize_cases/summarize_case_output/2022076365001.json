@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Private placement offering",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "One accredited investor purchased a private placement offering from CIM Securities between April and September 2022. This investor was sold an unregistered security for which no exemption from registration was available, violating Section 5 of the Securities Act. Additionally, CIM failed to provide the investor with required disclosures about disqualifying events of a covered person (an intermediary with prior fraud convictions) as required by Rule 506(e). The firm also failed to conduct proper due diligence on the offering and intermediary, missing red flags about the intermediary's identity. This constitutes a Care Obligation violation under Regulation Best Interest as the firm failed to exercise reasonable diligence and care in understanding and analyzing the offering before recommending it to this investor."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "CIM Securities, LLC",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2022076365001",
+    "Date": "January 7, 2025"
+  },
+  "OverallSummary": "This case involves multiple violations by CIM Securities, LLC related to the sale of private placement offerings, including a Regulation Best Interest (Reg BI) Care Obligation violation. The firm participated in the unregistered distribution of securities to one investor between April and September 2022, violating Section 5 of the Securities Act. The key violations were: (1) Selling a private placement offering for which no exemption from registration was available due to general solicitation by the issuer and failure to provide required disclosures about a covered person's prior fraud convictions; (2) Failing to respond reasonably to red flags regarding the intermediary's identity; (3) Failing to establish and maintain written procedures reasonably designed to achieve compliance with Reg BI regarding due diligence of private placements from September 2021 to January 2024; (4) Distributing sales communications that contained misleading, unwarranted, and promissory claims about an issuer's profitability, investment liquidity, and competitiveness; and (5) Failing to meet FINRA filing requirements for five private placement offerings. The Care Obligation violation stemmed from the firm's insufficient due diligence procedures and failure to investigate red flags, which led to the recommendation of an unregistered security to an investor. As a result of these violations, CIM Securities was censured and fined $70,000."
+}
+```

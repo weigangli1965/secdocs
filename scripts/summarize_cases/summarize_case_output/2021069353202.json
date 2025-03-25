@@ -1,0 +1,253 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "senior",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$19,508.89 yet to be paid in restitution",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from short-term mutual fund switches",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Failure to Consider Reasonable Alternative Investments Involving a Lower Cost to the Investor, Excessive Trading"
+      },
+      "CustomerSummary": "Customer 1 is a senior investor who was subject to 17 short-term switches of Class A mutual funds recommended by their representative between July 2018 and October 2021. Many of these switches occurred within the same fund family where exchange privileges or rights of reinstatement should have been applied but weren't. The customer paid excess sales charges and is owed $19,508.89 in restitution. Between July 2018-June 2020, these violations fell under FINRA Rule 2111 suitability requirements, while those after June 30, 2020 constituted Care Obligation violations under Reg BI where the representative failed to consider reasonably available alternatives within the same fund family or different share classes that would have achieved the customer's objectives at a lower cost."
+    },
+    {
+      "Demographics": {
+        "Age": "senior",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$17,568.43 yet to be paid in restitution",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from short-term mutual fund switches",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Failure to Consider Reasonable Alternative Investments Involving a Lower Cost to the Investor, Excessive Trading"
+      },
+      "CustomerSummary": "Customer 2 is a senior investor who experienced 11 short-term switches of Class A mutual funds recommended by their representative between July 2018 and September 2019. These switches often involved shifting between different mutual fund families, incurring front-end loads that could have been avoided. The customer is owed $17,568.43 in restitution for excess sales charges. While most violations occurred prior to Reg BI's implementation (under FINRA Rule 2111), any switches after June 30, 2020 would constitute Care Obligation violations where the representative failed to consider reasonably available alternatives that would have achieved the customer's objectives at a lower cost."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$12,071.40 yet to be paid in restitution",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from missed exchange privileges and rights of reinstatement",
+        "ImpactOnPortfolio": "moderate"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Failure to Consider Reasonable Alternative Investments Involving a Lower Cost to the Investor"
+      },
+      "CustomerSummary": "Customer 3 was primarily affected by the firm's failure to apply mutual fund exchange privileges and rights of reinstatement benefits between October 2018 and January 2021. This customer had numerous transactions (over 20 identified in Attachment A) where they should have received sales charge waivers or fee rebates when conducting exchanges within the same fund family. For transactions after June 30, 2020, these constituted Care Obligation violations under Reg BI as the firm failed to consider the most cost-effective approach to achieving the customer's investment objectives. The customer is owed $12,071.40 in restitution for excess sales charges and fees."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$105.00 yet to be paid in restitution",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from missed exchange privileges or rights of reinstatement",
+        "ImpactOnPortfolio": "minor"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "Customer 4 was affected by the firm's failure to apply rights of reinstatement or exchange privileges for a transaction on December 12, 2018. This was prior to Reg BI implementation, so it falls under the firm's violation of FINRA Rules 3110 and 2010 regarding supervisory failures, not a Care Obligation violation. The customer is still owed $105.00 in restitution for excess sales charges incurred when the appropriate fee waiver was not applied."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "Full restitution of approximately $283.77 has been paid",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from missed exchange privileges or rights of reinstatement",
+        "ImpactOnPortfolio": "minor"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "Customer 5 was affected by the firm's failure to apply exchange privileges or rights of reinstatement for a transaction on August 27, 2018. This occurred prior to Reg BI implementation, so it falls under the firm's violation of FINRA Rules 3110 and 2010 regarding supervisory failures, not a Care Obligation violation. The customer has already received full restitution for the excess sales charges incurred when the appropriate fee waiver was not applied."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "Full restitution of approximately $805.00 has been paid",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from missed exchange privileges or rights of reinstatement",
+        "ImpactOnPortfolio": "minor"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "Customer 6 was affected by the firm's failure to apply exchange privileges or rights of reinstatement for a transaction on February 5, 2019. This occurred prior to Reg BI implementation, so it falls under the firm's violation of FINRA Rules 3110 and 2010 regarding supervisory failures, not a Care Obligation violation. The customer has already received full restitution for the excess sales charges incurred when the appropriate fee waiver was not applied."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Class A mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "Full restitution of approximately $597.43 has been paid",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "Excess sales charges from missed exchange privileges or rights of reinstatement",
+        "ImpactOnPortfolio": "minor"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "Customer 7 was affected by the firm's failure to apply exchange privileges or rights of reinstatement for a transaction on April 10, 2019. This occurred prior to Reg BI implementation, so it falls under the firm's violation of FINRA Rules 3110 and 2010 regarding supervisory failures, not a Care Obligation violation. The customer has already received full restitution for the excess sales charges incurred when the appropriate fee waiver was not applied."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "Inc

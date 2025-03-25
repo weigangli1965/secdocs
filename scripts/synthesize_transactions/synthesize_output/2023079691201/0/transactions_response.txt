@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2021-05-15",
+    "PrimaryInvestmentRecommended": "non-traded REIT",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income generation",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 40,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 800
+  },
+  {
+    "Date": "2021-07-22",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2021-09-03",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 400,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2022-01-12",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income and growth",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2022-03-28",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "capital preservation",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 25
+  },
+  {
+    "Date": "2022-06-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "capital preservation",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 50,
+    "Other Transaction Costs (in $)": 25
+  },
+  {
+    "Date": "2022-09-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 50
+  }
+]
+```

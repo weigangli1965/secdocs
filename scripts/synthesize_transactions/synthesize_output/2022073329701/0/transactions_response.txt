@@ -1,0 +1,52 @@
+```
+[
+  {
+    "Date": "2023-05-15",
+    "PrimaryInvestmentRecommended": "Private placement offerings",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 240000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 6000,
+    "Other Transaction Costs (in $)": 1500
+  },
+  {
+    "Date": "2023-06-22",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 200000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 800
+  },
+  {
+    "Date": "2023-08-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2023-10-05",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 80000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 300
+  }
+]
+```

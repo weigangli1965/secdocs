@@ -1,0 +1,46 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "52",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "limited",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "$100,000 liquid net worth"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "non-traded REIT",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "81%",
+        "HighRiskNetworthRatio": "81% of liquid net worth"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "$5,670",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "The customer is a 52-year-old resident of Puerto Rico with moderate risk tolerance and limited investment experience. Based on Nogueras's recommendation, the customer invested $81,000 (81% of his liquid net worth) in a high-risk, illiquid non-traded REIT. This investment violated Puerto Rico regulations that prohibited investments by Puerto Rico residents exceeding 10% of liquid net worth in this REIT. The Care Obligation violation occurred because Nogueras lacked a reasonable basis to believe that concentrating such a large percentage of the customer's liquid assets in a high-risk, illiquid investment was in the customer's best interest, especially given the customer's moderate risk tolerance and limited investment experience. The REIT's prospectus specifically cautioned about high risk and potential complete loss of principal."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Elba M. Nogueras",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2023079691201",
+    "Date": "NOTSPECIFIED"
+  },
+  "OverallSummary": "This case involves Elba M. Nogueras, a former General Securities Representative, who willfully violated the Care Obligation of Regulation Best Interest (Reg BI) under Exchange Act Rule 15l-1 and FINRA Rule 2010. In September 2020, while associated with First Southern, LLC, Nogueras recommended that a 52-year-old customer from Puerto Rico invest $81,000 (81% of his liquid net worth) in a high-risk, illiquid non-traded REIT. The Care Obligation violation stemmed from Nogueras' failure to have a reasonable basis to believe her recommendation was in the customer's best interest given: (1) the customer had moderate risk tolerance and limited investment experience; (2) the investment was high-risk and illiquid; and (3) Puerto Rico regulations prohibited investments exceeding 10% of liquid net worth in this REIT. Nogueras earned a $5,670 commission from this transaction. As a result of these violations, FINRA imposed sanctions including a four-month suspension, a $5,000 fine, and disgorgement of the $5,670 commission plus interest. The case specifically highlights how concentrating such a significant portion of a customer's assets in a high-risk investment without proper consideration of their investment profile violated the fundamental principles of the Care Obligation."
+}

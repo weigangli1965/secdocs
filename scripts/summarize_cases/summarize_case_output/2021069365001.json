@@ -1,0 +1,12 @@
+```json
+{
+  "Customers": [],
+  "Case Information": {
+    "Name of Party": "Long Island Financial Group, Inc.",
+    "Type of Document": "AWC letter",
+    "Case No.": "2021069365001",
+    "Date": "February 10, 2023"
+  },
+  "OverallSummary": "This case involves Long Island Financial Group, Inc.'s failure to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest (Reg BI) and Form CRS requirements. The case does not identify specific customers who were harmed or detail any specific Care Obligation violations. Rather, the violations center on the firm's systemic failure to implement proper compliance procedures and supervisory systems. From June 30, 2020, to November 1, 2021, the firm had no written policies referencing Reg BI. Even after November 1, 2021, when the firm began using written policies with general Reg BI information, these policies lacked procedures to prevent, detect, or correct Reg BI violations. Similarly, the firm failed to establish and maintain proper supervisory systems for Form CRS preparation, filing, and distribution. These failures constitute violations of Exchange Act Rule 15l-1 and FINRA Rules 3110 and 2010. The firm was censured, fined $35,000, and required to undertake remediation of these issues within 90 days. No specific customer harm or financial losses were detailed in the case."
+}
+```

@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Rollovers of employer-sponsored retirement plans into individual retirement accounts",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "Retirement planning",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Individual Retirement Accounts"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "This case involves approximately 14,000 retail customers who received recommendations from CUNA Brokerage Services regarding rollovers of their employer-sponsored retirement plans into individual retirement accounts between June 30, 2020, and January 31, 2022. The firm failed to preserve records containing information collected from these customers pursuant to Regulation Best Interest. The records included information about whether transfers were forced distributions, customers' preferences regarding protection of retirement assets from creditors or legal judgments, and the importance of flexibility in distribution options. This represents a recordkeeping violation rather than a Care Obligation violation, as the case does not allege that the recommendations themselves were inappropriate or unsuitable."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "CUNA Brokerage Services, Inc.",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2023080042101",
+    "Date": "November 18, 2024"
+  },
+  "OverallSummary": "This case involves CUNA Brokerage Services' failure to preserve approximately 14,000 records containing customer information collected between June 30, 2020, and January 31, 2022, as part of recommendations regarding rollovers of employer-sponsored retirement plans into individual retirement accounts. The records were inadvertently deleted in January 2023 as the firm transitioned its business. The records contained information required to be collected and maintained under Regulation Best Interest (Regulation BI), such as information about forced distributions, importance of creditor protection, and importance of distribution flexibility. This case does not involve Care Obligation violations, but rather violations of recordkeeping requirements under Section 17(a) of the Exchange Act, Exchange Act Rule 17a-4(e)(5), and FINRA Rules 4511 and 2010. The firm was censured and fined $30,000. No direct financial harm to customers is specified in the case, as the violation pertains to record retention rather than unsuitable recommendations or other customer-facing misconduct."
+}
+```

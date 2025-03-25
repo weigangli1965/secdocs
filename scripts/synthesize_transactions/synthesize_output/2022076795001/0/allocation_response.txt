@@ -1,0 +1,39 @@
+```
+{
+  "ID": 12345,
+  "Portfolio": [
+    {
+      "Investment_Product": "Savings Account",
+      "Allocation": 5
+    },
+    {
+      "Investment_Product": "Certificate of Deposit (CD)",
+      "Allocation": 8
+    },
+    {
+      "Investment_Product": "U.S. Treasury Bonds",
+      "Allocation": 7
+    },
+    {
+      "Investment_Product": "Corporate Bonds",
+      "Allocation": 5
+    },
+    {
+      "Investment_Product": "Technology Sector ETF",
+      "Allocation": 30
+    },
+    {
+      "Investment_Product": "Cryptocurrency ETF",
+      "Allocation": 35
+    },
+    {
+      "Investment_Product": "S&P 500 Index Fund",
+      "Allocation": 5
+    },
+    {
+      "Investment_Product": "Real Estate Investment Trust (REIT)",
+      "Allocation": 5
+    }
+  ]
+}
+```

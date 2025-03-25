@@ -1,0 +1,76 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 12300,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 1230,
+    "Other Transaction Costs (in $)": 246
+  },
+  {
+    "Date": "2023-03-12",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 2050,
+    "Other Transaction Costs (in $)": 410
+  },
+  {
+    "Date": "2023-05-28",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 32800,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 1640,
+    "Other Transaction Costs (in $)": 328
+  },
+  {
+    "Date": "2023-08-17",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8200,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 820,
+    "Other Transaction Costs (in $)": 164
+  },
+  {
+    "Date": "2023-10-24",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 12300,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 1230,
+    "Other Transaction Costs (in $)": 246
+  },
+  {
+    "Date": "2024-02-08",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8200,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 1780,
+    "Other Transaction Costs (in $)": 256
+  }
+]
+```

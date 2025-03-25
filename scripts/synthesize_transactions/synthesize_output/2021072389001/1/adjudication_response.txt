@@ -1,0 +1,25 @@
+# Regulation Best Interest Violations Under Section 2(ii)
+
+Based on the provided information, there appear to be violations of the Care Obligation under Section 2(ii) of Regulation Best Interest:
+
+## Violation 1: Unsuitable Investment Risk Profile
+The broker recommended a portfolio with 65% in high-risk investments (as shown by the "High Risk Investment Ratio" of 65%) for a 74-year-old client with "Moderate" risk tolerance. Specifically:
+
+- Technology Sector ETF (20%, High risk)
+- Real Estate Investment Trust (5%, High risk) 
+- Hedge Fund (10%, High risk)
+- Options Trading (15%, Very High risk)
+- Growth Stock Fund (15%, Moderate to High risk)
+
+This allocation violates §240.15l-1(a)(2)(ii)(B), as FINRA guidance specifically notes that recommendations are inappropriate when they lead to a disproportionate amount of high-risk investments (as low as 20%) for customers with moderate risk tolerance. Here, the high-risk allocation significantly exceeds that threshold.
+
+## Violation 2: Age-Inappropriate Investment Recommendations
+The broker recommended very high-risk options trading (15% allocation) to a 74-year-old retirement-focused client. This fails to properly consider the customer's age and investment profile, including shorter investment time horizon, as required by §240.15l-1(a)(2)(ii)(B).
+
+## Violation 3: Inconsistency with Stated Investment Purpose
+The customer's stated investment purpose was "capital appreciation with 4-6% consistent returns." However, the highly volatile nature of the recommended portfolio (particularly options trading and hedge funds) is inconsistent with achieving "consistent returns" and instead introduces significant potential for losses, as evidenced by the $58,000 lost.
+
+## Violation 4: Excessive Transaction Costs
+While the Annualized Portfolio Turnover rate of 5.8 and Cost to Equity Ratio of 18.5% are both just below the explicit thresholds for excessive trading (6.0 and 20% respectively), they are extremely close to these limits. Given the customer's moderate risk tolerance and advanced age, these high costs ($12,500 in commissions plus $3,200 in other transaction costs) suggest the recommendations prioritized broker compensation over customer interests, contrary to §240.15l-1(a)(2)(ii)(B).
+
+The broker appears to have failed in the Care Obligation by not properly aligning recommendations with the customer's moderate risk tolerance, advanced age, retirement focus, and stated desire for consistent returns.

@@ -1,0 +1,36 @@
+# Analysis of Potential Violations under Regulation Best Interest Section (2)(ii)
+
+After reviewing the customer information, portfolio allocation, and transaction history, I've identified potential concerns regarding compliance with the Care Obligation under Regulation Best Interest section (2)(ii).
+
+## Potential Violation: Recommendation of High-Risk Investments to Retired Customers
+
+The customer profile indicates:
+- Age: 71 (retirement age)
+- Employment: Retired
+- Risk Tolerance: Moderate
+- Financial Goals: Retirement
+- High Risk Investment Ratio: 30%
+
+The portfolio includes several high-risk investments:
+- Technology Sector ETF (5%)
+- Real Estate Investment Trust (REIT) (5%)
+- Hedge Fund (3%)
+- Cryptocurrency ETF (2%)
+
+These high-risk investments collectively represent 15% of the portfolio, with additional moderate-to-high risk investment in Growth Stock Fund (5%), bringing potentially higher-risk investments to 20% of the portfolio.
+
+### Concerns:
+1. **Inappropriate Risk Level for Customer Profile**: FINRA guidance specifically notes violations where recommendations of high-risk investments to retired customers with moderate risk tolerance lead to portfolio risk disproportionality. The guidance states that as low as 20% high-risk allocation can be considered disproportionate for customers with moderate risk tolerance.
+
+2. **Age-Appropriate Recommendations**: At 71 years old and retired, the customer likely has limited income-generating capacity and time horizon to recover from potential losses in high-risk investments, particularly in cryptocurrency and hedge funds.
+
+3. **Documented Loss**: The customer profile indicates a $25,000 loss, which suggests these investments may not have been aligned with the customer's best interest.
+
+The specific transactions of concern include:
+- Technology Sector ETF purchase (11/15/2018)
+- Cryptocurrency ETF purchase (06/12/2019)
+- Hedge Fund investment (09/20/2019)
+
+These investments, particularly cryptocurrency, represent a level of risk that appears inconsistent with a 71-year-old retired individual with moderate risk tolerance whose primary financial goal is retirement security.
+
+While the turnover rate (4.5) and cost-to-equity ratio (15%) do not themselves constitute a violation under section (2)(ii)(C), the overall allocation of 15-20% to high-risk investments for a retired customer with moderate risk tolerance raises legitimate concerns under section (2)(ii)(B) regarding whether recommendations were truly in the best interest of this particular retail customer based on their investment profile.

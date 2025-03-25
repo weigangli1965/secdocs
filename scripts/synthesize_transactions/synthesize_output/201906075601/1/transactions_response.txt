@@ -1,0 +1,88 @@
+```
+[
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7500,
+    "Ratio of Total Portfolio (%)": 3.4,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2024-02-03",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 2.3,
+    "Fees Commissions Paid (in $)": 250,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2024-02-18",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4500,
+    "Ratio of Total Portfolio (%)": 2.0,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 130
+  },
+  {
+    "Date": "2024-03-05",
+    "PrimaryInvestmentRecommended": "REIT securities during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6000,
+    "Ratio of Total Portfolio (%)": 2.7,
+    "Fees Commissions Paid (in $)": 400,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "Technology stocks during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 8000,
+    "Ratio of Total Portfolio (%)": 3.6,
+    "Fees Commissions Paid (in $)": 450,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2024-03-28",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 9500,
+    "Ratio of Total Portfolio (%)": 4.3,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 225
+  },
+  {
+    "Date": "2024-04-10",
+    "PrimaryInvestmentRecommended": "Hedge Fund shares during trading halt",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3500,
+    "Ratio of Total Portfolio (%)": 1.6,
+    "Fees Commissions Paid (in $)": 250,
+    "Other Transaction Costs (in $)": 200
+  }
+]
+```

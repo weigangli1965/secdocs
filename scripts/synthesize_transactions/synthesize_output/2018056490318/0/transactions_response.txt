@@ -1,0 +1,64 @@
+```
+[
+  {
+    "Date": "2023-04-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Taxable Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 240000,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 4800,
+    "Other Transaction Costs (in $)": 1200
+  },
+  {
+    "Date": "2023-06-22",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Taxable Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 96000,
+    "Ratio of Total Portfolio (%)": 6.0,
+    "Fees Commissions Paid (in $)": 3200,
+    "Other Transaction Costs (in $)": 800
+  },
+  {
+    "Date": "2023-09-08",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Taxable Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 80000,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 5600,
+    "Other Transaction Costs (in $)": 2400
+  },
+  {
+    "Date": "2023-11-15",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Taxable Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112000,
+    "Ratio of Total Portfolio (%)": 7.0,
+    "Fees Commissions Paid (in $)": 4900,
+    "Other Transaction Costs (in $)": 2100
+  },
+  {
+    "Date": "2024-01-29",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Taxable Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 128000,
+    "Ratio of Total Portfolio (%)": 8.0,
+    "Fees Commissions Paid (in $)": 4000,
+    "Other Transaction Costs (in $)": 2000
+  }
+]
+```

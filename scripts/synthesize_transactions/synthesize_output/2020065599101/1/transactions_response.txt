@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2023-01-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5720,
+    "Ratio of Total Portfolio": 22,
+    "Fees Commissions Paid": 150,
+    "Other Transaction Costs": 35
+  },
+  {
+    "Date": "2023-01-18",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3900,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 120,
+    "Other Transaction Costs": 30
+  },
+  {
+    "Date": "2023-02-08",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3120,
+    "Ratio of Total Portfolio": 12,
+    "Fees Commissions Paid": 280,
+    "Other Transaction Costs": 65
+  },
+  {
+    "Date": "2023-03-15",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2600,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 200,
+    "Other Transaction Costs": 50
+  },
+  {
+    "Date": "2023-04-22",
+    "PrimaryInvestmentRecommended": "Options Trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1560,
+    "Ratio of Total Portfolio": 6,
+    "Fees Commissions Paid": 180,
+    "Other Transaction Costs": 55
+  },
+  {
+    "Date": "2023-07-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 4900,
+    "Ratio of Total Portfolio": 19,
+    "Fees Commissions Paid": 130,
+    "Other Transaction Costs": 35
+  },
+  {
+    "Date": "2023-08-25",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term trading",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 2200,
+    "Ratio of Total Portfolio": 8,
+    "Fees Commissions Paid": 140,
+    "Other Transaction Costs": 40
+  }
+]
+```

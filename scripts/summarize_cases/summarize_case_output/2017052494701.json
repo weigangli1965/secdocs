@@ -1,0 +1,118 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Mutual funds (class C shares)",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "Long-term investment",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "Direct business"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$546,000 (total excessive sales charges for 98 class C share purchases and 74 class B share purchases collectively)",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "This represents a group of customers who were affected by LPL's failure to reasonably supervise direct business transactions. The firm failed to ensure that approximately 830,000 direct business transactions appeared on the daily trade blotter used to identify potential sales practice violations. LPL identified 98 purchases of class C mutual fund shares that were potentially unsuitable and inconsistent with the firm's procedures, which prohibited certain customers with long investment horizons from holding large class C share balances. Similarly, 74 purchases of class B mutual fund shares were potentially inconsistent with customers' investment horizons and liquidity needs. These transactions collectively caused customers to pay approximately $546,000 in potentially excessive sales charges. The violations occurred under FINRA's suitability rules rather than Reg BI's Care Obligation."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Unit Investment Trusts (UITs) and mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "$31,000 (total sales charges for approximately 50 potentially unsuitable switches)",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "This represents a group of customers who received approximately 11,300 switch letters that contained inaccurate information about the charges incurred when switching from one security to another. The firm failed to reasonably supervise switch transactions because its supervisory review tool contained incorrect information about sales charges for transactions in certain products. As a result, LPL failed to detect approximately 50 potentially unsuitable switches involving UITs and mutual funds, which caused customers to pay approximately $31,000 in sales charges. The violations involved representatives recommending that customers sell UITs substantially before their maturity dates to purchase new UITs, or sell one class A mutual fund only to buy another with a similar investment objective, resulting in unnecessary sales charges."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Listed Business Development Companies (BDCs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "Low to moderate",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "In some cases, exceeding 50% of household assets",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$73,930 (total realized losses for 16 customers)",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "Severe for some customers (with BDC investments exceeding 50% of household assets)"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "This represents 16 customers with low and moderate risk tolerance who became overconcentrated in Listed BDC investments between May 2017 and November 2022. Listed BDCs have significant risks, including exposure to below-investment grade investments, portfolios difficult to value, illiquid underlying investments, high leverage, and high operating fees and expenses. LPL's supervisory tool failed to reasonably alert supervisors when recommendations resulted in overconcentrations in Listed BDCs for these customers, who incurred $73,930 in realized losses. In some cases, the customers' investments in Listed BDCs exceeded 50% of their household assets. This constitutes a Care Obligation violation because after June 30, 2020, when Reg BI came into effect, LPL failed to ensure recommendations of Listed BDCs were in the best interest of these retail customers given their investment profiles and risk tolerance levels."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "LPL Financial LLC",
+    "Type of Document": "AWC letter",
+    "Case No.": "2017052494701",
+    "Date": "December 27, 2023"
+  },
+  "OverallSummary": "This case involves LPL Financial's failure to reasonably supervise transactions that its representatives placed directly with product sponsors on behalf of customers (direct business transactions), as well as violations related to switch letters and recommendations of Listed Business Development Companies (BDCs). The firm agreed to a $5.5 million fine and $651,374.51 in restitution plus interest to affected customers. \n\nThe violations occurred in three main areas: \n\n1) From January 2012 to August 2019, LPL failed to supervise approximately 830,000 direct business transactions that were not reported on the firm's trade blotter, preventing the generation of exception reports to identify potentially unsuitable transactions. The firm also failed to collect complete customer investment profile information for approximately two million direct business transactions. A retrospective review identified 98 potentially unsuitable purchases of class C mutual fund shares and 74 potentially unsuitable purchases of class B shares, resulting in approximately $546,000 in excessive sales charges. \n\n2) From February 2016 through June 2020, LPL sent approximately 11,300 switch letters containing inaccurate information about sales charges to customers. The firm's supervisory review tool also contained incorrect information about fees, leading to failure to identify approximately 50 potentially unsuitable switches involving UITs and mutual funds, causing customers to pay approximately $31,000 in unnecessary sales charges. \n\n3) From May 2017 to November 2022, LPL violated Reg BI's Care Obligation (after June 30, 2020) by failing to reasonably supervise recommendations of Listed BDCs. The firm's supervisory system failed to alert supervisors when representatives recommended potentially overconcentrated investments in Listed BDCs to customers with low and moderate risk tolerance. As a result, 16 customers became overconcentrated in Listed BDCs, with some investments exceeding 50% of household assets, leading to $73,930 in realized losses. \n\nOnly the third violation, related to Listed BDCs, constitutes a Care Obligation violation under Reg BI, as it occurred after Reg BI went into effect on June 30, 2020, and specifically involved recommendations that were not in the best interest of retail customers based on their investment profiles. The other violations occurred under FINRA's suitability framework (FINRA Rule 2111 and its predecessor) and involved supervisory failures."
+}
+```

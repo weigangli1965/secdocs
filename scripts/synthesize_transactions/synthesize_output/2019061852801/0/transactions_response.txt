@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "Canadian non-brokered private placements (NBPPs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 110000,
+    "Ratio of Total Portfolio (%)": 40.0,
+    "Fees Commissions Paid (in $)": 5500,
+    "Other Transaction Costs (in $)": 1200
+  },
+  {
+    "Date": "2022-05-23",
+    "PrimaryInvestmentRecommended": "Canadian non-brokered private placements (NBPPs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 96250,
+    "Ratio of Total Portfolio (%)": 35.0,
+    "Fees Commissions Paid (in $)": 4800,
+    "Other Transaction Costs (in $)": 1150
+  },
+  {
+    "Date": "2022-09-10",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 1375,
+    "Other Transaction Costs (in $)": 550
+  },
+  {
+    "Date": "2023-02-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 13750,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 275,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-04-18",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 13750,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 225
+  },
+  {
+    "Date": "2023-07-22",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8250,
+    "Ratio of Total Portfolio (%)": 3.0,
+    "Fees Commissions Paid (in $)": 125,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2023-10-14",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Personal Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5500,
+    "Ratio of Total Portfolio (%)": 2.0,
+    "Fees Commissions Paid (in $)": 75,
+    "Other Transaction Costs (in $)": 100
+  }
+]
+```

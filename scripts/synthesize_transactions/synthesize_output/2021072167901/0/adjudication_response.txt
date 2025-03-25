@@ -1,0 +1,20 @@
+Based on the information provided, there appear to be potential violations of section 2(ii) (Care Obligation) of Regulation Best Interest. These concerns relate to the alignment of investments with the customer's profile and investment goals.
+
+## Potential Violations
+
+1. **High-Risk Investments for a Conservative-Purpose Account:**
+   - The customer is 79 years old, retired, with low investment experience and a moderate risk tolerance
+   - The customer's stated investment purpose is "capital preservation"
+   - Despite this profile, 15% of the portfolio is allocated to high-risk investments (Technology Sector ETF 5%, REIT 5%, Growth Stock Fund 5%)
+   - FINRA guidance specifically notes violations when high-risk investments become disproportionate (as low as 20%) for customers with moderate risk tolerance
+
+2. **Mismatch Between Investments and Stated Purpose:**
+   - Several recommended investments (Technology Sector ETF, Growth Stock Fund, and REIT) are classified as "high" or "moderate to high" risk
+   - These investments contradict the customer's stated investment purpose of "capital preservation" which would typically suggest predominantly low to moderate risk investments for a 79-year-old retiree
+   - This appears to violate the requirement to have "a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer's investment profile"
+
+3. **High Risk Investment Ratio:**
+   - The customer data shows a "High Risk Investment Ratio" of 35.2%, which is substantial for someone with a moderate risk tolerance and capital preservation goals
+   - This ratio suggests that more than a third of the portfolio is in high-risk investments, exceeding FINRA's 20% threshold for customers with moderate risk tolerance
+
+The broker appears to have failed to adequately consider the customer's advanced age, retirement status, low investment experience, and stated goal of capital preservation when making recommendations. While the portfolio turnover rate (4.2) and cost-to-equity ratio (16.5%) are below FINRA's problematic thresholds, the allocation of investments does not align well with the customer's profile and stated objectives.

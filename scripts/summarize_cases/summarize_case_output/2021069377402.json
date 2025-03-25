@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "The case does not identify specific individual customers affected by Investments for You's violations. While the firm failed to establish and maintain policies and procedures to comply with Regulation Best Interest, which is designed to protect retail investors, the case does not provide details about impacts to specific customers. The violations were primarily related to the firm's failure to establish compliance systems rather than documenting specific customer harm."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Investments for You, Inc.",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069377402",
+    "Date": "January 8, 2025"
+  },
+  "OverallSummary": "This case involves Investments for You, Inc., a limited broker-dealer that sells products to retail investors. From June 30, 2020, to September 11, 2024, the firm committed multiple regulatory violations: (1) The firm failed to establish written policies and procedures and a supervisory system to comply with Regulation Best Interest, despite notifications from FINRA in April 2021 and May 2022; (2) The firm failed to establish a supervisory system to comply with Form CRS obligations; (3) From August 27, 2020, to July 6, 2022, the firm falsely responded 'No' to the Form CRS question about legal or disciplinary history when both the firm and its CEO had prior disciplinary actions; and (4) From May 22, 2024, to September 12, 2024, the firm failed to respond to two FINRA Rule 8210 requests for information, leading to a suspension of its membership. Notably, while the firm willfully violated Exchange Act Rule 15l-1(a)(1) and other regulations, the case does not detail specific Care Obligation violations affecting individual customers. The focus is on the firm's systematic failure to establish required compliance frameworks rather than documenting specific unsuitable recommendations or customer harm. As a result of these violations, the firm was censured and fined $25,000."
+}
+```

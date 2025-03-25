@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2024-01-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8750,
+    "Ratio of Total Portfolio (%)": 35,
+    "Fees Commissions Paid (in $)": 1120,
+    "Other Transaction Costs (in $)": 298
+  },
+  {
+    "Date": "2024-01-12",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 640,
+    "Other Transaction Costs (in $)": 170
+  },
+  {
+    "Date": "2024-01-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6250,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 800,
+    "Other Transaction Costs (in $)": 213
+  },
+  {
+    "Date": "2024-02-03",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 320,
+    "Other Transaction Costs (in $)": 85
+  },
+  {
+    "Date": "2024-02-10",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1250,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 160,
+    "Other Transaction Costs (in $)": 42
+  },
+  {
+    "Date": "2024-02-15",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 750,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 96,
+    "Other Transaction Costs (in $)": 25
+  },
+  {
+    "Date": "2024-02-20",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 500,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 64,
+    "Other Transaction Costs (in $)": 17
+  }
+]
+```

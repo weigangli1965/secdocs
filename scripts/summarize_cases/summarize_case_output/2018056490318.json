@@ -1,0 +1,118 @@
+```json
+{ 
+  "Customers": [     
+    {
+      "Demographics": {
+        "Age": "69 (senior investor)",
+        "Employment": "Physician",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "Speculation",
+        "RiskTolerance": "High",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "31",
+        "CostToEquityRatio": "114%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$326,684",
+        "FeesCommissionsPaid": "$202,964",
+        "OtherTransactionCosts": "$26,388",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A was a 69-year-old physician who opened an account with Apolonides in January 2017. Between January 2017 and April 2022, Apolonides recommended 357 transactions in Customer A's account, resulting in extremely high turnover (31) and cost-to-equity ratio (114%). This excessive trading violated Regulation BI's Care Obligation, as the level of trading was determined to be not in the customer's best interest despite the customer's 'speculation' investment objective. The excessive trading generated $229,352 in total trading costs ($202,964 in commissions and $26,388 in other costs) while causing $326,684 in realized losses. The violation was identified based on: 1) turnover rate far exceeding the traditional guideline of 6, 2) cost-to-equity ratio far exceeding the 20% threshold, and 3) the resulting substantial losses to the customer."
+    },
+    {
+      "Demographics": {
+        "Age": "79 (senior investor)",
+        "Employment": "Semi-retired banker",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "Speculation",
+        "RiskTolerance": "High",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "17",
+        "CostToEquityRatio": "76%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$115,721",
+        "FeesCommissionsPaid": "$148,864",
+        "OtherTransactionCosts": "$9,458",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customer B was a 79-year-old semi-retired banker who opened an account with Apolonides in March 2016. Between March 2016 and March 2019 (before Regulation BI went into effect), Apolonides recommended 127 transactions resulting in excessive trading with an annualized turnover rate of 17 and cost-to-equity ratio of 76%. This trading pattern violated FINRA Rule 2111's suitability requirements, as Apolonides had de facto control over the account and implemented a trading strategy that was unsuitable for the customer despite the 'speculation' investment objective. The excessive trading generated $158,322 in total costs ($148,864 in commissions and $9,458 in other costs) while causing $115,721 in realized losses. The violation was determined based on: 1) turnover rate far exceeding the traditional guideline of 6, 2) cost-to-equity ratio far exceeding the 20% threshold, and 3) the broker's de facto control over the account."
+    },
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED", 
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "Between 17 and 38",
+        "CostToEquityRatio": "Between 71% and 125%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "Portion of $735,376 total realized losses across four customers",
+        "FeesCommissionsPaid": "Portion of $563,263 total commissions across four customers",
+        "OtherTransactionCosts": "Portion of $55,648 other trading costs across four customers",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "NOTSPECIFIED",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      },
+      "CustomerSummary": "Two additional customers were affected by Apolonides's excessive trading practices, but their specific details were not individually outlined in the case. Across all four affected customers (including the two specified ones), Apolonides's trading resulted in annualized turnover rates between 17 and 38 and annualized cost-to-equity ratios between 71% and 125%. The excessive trading in these four accounts generated total trading costs of $618,911, including $563,263 in commissions, and caused $735,376 in total realized losses. The case specifically mentions that three of the four customers were seniors."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "George Apolonides also known as George Apollo",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2018056490318",
+    "Date": "October 8, 2024"
+  },
+  "OverallSummary": "This case involves George Apolonides (also known as George Apollo), a former General Securities Representative at Spartan Capital Securities, LLC, who engaged in excessive trading in the accounts of four customers, three of whom were seniors, between March 2016 and April 2022. FINRA found that Apolonides violated Regulation BI's Care Obligation (for conduct after June 30, 2020) and FINRA Rule 2111 (for conduct before Regulation BI went into effect), by recommending a series of excessive trades that were unsuitable and not in the customers' best interests. Across the four affected customer accounts, Apolonides's trading resulted in extremely high annualized turnover rates (ranging from 17 to 38) and cost-to-equity ratios (ranging from 71% to 125%), well above the traditional guideposts of 6 and 20%, respectively. This excessive trading generated total trading costs of $618,911, including $563,263 in commissions, while causing $735,376 in total realized losses. FINRA used a multi-part analytical approach to determine violations: 1) assessing turnover rates that far exceeded guideline thresholds, 2) calculating cost-to-equity ratios that significantly exceeded breakeven points, 3) establishing Apolonides's de facto control over the accounts, and 4) evaluating the substantial financial harm to customers. For his violations, Apolonides received an 11-month suspension from associating with any FINRA member in all capacities, with no monetary sanctions due to his demonstrated inability to pay. Notably, FINRA found that Apolonides's violations of Regulation BI were willful, making him subject to statutory disqualification."
+}
+```

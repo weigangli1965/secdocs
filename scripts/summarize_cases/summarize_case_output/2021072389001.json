@@ -1,0 +1,153 @@
+```json
+{
+"Customers": [
+  {
+    "Demographics": {
+      "Age": "33 and 36 (as of July 2020)",
+      "Employment": "real estate broker and insurance professional",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "limited",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "$781,978.85 (as of July 2020)"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities and options day-trading strategy",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "income and growth/income, misrepresented as trading and speculation",
+      "RiskTolerance": "moderate, misrepresented as aggressive",
+      "InvestmentAccountType": "trust account"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "58 (excluding options trades)",
+      "CostToEquityRatio": "27%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$1,571,041.98 total decrease in value",
+      "FeesCommissionsPaid": "$243,580.45 in commissions",
+      "OtherTransactionCosts": "$31,513.02 (including $17,504.72 in margin interest)",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customers 1 and 2 are a married couple (33 and 36 years old) with two young children who had a trust account with an initial value of $781,978.85. Kennedy churned their account by directing 1,779 trades over a year period, generating extremely high turnover (58) and cost-to-equity ratio (27%). Kennedy engaged in extensive day-trading and short-term options trading, contrary to their moderate risk tolerance and income/growth objectives. He falsified account statements to hide $1.57 million in losses while collecting $243,580.45 in commissions. Kennedy violated the Care Obligation through excessive trading by: (1) exercising control over their account, (2) implementing a high-risk trading strategy inconsistent with their investment profile, (3) generating excessive costs and turnover, and (4) prioritizing his financial interests over theirs."
+  },
+  {
+    "Demographics": {
+      "Age": "74 (as of July 2020)",
+      "Employment": "small business owner (HVAC)",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "good but not extensive",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "$715,856.77 (as of July 2020)"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities and options day-trading strategy",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "capital appreciation with 4-6% consistent returns",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "42 (excluding options trades)",
+      "CostToEquityRatio": "31%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$480,535.98 total decrease in value",
+      "FeesCommissionsPaid": "$139,592.47 in commissions",
+      "OtherTransactionCosts": "$51,382.23 (including $42,310.54 in margin interest)",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer 3 is a 74-year-old small business owner who sought consistent 4-6% returns without aggressive strategies. Kennedy churned his account by directing 1,288 trades marked as solicited, resulting in an extremely high turnover rate (42) and cost-to-equity ratio (31%). Kennedy's discretionary day-trading strategy involved heavy use of margin (average 138% of account value) and short-term options. This led to a $480,535.98 decrease in account value while Kennedy collected $139,592.47 in commissions. The Care Obligation violation occurred through excessive trading by: (1) exercising control over the account, (2) implementing a high-risk strategy inconsistent with Customer 3's age, investment objectives and moderate risk tolerance, (3) generating excessive costs and turnover, and (4) prioritizing his financial interests over the customer's."
+  },
+  {
+    "Demographics": {
+      "Age": "45 and 41 (as of July 2020)",
+      "Employment": "electrical engineer and college professor",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "good but not extensive",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "$315,975.50 (as of July 2020)"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities and options day-trading strategy",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "capital appreciation and income",
+      "RiskTolerance": "moderate aggressive",
+      "InvestmentAccountType": "family trust"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "37 (excluding options trades)",
+      "CostToEquityRatio": "39%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$92,857.99 total decrease in value",
+      "FeesCommissionsPaid": "$93,886.38 in commissions",
+      "OtherTransactionCosts": "$18,283.79 (including $11,324.34 in margin interest)",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customers 4 and 5 are a married couple (45 and 41 years old) with three children who had a family trust account with an initial value of $315,975.50. Kennedy churned their account by directing 1,038 trades over a year period, generating an extremely high turnover rate (37) and the highest cost-to-equity ratio among all customers (39%). Kennedy rarely communicated with them before trading and used discretion to implement a high-risk day-trading strategy, with 89% of trades being in-and-out within 30 days. Despite a slightly higher risk tolerance ('moderate aggressive'), the excessive trading was still inappropriate for their investment profile. The Care Obligation violation occurred through: (1) exercising control over their account, (2) implementing an unsuitable high-frequency trading strategy, (3) generating excessive costs that consumed significant account value, and (4) prioritizing his commission generation over their financial interests."
+  },
+  {
+    "Demographics": {
+      "Age": "66 (as of July 2020)",
+      "Employment": "real estate industry",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "good but not extensive",
+      "NetWorth": "NOTSPECIFIED",
+      "InvestmentPortfolioValue": "$315,975.50 (as of July 2020)"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "equities and options day-trading strategy",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "capital appreciation with emergency funds access",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "generation-skipping trust"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "31 (excluding options trades)",
+      "CostToEquityRatio": "38%",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED",
+      "HighRiskNetworthRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$216,060.70 total decrease in value",
+      "FeesCommissionsPaid": "$118,870.09 in commissions",
+      "OtherTransactionCosts": "$18,650.90 (including $10,393.17 in margin interest)",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "IsCareObligationViolation": "Yes",
+      "TypeofCareObligationViolation": "Excessive Trading"
+    },
+    "CustomerSummary": "Customer 6 is a 66-year-old woman working in real estate who had a generation-skipping trust account with an initial value of $315,975.50. Kennedy churned her account by directing 1,224 trades over a year period, generating a high turnover rate (31) and cost-to-equity ratio (38%). Kennedy rarely communicated with her before trading and used discretion to implement a high-risk day-trading strategy with heavy margin use (average 77% of account value). She specifically wanted part of her account to remain available for emergencies, but Kennedy's aggressive trading significantly depleted account value. The Care Obligation violation occurred through excessive trading by: (1) exercising control over her account, (2) implementing an unsuitable high-frequency trading strategy inappropriate for her age and moderate risk tolerance, (3) generating costs that consumed over one-third of account value annually, and (4) prioritizing his commission generation over her financial interests."
+  }
+],
+"Case Information": {
+  "Name of Party": "Christopher Booth Kennedy",
+  "Type of Document": "Complaint",
+  "Case No.": "2021072389001",
+  "Date": "September 22, 2023"
+},
+"OverallSummary": "This case involves serious Care Obligation violations by Christopher Kennedy who churned and excessively traded the accounts of six customers between July 2020 and July 2021. Kennedy implemented a highly aggressive day-trading strategy involving equities and short-term options across four accounts, generating over 5,300 trades representing more than $350 million in net trading. Kennedy's violations can be categorized as follows:\n\n1) Excessive Trading: Kennedy generated annualized cost-to-equity ratios ranging from 27% to 39% and turnover rates between 31 and 58, far exceeding thresholds for suitable trading activity. These metrics demonstrate the customers would need to earn unrealistic returns just to break even.\n\n2) Unsuitable Investment Strategy: Kennedy implemented a speculative day-trading strategy for ordinary retail investors whose stated investment objectives (income, growth, capital appreciation) and risk tolerances (moderate to moderate-aggressive) were inconsistent with such high-risk activities.\n\n3) Unauthorized Discretion: While customers trusted Kennedy, he exercised de facto control over their accounts without proper authorization, making investment decisions without consulting them.\n\n4) Deceptive Practices: Kennedy created and sent false account statements to Customers 1 and 2 to hide losses, showing fabricated account values over $5 million when the actual value was only about $160,000.\n\nThe total customer harm was severe, with collective losses exceeding $2.3 million, while customers paid over $715,000 in trading costs and margin interest, including over $595,000 in commissions. Kennedy's conduct demonstrates a complete disregard for his customers' best interests, prioritizing his own financial gain through commissions while implementing a strategy that had virtually no reasonable basis to succeed for these retail investors."
+}
+```

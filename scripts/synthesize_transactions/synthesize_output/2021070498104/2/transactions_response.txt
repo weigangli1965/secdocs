@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2020-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income and growth",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 784000,
+    "Ratio of Total Portfolio (%)": 35.0,
+    "Fees Commissions Paid (in $)": 27440,
+    "Other Transaction Costs (in $)": 7840
+  },
+  {
+    "Date": "2020-05-20",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 336000,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 6720,
+    "Other Transaction Costs (in $)": 1680
+  },
+  {
+    "Date": "2020-07-10",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 448000,
+    "Ratio of Total Portfolio (%)": 20.0,
+    "Fees Commissions Paid (in $)": 4480,
+    "Other Transaction Costs (in $)": 1120
+  },
+  {
+    "Date": "2020-09-05",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 224000,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 2240,
+    "Other Transaction Costs (in $)": 560
+  },
+  {
+    "Date": "2020-11-12",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income and growth",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 179200,
+    "Ratio of Total Portfolio (%)": 8.0,
+    "Fees Commissions Paid (in $)": 2688,
+    "Other Transaction Costs (in $)": 672
+  },
+  {
+    "Date": "2021-01-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112000,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 1120,
+    "Other Transaction Costs (in $)": 336
+  },
+  {
+    "Date": "2021-03-08",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112000,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 224,
+    "Other Transaction Costs (in $)": 112
+  },
+  {
+    "Date": "2021-04-15",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 44800,
+    "Ratio of Total Portfolio (%)": 2.0,
+    "Fees Commissions Paid (in $)": 88,
+    "Other Transaction Costs (in $)": 180
+  }
+]
+```

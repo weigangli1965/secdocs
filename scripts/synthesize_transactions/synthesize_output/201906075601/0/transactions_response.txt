@@ -1,0 +1,124 @@
+```
+[
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 31250,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 125,
+    "Other Transaction Costs (in $)": 35
+  },
+  {
+    "Date": "2023-06-15",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 18750,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 95,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2023-07-22",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 18750,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 110,
+    "Other Transaction Costs (in $)": 40
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 12500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 75,
+    "Other Transaction Costs (in $)": 25
+  },
+  {
+    "Date": "2023-10-18",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 12500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 115,
+    "Other Transaction Costs (in $)": 35
+  },
+  {
+    "Date": "2024-01-12",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8750,
+    "Ratio of Total Portfolio (%)": 7,
+    "Fees Commissions Paid (in $)": 85,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2024-02-20",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6250,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 25,
+    "Other Transaction Costs (in $)": 10
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6250,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 30,
+    "Other Transaction Costs (in $)": 15
+  },
+  {
+    "Date": "2024-04-10",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6250,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 60,
+    "Other Transaction Costs (in $)": 20
+  },
+  {
+    "Date": "2024-05-05",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Self-directed trading",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3750,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 30,
+    "Other Transaction Costs (in $)": 10
+  }
+]
+```

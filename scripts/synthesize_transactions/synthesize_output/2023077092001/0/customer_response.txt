@@ -1,0 +1,31 @@
+```json
+{
+  "ID": 12345,
+  "Age": 45,
+  "Experience": 12,
+  "Income": 85,
+  "Income_Categorical": "Medium",
+  "ZIP_Code": 90210,
+  "Family_members": 3,
+  "Education": "Undergraduate",
+  "Employment": "Working Professional",
+  "Mortgage": 350,
+  "Personal_Loan": "No",
+  "Securities_Account": "Yes",
+  "Annualized_Portfolio_Turnover": 4.2,
+  "Cost_To_Equity_Ratio": 15.5,
+  "High_Risk_Investment_Ratio": 12.3,
+  "HighRiskNetworthRatio": 8.7,
+  "Amount_Lost": 5000,
+  "Fees_Commissions_Paid": 1200,
+  "Other_Transaction_Costs": 800,
+  "TD_Account": "Yes",
+  "Online_Account": "Yes",
+  "CreditCard": "Yes",
+  "Net_Worth": 650,
+  "Investment_Portfolio_Value": 275,
+  "Risk_Tolerance": "Moderate",
+  "Financial_Goals": "Tax Optimization",
+  "Wealth_Management_Service_Level": "Premium"
+}
+```

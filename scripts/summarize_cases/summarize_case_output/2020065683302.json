@@ -1,0 +1,46 @@
+{
+"Customers": [
+    {
+        "Demographics": {
+            "Age": "77+ (77 at account opening in 2015)",
+            "Employment": "NOTSPECIFIED",
+            "IncomeLevel": "NOTSPECIFIED",
+            "InvestmentExperience": "NOTSPECIFIED",
+            "NetWorth": "high"
+        },
+        "InvestmentPortfolioValue": "NOTSPECIFIED",
+        "InvestmentType": {
+            "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+            "RiskProfileofPrimaryRecommendedInvestment": "high",
+            "InvestmentPurpose": "speculation",
+            "RiskTolerance": "high",
+            "InvestmentAccountType": "NOTSPECIFIED"
+        },
+        "AccountInformation": {
+            "AnnualizedPortfolioTurnover": 47.49,
+            "CostToEquityRatio": 76.53,
+            "HighRiskInvestmentRatio": "NOTSPECIFIED",
+            "HighRiskNetworthRatio": "NOTSPECIFIED"
+        },
+        "FinancialLossSuffered": {
+            "AmountLost": "$185,000",
+            "FeesCommissionsPaid": "$116,859",
+            "OtherTransactionCosts": "NOTSPECIFIED",
+            "ImpactOnPortfolio": "severe"
+        },
+        "Breach": {
+            "ExistenceofLegalBreach": "Yes",
+            "IsCareObligationViolation": "Yes",
+            "TypeofCareObligationViolation": "Excessive Trading"
+        },
+        "CustomerSummary": "This 77+ year-old customer with high net worth opened an account with Laidlaw in September 2015 through Edward Scott Short. Between July 2018 and December 2020, Short exercised de facto control over the account as the customer routinely followed his advice and recommendations. Short recommended 204 transactions during this period, generating $116,859 in commissions while causing approximately $185,000 in trading losses. The account had an extremely high annualized cost-to-equity ratio of 76.53% (meaning the account needed to grow by over 76% annually just to break even) and an annualized turnover rate of 47.49. These metrics significantly exceeded the thresholds that indicate excessive trading (turnover rate of 6 or cost-to-equity ratio above 20%). The excessive trading was determined to be unsuitable and not in the customer's best interest, violating Regulation BI's Care Obligation (after June 30, 2020) and FINRA Rule 2111 (before June 30, 2020)."
+    }
+],
+"Case Information": {
+    "Name of Party": "Edward Scott Short",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2020065683302",
+    "Date": "NOTSPECIFIED"
+},
+"OverallSummary": "This case involves Edward Scott Short, a former General Securities Representative associated with Laidlaw & Company (UK) Ltd., who engaged in excessive trading in an elderly customer's account. The excessive trading occurred between July 2018 and December 2020, with Short making 204 transaction recommendations that generated $116,859 in commissions while causing approximately $185,000 in trading losses. FINRA found that Short violated Regulation BI's Care Obligation after it went into effect on June 30, 2020, and FINRA Rule 2111 before that date.\n\nThe excessive trading was identified through quantitative analysis showing extremely high metrics: an annualized cost-to-equity ratio of 76.53% (meaning the account needed to grow by more than 76% annually just to break even) and an annualized turnover rate of 47.49. FINRA notes that a turnover rate of 6 or a cost-to-equity ratio above 20% generally indicates excessive trading. These metrics far exceeded these thresholds.\n\nShort exercised de facto control over the 77-year-old customer's account, as the customer routinely followed Short's recommendations. Though the customer had a high net worth and a speculative investment objective, the level of trading was deemed excessive, unsuitable, and not in the customer's best interest. As a result, Short was suspended for seven months, fined $5,000, and ordered to pay $116,859 in restitution plus interest to the affected customer. The case also resulted in a statutory disqualification due to the willful violation of Regulation BI."
+}

@@ -1,0 +1,52 @@
+```
+[
+  {
+    "Date": "2022-03-15",
+    "PrimaryInvestmentRecommended": "Regulation D private placement offerings from Company A affiliates",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 3500,
+    "Other Transaction Costs (in $)": 800
+  },
+  {
+    "Date": "2022-06-22",
+    "PrimaryInvestmentRecommended": "Regulation D private placement offerings from Company A affiliates",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2800,
+    "Other Transaction Costs (in $)": 650
+  },
+  {
+    "Date": "2022-09-08",
+    "PrimaryInvestmentRecommended": "Regulation D private placement offerings from Company A affiliates",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 125000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 4200,
+    "Other Transaction Costs (in $)": 1250
+  },
+  {
+    "Date": "2023-01-18",
+    "PrimaryInvestmentRecommended": "Regulation D private placement offerings from Company A affiliates",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 800
+  }
+]
+```

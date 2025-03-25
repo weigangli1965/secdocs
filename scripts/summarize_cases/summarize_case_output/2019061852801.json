@@ -1,0 +1,58 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Canadian non-brokered private placements (NBPPs)",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Insufficient Due Diligence and Risk Analysis"
+      },
+      "CustomerSummary": "U.S. customers of Haywood Securities (USA) Inc. were impacted by the firm's failure to conduct reasonable due diligence on Canadian non-brokered private placements (NBPPs). From September 2014 to the present, the firm recommended 134 sales totaling almost $11 million of 53 different NBPPs without adequate investigation of the investments. After June 30, 2020, these actions constituted a Care Obligation violation under Regulation Best Interest, as the firm failed to exercise reasonable diligence to understand the potential risks, rewards, and costs of these complex private placement offerings. The firm generally only conducted minimal searches of public filings with little to no independent verification of issuer information, and failed to maintain proper documentation of what limited due diligence they performed."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Haywood Securities (USA) Inc.",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2019061852801",
+    "Date": "11/13/2023"
+  },
+  "OverallSummary": "Haywood Securities (USA) Inc. violated the Care Obligation under Regulation Best Interest by failing to conduct reasonable due diligence on Canadian private placement offerings recommended to U.S. customers. From September 2014 to the present, the firm recommended 134 sales totaling almost $11 million of 53 different Canadian non-brokered private placements (NBPPs) to U.S. customers without adequate investigation. The firm failed to:
+  
+1. Conduct independent verification of issuer information
+2. Investigate past or pending litigation or disciplinary issues
+3. Review issuers' key contracts
+4. Explore issuers' business plans
+5. Conduct site visits
+6. Research regulatory history of issuers' officers and directors
+7. Maintain documentation of due diligence efforts
+
+Prior to June 30, 2020, these failures violated FINRA Rules 3110 and 2010 and NASD Rule 3010 regarding suitability requirements. After June 30, 2020, when Regulation Best Interest went into effect, these same practices violated the Care Obligation, which requires broker-dealers to exercise reasonable diligence, care, and skill to understand the potential risks, rewards, and costs associated with recommendations. Additionally, from September 2014 to February 2023, the firm failed to file offering documents with FINRA for 236 Canadian NBPPs in violation of FINRA Rules 5123 and 2010. As penalties, FINRA imposed a censure, a $175,000 fine, and required the firm to implement appropriate supervisory systems to ensure compliance with Regulation BI."
+}
+```

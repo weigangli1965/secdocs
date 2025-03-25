@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2020-02-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 38000,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2020-03-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 32000,
+    "Ratio of Total Portfolio (%)": 8.4,
+    "Fees Commissions Paid (in $)": 800,
+    "Other Transaction Costs (in $)": 320
+  },
+  {
+    "Date": "2020-04-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 57000,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 1425,
+    "Other Transaction Costs (in $)": 570
+  },
+  {
+    "Date": "2020-05-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 49000,
+    "Ratio of Total Portfolio (%)": 12.9,
+    "Fees Commissions Paid (in $)": 1225,
+    "Other Transaction Costs (in $)": 490
+  },
+  {
+    "Date": "2020-06-03",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 19000,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 475,
+    "Other Transaction Costs (in $)": 190
+  },
+  {
+    "Date": "2020-07-18",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 16500,
+    "Ratio of Total Portfolio (%)": 4.3,
+    "Fees Commissions Paid (in $)": 412,
+    "Other Transaction Costs (in $)": 165
+  },
+  {
+    "Date": "2020-08-24",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 19000,
+    "Ratio of Total Portfolio (%)": 5.0,
+    "Fees Commissions Paid (in $)": 1900,
+    "Other Transaction Costs (in $)": 760
+  },
+  {
+    "Date": "2020-10-15",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital appreciation",
+    "InvestmentAccountType": "Individual Retirement Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio (%)": 4.6,
+    "Fees Commissions Paid (in $)": 1313,
+    "Other Transaction Costs (in $)": 355
+  }
+]
+```

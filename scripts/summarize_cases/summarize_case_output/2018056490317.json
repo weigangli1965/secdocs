@@ -1,0 +1,118 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "67 at account opening",
+        "Employment": "Semi-retired business owner",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "Aggressive growth/aggressive income",
+        "RiskTolerance": "High",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "34",
+        "CostToEquityRatio": "101%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$313,220 in realized losses",
+        "FeesCommissionsPaid": "$545,234 in commissions",
+        "OtherTransactionCosts": "$65,535 in other trading costs",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer A, a 67-year-old semi-retired business owner, opened an account with Manning in June 2016. Between June 2016 and April 2022, Manning recommended 866 transactions in Customer A's account, resulting in an annualized turnover rate of 34 and a cost-to-equity ratio of 101%. These metrics are well above the guideposts used to identify excessive trading (turnover rate > 6, cost-to-equity ratio > 20%). Manning's trading generated $610,769 in total trading costs, including $545,234 in commissions, and caused $313,220 in realized losses. This excessive trading pattern was unsuitable and not in the customer's best interest, constituting a Care Obligation violation under Regulation BI after June 30, 2020, and quantitative unsuitability violations under FINRA Rule 2111 before that date."
+    },
+    {
+      "Demographics": {
+        "Age": "62 at account opening",
+        "Employment": "Self-employed business owner",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "Speculation",
+        "RiskTolerance": "High",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "40",
+        "CostToEquityRatio": "95%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$597,759 in realized losses",
+        "FeesCommissionsPaid": "$611,464 in commissions",
+        "OtherTransactionCosts": "$46,726 in other trading costs",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer B, a 62-year-old self-employed business owner, opened an account with Manning in February 2016. Between February 2016 and November 2021, Manning recommended 618 transactions in Customer B's account, resulting in an annualized turnover rate of 40 and a cost-to-equity ratio of 95%. These metrics are substantially above the traditional guideposts that indicate excessive trading (turnover rate > 6, cost-to-equity ratio > 20%). Manning's trading generated $658,190 in total trading costs, including $611,464 in commissions, and caused $597,759 in realized losses. This excessive trading was unsuitable and not in the customer's best interest, violating the Care Obligation under Regulation BI after June 30, 2020, and quantitative unsuitability requirements under FINRA Rule 2111 before that date. Customer B later settled an arbitration claim against Manning and his firm."
+    },
+    {
+      "Demographics": {
+        "Age": "81 at account opening",
+        "Employment": "Semi-retired business owner",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "Aggressive growth/aggressive income",
+        "RiskTolerance": "High",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "22",
+        "CostToEquityRatio": "81%",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$190,298 in realized losses",
+        "FeesCommissionsPaid": "$321,195 in commissions",
+        "OtherTransactionCosts": "$35,823 in other trading costs",
+        "ImpactOnPortfolio": "Severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer C, an 81-year-old semi-retired business owner, opened an account with Manning in August 2016. Between August 2016 and April 2022, Manning recommended 483 transactions in Customer C's account, resulting in an annualized turnover rate of 22 and a cost-to-equity ratio of 81%. These metrics significantly exceed the traditional guideposts for identifying excessive trading (turnover rate > 6, cost-to-equity ratio > 20%). Manning's trading generated $357,018 in total trading costs, including $321,195 in commissions, and caused $190,298 in realized losses. This excessive trading was particularly concerning given the customer's advanced age (81) at account opening. The pattern of trading was unsuitable and not in the customer's best interest, violating the Care Obligation under Regulation BI after June 30, 2020, and quantitative unsuitability requirements under FINRA Rule 2111 before that date."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Kyle Infinite Manning",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2018056490317",
+    "Date": "October 8, 2024"
+  },
+  "OverallSummary": "This case involves Kyle Infinite Manning, a former General Securities Representative with Spartan Capital Securities, LLC, who engaged in excessive trading in the accounts of three senior customers between February 2016 and April 2022. FINRA found that Manning willfully violated the Best Interest Obligation under Regulation BI (after June 30, 2020) and FINRA Rules 2111 and 2010. The Care Obligation violations were established through quantitative analysis showing extremely high turnover rates and cost-to-equity ratios across all three accounts. The analytical steps for identifying excessive trading included: 1) Measuring annualized turnover rates (ranging from 22-40 across accounts, all well above the excessive trading guideline of 6); 2) Calculating cost-to-equity ratios (ranging from 81%-101%, all well above the 20% threshold indicating excessive trading); and 3) Analyzing the effect on customers' accounts (all suffered substantial realized losses totaling $1,101,277 collectively while generating $1,625,977 in total trading costs, including $1,477,893 in commissions). The three affected customers were all senior investors (ages 62, 67, and 81 at account opening) and business owners. Manning had de facto control over their accounts as they relied on and routinely followed his recommendations. As a result of the violations, Manning was suspended for 17 months from associating with any FINRA member in any capacity. No monetary sanctions were imposed due to Manning's demonstrated inability to pay."
+}
+```

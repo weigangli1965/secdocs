@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-06-15",
+    "PrimaryInvestmentRecommended": "private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth accumulation",
+    "InvestmentAccountType": "retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 264000,
+    "Ratio of Total Portfolio (%)": 35.2,
+    "Fees Commissions Paid (in $)": 3960,
+    "Other Transaction Costs (in $)": 1056
+  },
+  {
+    "Date": "2023-07-22",
+    "PrimaryInvestmentRecommended": "private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth accumulation",
+    "InvestmentAccountType": "retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 168750,
+    "Ratio of Total Portfolio (%)": 22.5,
+    "Fees Commissions Paid (in $)": 2531,
+    "Other Transaction Costs (in $)": 674
+  },
+  {
+    "Date": "2023-08-14",
+    "PrimaryInvestmentRecommended": "private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth accumulation",
+    "InvestmentAccountType": "retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 141000,
+    "Ratio of Total Portfolio (%)": 18.8,
+    "Fees Commissions Paid (in $)": 1269,
+    "Other Transaction Costs (in $)": 339
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "private placements",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth accumulation",
+    "InvestmentAccountType": "retail accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 109500,
+    "Ratio of Total Portfolio (%)": 14.6,
+    "Fees Commissions Paid (in $)": 740,
+    "Other Transaction Costs (in $)": 231
+  }
+]
+```

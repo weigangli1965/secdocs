@@ -1,0 +1,76 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Biotechnology Company Shares (XYZ Biotech)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement Supplementation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8000,
+    "Ratio of Total Portfolio (%)": 28.6,
+    "Fees Commissions Paid (in $)": 320,
+    "Other Transaction Costs (in $)": 80
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4200,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 210,
+    "Other Transaction Costs (in $)": 65
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4200,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 160,
+    "Other Transaction Costs (in $)": 45
+  },
+  {
+    "Date": "2023-07-08",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Diversification",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4200,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 190,
+    "Other Transaction Costs (in $)": 60
+  },
+  {
+    "Date": "2023-10-15",
+    "PrimaryInvestmentRecommended": "Biotechnology Company Shares (XYZ Biotech)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculative Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 3000,
+    "Ratio of Total Portfolio (%)": 10.7,
+    "Fees Commissions Paid (in $)": 180,
+    "Other Transaction Costs (in $)": 95
+  },
+  {
+    "Date": "2024-01-12",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2800,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 140,
+    "Other Transaction Costs (in $)": 55
+  }
+]
+```

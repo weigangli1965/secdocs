@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Private placements",
+        "RiskProfileofPrimaryRecommendedInvestment": "NOTSPECIFIED",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "NOTSPECIFIED"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "None"
+      },
+      "CustomerSummary": "This represents approximately 490 retail investors who were recommended private placements by Harpeth Securities between June 30, 2020, and April 22, 2022. The case does not specify individual customer details or impacts. The primary violation was Harpeth's failure to establish written policies and procedures for Regulation Best Interest compliance, not a specific Care Obligation violation for individual customers. The firm lacked any Reg BI-related procedures during this period despite making recommendations to retail customers."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Harpeth Securities, LLC",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2021069277101",
+    "Date": "May 19, 2023"
+  },
+  "OverallSummary": "This case involves Harpeth Securities, LLC, a broker-dealer that acted as a placement agent for private placement offerings. From June 30, 2020, to April 22, 2022, Harpeth failed to establish and maintain written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest (Reg BI), despite making recommendations to approximately 490 retail investors across two private placements during this time. The firm also failed to establish procedures for Form CRS obligations. The violations were procedural in nature - the case does not cite specific Care Obligation violations under 17 CFR § 240.15l-1(a)(2)(ii) for any individual customers, but rather focuses on the firm's systemic failure to implement appropriate compliance procedures as required by Reg BI's Compliance Obligation. This represents a willful violation of Exchange Act Rule 15l-1 and violations of FINRA Rules 3110 and 2010. The firm was censured and fined $35,000. No specific customer harm or financial losses were quantified in the case, as the focus was on the firm's procedural failures rather than customer-specific impacts."
+}
+```

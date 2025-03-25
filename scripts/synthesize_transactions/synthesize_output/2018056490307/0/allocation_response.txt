@@ -1,0 +1,44 @@
+```
+[
+  {
+    "ID": 12345,
+    "Investment Product": "Savings Account",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Certificate of Deposit (CD)",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "U.S. Treasury Bonds",
+    "Allocation (%)": 20
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Municipal Bonds",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Corporate Bonds",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "S&P 500 Index Fund",
+    "Allocation (%)": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Dividend Stock Fund",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Real Estate Investment Trust (REIT)",
+    "Allocation (%)": 5
+  }
+]
+```

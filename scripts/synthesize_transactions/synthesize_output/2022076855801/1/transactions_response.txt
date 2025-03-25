@@ -1,0 +1,40 @@
+```
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income generation",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 40,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2022-03-10",
+    "PrimaryInvestmentRecommended": "illiquid alternative investments",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "diversification",
+    "InvestmentAccountType": "taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2022-08-22",
+    "PrimaryInvestmentRecommended": "non-traded REITs",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "passive income",
+    "InvestmentAccountType": "retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 18750,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 350
+  }
+]
+```

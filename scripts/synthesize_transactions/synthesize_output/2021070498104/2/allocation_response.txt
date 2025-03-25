@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "ID": 12345,
+    "Investment Products": "GWG L Bonds",
+    "Allocation": 35.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 15.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 20.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Dividend Stock Fund",
+    "Allocation": 10.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation": 8.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 5.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 5.0
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Municipal Bonds",
+    "Allocation": 2.0
+  }
+]
+```

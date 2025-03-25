@@ -1,0 +1,186 @@
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "49",
+        "Employment": "accountant",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "20",
+        "CostToEquityRatio": "87",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$80,072",
+        "FeesCommissionsPaid": "$36,777",
+        "OtherTransactionCosts": "$1,736",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customer A was a 49-year-old accountant who opened an account with Orlando at Spartan in June 2016. Between August and November 2018, Orlando engaged in excessive trading in Customer A's account resulting in a turnover rate of 20 and a cost-to-equity ratio of 87%, significantly above the guidelines of 6 and 20% respectively. This trading generated $38,513 in total costs ($36,777 in commissions), while causing $80,072 in realized losses. While Customer A's stated investment objective was speculation, the extreme level of trading was unsuitable given the high costs and significant losses. Since this trading occurred before Regulation BI went into effect (June 30, 2020), the violation falls under FINRA Rule 2111 (suitability) rather than a Care Obligation violation."
+    },
+    {
+      "Demographics": {
+        "Age": "63",
+        "Employment": "real-estate executive",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "NOTSPECIFIED",
+        "RiskTolerance": "NOTSPECIFIED",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "32",
+        "CostToEquityRatio": "172",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$12,818",
+        "FeesCommissionsPaid": "$21,305",
+        "OtherTransactionCosts": "$3,683",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "No",
+        "TypeofCareObligationViolation": "Violations of analogous suitability requirements under FINRA Rule 2111"
+      },
+      "CustomerSummary": "Customer B was a 63-year-old real-estate executive who opened an account with Orlando at Spartan in January 2018. From January 2018 through February 2019, Orlando's trading in Customer B's account resulted in an annualized turnover rate of 32 and an annualized cost-to-equity ratio of 172%, both far exceeding the guideline thresholds of 6 and 20% respectively. This excessive trading generated $24,988 in total trading costs, including $21,305 in commissions, while causing $12,818 in realized losses. Since this trading occurred before Regulation BI went into effect (June 30, 2020), the violation falls under FINRA Rule 2111 (suitability) rather than a Care Obligation violation."
+    },
+    {
+      "Demographics": {
+        "Age": "67",
+        "Employment": "owner of a car dealership",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "limited",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "62",
+        "CostToEquityRatio": "221",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$37,998",
+        "FeesCommissionsPaid": "$39,730",
+        "OtherTransactionCosts": "$26,204",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer C was a 67-year-old car dealership owner with limited investment knowledge who opened an account with Orlando at Worden in July 2019. From July 2019 through November 2020, Orlando engaged in excessive trading resulting in an annualized turnover rate of 62 and an annualized cost-to-equity ratio of 221%, dramatically exceeding the guideline thresholds of 6 and 20% respectively. This trading generated $65,934 in total costs, including $39,730 in commissions, and caused $37,998 in realized losses. While the stated investment objective was speculation, the extreme level of trading violated both the Care Obligation under Regulation BI (for the period after June 30, 2020) and FINRA Rule 2111 (for the period before). The Care Obligation violation involved excessive trading that was not in the customer's best interest, particularly given the customer's limited investment knowledge and advanced age."
+    },
+    {
+      "Demographics": {
+        "Age": "48",
+        "Employment": "engineer",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "93",
+        "CostToEquityRatio": "279",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$40,710",
+        "FeesCommissionsPaid": "$42,929",
+        "OtherTransactionCosts": "$19,352",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer D was a 48-year-old engineer who opened an account with Orlando at Worden in October 2019. From October 2019 through November 2020, Orlando engaged in extremely excessive trading resulting in an annualized turnover rate of 93 and an annualized cost-to-equity ratio of 279%, far exceeding the guideline thresholds of 6 and 20% respectively. This trading generated $62,281 in total costs, including $42,929 in commissions, and caused $40,710 in realized losses. While the stated investment objective was speculation, the extreme level of trading violated both the Care Obligation under Regulation BI (for the period after June 30, 2020) and FINRA Rule 2111 (for the period before). The Care Obligation violation involved excessive trading that was not in the customer's best interest, given the extraordinarily high turnover rate and cost-to-equity ratio."
+    },
+    {
+      "Demographics": {
+        "Age": "71",
+        "Employment": "truck salesman",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "NOTSPECIFIED"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+        "RiskProfileofPrimaryRecommendedInvestment": "high",
+        "InvestmentPurpose": "speculation",
+        "RiskTolerance": "high",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "37",
+        "CostToEquityRatio": "132",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "$26,852",
+        "FeesCommissionsPaid": "$24,156",
+        "OtherTransactionCosts": "$15,926",
+        "ImpactOnPortfolio": "severe"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Excessive Trading"
+      },
+      "CustomerSummary": "Customer E was a 71-year-old truck salesman who opened an account with Orlando at Worden in July 2019. From July 2019 through November 2020, Orlando engaged in excessive trading resulting in an annualized turnover rate of 37 and an annualized cost-to-equity ratio of 132%, significantly exceeding the guideline thresholds of 6 and 20% respectively. This trading generated $40,082 in total costs, including $24,156 in commissions, and caused $26,852 in realized losses. While the stated investment objective was speculation, the extreme level of trading violated both the Care Obligation under Regulation BI (for the period after June 30, 2020) and FINRA Rule 2111 (for the period before). The Care Obligation violation involved excessive trading that was not in the customer's best interest, particularly given the customer's advanced age and the extremely high costs relative to equity."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Troy Allen Orlando",
+    "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+    "Case No.": "2019060753505",
+    "Date": "11/22/2023"
+  },
+  "OverallSummary": "This case involves Troy Allen Orlando, a former General Securities Representative, who engaged in excessive trading in five customers' accounts between January 2018 and November 2020 while registered with Spartan Capital Securities, LLC and Worden Capital Management LLC. The excessive trading violated both FINRA Rule 2111 (suitability) for the period before June 30, 2020, and the Best Interest Obligation under Regulation BI for the period after June 30, 2020. Orlando exercised de facto control over all five accounts as customers relied on and followed his recommendations. Analysis of the excessive trading was based on two key metrics: (1) turnover rates ranging from 20 to 93 (far exceeding the guideline threshold of 6), and (2) cost-to-equity ratios ranging from 87% to 279% (far exceeding the guideline threshold of 20%). The five customers affected included: (1) a 49-year-old accountant who suffered $80,072 in losses and paid $38,513 in trading costs; (2) a 63-year-old real estate executive who suffered $12,818 in losses and paid $24,988 in trading costs; (3) a 67-year-old car dealership owner with limited investment knowledge who suffered $37,998 in losses and paid $65,934 in trading costs; (4) a 48-year-old engineer who suffered $40,710 in losses and paid $62,281 in trading costs; and (5) a 71-year-old truck salesman who suffered $26,852 in losses and paid $40,082 in trading costs. While all customers had designated speculation as their investment objective, the extreme level of trading was not in their best interest and violated regulatory obligations. The total realized losses across all five accounts amounted to $198,450, with total trading costs of $231,798. As a result of these violations, Orlando was suspended for 20 months and ordered to pay $58,082.50 in restitution (to Customers A and B, as Customers C, D, and E had already obtained an arbitration award against Worden)."
+}

@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 80000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 400,
+    "Other Transaction Costs": 150
+  },
+  {
+    "Date": "2023-02-20",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 300,
+    "Other Transaction Costs": 120
+  },
+  {
+    "Date": "2023-04-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "401k",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 350,
+    "Other Transaction Costs": 130
+  },
+  {
+    "Date": "2023-06-05",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 375,
+    "Other Transaction Costs": 140
+  },
+  {
+    "Date": "2023-08-18",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 200,
+    "Other Transaction Costs": 80
+  },
+  {
+    "Date": "2023-10-22",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "401k",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 320,
+    "Other Transaction Costs": 120
+  },
+  {
+    "Date": "2023-12-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 200,
+    "Other Transaction Costs": 80
+  },
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 180,
+    "Other Transaction Costs": 70
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 12000,
+    "Ratio of Total Portfolio": 3,
+    "Fees Commissions Paid": 120,
+    "Other Transaction Costs": 60
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8000,
+    "Ratio of Total Portfolio": 2,
+    "Fees Commissions Paid": 55,
+    "Other Transaction Costs": 50
+  }
+]
+```

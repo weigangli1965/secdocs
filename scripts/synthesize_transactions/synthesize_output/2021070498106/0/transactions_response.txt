@@ -1,0 +1,76 @@
+```json
+[
+  {
+    "Date": "2020-03-15",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth and income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 296420,
+    "Ratio of Total Portfolio (%)": 32.5,
+    "Fees Commissions Paid (in $)": 8893,
+    "Other Transaction Costs (in $)": 1482
+  },
+  {
+    "Date": "2020-04-22",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 168720,
+    "Ratio of Total Portfolio (%)": 18.5,
+    "Fees Commissions Paid (in $)": 1687,
+    "Other Transaction Costs (in $)": 843
+  },
+  {
+    "Date": "2020-05-10",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 136800,
+    "Ratio of Total Portfolio (%)": 15.0,
+    "Fees Commissions Paid (in $)": 684,
+    "Other Transaction Costs (in $)": 342
+  },
+  {
+    "Date": "2020-06-05",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 109440,
+    "Ratio of Total Portfolio (%)": 12.0,
+    "Fees Commissions Paid (in $)": 547,
+    "Other Transaction Costs (in $)": 274
+  },
+  {
+    "Date": "2020-07-17",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "income",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 91200,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 456,
+    "Other Transaction Costs (in $)": 228
+  },
+  {
+    "Date": "2020-08-30",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "capital preservation",
+    "InvestmentAccountType": "Taxable",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 72960,
+    "Ratio of Total Portfolio (%)": 8.0,
+    "Fees Commissions Paid (in $)": 83,
+    "Other Transaction Costs (in $)": 281
+  }
+]
+```

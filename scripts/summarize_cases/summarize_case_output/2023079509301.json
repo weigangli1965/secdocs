@@ -1,0 +1,48 @@
+```json
+{
+  "Customers": [
+    {
+      "Demographics": {
+        "Age": "NOTSPECIFIED",
+        "Employment": "NOTSPECIFIED",
+        "IncomeLevel": "NOTSPECIFIED",
+        "InvestmentExperience": "NOTSPECIFIED",
+        "NetWorth": "NOTSPECIFIED",
+        "InvestmentPortfolioValue": "$220,000"
+      },
+      "InvestmentType": {
+        "PrimaryInvestmentRecommended": "Mutual funds",
+        "RiskProfileofPrimaryRecommendedInvestment": "Medium to high",
+        "InvestmentPurpose": "Long-term growth (inappropriately recommended given customers' near-term liquidity needs)",
+        "RiskTolerance": "Low to moderate (based on need for near-term liquidity)",
+        "InvestmentAccountType": "NOTSPECIFIED"
+      },
+      "AccountInformation": {
+        "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+        "CostToEquityRatio": "NOTSPECIFIED",
+        "HighRiskInvestmentRatio": "NOTSPECIFIED",
+        "HighRiskNetworthRatio": "NOTSPECIFIED"
+      },
+      "FinancialLossSuffered": {
+        "AmountLost": "NOTSPECIFIED (required margin loans totaling approximately $25,000)",
+        "FeesCommissionsPaid": "NOTSPECIFIED",
+        "OtherTransactionCosts": "NOTSPECIFIED",
+        "ImpactOnPortfolio": "Moderate (firm compensated customers $54,216 for their losses)"
+      },
+      "Breach": {
+        "ExistenceofLegalBreach": "Yes",
+        "IsCareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      },
+      "CustomerSummary": "A married couple took out a $220,000 home equity loan with the intent to purchase a house for a family member and renovate their own home in the near term. Despite being aware of these near-term liquidity needs, Beslagic recommended they invest the proceeds in mutual funds primarily designed for long-term growth with risk of short-term capital loss. When the funds declined in value, the customers had to sell a portion at a loss and take out approximately $25,000 in margin loans to meet their near-term liquidity needs. This constituted a Care Obligation violation under Reg BI because: (1) the broker failed to consider the customers' short-term liquidity needs, (2) recommended investments that carried significant risk of short-term capital loss, and (3) did not have a reasonable basis to believe the recommendation was in the customers' best interest given their investment profile."
+    }
+  ],
+  "Case Information": {
+    "Name of Party": "Mary Christine Beslagic",
+    "Type of Document": "Letter of Acceptance, Waiver and Consent (AWC)",
+    "Case No.": "NOTSPECIFIED",
+    "Date": "NOTSPECIFIED"
+  },
+  "OverallSummary": "This case involves a Regulation Best Interest (Reg BI) Care Obligation violation by Mary Christine Beslagic, who was associated with Edward Jones until her discharge in 2022. In March 2022, Beslagic recommended that a married couple invest $220,000 from a home equity loan in mutual funds primarily designed for long-term growth, despite knowing the customers needed these funds for near-term purposes (purchasing a house for a family member and renovating their own home). The recommended mutual funds carried risk of short-term capital loss, which materialized when the investments declined in value shortly after purchase. This forced the customers to sell a portion at a loss and take out margin loans totaling approximately $25,000 to meet their liquidity needs. The firm later compensated the customers $54,216 for their losses. FINRA determined that Beslagic willfully violated Rule 15l-1(a)(1) under the Securities Exchange Act of 1934 (Reg BI) and FINRA Rule 2010 because she did not have a reasonable basis to believe her recommended investment strategy was in the customers' best interest. The analytical steps in determining this violation were: (1) establishing that the broker knew about the customers' near-term liquidity needs, (2) determining that the recommended investments were inappropriate given those needs due to risk of short-term capital loss, and (3) concluding that the broker failed to consider the customers' investment profile when making recommendations. As a result, Beslagic received a two-month suspension and a $5,000 fine."
+}
+```
