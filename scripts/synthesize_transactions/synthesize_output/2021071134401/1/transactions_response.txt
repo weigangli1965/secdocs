@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-09-15",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth accumulation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2023-10-22",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "short-term gains",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2023-12-04",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "market timing",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 37500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1125,
+    "Other Transaction Costs (in $)": 375
+  },
+  {
+    "Date": "2024-01-18",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "portfolio rebalancing",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 62500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 1875,
+    "Other Transaction Costs (in $)": 625
+  },
+  {
+    "Date": "2024-02-27",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculative trading",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-08-15",
+    "PrimaryInvestmentRecommended": "Variable Annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 13750,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 550,
+    "Other Transaction Costs (in $)": 275
+  },
+  {
+    "Date": "2023-09-10",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 68750,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-10-05",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 41250,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-11-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2023-12-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium-high",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 150
+  }
+]
+```

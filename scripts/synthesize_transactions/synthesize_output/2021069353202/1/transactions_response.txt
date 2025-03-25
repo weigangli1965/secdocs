@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2022-03-15",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement Income",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 800,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2022-06-22",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 95000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2022-11-10",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 85000,
+    "Ratio of Total Portfolio (%)": 18,
+    "Fees Commissions Paid (in $)": 550,
+    "Other Transaction Costs (in $)": 125
+  },
+  {
+    "Date": "2023-04-05",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 16,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-09-18",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 100
+  }
+]
+```

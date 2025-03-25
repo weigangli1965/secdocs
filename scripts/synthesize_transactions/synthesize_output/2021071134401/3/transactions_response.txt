@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000,
+    "Ratio of Total Portolio": 37.5,
+    "Fees Commissions Paid": 1800,
+    "Other Transaction Costs": 950
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portolio": 18.75,
+    "Fees Commissions Paid": 1100,
+    "Other Transaction Costs": 550
+  },
+  {
+    "Date": "2023-07-08",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 45000,
+    "Ratio of Total Portolio": 11.25,
+    "Fees Commissions Paid": 900,
+    "Other Transaction Costs": 400
+  },
+  {
+    "Date": "2023-11-14",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 80000,
+    "Ratio of Total Portolio": 20,
+    "Fees Commissions Paid": 1200,
+    "Other Transaction Costs": 600
+  }
+]
+```

@@ -1,100 +1,52 @@
-```json
+```
 [
   {
-    "Date": "2023-06-15",
+    "Date": "2024-01-15",
     "PrimaryInvestmentRecommended": "Variable Annuity",
     "RiskProfileofPrimaryRecommendedInvestment": "medium",
-    "InvestmentPurpose": "Retirement",
+    "InvestmentPurpose": "Retirement Planning",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 80000,
-    "Ratio of Total Portfolio (%)": 40,
-    "Fees Commissions Paid (in $)": 600,
-    "Other Transaction Costs (in $)": 120
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 16.7,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 450
   },
   {
-    "Date": "2023-08-22",
-    "PrimaryInvestmentRecommended": "Corporate Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "Income Generation",
-    "InvestmentAccountType": "Brokerage",
+    "Date": "2024-02-10",
+    "PrimaryInvestmentRecommended": "Variable Annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement Planning",
+    "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 30000,
-    "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 225,
-    "Other Transaction Costs (in $)": 45
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 11.1,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 300
   },
   {
-    "Date": "2023-09-05",
-    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccountType": "Brokerage",
+    "Date": "2024-03-05",
+    "PrimaryInvestmentRecommended": "Variable Annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement Planning",
+    "InvestmentAccountType": "Personal Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 30000,
-    "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 150,
-    "Other Transaction Costs (in $)": 45
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 5.6,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 150
   },
   {
-    "Date": "2024-01-18",
-    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "Income Generation",
-    "InvestmentAccountType": "Brokerage",
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "Variable Annuity",
+    "RiskProfileofPrimaryRecommendedInvestment": "medium",
+    "InvestmentPurpose": "Retirement Planning",
+    "InvestmentAccountType": "Personal Account",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 20000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 100,
-    "Other Transaction Costs (in $)": 30
-  },
-  {
-    "Date": "2024-02-09",
-    "PrimaryInvestmentRecommended": "Municipal Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
-    "InvestmentPurpose": "Tax Optimization",
-    "InvestmentAccountType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 16000,
-    "Ratio of Total Portfolio (%)": 8,
-    "Fees Commissions Paid (in $)": 80,
-    "Other Transaction Costs (in $)": 25
-  },
-  {
-    "Date": "2024-02-28",
-    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "low",
-    "InvestmentPurpose": "Capital Preservation",
-    "InvestmentAccountType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 14000,
-    "Ratio of Total Portfolio (%)": 7,
-    "Fees Commissions Paid (in $)": 30,
-    "Other Transaction Costs (in $)": 20
-  },
-  {
-    "Date": "2024-03-15",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccountType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 6000,
-    "Ratio of Total Portfolio (%)": 3,
-    "Fees Commissions Paid (in $)": 45,
-    "Other Transaction Costs (in $)": 10
-  },
-  {
-    "Date": "2024-03-22",
-    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Income Generation",
-    "InvestmentAccountType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 4000,
-    "Ratio of Total Portfolio (%)": 2,
-    "Fees Commissions Paid (in $)": 30,
-    "Other Transaction Costs (in $)": 5
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 5.6,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 300
   }
 ]
 ```

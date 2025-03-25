@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 15.6,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2024-02-03",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 7.8,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2024-02-28",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio (%)": 9.4,
+    "Fees Commissions Paid (in $)": 600,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "Ratio of Total Portfolio (%)": 10.9,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 225
+  }
+]
+```

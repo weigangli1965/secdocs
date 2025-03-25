@@ -1,0 +1,52 @@
+```json
+[
+    {
+        "Date": "2022-01-15",
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "Retirement",
+        "InvestmentAccountType": "IRA",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 75000,
+        "Ratio of Total Portfolio (%)": 25,
+        "Fees Commissions Paid (in $)": 450,
+        "Other Transaction Costs (in $)": 125
+    },
+    {
+        "Date": "2022-03-10",
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "Retirement",
+        "InvestmentAccountType": "IRA",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 45000,
+        "Ratio of Total Portfolio (%)": 15,
+        "Fees Commissions Paid (in $)": 300,
+        "Other Transaction Costs (in $)": 75
+    },
+    {
+        "Date": "2022-07-22",
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "Retirement",
+        "InvestmentAccountType": "401(k)",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 60000,
+        "Ratio of Total Portfolio (%)": 20,
+        "Fees Commissions Paid (in $)": 375,
+        "Other Transaction Costs (in $)": 100
+    },
+    {
+        "Date": "2023-02-05",
+        "PrimaryInvestmentRecommended": "Variable Annuity",
+        "RiskProfileofPrimaryRecommendedInvestment": "medium",
+        "InvestmentPurpose": "Retirement",
+        "InvestmentAccountType": "Roth IRA",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 30000,
+        "Ratio of Total Portfolio (%)": 10,
+        "Fees Commissions Paid (in $)": 75,
+        "Other Transaction Costs (in $)": 50
+    }
+]
+```

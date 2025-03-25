@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2020-03-15",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Long-term growth",
+    "InvestmentAccountType": "Brokerage account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 42.85,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2020-07-22",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Wealth preservation",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 21.43,
+    "Fees Commissions Paid (in $)": 450,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2021-01-10",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Retirement planning",
+    "InvestmentAccountType": "401(k)",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 17.14,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2021-09-05",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "College fund",
+    "InvestmentAccountType": "529 Plan",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 11.43,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 225
+  },
+  {
+    "Date": "2022-05-18",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Income generation",
+    "InvestmentAccountType": "Joint account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 25000,
+    "Ratio of Total Portfolio (%)": 7.14,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 400
+  }
+]
+```

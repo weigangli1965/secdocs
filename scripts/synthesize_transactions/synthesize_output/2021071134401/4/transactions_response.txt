@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 16.7,
+    "Fees Commissions Paid (in $)": 3750,
+    "Other Transaction Costs (in $)": 950
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Speculative Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 550
+  },
+  {
+    "Date": "2023-06-08",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Short-term Trading",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio (%)": 6.7,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 375
+  },
+  {
+    "Date": "2023-09-17",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Tactical Asset Allocation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 13.3,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 725
+  },
+  {
+    "Date": "2023-12-05",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Market Timing",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 8.9,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 400
+  }
+]
+```

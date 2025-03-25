@@ -1,0 +1,160 @@
+```
+[
+  {
+    "Date": "2023-02-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portolio (%)": 20,
+    "Fees Commissions Paid (in $)": 720,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-03-21",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portolio (%)": 15,
+    "Fees Commissions Paid (in $)": 540,
+    "Other Transaction Costs (in $)": 180
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income Generation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 67500,
+    "Ratio of Total Portolio (%)": 15,
+    "Fees Commissions Paid (in $)": 540,
+    "Other Transaction Costs (in $)": 180
+  },
+  {
+    "Date": "2023-07-14",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portolio (%)": 10,
+    "Fees Commissions Paid (in $)": 360,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-09-08",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portolio (%)": 10,
+    "Fees Commissions Paid (in $)": 450,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-11-20",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Capital Appreciation",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22500,
+    "Ratio of Total Portolio (%)": 5,
+    "Fees Commissions Paid (in $)": 270,
+    "Other Transaction Costs (in $)": 90
+  },
+  {
+    "Date": "2024-01-05",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax Optimization",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22500,
+    "Ratio of Total Portolio (%)": 5,
+    "Fees Commissions Paid (in $)": 180,
+    "Other Transaction Costs (in $)": 60
+  },
+  {
+    "Date": "2024-02-18",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Capital Preservation",
+    "InvestmentAccoutType": "Bank",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22500,
+    "Ratio of Total Portolio (%)": 5,
+    "Fees Commissions Paid (in $)": 90,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2024-03-12",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Emergency Fund",
+    "InvestmentAccoutType": "Bank",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22500,
+    "Ratio of Total Portolio (%)": 5,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  },
+  {
+    "Date": "2024-04-09",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and Diversification",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22500,
+    "Ratio of Total Portolio (%)": 5,
+    "Fees Commissions Paid (in $)": 225,
+    "Other Transaction Costs (in $)": 75
+  },
+  {
+    "Date": "2024-05-14",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Diversification",
+    "InvestmentAccoutType": "Alternative Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 9000,
+    "Ratio of Total Portolio (%)": 2,
+    "Fees Commissions Paid (in $)": 90,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2024-06-07",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculative",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 9000,
+    "Ratio of Total Portolio (%)": 2,
+    "Fees Commissions Paid (in $)": 135,
+    "Other Transaction Costs (in $)": 45
+  },
+  {
+    "Date": "2024-07-10",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Speculative",
+    "InvestmentAccoutType": "Alternative Investment",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4500,
+    "Ratio of Total Portolio (%)": 1,
+    "Fees Commissions Paid (in $)": 90,
+    "Other Transaction Costs (in $)": 30
+  }
+]
+```

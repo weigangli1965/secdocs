@@ -1,16 +1,27 @@
-```json
 [
   {
-    "Date": "2024-01-15",
+    "Date": "2023-02-15",
     "PrimaryInvestmentRecommended": "Class A mutual funds",
     "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
     "InvestmentPurpose": "Retirement income",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
     "TotalAmount": 50000,
-    "Ratio of Total Portfolio (%)": 14.3,
-    "Fees Commissions Paid (in $)": 1250,
+    "Ratio of Total Portfolio (%)": 11.1,
+    "Fees Commissions Paid (in $)": 750,
     "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "Class A mutual funds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
+    "InvestmentPurpose": "Capital preservation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 16.7,
+    "Fees Commissions Paid (in $)": 900,
+    "Other Transaction Costs (in $)": 180
   },
   {
     "Date": "2023-10-22",
@@ -20,33 +31,20 @@
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
     "TotalAmount": 35000,
-    "Ratio of Total Portfolio (%)": 10.0,
-    "Fees Commissions Paid (in $)": 875,
-    "Other Transaction Costs (in $)": 125
+    "Ratio of Total Portfolio (%)": 7.8,
+    "Fees Commissions Paid (in $)": 525,
+    "Other Transaction Costs (in $)": 105
   },
   {
-    "Date": "2023-07-08",
+    "Date": "2024-01-18",
     "PrimaryInvestmentRecommended": "Class A mutual funds",
     "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
-    "InvestmentPurpose": "Retirement income",
-    "InvestmentAccountType": "IRA",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 45000,
-    "Ratio of Total Portfolio (%)": 12.9,
-    "Fees Commissions Paid (in $)": 1125,
-    "Other Transaction Costs (in $)": 175
-  },
-  {
-    "Date": "2023-03-17",
-    "PrimaryInvestmentRecommended": "Class A mutual funds",
-    "RiskProfileofPrimaryRecommendedInvestment": "low to moderate",
-    "InvestmentPurpose": "Capital preservation",
-    "InvestmentAccountType": "Taxable",
+    "InvestmentPurpose": "Income generation",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
     "TotalAmount": 25000,
-    "Ratio of Total Portfolio (%)": 7.1,
-    "Fees Commissions Paid (in $)": 250,
-    "Other Transaction Costs (in $)": 50
+    "Ratio of Total Portfolio (%)": 5.6,
+    "Fees Commissions Paid (in $)": 325,
+    "Other Transaction Costs (in $)": 65
   }
 ]
-```

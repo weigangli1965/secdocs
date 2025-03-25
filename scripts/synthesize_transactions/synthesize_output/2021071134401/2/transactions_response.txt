@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2023-04-12",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-06-22",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 42000,
+    "Ratio of Total Portfolio (%)": 12,
+    "Fees Commissions Paid (in $)": 850,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2023-09-15",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 28000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 600,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2023-11-30",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 14.5,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 600
+  }
+]
+```

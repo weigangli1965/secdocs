@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "ID": 12345,
+    "Investment Products": "Savings Account",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Certificate of Deposit (CD)",
+    "Allocation": 20
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation": 25
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Municipal Bonds",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 8
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Dividend Stock Fund",
+    "Allocation": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation": 2
+  }
+]
+```

@@ -1,0 +1,76 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Margin Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 85000,
+    "Ratio of Total Portfolio (%)": 15.5,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Margin Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 65000,
+    "Ratio of Total Portfolio (%)": 11.8,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Margin Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 110000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1650,
+    "Other Transaction Costs (in $)": 680
+  },
+  {
+    "Date": "2023-08-05",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Margin Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 8.2,
+    "Fees Commissions Paid (in $)": 1100,
+    "Other Transaction Costs (in $)": 420
+  },
+  {
+    "Date": "2023-10-18",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Margin Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 95000,
+    "Ratio of Total Portfolio (%)": 17.3,
+    "Fees Commissions Paid (in $)": 1450,
+    "Other Transaction Costs (in $)": 550
+  },
+  {
+    "Date": "2024-01-29",
+    "PrimaryInvestmentRecommended": "Leveraged and inverse exchange-traded funds (NT-ETFs)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Margin Account",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 138000,
+    "Ratio of Total Portfolio (%)": 25.1,
+    "Fees Commissions Paid (in $)": 2150,
+    "Other Transaction Costs (in $)": 750
+  }
+]
+```
