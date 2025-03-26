@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 3750,
+    "Other Transaction Costs (in $)": 950
+  },
+  {
+    "Date": "2022-02-10",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 135000,
+    "Ratio of Total Portfolio (%)": 18,
+    "Fees Commissions Paid (in $)": 3200,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2022-03-05",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2900,
+    "Other Transaction Costs (in $)": 700
+  },
+  {
+    "Date": "2022-05-20",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio (%)": 12,
+    "Fees Commissions Paid (in $)": 2500,
+    "Other Transaction Costs (in $)": 1000
+  }
+]
+```

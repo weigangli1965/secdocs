@@ -1,0 +1,31 @@
+```json
+{
+    "ID": 12345,
+    "Age": 65,
+    "Experience": 25,
+    "Income": 150,
+    "Income Categorical": "High",
+    "ZIP Code": 90210,
+    "Family members": 2,
+    "Education": "Professional",
+    "Employment": "Self-Employed",
+    "Mortgage": 200,
+    "Personal Loan": "No",
+    "Securities Account": "Yes",
+    "Annualized Portfolio Turnover": 5.2,
+    "Cost To Equity Ratio": 12,
+    "High Risk Investment Ratio": 75,
+    "HighRiskNetworthRatio": 30,
+    "Amount Lost": 15000,
+    "Fees Commissions Paid": 7500,
+    "Other Transaction Costs": 2000,
+    "TD Account": "Yes",
+    "Online Account": "Yes",
+    "CreditCard": "Yes",
+    "Net Worth": 1500,
+    "Investment Portfolio Value": 950,
+    "Risk Tolerance": "Aggressive",
+    "Financial Goals": "Wealth Growth",
+    "Wealth Management Service Level": "Premium"
+}
+```

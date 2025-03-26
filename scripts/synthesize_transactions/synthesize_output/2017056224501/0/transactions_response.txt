@@ -1,64 +1,64 @@
-```
+```json
 [
   {
-    "Date": "2023-01-15",
+    "Date": "2024-01-15",
     "PrimaryInvestmentRecommended": "self-directed online trading",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 75000,
-    "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 750,
-    "Other Transaction Costs (in $)": 350
-  },
-  {
-    "Date": "2023-03-22",
-    "PrimaryInvestmentRecommended": "self-directed online trading",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "speculation",
-    "InvestmentAccountType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 125000,
+    "TotalAmount": 300000,
     "Ratio of Total Portfolio (%)": 25,
-    "Fees Commissions Paid (in $)": 1250,
-    "Other Transaction Costs (in $)": 625
+    "Fees Commissions Paid (in $)": 4500,
+    "Other Transaction Costs (in $)": 1500
   },
   {
-    "Date": "2023-06-08",
+    "Date": "2024-02-03",
     "PrimaryInvestmentRecommended": "self-directed online trading",
-    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 50000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 950,
-    "Other Transaction Costs (in $)": 475
+    "TotalAmount": 240000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 3600,
+    "Other Transaction Costs (in $)": 1200
   },
   {
-    "Date": "2023-08-17",
+    "Date": "2024-02-18",
+    "PrimaryInvestmentRecommended": "self-directed online trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 216000,
+    "Ratio of Total Portfolio (%)": 18,
+    "Fees Commissions Paid (in $)": 3240,
+    "Other Transaction Costs (in $)": 1080
+  },
+  {
+    "Date": "2024-03-05",
+    "PrimaryInvestmentRecommended": "self-directed online trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2700,
+    "Other Transaction Costs (in $)": 900
+  },
+  {
+    "Date": "2024-03-16",
     "PrimaryInvestmentRecommended": "self-directed online trading",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
     "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Sold",
-    "TotalAmount": 40000,
-    "Ratio of Total Portfolio (%)": 8,
-    "Fees Commissions Paid (in $)": 650,
-    "Other Transaction Costs (in $)": 325
-  },
-  {
-    "Date": "2023-10-05",
-    "PrimaryInvestmentRecommended": "self-directed online trading",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "speculation",
-    "InvestmentAccountType": "Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 150000,
-    "Ratio of Total Portfolio (%)": 30,
-    "Fees Commissions Paid (in $)": 1400,
-    "Other Transaction Costs (in $)": 725
+    "TotalAmount": 95000,
+    "Ratio of Total Portfolio (%)": 7.9,
+    "Fees Commissions Paid (in $)": 960,
+    "Other Transaction Costs (in $)": 320
   }
 ]
 ```

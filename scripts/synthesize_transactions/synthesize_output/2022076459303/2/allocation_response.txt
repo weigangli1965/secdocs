@@ -1,0 +1,34 @@
+```json
+[
+  {
+    "ID": 12345,
+    "Investment Products": "Technology Sector ETF",
+    "Allocation": 35
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Growth Stock Fund",
+    "Allocation": 30
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Cryptocurrency ETF",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Corporate Bonds",
+    "Allocation": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Products": "Savings Account",
+    "Allocation": 5
+  }
+]
+```

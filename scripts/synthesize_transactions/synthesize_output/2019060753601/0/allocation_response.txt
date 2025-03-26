@@ -2,73 +2,73 @@
 [
   {
     "ID": 12345,
-    "Investment_Product": "Savings Account",
-    "Allocation": 5
+    "Investment Products": "Savings Account",
+    "Allocation (%)": 2
   },
   {
     "ID": 12345,
-    "Investment_Product": "Certificate of Deposit (CD)",
-    "Allocation": 2
+    "Investment Products": "Certificate of Deposit (CD)",
+    "Allocation (%)": 1
   },
   {
     "ID": 12345,
-    "Investment_Product": "U.S. Treasury Bonds",
-    "Allocation": 3
+    "Investment Products": "U.S. Treasury Bonds",
+    "Allocation (%)": 3
   },
   {
     "ID": 12345,
-    "Investment_Product": "Municipal Bonds",
-    "Allocation": 2
+    "Investment Products": "Municipal Bonds",
+    "Allocation (%)": 4
   },
   {
     "ID": 12345,
-    "Investment_Product": "Corporate Bonds",
-    "Allocation": 5
+    "Investment Products": "Corporate Bonds",
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
-    "Investment_Product": "S&P 500 Index Fund",
-    "Allocation": 10
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation (%)": 10
   },
   {
     "ID": 12345,
-    "Investment_Product": "Dividend Stock Fund",
-    "Allocation": 5
+    "Investment Products": "Dividend Stock Fund",
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
-    "Investment_Product": "Growth Stock Fund",
-    "Allocation": 10
+    "Investment Products": "Growth Stock Fund",
+    "Allocation (%)": 15
   },
   {
     "ID": 12345,
-    "Investment_Product": "Technology Sector ETF",
-    "Allocation": 15
+    "Investment Products": "Technology Sector ETF",
+    "Allocation (%)": 10
   },
   {
     "ID": 12345,
-    "Investment_Product": "Real Estate Investment Trust (REIT)",
-    "Allocation": 8
+    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
-    "Investment_Product": "Hedge Fund",
-    "Allocation": 10
+    "Investment Products": "Hedge Fund",
+    "Allocation (%)": 10
   },
   {
     "ID": 12345,
-    "Investment_Product": "Cryptocurrency ETF",
-    "Allocation": 5
+    "Investment Products": "Cryptocurrency ETF",
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
-    "Investment_Product": "Private Equity Fund",
-    "Allocation": 15
+    "Investment Products": "Private Equity Fund",
+    "Allocation (%)": 20
   },
   {
     "ID": 12345,
-    "Investment_Product": "Commodities Futures",
-    "Allocation": 5
+    "Investment Products": "Commodities Futures",
+    "Allocation (%)": 5
   }
 ]
 ```

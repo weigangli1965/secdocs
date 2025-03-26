@@ -1,0 +1,41 @@
+# Violations under § 240.15l-1 (a)(2)(ii) Care Obligation
+
+After reviewing the customer profile, allocation, transactions, and the relevant regulations, I find clear violations of the Care Obligation under section (2)(ii) of Regulation Best Interest.
+
+## Violation 1: Inappropriate High-Risk Investments Given Customer Profile [§ 240.15l-1 (a)(2)(ii)(B)]
+
+The broker has recommended a portfolio with 75% allocation to high-risk investments (30% Hedge Fund, 25% Private Equity Fund, 20% REIT) to an 82-year-old retired customer with:
+- Limited investment experience (3 years)
+- Low income ($35K/year)
+- Moderate risk tolerance
+- Retirement as their financial goal
+
+FINRA specifically notes violations occur when recommending "high risk or alternative investments to a customer with a conservative risk tolerance, low income" or when high-risk investments become "disproportionate (as low as 20% in some cases)." Here, the high-risk allocation is 75%, which is dramatically above the threshold FINRA identifies.
+
+## Violation 2: Misalignment with Customer's Investment Profile [§ 240.15l-1 (a)(2)(ii)(B)]
+
+The transactions show that in 2017, when the customer opened the account at age 82, the broker recommended three high-risk closed-end funds investing in CLOs and below investment grade securities, comprising 80% of the initial investments:
+- Fund A: 33.3% of portfolio
+- Fund B: 26.7% of portfolio 
+- Fund C: 20.0% of portfolio
+
+This allocation is inconsistent with:
+- The customer's moderate risk tolerance
+- The customer's limited investment experience
+- The customer's age and retirement status, which typically would indicate a need for capital preservation and regular income
+
+## Violation 3: Potential Failure to Consider Suitable Alternatives [§ 240.15l-1 (a)(2)(ii)(B)]
+
+The broker appears to have failed to consider more suitable lower-cost and lower-risk alternatives that would better align with the customer's profile. The customer's loss of $18,500 suggests these high-risk investments performed poorly, yet more conservative alternatives were available that would have been more appropriate for this customer's profile.
+
+## Violation 4: High Fees and Costs [§ 240.15l-1 (a)(2)(ii)(B)]
+
+The transactions show significantly higher fees for the high-risk investments:
+- High-risk funds: $1,250, $1,000, and $750 in fees
+- Low-risk investments: $100 each in fees
+
+The broker appears to have placed their financial interests ahead of the customer's by recommending high-commission products despite the customer's limited financial resources and moderate risk tolerance.
+
+## Conclusion
+
+There are clear violations of the Care Obligation under section (2)(ii). The broker failed to recommend investments aligned with the customer's investment profile and appears to have prioritized their own financial interests over the customer's best interests. The high concentration of high-risk investments (75%) is particularly problematic given the customer's age (82), limited investment experience (3 years), low income, and moderate risk tolerance.

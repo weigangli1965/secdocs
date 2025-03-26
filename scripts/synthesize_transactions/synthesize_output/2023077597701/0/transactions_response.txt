@@ -1,35 +1,35 @@
 ```json
 [
   {
-    "Date": "2017-02-15",
-    "PrimaryInvestmentRecommended": "Fund A (High-risk closed-end fund)",
+    "Date": "2017-03-15",
+    "PrimaryInvestmentRecommended": "Fund A (High-risk closed-end fund investing in CLOs)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "income",
-    "InvestmentAccountType": "retirement",
+    "InvestmentAccountType": "Retirement",
     "BoughtOrSold": "Bought",
     "TotalAmount": 25000,
     "Ratio of Total Portfolio (%)": 33.3,
     "Fees Commissions Paid (in $)": 1250,
-    "Other Transaction Costs (in $)": 300
+    "Other Transaction Costs (in $)": 350
   },
   {
-    "Date": "2017-05-20",
-    "PrimaryInvestmentRecommended": "Fund B (High-risk closed-end fund)",
+    "Date": "2017-06-22",
+    "PrimaryInvestmentRecommended": "Fund B (High-risk closed-end fund investing in below investment grade securities)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "income",
-    "InvestmentAccountType": "retirement",
+    "InvestmentAccountType": "Retirement",
     "BoughtOrSold": "Bought",
     "TotalAmount": 20000,
     "Ratio of Total Portfolio (%)": 26.7,
     "Fees Commissions Paid (in $)": 1000,
-    "Other Transaction Costs (in $)": 250
+    "Other Transaction Costs (in $)": 300
   },
   {
-    "Date": "2017-09-10",
-    "PrimaryInvestmentRecommended": "Fund C (High-risk closed-end fund)",
+    "Date": "2017-09-05",
+    "PrimaryInvestmentRecommended": "Fund C (High-risk closed-end fund investing in CLOs and below investment grade securities)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "income",
-    "InvestmentAccountType": "retirement",
+    "InvestmentAccountType": "Retirement",
     "BoughtOrSold": "Bought",
     "TotalAmount": 15000,
     "Ratio of Total Portfolio (%)": 20.0,
@@ -37,28 +37,28 @@
     "Other Transaction Costs (in $)": 200
   },
   {
-    "Date": "2018-04-15",
-    "PrimaryInvestmentRecommended": "Hedge Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "Date": "2018-02-14",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
     "InvestmentPurpose": "income",
-    "InvestmentAccountType": "retirement",
+    "InvestmentAccountType": "Retirement",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 10000,
-    "Ratio of Total Portfolio (%)": 13.3,
-    "Fees Commissions Paid (in $)": 200,
-    "Other Transaction Costs (in $)": 100
+    "TotalAmount": 7500,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 50
   },
   {
-    "Date": "2019-06-30",
-    "PrimaryInvestmentRecommended": "Fund B (High-risk closed-end fund)",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "Date": "2018-05-10",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
     "InvestmentPurpose": "income",
-    "InvestmentAccountType": "retirement",
-    "BoughtOrSold": "Sold",
-    "TotalAmount": 17500,
-    "Ratio of Total Portfolio (%)": 23.3,
-    "Fees Commissions Paid (in $)": 0,
-    "Other Transaction Costs (in $)": 0
+    "InvestmentAccountType": "Retirement",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7500,
+    "Ratio of Total Portfolio (%)": 10.0,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 50
   }
 ]
 ```

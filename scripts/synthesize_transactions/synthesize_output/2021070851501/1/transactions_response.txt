@@ -1,0 +1,76 @@
+```
+[
+  {
+    "Date": "2023-02-15",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 75
+  },
+  {
+    "Date": "2023-04-22",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "401(k)",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 55000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 550,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "TD Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 41250,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 475,
+    "Other Transaction Costs (in $)": 95
+  },
+  {
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 13750,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 625,
+    "Other Transaction Costs (in $)": 140
+  },
+  {
+    "Date": "2023-11-18",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 27500,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 725,
+    "Other Transaction Costs (in $)": 185
+  },
+  {
+    "Date": "2024-01-29",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "TD Account",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5500,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 475,
+    "Other Transaction Costs (in $)": 135
+  }
+]
+```

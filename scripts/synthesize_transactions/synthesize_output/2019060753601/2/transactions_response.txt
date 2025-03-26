@@ -1,0 +1,40 @@
+```json
+[
+  {
+    "Date": "2022-05-15",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 7500,
+    "Other Transaction Costs (in $)": 2000
+  },
+  {
+    "Date": "2022-08-22",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000,
+    "Ratio of Total Portfolio (%)": 16.7,
+    "Fees Commissions Paid (in $)": 5000,
+    "Other Transaction Costs (in $)": 1500
+  },
+  {
+    "Date": "2022-11-10",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 205000,
+    "Ratio of Total Portfolio (%)": 34.2,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  }
+]
+```

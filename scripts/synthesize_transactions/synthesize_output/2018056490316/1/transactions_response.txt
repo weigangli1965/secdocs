@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 190000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1900,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2022-02-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 171000,
+    "Ratio of Total Portfolio (%)": 18,
+    "Fees Commissions Paid (in $)": 1710,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2022-03-22",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 142500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1425,
+    "Other Transaction Costs (in $)": 375
+  },
+  {
+    "Date": "2022-05-05",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 114000,
+    "Ratio of Total Portfolio (%)": 12,
+    "Fees Commissions Paid (in $)": 1140,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2022-07-18",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 95000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2022-09-30",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 76000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 760,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2022-11-15",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 66500,
+    "Ratio of Total Portfolio (%)": 7,
+    "Fees Commissions Paid (in $)": 665,
+    "Other Transaction Costs (in $)": 175
+  },
+  {
+    "Date": "2023-01-20",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "aggressive growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 47500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 475,
+    "Other Transaction Costs (in $)": 125
+  },
+  {
+    "Date": "2023-02-28",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "aggressive income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 28500,
+    "Ratio of Total Portfolio (%)": 3,
+    "Fees Commissions Paid (in $)": 285,
+    "Other Transaction Costs (in $)": 75
+  },
+  {
+    "Date": "2023-03-15",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "aggressive income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 19000,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 190,
+    "Other Transaction Costs (in $)": 50
+  }
+]
+```

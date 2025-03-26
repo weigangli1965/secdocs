@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4440,
+    "Ratio of Total Portolio": 20,
+    "Fees Commissions Paid": 75,
+    "Other Transaction Costs": 25
+  },
+  {
+    "Date": "2024-01-20",
+    "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3330,
+    "Ratio of Total Portolio": 15,
+    "Fees Commissions Paid": 65,
+    "Other Transaction Costs": 20
+  },
+  {
+    "Date": "2024-02-05",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3330,
+    "Ratio of Total Portolio": 15,
+    "Fees Commissions Paid": 70,
+    "Other Transaction Costs": 25
+  },
+  {
+    "Date": "2024-02-18",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income and Growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3330,
+    "Ratio of Total Portolio": 15,
+    "Fees Commissions Paid": 80,
+    "Other Transaction Costs": 30
+  },
+  {
+    "Date": "2024-03-01",
+    "PrimaryInvestmentRecommended": "Municipal Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Tax-advantaged Income",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2220,
+    "Ratio of Total Portolio": 10,
+    "Fees Commissions Paid": 60,
+    "Other Transaction Costs": 20
+  },
+  {
+    "Date": "2024-03-10",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Emergency Fund",
+    "InvestmentAccoutType": "Bank",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2220,
+    "Ratio of Total Portolio": 10,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Short-term Savings",
+    "InvestmentAccoutType": "Bank",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1110,
+    "Ratio of Total Portolio": 5,
+    "Fees Commissions Paid": 0,
+    "Other Transaction Costs": 0
+  },
+  {
+    "Date": "2024-03-18",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 1110,
+    "Ratio of Total Portolio": 5,
+    "Fees Commissions Paid": 75,
+    "Other Transaction Costs": 30
+  },
+  {
+    "Date": "2024-03-22",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and Diversification",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 666,
+    "Ratio of Total Portolio": 3,
+    "Fees Commissions Paid": 45,
+    "Other Transaction Costs": 20
+  },
+  {
+    "Date": "2024-03-24",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 444,
+    "Ratio of Total Portolio": 2,
+    "Fees Commissions Paid": 30,
+    "Other Transaction Costs": 30
+  }
+]
+```

@@ -1,88 +1,76 @@
 ```json
 [
   {
-    "Date": "2024-01-15",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "Date": "2020-01-15",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
     "InvestmentPurpose": "Aggressive growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 190000,
-    "Ratio of Total Portfolio (%)": 20,
-    "Fees Commissions Paid (in $)": 2500,
-    "Other Transaction Costs (in $)": 800
+    "TotalAmount": 84000,
+    "Ratio of Total Portfolio (%)": 7,
+    "Fees Commissions Paid (in $)": 4200,
+    "Other Transaction Costs (in $)": 840
   },
   {
-    "Date": "2024-01-28",
+    "Date": "2020-02-22",
     "PrimaryInvestmentRecommended": "Technology Sector ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "High",
     "InvestmentPurpose": "Aggressive growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 237500,
-    "Ratio of Total Portfolio (%)": 25,
-    "Fees Commissions Paid (in $)": 3200,
-    "Other Transaction Costs (in $)": 1200
+    "TotalAmount": 144000,
+    "Ratio of Total Portfolio (%)": 12,
+    "Fees Commissions Paid (in $)": 2880,
+    "Other Transaction Costs (in $)": 720
   },
   {
-    "Date": "2024-02-10",
-    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
-    "RiskProfileofPrimaryRecommendedInvestment": "High",
-    "InvestmentPurpose": "Aggressive income",
-    "InvestmentAccountType": "Individual Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 142500,
-    "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 2100,
-    "Other Transaction Costs (in $)": 950
-  },
-  {
-    "Date": "2024-02-22",
-    "PrimaryInvestmentRecommended": "Hedge Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "Date": "2020-04-05",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
     "InvestmentPurpose": "Aggressive growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 142500,
+    "TotalAmount": 180000,
     "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 2000,
-    "Other Transaction Costs (in $)": 1500
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 450
   },
   {
-    "Date": "2024-03-05",
+    "Date": "2020-06-18",
     "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "High",
     "InvestmentPurpose": "Aggressive growth",
-    "InvestmentAccountType": "Individual Brokerage",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 95000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 1200,
-    "Other Transaction Costs (in $)": 700
-  },
-  {
-    "Date": "2024-03-18",
-    "PrimaryInvestmentRecommended": "Private Equity Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
-    "InvestmentPurpose": "Aggressive growth",
-    "InvestmentAccountType": "Individual Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 95000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 1000,
-    "Other Transaction Costs (in $)": 400
-  },
-  {
-    "Date": "2024-03-25",
-    "PrimaryInvestmentRecommended": "Commodities Futures",
-    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
-    "InvestmentPurpose": "Aggressive growth",
-    "InvestmentAccountType": "Individual Brokerage",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 47500,
+    "TotalAmount": 60000,
     "Ratio of Total Portfolio (%)": 5,
-    "Fees Commissions Paid (in $)": 500,
-    "Other Transaction Costs (in $)": 250
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2020-09-30",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2021-02-14",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive income",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 96000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 1920,
+    "Other Transaction Costs (in $)": 590
   }
 ]
 ```

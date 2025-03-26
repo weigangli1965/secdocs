@@ -1,0 +1,15 @@
+Based on the information provided, there appears to be a violation of the Care Obligation under section (2)(ii)(B) of Regulation Best Interest.
+
+The violation centers on the recommendation of GWG L Bonds, which constitute a high-risk investment representing 32.5% of the customer's portfolio. This recommendation raises concerns for several reasons:
+
+1. **Risk-Profile Mismatch**: The customer is identified as having a "Moderate" risk tolerance, yet GWG L Bonds are characterized as "high" risk. This represents a mismatch between the customer's risk profile and the investment recommendation.
+
+2. **Inappropriate Allocation**: The 32.5% allocation to a high-risk product exceeds what FINRA would typically consider appropriate for a customer with moderate risk tolerance. The regulatory guidance specifically notes that FINRA has found violations when high-risk investments become "disproportionate (as low as 20% in some cases)" for customers with moderate risk tolerance.
+
+3. **Customer Characteristics**: The customer is a 68-year-old retired individual with retirement as their financial goal. This demographic profile typically suggests a need for more conservative investments to preserve capital and generate income rather than high-risk investments that could jeopardize retirement security.
+
+4. **Amount Lost**: The customer has experienced a loss of $78,500, which may be attributable to the inappropriate high-risk allocation.
+
+5. **High Fees**: The GWG L Bonds transaction incurred significantly higher fees ($8,893) compared to other investments, suggesting potential conflict of interest where the broker's recommendation may have been influenced by fee generation rather than the customer's best interest.
+
+The broker appears to have failed to satisfy the requirement to "have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer's investment profile and the potential risks, rewards, and costs associated with the recommendation and does not place the financial or other interest of the broker, dealer, or such natural person ahead of the interest of the retail customer."

@@ -3,7 +3,7 @@
   {
     "ID": 12345,
     "Investment Products": "Savings Account",
-    "Allocation (%)": 5
+    "Allocation (%)": 3
   },
   {
     "ID": 12345,
@@ -13,7 +13,7 @@
   {
     "ID": 12345,
     "Investment Products": "U.S. Treasury Bonds",
-    "Allocation (%)": 3
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
@@ -23,17 +23,17 @@
   {
     "ID": 12345,
     "Investment Products": "Corporate Bonds",
-    "Allocation (%)": 5
-  },
-  {
-    "ID": 12345,
-    "Investment Products": "S&P 500 Index Fund",
     "Allocation (%)": 10
   },
   {
     "ID": 12345,
+    "Investment Products": "S&P 500 Index Fund",
+    "Allocation (%)": 0
+  },
+  {
+    "ID": 12345,
     "Investment Products": "Dividend Stock Fund",
-    "Allocation (%)": 5
+    "Allocation (%)": 0
   },
   {
     "ID": 12345,
@@ -43,12 +43,12 @@
   {
     "ID": 12345,
     "Investment Products": "Technology Sector ETF",
-    "Allocation (%)": 20
+    "Allocation (%)": 18
   },
   {
     "ID": 12345,
     "Investment Products": "Real Estate Investment Trust (REIT)",
-    "Allocation (%)": 5
+    "Allocation (%)": 12
   },
   {
     "ID": 12345,
@@ -58,17 +58,17 @@
   {
     "ID": 12345,
     "Investment Products": "Cryptocurrency ETF",
-    "Allocation (%)": 5
-  },
-  {
-    "ID": 12345,
-    "Investment Products": "Private Equity Fund",
     "Allocation (%)": 7
   },
   {
     "ID": 12345,
+    "Investment Products": "Private Equity Fund",
+    "Allocation (%)": 8
+  },
+  {
+    "ID": 12345,
     "Investment Products": "Commodities Futures",
-    "Allocation (%)": 3
+    "Allocation (%)": 5
   }
 ]
 ```

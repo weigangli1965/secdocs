@@ -1,100 +1,88 @@
 ```json
 [
   {
-    "Date": "2023-01-15",
+    "Date": "2022-01-15",
     "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Low",
-    "InvestmentPurpose": "Conservative retirement savings",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 45000,
+    "TotalAmount": 50000,
     "Ratio of Total Portfolio (%)": 25,
-    "Fees Commissions Paid": 225,
-    "Other Transaction Costs": 75
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 75
   },
   {
-    "Date": "2023-02-10",
+    "Date": "2022-02-10",
     "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
     "RiskProfileofPrimaryRecommendedInvestment": "Low",
-    "InvestmentPurpose": "Capital preservation",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 36000,
+    "TotalAmount": 40000,
     "Ratio of Total Portfolio (%)": 20,
-    "Fees Commissions Paid": 180,
-    "Other Transaction Costs": 60
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 50
   },
   {
-    "Date": "2023-03-22",
+    "Date": "2022-03-22",
     "PrimaryInvestmentRecommended": "Savings Account",
     "RiskProfileofPrimaryRecommendedInvestment": "Low",
-    "InvestmentPurpose": "Emergency fund",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 27000,
+    "TotalAmount": 30000,
     "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid": 0,
-    "Other Transaction Costs": 0
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
   },
   {
-    "Date": "2023-05-18",
+    "Date": "2022-05-18",
     "PrimaryInvestmentRecommended": "Municipal Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
-    "InvestmentPurpose": "Tax-advantaged income",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 27000,
+    "TotalAmount": 30000,
     "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid": 270,
-    "Other Transaction Costs": 90
+    "Fees Commissions Paid (in $)": 225,
+    "Other Transaction Costs (in $)": 100
   },
   {
-    "Date": "2023-07-05",
+    "Date": "2022-06-30",
     "PrimaryInvestmentRecommended": "Corporate Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Income generation",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 18000,
+    "TotalAmount": 20000,
     "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid": 225,
-    "Other Transaction Costs": 75
+    "Fees Commissions Paid (in $)": 250,
+    "Other Transaction Costs (in $)": 125
   },
   {
-    "Date": "2023-09-12",
+    "Date": "2022-08-12",
     "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Long-term growth",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 14400,
-    "Ratio of Total Portfolio (%)": 8,
-    "Fees Commissions Paid": 180,
-    "Other Transaction Costs": 100
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 225,
+    "Other Transaction Costs (in $)": 100
   },
   {
-    "Date": "2023-11-03",
+    "Date": "2022-10-05",
     "PrimaryInvestmentRecommended": "Dividend Stock Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Income and modest growth",
-    "InvestmentAccountType": "Individual account",
+    "InvestmentPurpose": "conservative investments, not interested in high risk or speculative investments",
+    "InvestmentAccountType": "individual accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 9000,
+    "TotalAmount": 10000,
     "Ratio of Total Portfolio (%)": 5,
-    "Fees Commissions Paid": 120,
-    "Other Transaction Costs": 50
-  },
-  {
-    "Date": "2023-12-15",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
-    "InvestmentPurpose": "Long-term growth potential",
-    "InvestmentAccountType": "Individual account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 3600,
-    "Ratio of Total Portfolio (%)": 2,
-    "Fees Commissions Paid": 0,
-    "Other Transaction Costs": 50
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 50
   }
 ]
 ```

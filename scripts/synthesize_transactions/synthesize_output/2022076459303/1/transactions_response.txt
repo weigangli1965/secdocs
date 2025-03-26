@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2024-01-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 33500,
+    "RatioOfTotalPortfolio": 30.0,
+    "FeesCommissionsPaid": 670,
+    "OtherTransactionCosts": 335
+  },
+  {
+    "Date": "2024-01-15",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 22350,
+    "RatioOfTotalPortfolio": 20.0,
+    "FeesCommissionsPaid": 447,
+    "OtherTransactionCosts": 223
+  },
+  {
+    "Date": "2024-01-22",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 16760,
+    "RatioOfTotalPortfolio": 15.0,
+    "FeesCommissionsPaid": 503,
+    "OtherTransactionCosts": 251
+  },
+  {
+    "Date": "2024-02-05",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 16760,
+    "RatioOfTotalPortfolio": 15.0,
+    "FeesCommissionsPaid": 335,
+    "OtherTransactionCosts": 167
+  },
+  {
+    "Date": "2024-02-12",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5590,
+    "RatioOfTotalPortfolio": 5.0,
+    "FeesCommissionsPaid": 335,
+    "OtherTransactionCosts": 167
+  },
+  {
+    "Date": "2024-02-19",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Income and Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5590,
+    "RatioOfTotalPortfolio": 5.0,
+    "FeesCommissionsPaid": 223,
+    "OtherTransactionCosts": 111
+  },
+  {
+    "Date": "2024-02-26",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+    "InvestmentPurpose": "Income",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5590,
+    "RatioOfTotalPortfolio": 5.0,
+    "FeesCommissionsPaid": 167,
+    "OtherTransactionCosts": 83
+  },
+  {
+    "Date": "2024-03-04",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
+    "InvestmentPurpose": "Safety",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5590,
+    "RatioOfTotalPortfolio": 5.0,
+    "FeesCommissionsPaid": 0,
+    "OtherTransactionCosts": 0
+  },
+  {
+    "Date": "2024-03-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 4500,
+    "RatioOfTotalPortfolio": 4.0,
+    "FeesCommissionsPaid": 180,
+    "OtherTransactionCosts": 90
+  },
+  {
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 8000,
+    "RatioOfTotalPortfolio": 7.2,
+    "FeesCommissionsPaid": 340,
+    "OtherTransactionCosts": 170
+  }
+]
+```

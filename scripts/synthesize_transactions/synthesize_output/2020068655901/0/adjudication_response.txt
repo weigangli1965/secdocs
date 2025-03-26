@@ -1,0 +1,16 @@
+Based on the provided information, there appears to be a violation of the Care Obligation under section (2)(ii) of Regulation Best Interest, as interpreted by the SEC and FINRA.
+
+The violations relate to:
+
+1. **Section (2)(ii)(B)** - The recommendation of GWG L Bonds (high-risk) does not align with the customer's investment profile:
+
+   - The customer has a "Moderate" risk tolerance, yet they were recommended "high" risk GWG L Bonds.
+   - The transactions show that 40% of the customer's portfolio ($100,000 out of $250,000 total portfolio value) was allocated to these high-risk bonds.
+   - The investment purpose was stated as "income and preservation of capital," but high-risk bonds are inconsistent with capital preservation objectives.
+   - FINRA guidelines specifically note violations when high-risk investments become disproportionate (as low as 20%) for customers with moderate risk tolerance. In this case, the 40% allocation exceeds this threshold.
+
+2. **Misalignment with financial goals**: The customer's primary financial goal is "Retirement," which typically requires a balanced approach prioritizing stability and reasonable growth. The concentration in high-risk bonds appears inconsistent with this goal.
+
+3. **Potential due diligence concerns**: While not explicitly stated in the provided information, the fact that the customer sold a significant portion of their GWG L Bonds position shortly after purchase (approximately 4 months later) and incurred a $35,000 loss suggests possible inadequate due diligence regarding the suitability of these bonds.
+
+These recommendations appear to place the broker's interests ahead of the customer's by recommending investments that generated significant fees and commissions ($3,500) but were inappropriate for the customer's moderate risk tolerance and retirement goals. The broker failed to appropriately consider the customer's investment profile when recommending such a high concentration of high-risk products.

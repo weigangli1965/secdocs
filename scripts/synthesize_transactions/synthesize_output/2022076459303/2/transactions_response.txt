@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "bought",
+    "TotalAmount": 4375,
+    "Ratio of Total Portfolio (%)": 35,
+    "Fees Commissions Paid (in $)": 175,
+    "Other Transaction Costs (in $)": 65
+  },
+  {
+    "Date": "2023-02-12",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "bought",
+    "TotalAmount": 3750,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 55
+  },
+  {
+    "Date": "2023-03-27",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "bought",
+    "TotalAmount": 1875,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 245,
+    "Other Transaction Costs (in $)": 90
+  },
+  {
+    "Date": "2023-04-18",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "portfolio diversification",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "bought",
+    "TotalAmount": 1250,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 125,
+    "Other Transaction Costs (in $)": 45
+  },
+  {
+    "Date": "2023-05-05",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income generation",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "bought",
+    "TotalAmount": 625,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 85,
+    "Other Transaction Costs (in $)": 30
+  },
+  {
+    "Date": "2023-06-20",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "emergency fund",
+    "InvestmentAccountType": "cash account",
+    "BoughtOrSold": "deposited",
+    "TotalAmount": 625,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 0,
+    "Other Transaction Costs (in $)": 0
+  },
+  {
+    "Date": "2023-09-10",
+    "PrimaryInvestmentRecommended": "speculative tech stocks",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "sold",
+    "TotalAmount": 750,
+    "Ratio of Total Portfolio (%)": 6,
+    "Fees Commissions Paid (in $)": 85,
+    "Other Transaction Costs (in $)": 35
+  },
+  {
+    "Date": "2023-10-25",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "wealth growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "bought",
+    "TotalAmount": 1200,
+    "Ratio of Total Portfolio (%)": 9.6,
+    "Fees Commissions Paid (in $)": 85,
+    "Other Transaction Costs (in $)": 30
+  }
+]
+```

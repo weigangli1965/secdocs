@@ -1,52 +1,40 @@
 ```json
 [
   {
-    "Date": "2022-03-15",
+    "Date": "2023-05-15",
     "PrimaryInvestmentRecommended": "GWG L Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "income and preservation of capital",
-    "InvestmentAccountType": "Individual",
+    "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 87500,
-    "Ratio of Total Portfolio (%)": 35,
-    "Fees Commissions Paid (in $)": 2625,
-    "Other Transaction Costs (in $)": 875
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 750
   },
   {
-    "Date": "2022-01-20",
-    "PrimaryInvestmentRecommended": "Corporate Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "Date": "2023-06-10",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "income and preservation of capital",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 50000,
-    "Ratio of Total Portfolio (%)": 20,
-    "Fees Commissions Paid (in $)": 500,
-    "Other Transaction Costs (in $)": 200
-  },
-  {
-    "Date": "2021-11-05",
-    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "growth",
-    "InvestmentAccountType": "Individual",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 37500,
-    "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 225,
-    "Other Transaction Costs (in $)": 75
-  },
-  {
-    "Date": "2021-08-12",
-    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
-    "InvestmentPurpose": "income",
-    "InvestmentAccountType": "Individual",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
     "TotalAmount": 25000,
     "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 150,
-    "Other Transaction Costs (in $)": 50
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-09-22",
+    "PrimaryInvestmentRecommended": "GWG L Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income and preservation of capital",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 16,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 200
   }
 ]
 ```

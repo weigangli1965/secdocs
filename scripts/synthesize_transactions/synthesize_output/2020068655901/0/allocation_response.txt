@@ -2,38 +2,73 @@
 [
   {
     "ID": 12345,
-    "Investment Products": "GWG L Bonds",
-    "Allocation": 35
+    "Investment Product": "Savings Account",
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
-    "Investment Products": "Corporate Bonds",
-    "Allocation": 20
+    "Investment Product": "Certificate of Deposit (CD)",
+    "Allocation (%)": 10
   },
   {
     "ID": 12345,
-    "Investment Products": "S&P 500 Index Fund",
-    "Allocation": 15
+    "Investment Product": "U.S. Treasury Bonds",
+    "Allocation (%)": 5
   },
   {
     "ID": 12345,
-    "Investment Products": "Dividend Stock Fund",
-    "Allocation": 10
+    "Investment Product": "Municipal Bonds",
+    "Allocation (%)": 10
   },
   {
     "ID": 12345,
-    "Investment Products": "Real Estate Investment Trust (REIT)",
-    "Allocation": 8
+    "Investment Product": "Corporate Bonds",
+    "Allocation (%)": 15
   },
   {
     "ID": 12345,
-    "Investment Products": "Municipal Bonds",
-    "Allocation": 7
+    "Investment Product": "S&P 500 Index Fund",
+    "Allocation (%)": 10
   },
   {
     "ID": 12345,
-    "Investment Products": "U.S. Treasury Bonds",
-    "Allocation": 5
+    "Investment Product": "Dividend Stock Fund",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Growth Stock Fund",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Technology Sector ETF",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Real Estate Investment Trust (REIT)",
+    "Allocation (%)": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Hedge Fund",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Cryptocurrency ETF",
+    "Allocation (%)": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Private Equity Fund",
+    "Allocation (%)": 3
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Commodities Futures",
+    "Allocation (%)": 2
   }
 ]
 ```

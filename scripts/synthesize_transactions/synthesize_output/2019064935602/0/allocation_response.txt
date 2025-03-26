@@ -1,9 +1,9 @@
-```json
+```
 [
   {
     "ID": 12345,
     "Investment Products": "Savings Account",
-    "Allocation": 5
+    "Allocation": 2
   },
   {
     "ID": 12345,
@@ -13,7 +13,7 @@
   {
     "ID": 12345,
     "Investment Products": "U.S. Treasury Bonds",
-    "Allocation": 2
+    "Allocation": 3
   },
   {
     "ID": 12345,
@@ -23,7 +23,7 @@
   {
     "ID": 12345,
     "Investment Products": "Corporate Bonds",
-    "Allocation": 10
+    "Allocation": 7
   },
   {
     "ID": 12345,
@@ -33,7 +33,7 @@
   {
     "ID": 12345,
     "Investment Products": "Dividend Stock Fund",
-    "Allocation": 5
+    "Allocation": 10
   },
   {
     "ID": 12345,
@@ -43,7 +43,7 @@
   {
     "ID": 12345,
     "Investment Products": "Technology Sector ETF",
-    "Allocation": 20
+    "Allocation": 15
   },
   {
     "ID": 12345,
@@ -53,7 +53,7 @@
   {
     "ID": 12345,
     "Investment Products": "Hedge Fund",
-    "Allocation": 5
+    "Allocation": 8
   },
   {
     "ID": 12345,
@@ -63,12 +63,12 @@
   {
     "ID": 12345,
     "Investment Products": "Private Equity Fund",
-    "Allocation": 2
+    "Allocation": 3
   },
   {
     "ID": 12345,
     "Investment Products": "Commodities Futures",
-    "Allocation": 1
+    "Allocation": 2
   }
 ]
 ```

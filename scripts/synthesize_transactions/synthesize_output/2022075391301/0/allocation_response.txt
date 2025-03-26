@@ -3,72 +3,62 @@
   {
     "ID": 12345,
     "Investment Product": "Savings Account",
-    "Allocation (%)": 5
+    "Allocation": 5
   },
   {
     "ID": 12345,
     "Investment Product": "Certificate of Deposit (CD)",
-    "Allocation (%)": 5
+    "Allocation": 5
   },
   {
     "ID": 12345,
     "Investment Product": "U.S. Treasury Bonds",
-    "Allocation (%)": 10
+    "Allocation": 10
   },
   {
     "ID": 12345,
     "Investment Product": "Municipal Bonds",
-    "Allocation (%)": 10
+    "Allocation": 10
   },
   {
     "ID": 12345,
     "Investment Product": "Corporate Bonds",
-    "Allocation (%)": 15
+    "Allocation": 15
   },
   {
     "ID": 12345,
     "Investment Product": "S&P 500 Index Fund",
-    "Allocation (%)": 20
+    "Allocation": 20
   },
   {
     "ID": 12345,
     "Investment Product": "Dividend Stock Fund",
-    "Allocation (%)": 10
+    "Allocation": 10
   },
   {
     "ID": 12345,
     "Investment Product": "Growth Stock Fund",
-    "Allocation (%)": 10
+    "Allocation": 10
   },
   {
     "ID": 12345,
     "Investment Product": "Technology Sector ETF",
-    "Allocation (%)": 5
+    "Allocation": 5
   },
   {
     "ID": 12345,
     "Investment Product": "Real Estate Investment Trust (REIT)",
-    "Allocation (%)": 5
+    "Allocation": 5
   },
   {
     "ID": 12345,
     "Investment Product": "Hedge Fund",
-    "Allocation (%)": 2
+    "Allocation": 3
   },
   {
     "ID": 12345,
     "Investment Product": "Cryptocurrency ETF",
-    "Allocation (%)": 1
-  },
-  {
-    "ID": 12345,
-    "Investment Product": "Private Equity Fund",
-    "Allocation (%)": 1
-  },
-  {
-    "ID": 12345,
-    "Investment Product": "Commodities Futures",
-    "Allocation (%)": 1
+    "Allocation": 2
   }
 ]
 ```

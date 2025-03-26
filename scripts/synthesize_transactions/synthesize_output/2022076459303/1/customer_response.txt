@@ -1,0 +1,31 @@
+```json
+{
+  "ID": 12345,
+  "Age": 14,
+  "Experience": 1,
+  "Income": 0,
+  "Income_Categorical": "Low",
+  "ZIP_Code": 10001,
+  "Family_members": 4,
+  "Education": "Undergraduate",
+  "Employment": "Working Professional",
+  "Mortgage": 0,
+  "Personal_Loan": "No",
+  "Securities_Account": "Yes",
+  "Annualized_Portfolio_Turnover": 5.2,
+  "Cost_To_Equity_Ratio": 15.3,
+  "High_Risk_Investment_Ratio": 75.0,
+  "HighRiskNetworthRatio": 65.0,
+  "Amount_Lost": 12500,
+  "Fees_Commissions_Paid": 3200,
+  "Other_Transaction_Costs": 1500,
+  "TD_Account": "Yes",
+  "Online_Account": "Yes",
+  "CreditCard": "No",
+  "Net_Worth": 120,
+  "Investment_Portfolio_Value": 111.741,
+  "Risk_Tolerance": "Aggressive",
+  "Financial_Goals": "Education Funding",
+  "Wealth_Management_Service_Level": "Basic"
+}
+```

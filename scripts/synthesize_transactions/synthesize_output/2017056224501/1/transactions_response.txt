@@ -1,0 +1,100 @@
+```
+[
+  {
+    "Date": "2023-11-15",
+    "PrimaryInvestmentRecommended": "low-priced tech stock",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 187500,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2023-12-07",
+    "PrimaryInvestmentRecommended": "growth stock fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2024-01-18",
+    "PrimaryInvestmentRecommended": "cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1250,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2024-02-05",
+    "PrimaryInvestmentRecommended": "private equity fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 112500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1350,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2024-02-21",
+    "PrimaryInvestmentRecommended": "hedge fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 75000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 350
+  },
+  {
+    "Date": "2024-03-12",
+    "PrimaryInvestmentRecommended": "commodities futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 8,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2024-03-18",
+    "PrimaryInvestmentRecommended": "S&P 500 index fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 37500,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 150,
+    "Other Transaction Costs (in $)": 50
+  },
+  {
+    "Date": "2024-03-22",
+    "PrimaryInvestmentRecommended": "corporate bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 15000,
+    "Ratio of Total Portfolio (%)": 2,
+    "Fees Commissions Paid (in $)": 100,
+    "Other Transaction Costs (in $)": 50
+  }
+]
+```

@@ -1,0 +1,88 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 240000,
+    "RatioOfTotalPortfolio": 20,
+    "FeesCommissionsPaid": 5000,
+    "OtherTransactionCosts": 1500
+  },
+  {
+    "Date": "2023-02-10",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "RatioOfTotalPortfolio": 15,
+    "FeesCommissionsPaid": 4500,
+    "OtherTransactionCosts": 1200
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "RatioOfTotalPortfolio": 10,
+    "FeesCommissionsPaid": 3600,
+    "OtherTransactionCosts": 1000
+  },
+  {
+    "Date": "2023-05-05",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "RatioOfTotalPortfolio": 10,
+    "FeesCommissionsPaid": 3200,
+    "OtherTransactionCosts": 900
+  },
+  {
+    "Date": "2023-08-17",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 2200,
+    "OtherTransactionCosts": 800
+  },
+  {
+    "Date": "2023-10-30",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 60000,
+    "RatioOfTotalPortfolio": 5,
+    "FeesCommissionsPaid": 2000,
+    "OtherTransactionCosts": 750
+  },
+  {
+    "Date": "2023-12-12",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Speculation",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 30000,
+    "RatioOfTotalPortfolio": 2.5,
+    "FeesCommissionsPaid": 2000,
+    "OtherTransactionCosts": 850
+  }
+]
+```

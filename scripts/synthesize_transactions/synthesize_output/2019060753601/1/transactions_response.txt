@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth accumulation",
+    "InvestmentAccountType": "Individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 50000,
+    "Ratio of Total Portfolio (%)": 14.3,
+    "Fees Commissions Paid (in $)": 2500,
+    "Other Transaction Costs (in $)": 750
+  },
+  {
+    "Date": "2022-03-22",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Diversification",
+    "InvestmentAccountType": "Individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 35000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1750,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2022-07-08",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Growth opportunity",
+    "InvestmentAccountType": "Individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 40000,
+    "Ratio of Total Portfolio (%)": 11.4,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2022-11-15",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 2",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Portfolio expansion",
+    "InvestmentAccountType": "Individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 12.9,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 450
+  }
+]
+```

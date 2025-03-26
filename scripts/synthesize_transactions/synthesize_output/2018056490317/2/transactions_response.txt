@@ -1,0 +1,100 @@
+```json
+[
+  {
+    "Date": "2022-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2700,
+    "Other Transaction Costs (in $)": 450
+  },
+  {
+    "Date": "2022-02-20",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 3600,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2022-03-10",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2250,
+    "Other Transaction Costs (in $)": 500
+  },
+  {
+    "Date": "2022-04-05",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2022-06-12",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2022-08-22",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
+    "InvestmentPurpose": "Aggressive income",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 60000,
+    "Ratio of Total Portfolio (%)": 5,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 550
+  },
+  {
+    "Date": "2022-10-18",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 45000,
+    "Ratio of Total Portfolio (%)": 3.75,
+    "Fees Commissions Paid (in $)": 900,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2023-01-25",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Aggressive growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 30000,
+    "Ratio of Total Portfolio (%)": 2.5,
+    "Fees Commissions Paid (in $)": 1250,
+    "Other Transaction Costs (in $)": 300
+  }
+]
+```

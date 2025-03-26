@@ -1,0 +1,124 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "capital growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 20000,
+    "Ratio of Total Portfolio (%)": 19.81,
+    "Fees Commissions Paid (in $)": 500,
+    "Other Transaction Costs (in $)": 150
+  },
+  {
+    "Date": "2023-02-22",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate to high",
+    "InvestmentPurpose": "wealth accumulation",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 15000,
+    "Ratio of Total Portfolio (%)": 14.86,
+    "Fees Commissions Paid (in $)": 375,
+    "Other Transaction Costs (in $)": 120
+  },
+  {
+    "Date": "2023-04-05",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 4.95,
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 80
+  },
+  {
+    "Date": "2023-06-18",
+    "PrimaryInvestmentRecommended": "Private Equity Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "capital growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 6000,
+    "Ratio of Total Portfolio (%)": 5.94,
+    "Fees Commissions Paid (in $)": 300,
+    "Other Transaction Costs (in $)": 100
+  },
+  {
+    "Date": "2023-08-10",
+    "PrimaryInvestmentRecommended": "Hedge Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "diversification",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7000,
+    "Ratio of Total Portfolio (%)": 6.93,
+    "Fees Commissions Paid (in $)": 350,
+    "Other Transaction Costs (in $)": 110
+  },
+  {
+    "Date": "2023-09-25",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "core holding",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000,
+    "Ratio of Total Portfolio (%)": 9.9,
+    "Fees Commissions Paid (in $)": 250,
+    "Other Transaction Costs (in $)": 80
+  },
+  {
+    "Date": "2023-11-12",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "income generation",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 8000,
+    "Ratio of Total Portfolio (%)": 7.92,
+    "Fees Commissions Paid (in $)": 320,
+    "Other Transaction Costs (in $)": 95
+  },
+  {
+    "Date": "2024-01-08",
+    "PrimaryInvestmentRecommended": "Commodities Futures",
+    "RiskProfileofPrimaryRecommendedInvestment": "very high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4000,
+    "Ratio of Total Portfolio (%)": 3.96,
+    "Fees Commissions Paid (in $)": 280,
+    "Other Transaction Costs (in $)": 90
+  },
+  {
+    "Date": "2024-02-14",
+    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "income generation",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000,
+    "Ratio of Total Portfolio (%)": 4.95,
+    "Fees Commissions Paid (in $)": 175,
+    "Other Transaction Costs (in $)": 65
+  },
+  {
+    "Date": "2024-03-20",
+    "PrimaryInvestmentRecommended": "equities, speculative stocks",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "capital growth",
+    "InvestmentAccountType": "individual brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 21000,
+    "Ratio of Total Portfolio (%)": 20.8,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 310
+  }
+]
+```

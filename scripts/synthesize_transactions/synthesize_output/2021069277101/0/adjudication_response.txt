@@ -1,0 +1,19 @@
+Based on the provided information, there appear to be potential violations of section (2)(ii) of the Care Obligation under Regulation Best Interest.
+
+The violations concern two main issues:
+
+1. **Risk Profile Mismatch (Care Obligation 2(ii)(B))**:
+   - The customer has a "Moderate" risk tolerance, but the transactions involve "Private placements" with a "Very High" risk profile.
+   - The allocation shows 20% in Private Equity Fund (very high risk) plus additional high-risk investments like Commodities Futures (5%), resulting in approximately 30% of the portfolio in very high-risk investments.
+   - According to FINRA guidance, recommendations of high-risk investments that become disproportionate to a customer's moderate risk tolerance (as low as 20% in some cases) can constitute a violation.
+   - The customer's net worth ($950K) and investment goals (Wealth Growth) do not necessarily justify this level of high-risk exposure given their moderate risk tolerance.
+
+2. **High Fees and Costs (Care Obligation 2(ii)(B))**:
+   - The transactions show substantial fees and commissions relative to the investment amounts:
+     - $4,000 in fees on an $80,000 transaction (5%)
+     - $2,000 in fees on a $40,000 transaction (5%)
+     - $1,500 in fees on a $30,000 sale (5%)
+   - Additional transaction costs further increase the expense burden.
+   - The broker may have failed to consider reasonably available alternative investments at lower costs, which FINRA has identified as a potential violation, especially when the customer suffered losses ($45,000 as indicated).
+
+While the turnover rate (5.2) and cost-to-equity ratio (12.5%) do not exceed the thresholds that would automatically indicate excessive trading under Care Obligation 2(ii)(C), the mismatch between the customer's risk tolerance and the recommended very high-risk investments, combined with the high fees, suggests potential violations of the Care Obligation under section (2)(ii)(B).

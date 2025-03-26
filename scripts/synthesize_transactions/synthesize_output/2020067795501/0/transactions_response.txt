@@ -1,52 +1,64 @@
-```
+```json
 [
   {
-    "Date": "2022-03-15",
+    "Date": "2023-06-15",
     "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Retirement Planning",
+    "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 75000,
-    "Ratio of Total Portfolio (%)": 20,
-    "Fees Commissions Paid (in $)": 1200,
-    "Other Transaction Costs (in $)": 450
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 500
   },
   {
-    "Date": "2022-06-22",
+    "Date": "2023-08-20",
     "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Wealth Preservation",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 1200,
+    "Other Transaction Costs (in $)": 400
+  },
+  {
+    "Date": "2023-10-05",
+    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
+    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
+    "InvestmentPurpose": "Retirement",
+    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 1800,
+    "Other Transaction Costs (in $)": 600
+  },
+  {
+    "Date": "2023-12-12",
+    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
+    "RiskProfileofPrimaryRecommendedInvestment": "High",
+    "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
     "BoughtOrSold": "Bought",
     "TotalAmount": 60000,
-    "Ratio of Total Portfolio (%)": 16,
-    "Fees Commissions Paid (in $)": 950,
-    "Other Transaction Costs (in $)": 350
+    "Ratio of Total Portfolio (%)": 10,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 500
   },
   {
-    "Date": "2022-09-08",
+    "Date": "2024-02-28",
     "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
-    "RiskProfileofPrimaryRecommendedInvestment": "Moderate-High",
-    "InvestmentPurpose": "Capital Growth",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 40000,
-    "Ratio of Total Portfolio (%)": 10.67,
-    "Fees Commissions Paid (in $)": 700,
-    "Other Transaction Costs (in $)": 250
-  },
-  {
-    "Date": "2023-01-12",
-    "PrimaryInvestmentRecommended": "New-issue products eligible for advisory fee waivers",
-    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Income Generation",
-    "InvestmentAccountType": "Brokerage accounts transferred to advisory accounts",
-    "BoughtOrSold": "Sold",
-    "TotalAmount": 25000,
-    "Ratio of Total Portfolio (%)": 6.67,
-    "Fees Commissions Paid (in $)": 650,
-    "Other Transaction Costs (in $)": 150
+    "TotalAmount": 180000,
+    "Ratio of Total Portfolio (%)": 30,
+    "Fees Commissions Paid (in $)": 1500,
+    "Other Transaction Costs (in $)": 500
   }
 ]
 ```

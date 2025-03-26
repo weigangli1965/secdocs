@@ -1,40 +1,52 @@
 ```json
 [
   {
-    "Date": "2023-02-15",
+    "Date": "2022-03-15",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
-    "InvestmentAccountType": "brokerage",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 125000,
-    "RatioOfTotalPortfolio": 25,
-    "FeesCommissionsPaid": 6250,
-    "OtherTransactionCosts": 2500
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 45,
+    "Fees Commissions Paid (in $)": 6000,
+    "Other Transaction Costs (in $)": 1500
   },
   {
-    "Date": "2023-05-20",
+    "Date": "2022-05-22",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
-    "InvestmentAccountType": "brokerage",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
     "TotalAmount": 75000,
-    "RatioOfTotalPortfolio": 15,
-    "FeesCommissionsPaid": 3750,
-    "OtherTransactionCosts": 1500
+    "Ratio of Total Portfolio (%)": 23,
+    "Fees Commissions Paid (in $)": 3000,
+    "Other Transaction Costs (in $)": 850
   },
   {
-    "Date": "2023-09-10",
+    "Date": "2022-09-10",
     "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
     "InvestmentPurpose": "speculation",
-    "InvestmentAccountType": "brokerage",
-    "BoughtOrSold": "Sold",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Bought",
     "TotalAmount": 50000,
-    "RatioOfTotalPortfolio": 10,
-    "FeesCommissionsPaid": 2500,
-    "OtherTransactionCosts": 1000
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 2000,
+    "Other Transaction Costs (in $)": 650
+  },
+  {
+    "Date": "2023-01-18",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 1 (pre-IPO shares of Company A)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "speculation",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 190000,
+    "Ratio of Total Portfolio (%)": 58,
+    "Fees Commissions Paid (in $)": 1000,
+    "Other Transaction Costs (in $)": 500
   }
 ]
 ```

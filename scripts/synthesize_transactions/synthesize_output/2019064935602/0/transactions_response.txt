@@ -1,64 +1,64 @@
-```json
+```
 [
   {
     "Date": "2024-01-15",
     "PrimaryInvestmentRecommended": "Single stock trading",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Brokerage",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 45000,
-    "Ratio of Total Portolio (%)": 18,
-    "Fees Commissions Paid (in $)": 1200,
-    "Other Transaction Costs (in $)": 350
+    "TotalAmount": 85000,
+    "Ratio of Total Portfolio (%)": 21.25,
+    "Fees Commissions Paid (in $)": 850,
+    "Other Transaction Costs (in $)": 300
   },
   {
     "Date": "2024-02-03",
     "PrimaryInvestmentRecommended": "Single stock trading",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Brokerage",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Sold",
-    "TotalAmount": 20000,
-    "Ratio of Total Portolio (%)": 8,
-    "Fees Commissions Paid (in $)": 800,
-    "Other Transaction Costs (in $)": 250
+    "TotalAmount": 28000,
+    "Ratio of Total Portfolio (%)": 7.0,
+    "Fees Commissions Paid (in $)": 280,
+    "Other Transaction Costs (in $)": 100
   },
   {
-    "Date": "2024-02-22",
+    "Date": "2024-03-12",
     "PrimaryInvestmentRecommended": "Single stock trading",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Brokerage",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 65000,
-    "Ratio of Total Portolio (%)": 26,
-    "Fees Commissions Paid (in $)": 1800,
-    "Other Transaction Costs (in $)": 500
-  },
-  {
-    "Date": "2024-03-10",
-    "PrimaryInvestmentRecommended": "Single stock trading",
-    "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Brokerage",
-    "BoughtOrSold": "Sold",
-    "TotalAmount": 30000,
-    "Ratio of Total Portolio (%)": 12,
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 30.0,
     "Fees Commissions Paid (in $)": 1200,
-    "Other Transaction Costs (in $)": 300
+    "Other Transaction Costs (in $)": 450
   },
   {
     "Date": "2024-03-24",
     "PrimaryInvestmentRecommended": "Single stock trading",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Wealth Growth",
-    "InvestmentAccoutType": "Brokerage",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 65000,
+    "Ratio of Total Portfolio (%)": 16.25,
+    "Fees Commissions Paid (in $)": 650,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2024-04-08",
+    "PrimaryInvestmentRecommended": "Single stock trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 90000,
-    "Ratio of Total Portolio (%)": 36,
-    "Fees Commissions Paid (in $)": 3500,
-    "Other Transaction Costs (in $)": 1100
+    "TotalAmount": 52000,
+    "Ratio of Total Portfolio (%)": 13.0,
+    "Fees Commissions Paid (in $)": 520,
+    "Other Transaction Costs (in $)": 150
   }
 ]
 ```

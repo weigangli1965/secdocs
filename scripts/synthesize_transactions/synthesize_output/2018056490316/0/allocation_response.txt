@@ -1,58 +1,53 @@
 ```json
 [
   {
-    "ID": 123456,
-    "Investment Products": "U.S. Treasury Bonds",
+    "ID": 12345,
+    "Investment Product": "U.S. Treasury Bonds",
     "Allocation": 5
   },
   {
-    "ID": 123456,
-    "Investment Products": "Municipal Bonds",
-    "Allocation": 5
-  },
-  {
-    "ID": 123456,
-    "Investment Products": "Corporate Bonds",
+    "ID": 12345,
+    "Investment Product": "Corporate Bonds",
     "Allocation": 10
   },
   {
-    "ID": 123456,
-    "Investment Products": "S&P 500 Index Fund",
+    "ID": 12345,
+    "Investment Product": "S&P 500 Index Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Growth Stock Fund",
     "Allocation": 15
   },
   {
-    "ID": 123456,
-    "Investment Products": "Growth Stock Fund",
+    "ID": 12345,
+    "Investment Product": "Technology Sector ETF",
     "Allocation": 20
   },
   {
-    "ID": 123456,
-    "Investment Products": "Technology Sector ETF",
-    "Allocation": 20
+    "ID": 12345,
+    "Investment Product": "Real Estate Investment Trust (REIT)",
+    "Allocation": 10
   },
   {
-    "ID": 123456,
-    "Investment Products": "Real Estate Investment Trust (REIT)",
+    "ID": 12345,
+    "Investment Product": "Hedge Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Cryptocurrency ETF",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Private Equity Fund",
     "Allocation": 5
   },
   {
-    "ID": 123456,
-    "Investment Products": "Hedge Fund",
-    "Allocation": 5
-  },
-  {
-    "ID": 123456,
-    "Investment Products": "Cryptocurrency ETF",
-    "Allocation": 5
-  },
-  {
-    "ID": 123456,
-    "Investment Products": "Private Equity Fund",
-    "Allocation": 5
-  },
-  {
-    "ID": 123456,
-    "Investment Products": "Commodities Futures",
+    "ID": 12345,
+    "Investment Product": "Commodities Futures",
     "Allocation": 5
   }
 ]

@@ -1,172 +1,76 @@
 ```
 [
   {
-    "Date": "2023-01-15",
+    "Date": "2023-02-15",
     "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
     "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 64000,
+    "TotalAmount": 70000,
     "Ratio of Total Portfolio (%)": 20,
-    "Fees Commissions Paid (in $)": 600,
-    "Other Transaction Costs (in $)": 240
+    "Fees Commissions Paid (in $)": 250,
+    "Other Transaction Costs (in $)": 150
   },
   {
-    "Date": "2023-02-20",
+    "Date": "2023-04-22",
     "PrimaryInvestmentRecommended": "Corporate Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
     "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 48000,
+    "TotalAmount": 52500,
     "Ratio of Total Portfolio (%)": 15,
-    "Fees Commissions Paid (in $)": 450,
-    "Other Transaction Costs (in $)": 180
+    "Fees Commissions Paid (in $)": 200,
+    "Other Transaction Costs (in $)": 125
   },
   {
-    "Date": "2023-03-10",
+    "Date": "2023-06-10",
     "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
     "RiskProfileofPrimaryRecommendedInvestment": "Low",
     "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "IRA",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 32000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 300,
-    "Other Transaction Costs (in $)": 120
+    "TotalAmount": 52500,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 175,
+    "Other Transaction Costs (in $)": 100
   },
   {
-    "Date": "2023-04-05",
-    "PrimaryInvestmentRecommended": "Municipal Bonds",
-    "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+    "Date": "2023-09-05",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "Low",
     "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
+    "InvestmentAccountType": "Brokerage",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 32000,
+    "TotalAmount": 35000,
     "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 300,
-    "Other Transaction Costs (in $)": 120
+    "Fees Commissions Paid (in $)": 125,
+    "Other Transaction Costs (in $)": 75
   },
   {
-    "Date": "2023-05-18",
-    "PrimaryInvestmentRecommended": "Dividend Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "IRA",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 32000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 300,
-    "Other Transaction Costs (in $)": 120
-  },
-  {
-    "Date": "2023-06-22",
-    "PrimaryInvestmentRecommended": "Growth Stock Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "Moderate to High",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 32000,
-    "Ratio of Total Portfolio (%)": 10,
-    "Fees Commissions Paid (in $)": 300,
-    "Other Transaction Costs (in $)": 120
-  },
-  {
-    "Date": "2023-07-14",
+    "Date": "2023-11-18",
     "PrimaryInvestmentRecommended": "Technology Sector ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "High",
     "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 16000,
+    "TotalAmount": 17500,
     "Ratio of Total Portfolio (%)": 5,
-    "Fees Commissions Paid (in $)": 150,
-    "Other Transaction Costs (in $)": 60
+    "Fees Commissions Paid (in $)": 175,
+    "Other Transaction Costs (in $)": 125
   },
   {
-    "Date": "2023-08-09",
+    "Date": "2024-01-30",
     "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
     "RiskProfileofPrimaryRecommendedInvestment": "High",
     "InvestmentPurpose": "Retirement",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 16000,
+    "TotalAmount": 17500,
     "Ratio of Total Portfolio (%)": 5,
-    "Fees Commissions Paid (in $)": 150,
-    "Other Transaction Costs (in $)": 60
-  },
-  {
-    "Date": "2023-09-28",
-    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
-    "RiskProfileofPrimaryRecommendedInvestment": "Low",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "IRA",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 16000,
-    "Ratio of Total Portfolio (%)": 5,
-    "Fees Commissions Paid (in $)": 150,
-    "Other Transaction Costs (in $)": 60
-  },
-  {
-    "Date": "2023-10-17",
-    "PrimaryInvestmentRecommended": "Savings Account",
-    "RiskProfileofPrimaryRecommendedInvestment": "Low",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 16000,
-    "Ratio of Total Portfolio (%)": 5,
-    "Fees Commissions Paid (in $)": 150,
-    "Other Transaction Costs (in $)": 60
-  },
-  {
-    "Date": "2023-11-05",
-    "PrimaryInvestmentRecommended": "Hedge Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "High",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 6400,
-    "Ratio of Total Portfolio (%)": 2,
-    "Fees Commissions Paid (in $)": 90,
-    "Other Transaction Costs (in $)": 36
-  },
-  {
-    "Date": "2023-12-20",
-    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
-    "RiskProfileofPrimaryRecommendedInvestment": "High",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 3200,
-    "Ratio of Total Portfolio (%)": 1,
-    "Fees Commissions Paid (in $)": 30,
-    "Other Transaction Costs (in $)": 12
-  },
-  {
-    "Date": "2024-01-10",
-    "PrimaryInvestmentRecommended": "Private Equity Fund",
-    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 3200,
-    "Ratio of Total Portfolio (%)": 1,
-    "Fees Commissions Paid (in $)": 30,
-    "Other Transaction Costs (in $)": 12
-  },
-  {
-    "Date": "2024-02-15",
-    "PrimaryInvestmentRecommended": "Commodities Futures",
-    "RiskProfileofPrimaryRecommendedInvestment": "Very High",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "Taxable Account",
-    "BoughtOrSold": "Bought",
-    "TotalAmount": 3200,
-    "Ratio of Total Portfolio (%)": 1,
-    "Fees Commissions Paid (in $)": 30,
-    "Other Transaction Costs (in $)": 12
+    "Fees Commissions Paid (in $)": 275,
+    "Other Transaction Costs (in $)": 225
   }
 ]
 ```

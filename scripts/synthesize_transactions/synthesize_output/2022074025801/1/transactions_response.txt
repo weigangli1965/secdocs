@@ -1,0 +1,100 @@
+```json
+[
+    {
+        "Date": "2022-02-15",
+        "PrimaryInvestmentRecommended": "U.S. Treasury Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "Low",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 43750,
+        "Ratio of Total Portfolio": 25,
+        "Fees Commissions Paid": 350,
+        "Other Transaction Costs": 75
+    },
+    {
+        "Date": "2022-03-10",
+        "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+        "RiskProfileofPrimaryRecommendedInvestment": "Low",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 35000,
+        "Ratio of Total Portfolio": 20,
+        "Fees Commissions Paid": 200,
+        "Other Transaction Costs": 50
+    },
+    {
+        "Date": "2022-04-22",
+        "PrimaryInvestmentRecommended": "Savings Account",
+        "RiskProfileofPrimaryRecommendedInvestment": "Low",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 26250,
+        "Ratio of Total Portfolio": 15,
+        "Fees Commissions Paid": 100,
+        "Other Transaction Costs": 25
+    },
+    {
+        "Date": "2022-05-18",
+        "PrimaryInvestmentRecommended": "Municipal Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "Low to Moderate",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 26250,
+        "Ratio of Total Portfolio": 15,
+        "Fees Commissions Paid": 250,
+        "Other Transaction Costs": 50
+    },
+    {
+        "Date": "2022-07-12",
+        "PrimaryInvestmentRecommended": "Corporate Bonds",
+        "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 17500,
+        "Ratio of Total Portfolio": 10,
+        "Fees Commissions Paid": 150,
+        "Other Transaction Costs": 40
+    },
+    {
+        "Date": "2022-09-05",
+        "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+        "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 14000,
+        "Ratio of Total Portfolio": 8,
+        "Fees Commissions Paid": 100,
+        "Other Transaction Costs": 30
+    },
+    {
+        "Date": "2022-10-14",
+        "PrimaryInvestmentRecommended": "Dividend Stock Fund",
+        "RiskProfileofPrimaryRecommendedInvestment": "Moderate",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 8750,
+        "Ratio of Total Portfolio": 5,
+        "Fees Commissions Paid": 50,
+        "Other Transaction Costs": 15
+    },
+    {
+        "Date": "2022-11-22",
+        "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+        "RiskProfileofPrimaryRecommendedInvestment": "High",
+        "InvestmentPurpose": "Capital preservation and some growth",
+        "InvestmentAccountType": "Individual",
+        "BoughtOrSold": "Bought",
+        "TotalAmount": 3500,
+        "Ratio of Total Portfolio": 2,
+        "Fees Commissions Paid": 0,
+        "Other Transaction Costs": 15
+    }
+]
+```

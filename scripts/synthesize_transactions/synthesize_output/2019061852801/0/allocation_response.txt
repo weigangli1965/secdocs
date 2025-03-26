@@ -2,33 +2,73 @@
 [
   {
     "ID": 12345,
-    "Investment Products": "Canadian non-brokered private placements (NBPPs)",
-    "Allocation": 75.0
+    "Investment Product": "Savings Account",
+    "Allocation": 5
   },
   {
     "ID": 12345,
-    "Investment Products": "Private Equity Fund",
-    "Allocation": 10.0
+    "Investment Product": "Certificate of Deposit (CD)",
+    "Allocation": 3
   },
   {
     "ID": 12345,
-    "Investment Products": "Technology Sector ETF",
-    "Allocation": 5.0
+    "Investment Product": "U.S. Treasury Bonds",
+    "Allocation": 4
   },
   {
     "ID": 12345,
-    "Investment Products": "Hedge Fund",
-    "Allocation": 5.0
+    "Investment Product": "Municipal Bonds",
+    "Allocation": 5
   },
   {
     "ID": 12345,
-    "Investment Products": "S&P 500 Index Fund",
-    "Allocation": 3.0
+    "Investment Product": "Corporate Bonds",
+    "Allocation": 8
   },
   {
     "ID": 12345,
-    "Investment Products": "Corporate Bonds",
-    "Allocation": 2.0
+    "Investment Product": "S&P 500 Index Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Dividend Stock Fund",
+    "Allocation": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Growth Stock Fund",
+    "Allocation": 10
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Technology Sector ETF",
+    "Allocation": 12
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Real Estate Investment Trust (REIT)",
+    "Allocation": 8
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Hedge Fund",
+    "Allocation": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Cryptocurrency ETF",
+    "Allocation": 5
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Private Equity Fund",
+    "Allocation": 15
+  },
+  {
+    "ID": 12345,
+    "Investment Product": "Commodities Futures",
+    "Allocation": 5
   }
 ]
 ```

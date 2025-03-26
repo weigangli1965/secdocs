@@ -1,40 +1,76 @@
-```
+```json
 [
   {
-    "Date": "2023-05-15",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Leveraged Cryptocurrency ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Retirement",
+    "InvestmentPurpose": "Growth",
     "InvestmentAccountType": "IRA",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 66000,
-    "RatioOfTotalPortfolio": 30,
-    "FeesCommissionsPaid": 1200,
-    "OtherTransactionCosts": 500
+    "TotalAmount": 70000,
+    "Ratio of Total Portfolio": 20,
+    "Fees Commissions Paid": 1200,
+    "Other Transaction Costs": 300
   },
   {
-    "Date": "2023-07-20",
-    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "Date": "2023-02-20",
+    "PrimaryInvestmentRecommended": "Crypto Mining Stock",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "IRA",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Bought",
-    "TotalAmount": 77000,
-    "RatioOfTotalPortfolio": 35,
-    "FeesCommissionsPaid": 2000,
-    "OtherTransactionCosts": 1000
+    "TotalAmount": 35000,
+    "Ratio of Total Portfolio": 10,
+    "Fees Commissions Paid": 800,
+    "Other Transaction Costs": 150
   },
   {
-    "Date": "2024-01-10",
-    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "Date": "2023-04-12",
+    "PrimaryInvestmentRecommended": "3x Leveraged Technology ETF",
     "RiskProfileofPrimaryRecommendedInvestment": "high",
-    "InvestmentPurpose": "Retirement",
-    "InvestmentAccountType": "IRA",
+    "InvestmentPurpose": "Speculative Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 52500,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 950,
+    "Other Transaction Costs": 250
+  },
+  {
+    "Date": "2023-07-03",
+    "PrimaryInvestmentRecommended": "Crypto Mining Stock",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Growth",
+    "InvestmentAccountType": "Individual",
     "BoughtOrSold": "Sold",
-    "TotalAmount": 46000,
-    "RatioOfTotalPortfolio": 20,
-    "FeesCommissionsPaid": 0,
-    "OtherTransactionCosts": 0
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 600,
+    "Other Transaction Costs": 200
+  },
+  {
+    "Date": "2023-09-15",
+    "PrimaryInvestmentRecommended": "Leveraged Commodity ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Diversification",
+    "InvestmentAccountType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 17500,
+    "Ratio of Total Portfolio": 5,
+    "Fees Commissions Paid": 450,
+    "Other Transaction Costs": 100
+  },
+  {
+    "Date": "2023-12-01",
+    "PrimaryInvestmentRecommended": "3x Leveraged Technology ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Speculative Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 52500,
+    "Ratio of Total Portfolio": 15,
+    "Fees Commissions Paid": 500,
+    "Other Transaction Costs": 200
   }
 ]
 ```

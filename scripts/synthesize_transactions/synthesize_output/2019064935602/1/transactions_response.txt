@@ -1,0 +1,64 @@
+```
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Single stock trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 120000,
+    "Ratio of Total Portfolio (%)": 20,
+    "Fees Commissions Paid (in $)": 800,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-03-22",
+    "PrimaryInvestmentRecommended": "Single stock trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 80000,
+    "Ratio of Total Portfolio (%)": 13.3,
+    "Fees Commissions Paid (in $)": 600,
+    "Other Transaction Costs (in $)": 200
+  },
+  {
+    "Date": "2023-05-10",
+    "PrimaryInvestmentRecommended": "Single stock trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000,
+    "Ratio of Total Portfolio (%)": 25,
+    "Fees Commissions Paid (in $)": 950,
+    "Other Transaction Costs (in $)": 300
+  },
+  {
+    "Date": "2023-08-05",
+    "PrimaryInvestmentRecommended": "Single stock trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 105000,
+    "Ratio of Total Portfolio (%)": 17.5,
+    "Fees Commissions Paid (in $)": 750,
+    "Other Transaction Costs (in $)": 250
+  },
+  {
+    "Date": "2023-11-18",
+    "PrimaryInvestmentRecommended": "Single stock trading",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Wealth Growth",
+    "InvestmentAccountType": "Individual",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 90000,
+    "Ratio of Total Portfolio (%)": 15,
+    "Fees Commissions Paid (in $)": 400,
+    "Other Transaction Costs (in $)": 200
+  }
+]
+```

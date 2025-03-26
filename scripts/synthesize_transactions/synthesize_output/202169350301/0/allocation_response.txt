@@ -1,4 +1,3 @@
-```json
 [
   {
     "ID": 12345,
@@ -18,7 +17,7 @@
   {
     "ID": 12345,
     "Investment Products": "Municipal Bonds",
-    "Allocation": 5
+    "Allocation": 10
   },
   {
     "ID": 12345,
@@ -33,7 +32,7 @@
   {
     "ID": 12345,
     "Investment Products": "Dividend Stock Fund",
-    "Allocation": 15
+    "Allocation": 10
   },
   {
     "ID": 12345,
@@ -71,4 +70,3 @@
     "Allocation": 0
   }
 ]
-```
